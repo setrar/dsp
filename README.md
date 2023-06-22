@@ -17,3 +17,6 @@
   - [ ] Modern Control Systems
   
   State space analysis, relationship to transfer function methods, controllability and observability, multivariable plant. Computer simulation. Stability considerations. State variable feedback. Digital control system, design and realisation of digital controllers, adaptive controllers. Nonlinear systems, phase-plane and describing function techniques, Lyapunov's method of stability analysis, design of controllers for non-linear systems. Variable structure systems.
+
+
+- [ ] [Transform theory](https://en.wikipedia.org/wiki/Transform_theory)
