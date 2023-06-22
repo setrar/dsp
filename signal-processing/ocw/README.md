@@ -8,7 +8,9 @@
 
 - [ ]  `6.003` covers the fundamentals of [Signals And Systems](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011) analysis, focusing on representations of discrete-time and continuous-time signals (singularity functions, complex exponentials and geometrics, Fourier representations, Laplace and Z transforms, sampling) and representations of linear, time-invariant systems (difference and differential equations, block diagrams, system functions, poles and zeros, convolution, impulse and step responses, frequency responses). Applications are drawn broadly from engineering and physics, including feedback and control, communications, and signal processing.
 
-The essential prerequisites for this course are 6.003 [Signals And Systems](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011) and [6.041A Intro to Probability I](https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013) (or equivalents), and the [18.03 Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011) material related to solving linear, time-invariant sytems of first-order differential equations using eigenvalues and eigenvectors.
+The essential prerequisites for this course are 6.003 [Signals And Systems](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011) and [6.041A Intro to Probability I](https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013) (or equivalents), and the [18.03 Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011) material related to solving linear, time-invariant sytems of first-order differential equations using eigenvalues and eigenvectors. 
+
+:bulb: Search [Differential Equations](https://ocw.mit.edu/search/?q=Differential%20Equations) Courses
       
 | `6.011`      | Undergraduate |
 |--------------|-|
