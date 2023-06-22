@@ -11,6 +11,7 @@
   - [ ] [Adafruit FONA - Mini Cellular GSM Breakout - SMA Version (12:27)](https://www.youtube.com/watch?v=oZEsi3Ul0xY&t=749s)
   - [ ] [SimCom SIM800](https://www.simcom.com/product/SIM800.html)
   - [ ] [FONA Tethering to Raspberry Pi or BeagleBone Black](https://learn.adafruit.com/fona-tethering-to-raspberry-pi-or-beaglebone-black/setup)
+  - [ ] [Ebay: Adafruit FONA - Mini Cellular GSM Breakout uFL Version $20](https://www.ebay.com/itm/293274282295)
 
 - [ ] [2G network in Canada?](https://www.reddit.com/r/vintagemobilephones/comments/vc6sk6/comment/jduhc7f/)
 
