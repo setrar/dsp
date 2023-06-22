@@ -3,7 +3,10 @@
 
 
 
+# References
 
+
+- [ ] [Adafruit FONA - Mini Cellular GSM Breakout - SMA Version - v1 Product ID: 1963 $44.95 ](https://www.adafruit.com/product/1963)
 
 - [ ] [2G network in Canada?](https://www.reddit.com/r/vintagemobilephones/comments/vc6sk6/comment/jduhc7f/)
 
