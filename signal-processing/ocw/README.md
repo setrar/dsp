@@ -3,9 +3,11 @@
 
 ## Lessons
 
-6.011 | Spring 2010 | Undergraduate
 
-[Introduction To Communication, Control, And Signal Processing](https://ocw.mit.edu/courses/6-011-introduction-to-communication-control-and-signal-processing-spring-2010)
+
+
+- [ ] [Signals And Systems](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011) 6.003 | Fall 2011 | Undergraduate
+- [ ] [Introduction To Communication, Control, And Signal Processing](https://ocw.mit.edu/courses/6-011-introduction-to-communication-control-and-signal-processing-spring-2010) 6.011 | Spring 2010 | Undergraduate
 
 
 2.161 | Fall 2008 | Graduate
