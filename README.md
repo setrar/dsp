@@ -23,8 +23,8 @@
 
   - [ ] Is Music Transposition part of transform theory?
      
-  > Yes, music transposition can be considered as part of transform theory. Transform theory is a mathematical framework that deals with the transformation of signals or data from one domain to another. In the context of music, transposition refers to the process of shifting a musical piece or a musical fragment to a different pitch or key while maintaining its overall structure and relationships between the notes.
+    > Yes, music transposition can be considered as part of transform theory. Transform theory is a mathematical framework that deals with the transformation of signals or data from one domain to another. In the context of music, transposition refers to the process of shifting a musical piece or a musical fragment to a different pitch or key while maintaining its overall structure and relationships between the notes.
   
-  > When a musical piece is transposed, each note in the original piece is shifted by a certain interval, either up or down, resulting in a new pitch. This process can be seen as a transformation of the original musical data from one pitch domain to another.
+    > When a musical piece is transposed, each note in the original piece is shifted by a certain interval, either up or down, resulting in a new pitch. This process can be seen as a transformation of the original musical data from one pitch domain to another.
   
- > In the field of signal processing and mathematics, various types of transformations are studied, such as Fourier transforms, Laplace transforms, and wavelet transforms. While these transforms have different applications and properties, they all involve the conversion of signals or data from one representation to another. Music transposition can be seen as a specific type of transformation within the realm of music theory and analysis.
+   > In the field of signal processing and mathematics, various types of transformations are studied, such as Fourier transforms, Laplace transforms, and wavelet transforms. While these transforms have different applications and properties, they all involve the conversion of signals or data from one representation to another. Music transposition can be seen as a specific type of transformation within the realm of music theory and analysis.
