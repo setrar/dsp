@@ -29,4 +29,5 @@ plot2d3('gnn',n,delta_sequence)
 
 https://iocscience.org/ejournal/index.php/mantik
 
-https://www.scilab.org/download/scilab-2023.1.0
+- [ ] [Equivalent function like MATLAB's stem(x,y) in SCILAB.](https://www.edaboard.com/threads/equivalent-function-like-matlabs-stem-x-y-in-scilab.56138)
+- [ ] [Download scilab-2023.1.0](https://www.scilab.org/download/scilab-2023.1.0)
