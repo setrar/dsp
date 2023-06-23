@@ -47,6 +47,9 @@ xlabel("x");
 ylabel("u");
 title("Function and its derivatives");
 
+```
+
+```scilab
 figure(2);
 clf;
 subplot(3, 1, 1);
