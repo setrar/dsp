@@ -18,7 +18,9 @@ The lectures are from the textbook Oppenheim, Willsky and Nawab, "Systems and Si
 
 | | |
 |-|-|
-| [Introduction to Signal Processing: An Overview (Lecture 1)](https://www.youtube.com/watch?v=kjw6W0SZe04&list=PL6Vi_EcJpt8E96_JTKoOKY3HYWVGjf6b4&index=27) | |
-
+| [Introduction to Signal Processing: An Overview (Lecture 1)](https://www.youtube.com/watch?v=kjw6W0SZe04&list=PL6Vi_EcJpt8E96_JTKoOKY3HYWVGjf6b4&index=27) | ```math
+\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+```
+|
 
 
