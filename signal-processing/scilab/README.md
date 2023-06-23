@@ -27,7 +27,6 @@ plot2d3('gnn',n,delta_sequence)
 
 # References
 
-https://iocscience.org/ejournal/index.php/mantik/article/download/2250/1884/7065
 https://iocscience.org/ejournal/index.php/mantik
 
 https://www.scilab.org/download/scilab-2023.1.0
