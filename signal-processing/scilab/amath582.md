@@ -1,6 +1,6 @@
 
 
-```
+```scilab
 clear; // clear all variables
 L = 20; // define the computational domain [-L/2, L/2]
 n = 128; // define the number of Fourier modes 2^n
