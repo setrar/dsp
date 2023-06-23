@@ -65,3 +65,7 @@ title("First Derivative Zoomed In");
 subplot(3, 1, 3);
 plot(x, u1exact, "ks-", x, u1, "kv", x, ux, "ko", x, ux2, "k*");
 ```
+
+# References
+
+- [ ] [Kutz_book](https://courses.washington.edu/amath582/582.pdf)
