@@ -49,6 +49,8 @@ title("Function and its derivatives");
 
 ```
 
+<img src=images/scilab-kutz-1.png width='50%' height='50%' > </img>
+
 ```scilab
 figure(2);
 clf;
@@ -71,6 +73,8 @@ title("First Derivative Zoomed In");
 subplot(3, 1, 3);
 plot(x, u1exact, "ks-", x, u1, "kv", x, ux, "ko", x, ux2, "k*");
 ```
+
+<img src=images/scilab-kutz-2.png width='50%' height='50%' > </img>
 
 # References
 
