@@ -23,7 +23,7 @@ delta_sequence(6) = 1;
 plot2d3('gnn',n,delta_sequence)
 ```
 
-<img src=images/scilab-delta-sequence.png width='' height='' > </img>
+<img src=images/scilab-delta-sequence.png width='50%' height='50%' > </img>
 
 # References
 
