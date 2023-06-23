@@ -19,6 +19,11 @@ The lectures are from the textbook Oppenheim, Willsky and Nawab, "Systems and Si
 
 :one: [Introduction to Signal Processing: An Overview (Lecture 1)](https://www.youtube.com/watch?v=kjw6W0SZe04&t=0s) 
 
+
+[Electromagnetic Spectrum](https://www.britannica.com/science/electromagnetic-spectrum)
+
+<img src=images/5g-electromagnetic-spectrum-britannica.png width='50%' height='50%' > </img>
+
 [Frequency and Wavelength of 5G and electromagnetic spectrum](https://nasafes.com/facts-about-5g-and-the-electromagnetic-spectrum)
 
 <img src=images/5g-electromagnetic-spectrum-nasafes.png width='50%' height='50%' > </img>
