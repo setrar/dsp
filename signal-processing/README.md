@@ -21,7 +21,7 @@ The lectures are from the textbook Oppenheim, Willsky and Nawab, "Systems and Si
 
 [Frequency and Wavelength of 5G and electromagnetic spectrum](https://nasafes.com/facts-about-5g-and-the-electromagnetic-spectrum)
 
-<img src=images/5g-electromagnetic-sspectrum-nasafes.png width='50%' height='50%' > </img>
+<img src=images/5g-electromagnetic-spectrum-nasafes.png width='50%' height='50%' > </img>
 
 ```math
 \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
