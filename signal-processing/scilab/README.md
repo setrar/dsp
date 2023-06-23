@@ -11,7 +11,7 @@ plot(t,u);
 plot2d3('gnn',t,u);
 ```
 
-<img src=images/scilab-1.png width='' height='' > </img>
+<img src=images/scilab-1.png width='50%' height='50%' > </img>
 
 
 - [ ] plot delta sequence
