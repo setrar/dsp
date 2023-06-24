@@ -13,7 +13,8 @@ Where
 ```math
 h_k[n]
 ```
-```
+here
+```math
 \boldsymbol{\delta}
 ```
 to not increase leading in a portion of text.
