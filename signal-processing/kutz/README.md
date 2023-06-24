@@ -49,10 +49,10 @@ x[n]
 - [ ] Transforming Signals
 
 ```mermaid
-%%{init: {"flowchart": {"htmlLabels": false}} }%%
 ---
 title: (a)
 ---
+%%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR
     a("x(t)"):::someclass -->b[Continous-Time \n   System]
     b-->d("y(t)"):::someclass
@@ -60,10 +60,10 @@ flowchart LR
 ```
 
 ```mermaid
+---
+title: (b)
+---
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
----
-title: (a)
----
 flowchart LR
     e("x[n]"):::someclass -->f[Discrete-Time \n    System]
     f-->g("y[n]"):::someclass
