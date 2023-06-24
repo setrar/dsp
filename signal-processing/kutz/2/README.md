@@ -55,3 +55,8 @@ x(t) \to x(\alpha t + \beta)
 ```math
 | \alpha | > 1 \text { Compressing}
 ```
+
+|  |  |
+|-------------------------------|------------------------------------------------|
+| <img src=images/time-shift-scaling-graphically.png width='' height='' > </img> | <img src=images/time-shift-scaling-example-graphically.png width='' height='' > </img>  |
+
