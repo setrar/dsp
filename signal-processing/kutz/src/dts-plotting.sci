@@ -14,3 +14,10 @@ m.mark_size = 1;
 hf=gcf() // Get Current Figure
 hf.figure_size = [640 640];
 hf.figure_name = 'Plot of sin(x) function';
+
+ha.x_ticks=tlist(["ticks","locations","labels"],..
+   [0;%pi/2;%pi],..
+   ["$\Large{0}$";..
+   "$\Large{\frac{\pi}{2}}$";..
+   "$\Large{\pi}$"]);
+   
