@@ -18,6 +18,13 @@
         0,        & \quad n \neq 0
       \end{cases}
 ```
+```math
+    x[1]\delta[n + 1] =
+      \begin{cases}
+        x[ 1 ],   & \quad n = 1 \\
+        0,        & \quad n \neq 1
+      \end{cases}
+```
 
 
 - [ ] Transform
