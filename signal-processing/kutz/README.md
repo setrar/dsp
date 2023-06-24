@@ -46,12 +46,29 @@ x(t)
 x[n]
 ```
 
+<style>
+  .cssClass > rect {
+    fill: #ff0000;
+    stroke: #ffff00;
+    stroke-width: 4px;
+  }
+</style>
+
+
+```mermaid
+%%{init: {"flowchart": {"htmlLabels": false}} }%%
+flowchart LR
+    A-->B[AAA<span>BBB</span>]
+    B-->D
+    class A cssClass
+```
+
 ```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR
     x\(t\)-->B[Continous-Time System]
     B-->y\(t\)
-    class A cssClass
+
 ```
 
 
