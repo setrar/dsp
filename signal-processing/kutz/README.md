@@ -94,11 +94,11 @@ E_\infty = \sum_{n=-\infty}^{\infty} | x[t] |^2
 - [ ] Time-Averaged Signal Power
 
 ```math
-P_\infty = \lim\limits_{x \to \infty} \int_{-\infty}^{\infty} | x(t) |^2 \mathrm{d}t
+P_\infty = \lim\limits_{x \to \infty} \frac{1}{2T} \int_{-\infty}^{\infty} | x(t) |^2 \mathrm{d}t
 ```
 
 ```math
-P_\infty = \lim\limits_{x \to \infty} \sum_{n=-\infty}^{\infty} | x[t] |^2
+P_\infty = \lim\limits_{x \to \infty} \frac{1}{2N + 1} \sum_{n=-\infty}^{\infty} | x[t] |^2
 ```
 
 
