@@ -52,15 +52,15 @@ x[n]
 flowchart LR
     a("x(t)"):::someclass -->b[Continous-Time \n   System]
     b-->d("y(t)"):::someclass
-    classDef someclass fill:#f9f
+    classDef someclass fill:#09f
 ```
 
 ```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR
-    e("x[n]"):::someclass -->f[Discrete-Time \n    System]
-    f-->g("y[n]")
-    classDef someclass fill:#f2f
+    e("x[n]")c -->f[Discrete-Time \n    System]
+    f-->g("y[n]"):::someclass
+    classDef someclass fill:#a2f
 ```
 
 
