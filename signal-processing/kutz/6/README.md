@@ -76,7 +76,7 @@ h_0[n] = h[ n ]
 y[n] = \sum_{k=\infty}^\infty x[k]h[ n - k ]
 ```
 
-> Graphically
+> Graphically showing the kick vs response
 
 <img src=images/lti-system-examples.png width='50%' height='50%' > </img>
 
