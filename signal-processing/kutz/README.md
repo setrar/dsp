@@ -73,7 +73,7 @@ flowchart LR
 - [ ] Signal Energy
 
 ```math
-\int_0^\infty \mathrm{e}^{-x}\,\mathrm{d}x
+E = \int_0^\infty \mathrm{e}^{-x}\,\mathrm{d}x
 ```
 
 :two: [Introduction to Signal Processing: Basic Signals (Lecture 2)](https://youtu.be/ILek2_KoUmw&t=0)
