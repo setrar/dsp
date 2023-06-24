@@ -2,7 +2,7 @@
 
 - [ ] Transformations
 
-> Basic Signal Properties
+> Basic Signal Properties and operations
 
 - [ ] Transforming Signals
 
