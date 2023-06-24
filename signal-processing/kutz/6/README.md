@@ -4,6 +4,8 @@
 
 - [ ] Delta Functions
 
+:point_right: Sifting Property 
+
 ```math
     x[-1]\delta[n + 1] =
       \begin{cases}
