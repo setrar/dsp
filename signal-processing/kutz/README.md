@@ -50,16 +50,24 @@ x[n]
 ```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR
-subgraph "(a)"
     a("x(t)"):::someclass -->b[Continous-Time \n\t System]
     b-->d("y(t)"):::someclass
     classDef someclass fill:#fff
-end
 subgraph "(b)"
     e("x(t)"):::someclass -->f[Discrete-Time \n\t System]
     f-->g("y(t)")
 end
 ```
+
+```mermaid
+%%{init: {"flowchart": {"htmlLabels": false}} }%%
+flowchart LR
+    e("x(t)"):::someclass -->f[Discrete-Time \n\t System]
+    f-->g("y(t)")
+    classDef someclass fill:#fff
+end
+```
+
 
 ```math
 \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
