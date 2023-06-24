@@ -50,7 +50,7 @@ x[n]
 ```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR
-    A("`The **cat** in the hat`"):::someclass -->B[Continous-Time System]
+    A("x(t)"):::someclass -->B[Continous-Time System]
     B-->y\(t\)
     classDef someclass fill:#f96
 ```
