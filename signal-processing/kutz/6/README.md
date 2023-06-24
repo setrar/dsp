@@ -83,7 +83,7 @@ h[ n ] \text{ being the Fundamental Response }
 ```
 
 
-| :x: Non Time Invariant System | :white_heavy_check_mark: Time Invariant System |
+| :x: Non Time Invariant System | :white_check_mark: Time Invariant System |
 |-------------------------------|------------------------------------------------|
 | <img src=images/lti-system-non-time-invariant.png width='' height='' > </img> | <img src=images/lti-system-time-invariant.png width='' height='' > </img> |
  
