@@ -43,7 +43,7 @@ x(t)
 ```
 > Discrete - Index
 ```math
-x[t]
+x[n]
 ```
 
 
