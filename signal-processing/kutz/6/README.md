@@ -41,7 +41,7 @@ x[n] = \sum_{k=\infty}^\infty x[k]\delta[n - k]
 
 > Graphically
 
-<img src=images/delta_function_graphically.png width='25%' height='25%' > </img>
+<img src=images/delta_function_graphically.png width='30%' height='30%' > </img>
 
 - [ ] Transform
 
