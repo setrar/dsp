@@ -39,6 +39,8 @@ x[n] = ... + x[-3]\delta[n + 3] + x[-2]\delta[n + 2] + x[-1]\delta[n + 1] + x[0]
 x[n] = \sum_{k=\infty}^\infty x[k]\delta[n - k]
 ```
 
+> Graphically
+
 <img src=images/delta_function_graphically.png width='25%' height='25%' > </img>
 
 - [ ] Transform
