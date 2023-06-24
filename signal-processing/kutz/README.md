@@ -101,6 +101,19 @@ P_\infty = \lim\limits_{T \to \infty} \frac{1}{2T} \int_{-T}^{T} | x(t) |^2 \mat
 P_\infty = \lim\limits_{N \to \infty} \frac{1}{2N + 1} \sum_{n=-N}^{N} | x[t] |^2
 ```
 
+- [ ] Three Important Classes of Signals
+
+1. Finite Energy, Zero Average Power 
+
+```math
+E_\infty < \infty, P_\infty = \lim\limits_{T \to \infty} \frac{E_infty}{2T} = 0
+```
+
+```math
+P_\infty = \lim\limits_{N \to \infty} \frac{1}{2N + 1} \sum_{n=-N}^{N} | x[t] |^2
+```
+
+
 
 :two: [Introduction to Signal Processing: Basic Signals (Lecture 2)](https://youtu.be/ILek2_KoUmw&t=0)
 
