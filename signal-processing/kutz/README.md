@@ -117,6 +117,7 @@ P_\infty > 0, E_\infty = \infty
 
 III. Other
 
+- [ ] All Signals Deliver their Information with Energy and Power
 
 :two: [Introduction to Signal Processing: Basic Signals (Lecture 2)](https://youtu.be/ILek2_KoUmw&t=0)
 
