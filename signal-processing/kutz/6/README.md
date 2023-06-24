@@ -70,6 +70,13 @@ h_0[n] = h[ n ]
 \text{Unit response from } \boldsymbol{\delta}[ n ]
 ```
 
+- [ ] LTI System
+
+```math
+y[n] = \sum_{k=\infty}^\infty x[k]h[ n - k ]
+```
+
+
 ---
 
 ```math
