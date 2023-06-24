@@ -75,3 +75,8 @@ x[n] \to x[-n]
 |-------------------------------|------------------------------------------------|
 | <img src=images/reflection-continuous-graphically.png width='' height='' > </img> | <img src=images/reflection-discrete-graphically.png width='' height='' > </img>  |
 
+- [ ] Compositional Operations
+
+|  |
+|-------------------------------|
+| <img src=images/compositional-operations-graphically.png width='' height='' > </img> |
