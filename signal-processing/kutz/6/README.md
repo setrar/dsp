@@ -9,9 +9,9 @@ y[n] = \sum_{k=\infty}^\infty x[k]h_k[n]
 ```
 
 
-Where
+
 ```math
-h_k[n]
+Where h_k[n] here
 ```
 here
 ```math
