@@ -8,8 +8,10 @@
 y[n] = \sum_{k=\infty}^\infty x[k]h_k[n]
 ```
 
+```math
 A matrix in text must be set smaller:
 $\bigl(\begin{smallmatrix}
 a&b \\ c&d
 \end{smallmatrix} \bigr)$
 to not increase leading in a portion of text.
+```
