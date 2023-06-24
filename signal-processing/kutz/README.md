@@ -52,26 +52,12 @@ x[n]
 flowchart LR
 subgraph "(a)"
     a("x(t)"):::someclass -->b[Continous-Time \n\t System]
-    b-->id("y(t)"):::someclass
+    b-->d("y(t)"):::someclass
     classDef someclass fill:#fff
 end
 subgraph "(b)"
-    c("x(t)"):::someclass -->d[Discrete-Time \n\t System]
-    d-->id1("y(t)"):::someclass
-    classDef someclass fill:#fff
-end
-```
-
-```mermaid
-%%{init: {"flowchart": {"htmlLabels": false}} }%%
-flowchart LR
-subgraph "One"
-  a("`The **cat**
-  in the hat`") -- "edge label" --> b{{"`The **dog** in the hog`"}}
-end
-subgraph "`**Two**`"
-  c("`The **cat**
-  in the hat`") -- "`Bold **edge label**`" --> d("The dog in the hog")
+    e("x(t)"):::someclass -->f[Discrete-Time \n\t System]
+    f-->g("y(t)")
 end
 ```
 
