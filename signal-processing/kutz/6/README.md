@@ -51,11 +51,21 @@ x[n] = \sum_{k=\infty}^\infty x[k]\delta[n - k]
 y[n] = \sum_{k=\infty}^\infty x[k]h_k[n]
 ```
 
-
-
 ```math
 \text{Where } h_k[n] \text{ is the response to } \boldsymbol{\delta}[ n - k]
 ```
+
+- [ ] Time Invariant
+
+```math
+y[n] = \sum_{k=\infty}^\infty x[k]h_k[n]
+```
+
+```math
+\text{Unit response from } \boldsymbol{\delta}[ n ]
+```
+
+---
 
 ```math
 A_{m,n} = 
