@@ -45,5 +45,10 @@ x[n] \to x[n - n_0]
 
 > Scaling
 ```math
-x(tt) \to x(\alpha t + \beta)
+x(t) \to x(\alpha t + \beta)
+
+a < 1 \text {here}
+
+a > 1 \text {here}
+
 ```
