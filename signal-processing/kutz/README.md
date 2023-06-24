@@ -51,7 +51,7 @@ x[n]
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR
     A("x(t)"):::someclass -->B[Continous-Time \n System]
-    B:::someclass-->id("y(t)")
+    B-->id("y(t)"):::someclass
     classDef someclass fill:#fff
 ```
 
