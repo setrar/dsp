@@ -53,10 +53,6 @@ flowchart LR
     a("x(t)"):::someclass -->b[Continous-Time \n\t System]
     b-->d("y(t)"):::someclass
     classDef someclass fill:#fff
-subgraph "(b)"
-    e("x(t)"):::someclass -->f[Discrete-Time \n\t System]
-    f-->g("y(t)")
-end
 ```
 
 ```mermaid
@@ -65,7 +61,6 @@ flowchart LR
     e("x(t)"):::someclass -->f[Discrete-Time \n\t System]
     f-->g("y(t)")
     classDef someclass fill:#fff
-end
 ```
 
 
