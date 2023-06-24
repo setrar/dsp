@@ -73,7 +73,7 @@ flowchart LR
 - [ ] Signal Energy
 
 ```math
-E = \int_{t1}^{t2} \mathrm{e}^{-x}\,\mathrm{d}x
+E = \int_{t1}^{t2} | x(t) |^2,\mathrm{d}t
 ```
 
 :two: [Introduction to Signal Processing: Basic Signals (Lecture 2)](https://youtu.be/ILek2_KoUmw&t=0)
