@@ -58,5 +58,5 @@ x(t) \to x(\alpha t + \beta)
 
 |  |  |
 |-------------------------------|------------------------------------------------|
-| <img src=images/time-shift-scaling-graph.png width='' height='' > </img> | <img src=images/time-shift-scaling-example-graphically.png width='' height='' > </img>  |
+| <img src=images/time-shift-scaling-graph.phg width='' height='' > </img> | <img src=images/time-shift-scaling-example-graphically.png width='' height='' > </img>  |
 
