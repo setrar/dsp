@@ -41,7 +41,7 @@ x[n] \to x[n - n_0]
 
 | Continuous Time Shift | Discrete Time Shift  |
 |-------------------------------|------------------------------------------------|
-| <img src=images/time-shift-continuous-graph.png width='' height='' > </img> | <img src=images/time-shift-discrete-graphically.png width='' height='' > </img>  |
+| <img src=images/time-shift-continuous-graphically.png width='' height='' > </img> | <img src=images/time-shift-discrete-graphically.png width='' height='' > </img>  |
 
 > Scaling
 ```math
@@ -58,5 +58,5 @@ x(t) \to x(\alpha t + \beta)
 
 |  |  |
 |-------------------------------|------------------------------------------------|
-| <img src=images/time-shift-scaling-graphically.png width='' height='' > </img> | <img src=images/time-shift-scaling-example-graphically.png width='' height='' > </img>  |
+| <img src=images/time-shift-scaling-graph.png width='' height='' > </img> | <img src=images/time-shift-scaling-example-graphically.png width='' height='' > </img>  |
 
