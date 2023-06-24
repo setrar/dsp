@@ -37,12 +37,9 @@ The lectures are from the textbook Oppenheim, Willsky and Nawab, "Systems and Si
 <img src=images/canada-5G-600MHZ.png width='50%' height='50%' > </img>
 
 - [ ] Mathematical Representation
-  - [ ] Continuous Timne
-```math
-x(t)
-```
-
-  - [ ] 
+  - [ ] Continuous - Time
+`math x(t) `
+  - [ ] Discrete - Index
 
 ```math
 \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
