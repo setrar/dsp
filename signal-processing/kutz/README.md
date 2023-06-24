@@ -60,14 +60,14 @@ flowchart LR
 ```
 
 ```mermaid
+---
+title: (b)
+---
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR
     e("x[n]"):::someclass -->f[Discrete-Time \n    System]
     f-->g("y[n]"):::someclass
     classDef someclass fill:#a2f
----
-title: (b)
----
 ```
 
 
