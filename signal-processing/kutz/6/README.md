@@ -76,6 +76,9 @@ h_0[n] = h[ n ]
 y[n] = \sum_{k=\infty}^\infty x[k]h[ n - k ]
 ```
 
+> Graphically
+
+<img src=images/lti-system-example.png width='30%' height='30%' > </img>
 
 ---
 
