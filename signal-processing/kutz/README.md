@@ -37,11 +37,11 @@ The lectures are from the textbook Oppenheim, Willsky and Nawab, "Systems and Si
 <img src=images/canada-5G-600MHZ.png width='50%' height='50%' > </img>
 
 - [ ] Mathematical Representation
-  - [ ] Continuous - Time
+    - [ ] Continuous - Time
 ```math
 x(t)
 ```
-  - [ ] Discrete - Index
+    - [ ] Discrete - Index
 ```math
 x[t]
 ```
