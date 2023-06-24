@@ -3,19 +3,19 @@
 
 [Electromagnetic Spectrum](https://www.britannica.com/science/electromagnetic-spectrum)
 
-<img src=images/electromagnetic-spectrum-britannica.png width='50%' height='50%' > </img>
+<img src=../images/electromagnetic-spectrum-britannica.png width='50%' height='50%' > </img>
 
-<img src=images/electromagnetic-spectrum2-britannica.png width='50%' height='50%' > </img>
+<img src=../images/electromagnetic-spectrum2-britannica.png width='50%' height='50%' > </img>
 
 [Frequency and Wavelength of 5G and electromagnetic spectrum](https://nasafes.com/facts-about-5g-and-the-electromagnetic-spectrum)
 
-<img src=images/5g-electromagnetic-spectrum-nasafes.png width='50%' height='50%' > </img>
+<img src=../images/5g-electromagnetic-spectrum-nasafes.png width='50%' height='50%' > </img>
 
-<img src=images/sound-spectrum.png width='50%' height='50%' > </img>
+<img src=../images/sound-spectrum.png width='50%' height='50%' > </img>
 
 [Rivals get Rogered in Canadian 600 MHz spectrum auction](https://telecoms.com/496888/rivals-get-rogered-in-canadian-600-mhz-spectrum-auction)
 
-<img src=images/canada-5G-600MHZ.png width='50%' height='50%' > </img>
+<img src=../images/canada-5G-600MHZ.png width='50%' height='50%' > </img>
 
 - [ ] Mathematical Representation
 > Continuous - Time
