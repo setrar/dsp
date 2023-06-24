@@ -9,11 +9,12 @@ y[n] = \sum_{k=\infty}^\infty x[k]h_k[n]
 ```
 
 
-A matrix in text must be set smaller:
+Where
 ```math
-$\bigl(\begin{smallmatrix}
-a&b \\ c&d
-\end{smallmatrix} \bigr)$
+h_k[n]
+```
+```
+\boldsymbol{\delta}
 ```
 to not increase leading in a portion of text.
 
