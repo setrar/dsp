@@ -106,7 +106,7 @@ P_\infty = \lim\limits_{N \to \infty} \frac{1}{2N + 1} \sum_{n=-N}^{N} | x[t] |^
 1. Finite Energy, Zero Average Power 
 
 ```math
-E_\infty < \infty, P_\infty = \lim\limits_{T \to \infty} \frac{E_infty}{2T} = 0
+E_\infty < \infty, P_\infty = \lim\limits_{T \to \infty} \frac{E_\infty}{2T} = 0
 ```
 
 ```math
