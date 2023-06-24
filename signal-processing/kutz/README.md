@@ -51,13 +51,13 @@ x[n]
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR
 subgraph "(a)"
-    a("x(t)"):::someclass -->b[Continous-Time \n System]
+    a("x(t)"):::someclass -->b[Continous-Time \n\t System]
     b-->id("y(t)"):::someclass
     classDef someclass fill:#fff
 end
 subgraph "(b)"
-    c("x(t)"):::someclass -->d[Continous-Time \n System]
-    d-->id("y(t)"):::someclass
+    c("x(t)"):::someclass -->d[Discrete-Time \n\t System]
+    d-->id1("y(t)"):::someclass
     classDef someclass fill:#fff
 end
 ```
