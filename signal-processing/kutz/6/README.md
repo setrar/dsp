@@ -4,6 +4,8 @@
 
 - [ ] Delta Functions
 
+:point_right: Sifting Property 
+
 ```math
     x[-1]\delta[n + 1] =
       \begin{cases}
@@ -39,6 +41,9 @@ x[n] = ... + x[-3]\delta[n + 3] + x[-2]\delta[n + 2] + x[-1]\delta[n + 1] + x[0]
 x[n] = \sum_{k=\infty}^\infty x[k]\delta[n - k]
 ```
 
+> Graphically
+
+<img src=images/delta_function_graphically.png width='30%' height='30%' > </img>
 
 - [ ] Transform
 
@@ -46,11 +51,33 @@ x[n] = \sum_{k=\infty}^\infty x[k]\delta[n - k]
 y[n] = \sum_{k=\infty}^\infty x[k]h_k[n]
 ```
 
-
-
 ```math
 \text{Where } h_k[n] \text{ is the response to } \boldsymbol{\delta}[ n - k]
 ```
+
+- [ ] Time Invariance
+
+```math
+h_k[n] = h_0[ n - k ]
+```
+
+```math
+h_0[n] = h[ n ]
+```
+
+
+```math
+\text{Unit response from } \boldsymbol{\delta}[ n ]
+```
+
+- [ ] LTI System
+
+```math
+y[n] = \sum_{k=\infty}^\infty x[k]h[ n - k ]
+```
+
+
+---
 
 ```math
 A_{m,n} = 
