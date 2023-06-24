@@ -79,7 +79,7 @@ y[n] = \sum_{k=\infty}^\infty x[k]h[ n - k ]
 > Graphically showing the kick vs response
 
 ```math
-\text{Fundamental Response } h[ n ]
+h[ n ] \text{being the Fundamental Response } 
 ```
 
 
