@@ -9,7 +9,7 @@ x[-1]\delta[n + 1] =
   \begin{cases}
     x[ -1 ],   & \quad n = -1 \\
     0,         & \quad n \neq -1
-  \end{cases}
+  \end{cases} \\
 x[0]\delta[n ] =
   \begin{cases}
     x[ 0 ],   & \quad \text{if } n \text{ is even}\\
