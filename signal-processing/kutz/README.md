@@ -103,14 +103,16 @@ P_\infty = \lim\limits_{N \to \infty} \frac{1}{2N + 1} \sum_{n=-N}^{N} | x[t] |^
 
 - [ ] Three Important Classes of Signals
 
-1. Finite Energy, Zero Average Power 
+I. Finite Energy, Zero Average Power 
 
 ```math
 E_\infty < \infty, P_\infty = \lim\limits_{T \to \infty} \frac{E_\infty}{2T} = 0
 ```
 
+II. Finite Average Power, Zero Energy
+
 ```math
-P_\infty = \lim\limits_{N \to \infty} \frac{1}{2N + 1} \sum_{n=-N}^{N} | x[t] |^2
+P_\infty > 0, E_\infty = \infty
 ```
 
 
