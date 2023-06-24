@@ -58,8 +58,13 @@ y[n] = \sum_{k=\infty}^\infty x[k]h_k[n]
 - [ ] Time Invariant
 
 ```math
-y[n] = \sum_{k=\infty}^\infty x[k]h_k[n]
+h_k[n] = h_0[ n - k ]
 ```
+
+```math
+h_0[n] = h[ n ]
+```
+
 
 ```math
 \text{Unit response from } \boldsymbol{\delta}[ n ]
