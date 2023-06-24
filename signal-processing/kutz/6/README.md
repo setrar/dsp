@@ -11,13 +11,8 @@ y[n] = \sum_{k=\infty}^\infty x[k]h_k[n]
 
 
 ```math
-\text{Where } h_k[n] \text{ is }
+\text{Where } h_k[n] \text{ is the response } \boldsymbol{\delta}[ n - k]
 ```
-here
-```math
-\boldsymbol{\delta}[ n - k]
-```
-to not increase leading in a portion of text.
 
 ```math
 f(n) =
