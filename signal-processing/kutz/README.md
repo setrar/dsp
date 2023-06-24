@@ -30,6 +30,8 @@ The lectures are from the textbook Oppenheim, Willsky and Nawab, "Systems and Si
 
 <img src=images/5g-electromagnetic-spectrum-nasafes.png width='50%' height='50%' > </img>
 
+<img src=images/sound-spectrum.png width='100%' height='100%' > </img>
+
 [Rivals get Rogered in Canadian 600 MHz spectrum auction](https://telecoms.com/496888/rivals-get-rogered-in-canadian-600-mhz-spectrum-auction)
 
 <img src=images/canada-5G-600MHZ.png width='50%' height='50%' > </img>
