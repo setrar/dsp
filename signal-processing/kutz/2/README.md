@@ -60,3 +60,18 @@ x(t) \to x(\alpha t + \beta)
 |-------------------------------|------------------------------------------------|
 | <img src=images/time-shift-scaling-graph.phg width='' height='' > </img> | <img src=images/time-shift-scaling-example-graphically.png width='' height='' > </img>  |
 
+- [ ] Reflection
+
+> Continuous - Time
+```math
+x(t) \to x(-t)
+```
+> Discrete - Index
+```math
+x[n] \to x[-n]
+```
+
+| Continuous Time Shift | Discrete Time Shift  |
+|-------------------------------|------------------------------------------------|
+| <img src=images/reflection-continuous-graphically.png width='' height='' > </img> | <img src=images/reflection-discrete-graphically.png width='' height='' > </img>  |
+
