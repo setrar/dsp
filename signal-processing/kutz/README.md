@@ -49,8 +49,8 @@ x[n]
 ```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR
-    A-->B[AAA<span>BBB</span>]
-    B-->D
+    x(t)-->B[Continous-Time System]
+    B-->y(t)
     class A cssClass
 ```
 
