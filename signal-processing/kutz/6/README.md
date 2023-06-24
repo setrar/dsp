@@ -10,6 +10,11 @@ x[-1]\delta[n + 1] =
     x[ -1 ],   & \quad \text{if } n \text{ is even}\\
     0,         & \quad \text{if } n \text{ is odd}
   \end{cases}
+x[0]\delta[n ] =
+  \begin{cases}
+    x[ 0 ],   & \quad \text{if } n \text{ is even}\\
+    0,        & \quad \text{if } n \text{ is odd}
+  \end{cases}
 ```
 
 
