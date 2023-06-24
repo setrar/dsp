@@ -7,8 +7,8 @@
 ```math
 x[-1]\delta[n + 1] =
   \begin{cases}
-    x[ -1 ]   & \quad \text{if } n \text{ is even}\\
-    0         & \quad \text{if } n \text{ is odd}
+    x[ -1 ],   & \quad \text{if } n \text{ is even}\\
+    0,         & \quad \text{if } n \text{ is odd}
   \end{cases}
 ```
 
