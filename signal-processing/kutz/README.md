@@ -38,7 +38,7 @@ The lectures are from the textbook Oppenheim, Willsky and Nawab, "Systems and Si
 
 - [ ] Mathematical Representation
   - [ ] Continuous - Time
-`math x(t) `
+```math x(t) ```
   - [ ] Discrete - Index
 
 ```math
