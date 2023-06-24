@@ -55,7 +55,7 @@ y[n] = \sum_{k=\infty}^\infty x[k]h_k[n]
 \text{Where } h_k[n] \text{ is the response to } \boldsymbol{\delta}[ n - k]
 ```
 
-- [ ] Time Invariant
+- [ ] Time Invariance
 
 ```math
 h_k[n] = h_0[ n - k ]
