@@ -14,8 +14,8 @@
 ```math
     x[0]\delta[n ] =
       \begin{cases}
-        x[ 0 ],   & \quad \text{if } n \text{ is even}\\
-        0,        & \quad \text{if } n \text{ is odd}
+        x[ 0 ],   & \quad n = 0\\
+        0,        & \quad n \neq 0
       \end{cases}
 ```
 
