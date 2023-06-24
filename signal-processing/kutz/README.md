@@ -115,6 +115,7 @@ II. Finite Average Power, Zero Energy
 P_\infty > 0, E_\infty = \infty
 ```
 
+III. Other
 
 
 :two: [Introduction to Signal Processing: Basic Signals (Lecture 2)](https://youtu.be/ILek2_KoUmw&t=0)
