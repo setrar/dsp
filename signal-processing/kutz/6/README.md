@@ -5,5 +5,5 @@
 - [ ] Transform
 
 ```math
-y[n] = \sum_{k=\infty}^\infty x[k]hk[n]
+y[n] = \sum_{k=\infty}^\infty x[k]h_k[n]
 ```
