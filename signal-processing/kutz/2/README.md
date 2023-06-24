@@ -71,7 +71,7 @@ x(t) \to x(-t)
 x[n] \to x[-n]
 ```
 
-| Continuous Time Shift | Discrete Time Shift  |
+| Continuous Reflection | Discrete Reflection  |
 |-------------------------------|------------------------------------------------|
 | <img src=images/reflection-continuous-graphically.png width='' height='' > </img> | <img src=images/reflection-discrete-graphically.png width='' height='' > </img>  |
 
