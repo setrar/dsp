@@ -70,10 +70,19 @@ flowchart LR
     classDef someclass fill:#a2f
 ```
 
+- [ ] Signal Energy
 
 ```math
-\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+\int_0^\infty \mathrm{e}^{-x}\,\mathrm{d}x
 ```
 
 :two: [Introduction to Signal Processing: Basic Signals (Lecture 2)](https://youtu.be/ILek2_KoUmw&t=0)
+
+# References
+
+- [ ] [Writing mathematical expressions](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
+- [ ] [LaTeX/Mathematics](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
+
+
+
 
