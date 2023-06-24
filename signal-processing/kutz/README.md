@@ -91,6 +91,17 @@ E_\infty = \sum_{n=-\infty}^{\infty} | x[t] |^2
 ```
 
 
+- [ ] Time-Averaged Signal Power
+
+```math
+P_\infty = \lim\limits_{x \to \infty} \int_{-\infty}^{\infty} | x(t) |^2 \mathrm{d}t
+```
+
+```math
+P_\infty = \lim\limits_{x \to \infty} \sum_{n=-\infty}^{\infty} | x[t] |^2
+```
+
+
 :two: [Introduction to Signal Processing: Basic Signals (Lecture 2)](https://youtu.be/ILek2_KoUmw&t=0)
 
 # References
