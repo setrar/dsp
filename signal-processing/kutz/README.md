@@ -46,22 +46,6 @@ x(t)
 x[n]
 ```
 
-<style>
-  .cssClass > rect {
-    fill: #ff0000;
-    stroke: #ffff00;
-    stroke-width: 4px;
-  }
-</style>
-
-
-```mermaid
-%%{init: {"flowchart": {"htmlLabels": false}} }%%
-flowchart LR
-    A-->B[AAA<span>BBB</span>]
-    B-->D
-    class A cssClass
-```
 
 ```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
@@ -72,6 +56,12 @@ flowchart LR
 ```
 
 
+```mermaid
+%%{init: {"flowchart": {"htmlLabels": false}} }%%
+flowchart LR
+    A:::someclass --> B
+    classDef someclass fill:#f96
+```
 
 ```math
 \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
