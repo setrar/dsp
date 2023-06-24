@@ -16,10 +16,10 @@ Numerical methods and scientific computing, data analysis and dimensionality red
 
 The lectures are from the textbook Oppenheim, Willsky and Nawab, "Systems and Signals".
 
-
-:one: [Introduction to Signal Processing: An Overview (Lecture 1)](1) 
-
-:two: [Introduction to Signal Processing: Basic Signals (Lecture 2)](https://youtu.be/ILek2_KoUmw&t=0)
+| :hash: |  Descriptions | 
+|-|-|
+| :one: | [Introduction to Signal Processing: An Overview (Lecture 1)](1)    |
+| :two: | [Introduction to Signal Processing: Basic Signals (Lecture 2)](2)  |
 
 # References
 
