@@ -80,6 +80,17 @@ E = \int_{t1}^{t2} | x(t) |^2 \mathrm{d}t
 E = \sum_{n=n1}^{n2} | x[t] |^2
 ```
 
+- [ ] Total Signal Energy
+
+```math
+E_infty = \int_{-infty}^{infty} | x(t) |^2 \mathrm{d}t
+```
+
+```math
+E_infty = \sum_{n=-infty}^{infty} | x[t] |^2
+```
+
+
 :two: [Introduction to Signal Processing: Basic Signals (Lecture 2)](https://youtu.be/ILek2_KoUmw&t=0)
 
 # References
