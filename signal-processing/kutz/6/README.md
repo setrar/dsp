@@ -15,7 +15,7 @@ h_k[n]
 ```
 here
 ```math
-\boldsymbol{\delta}
+\boldsymbol{\delta}[ n - k]
 ```
 to not increase leading in a portion of text.
 
