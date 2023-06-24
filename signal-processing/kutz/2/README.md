@@ -32,10 +32,10 @@ flowchart LR
 
 > Continuous - Time
 ```math
-x(t) -> x(t - t0)
+x(t) \to x(t - t0)
 ```
 > Discrete - Index
 ```math
-x[n] -> x[n - n0]
+x[n] \to x[n - n0]
 ```
 
