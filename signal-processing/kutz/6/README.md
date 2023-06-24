@@ -79,7 +79,7 @@ y[n] = \sum_{k=\infty}^\infty x[k]h[ n - k ]
 > Graphically showing the kick vs response
 
 | Non Time Invariant System | Time Invariant System |
-|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
+|---------------------------|-----------------------|
 | <img src=images/lti-system-non-time-invariant.png width='50%' height='50%' > </img> | <img src=images/lti-system-time-invariant.png width='50%' height='50%' > </img> |
  
 ---
