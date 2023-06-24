@@ -11,7 +11,7 @@ y[n] = \sum_{k=\infty}^\infty x[k]h_k[n]
 
 
 ```math
-Where h_k[n] here
+\text{Where } h_k[n] \text{ is }
 ```
 here
 ```math
