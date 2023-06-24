@@ -46,9 +46,12 @@ x[n] \to x[n - n_0]
 > Scaling
 ```math
 x(t) \to x(\alpha t + \beta)
+```
 
-a < 1 \text {here}
+```math
+| \alpha | < 1 \text { Stretching}
+```
 
-a > 1 \text {here}
-
+```math
+| \alpha | > 1 \text { Compressing}
 ```
