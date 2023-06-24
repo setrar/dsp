@@ -52,7 +52,7 @@ x[n]
 flowchart LR
     A("x(t)"):::someclass -->B[Continous-Time \n System]
     B-->id("y(t)")
-    classDef someclass fill:#f96
+    classDef someclass fill:#fff
 ```
 
 
