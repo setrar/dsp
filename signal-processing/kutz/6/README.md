@@ -4,6 +4,6 @@
 
 - [ ] Transform
 
-```
+```math
 y[n] = \sum x[k]hk[n]
 ```
