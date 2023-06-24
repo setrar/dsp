@@ -39,6 +39,6 @@ x(t) \to x(t - t_0)
 x[n] \to x[n - n_0]
 ```
 
-| Discrete Time Shift  | Continuous Time Shift |
+| Continuous Time Shift | Discrete Time Shift  |
 |-------------------------------|------------------------------------------------|
-| <img src=images/time-shift-discrete-graphically.png width='' height='' > </img> | <img src=images/time-shift-continuous-graphically.png width='' height='' > </img> |
+| <img src=images/time-shift-continuous-graphically.png width='' height='' > </img> | <img src=images/time-shift-discrete-graphically.png width='' height='' > </img>  |
