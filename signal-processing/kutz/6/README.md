@@ -2,13 +2,13 @@
 
 :round_pushpin: Discrete Time LTI Systems
 
-- [ ] Delta Function
+- [ ] Delta Functions
 
 ```math
-f(n) =
+x[-1]\delta[n + 1] =
   \begin{cases}
-    n/2       & \quad \text{if } n \text{ is even}\\
-    -(n+1)/2  & \quad \text{if } n \text{ is odd}
+    x[ -1 ]   & \quad \text{if } n \text{ is even}\\
+    0         & \quad \text{if } n \text{ is odd}
   \end{cases}
 ```
 
