@@ -95,3 +95,5 @@ P_\infty > 0, E_\infty = \infty
 III. Other
 
 - [ ] All Signals Deliver their Information with Energy and Power
+
+## [:back: ](..)
