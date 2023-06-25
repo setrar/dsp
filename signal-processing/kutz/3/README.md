@@ -88,13 +88,14 @@ x(t) = \mathrm{e}^{i \omega t}
 2 \pi = \omega T \to T = \frac{ 2 \pi }{ | \omega | }
 ```
 
-
+```math
 f(n) =
   \begin{cases}
     \mathrm{e}^{ i \omega t} = 1     \\
     \mathrm{e}^{ i 2 \alpha } = 1    \\
     2 \pi = \omega T \to T = \frac{ 2 \pi }{ | \omega | }
   \end{cases}
+```
 
 ## :signal_strength: Discrete Time Signal
 
