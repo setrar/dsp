@@ -3,7 +3,7 @@
 
 # Basic of Linear Signals
 
-## Continuous Signal
+## :wavy_dash: Continuous Signal
 
 - [ ] Exponential Signals
 
@@ -87,5 +87,5 @@ x(t) = \mathrm{e}^{i \omega t}
 2 \pi = \omega T \to T = \frac{ 2 \pi }{ | \omega | }
 ```
 
-## Discrete Time Signal
+## :signal_strength: Discrete Time Signal
 
