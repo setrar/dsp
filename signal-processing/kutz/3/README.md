@@ -18,9 +18,9 @@ x = v exp(\lambda t)
 Gives
 
 ```math
-a = v \lambda v
+A v = \lambda v
 ```
 
 ```math
-\text{ eigenvalues }
+\text{ eigenvalue problem }
 ```
