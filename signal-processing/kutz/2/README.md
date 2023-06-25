@@ -75,4 +75,4 @@ x[n] \to x[-n]
 |-------------------------------|------------------------------------------------|
 | <img src=images/reflection-continuous-graphically.png width='' height='' > </img> | <img src=images/reflection-discrete-graphically.png width='' height='' > </img>  |
 
-<img src=images/compositional-operations-graphically.png width='50%' height='50%' > </img>
+<img src=images/compositional-operations-graphically.png width='30%' height='30%' > </img>
