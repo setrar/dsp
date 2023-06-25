@@ -34,3 +34,7 @@ x(t) = C exp(\alpha t)
 ```math
 \text{ Constants can be complex }
 ```
+
+| exponential sequence | exponential sequence blows  |
+|-------------------------------|------------------------------------------------|
+| <img src=images/exponential-sequence.png width='' height='' > </img> | <img src=images/even-odd-signal-decomposexponential-sequence-blow.png width='' height='' > </img>  |
