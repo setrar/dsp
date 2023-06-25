@@ -20,4 +20,5 @@ A_{m,n} =
 Recursive function
 
 ```math
-f(x) = f(0)=1, f(n + 1) = f(n) 
+f(x) = f(0)=1, f(1) = 1; f(n + 1) = f( n ) + (n - 1)
+```
