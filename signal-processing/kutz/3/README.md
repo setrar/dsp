@@ -67,7 +67,7 @@ x(t) = \mathrm{e}^{i \omega t}
 \mathrm{e}^{ i \omega t} = \mathrm{e}^{ i \omega t } \mathrm{e}^{ i \omega T }
 ```
 
-* Period requirement
+- [ ] Period requirement
 
 ```math
 \mathrm{e}^{ i \omega t} = 1
