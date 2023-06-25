@@ -23,6 +23,6 @@ Recursive function
 f(n) =
   \begin{cases}
     1       & \quad \text{if } n = 0 \text{ or } n = 1 \\
-    f(n - 2) + f(n -1)  & \quad \text{if } n \text{ others }
+    f(n - 2) + f(n -1)  & \quad \text{if } n > 1
   \end{cases}
 ```
