@@ -92,12 +92,35 @@ x[n] \to x[n + N]
 |-------------------------------|------------------------------------------------|
 | <img src=images/periodic-continuous-graphically.png width='' height='' > </img> | <img src=images/periodic-discrete-graphically.png width='' height='' > </img>  |
 
-- [ ] Even and Odd Signals
+- [ ] Even and Odd Signals and decomposition
+
+* Signals
 
 > Even cos(t)
 
 ```math
 x(t) = x( -t )
+```
+
+```math
+x[n] = x[ -n]
+```
+> Odd sin(t)
+
+```math
+x(t) = - x( -t )
+```
+
+```math
+x[n] = - x[ -n]
+```
+
+* Decomposition
+
+> Even cos(t)
+
+```math
+\varepsilon { x(t) } = x( -t )
 ```
 
 ```math
