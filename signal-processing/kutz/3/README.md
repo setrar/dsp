@@ -12,5 +12,5 @@
 Assume
 
 ```math
-x = v exp(\lambdat)
+x = v exp(\lambda t)
 ```
