@@ -55,11 +55,7 @@ x(t) = \mathrm{e}^{i \omega t}
 \text { Defines signals in terms of frequencies }
 ```
 
-* Periodicity
-
-```math
-\text { Imaginary Exponentials are Periodic }
-```
+* Imaginary Exponentials are Periodic
 
 ```math
 \mathrm{e}^{ i \omega t} = \mathrm{e}^{ i \omega ( t + T ) }
