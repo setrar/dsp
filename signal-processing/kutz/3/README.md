@@ -68,6 +68,17 @@ x(t) = \mathrm{e}^{i \omega t}
 Period T
 
 ```math
-\mathrm{e}^{ i \omega t} = \mathrm{e}^{ i \omega ( t ) } \mathrm{e}^{ i \omega ( T ) }
+\mathrm{e}^{ i \omega t} = \mathrm{e}^{ i \omega t } \mathrm{e}^{ i \omega T }
 ```
 
+Period requirement
+
+```math
+\mathrm{e}^{ i \omega t} = 1
+```
+
+Note 
+
+```math
+\mathrm{e}^{ i 2 \alpha } = 1
+```
