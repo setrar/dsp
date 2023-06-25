@@ -120,7 +120,7 @@ x[n] = - x[ -n]
 > Even cos(t)
 
 ```math
-\varepsilon \{ x(t) \} = x( -t )
+\varepsilon \{ x(t) \} = 1/2 \[ x( t ) + x( -t ) ] 
 ```
 
 ```math
