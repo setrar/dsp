@@ -150,4 +150,16 @@ x[n] = - x[ -n]
   \end{cases}
 ```
 
+```math
+\vartheta d \{ x[n] \} =
+  \begin{cases}
+    - \frac{1}{2}, n < 0 \\
+    0, n = 0 \\
+    \frac{1}{2}, n > 0
+  \end{cases}
+```
+
+
+
+
 
