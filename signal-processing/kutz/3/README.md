@@ -70,6 +70,16 @@ x(t) = \mathrm{e}^{i \omega t}
 \mathrm{e}^{ i \omega t} = \mathrm{e}^{ i \omega t } \mathrm{e}^{ i \omega T }
 ```
 
+```math
+\mathrm{e}^{ i \omega t} = \mathrm{e}^{ i \omega ( t + T ) } =
+  \begin{cases}
+    \mathrm{e}^{ i \omega t} = \mathrm{e}^{ i \omega t } \mathrm{e}^{ i \omega T }  & \quad \text { }  \\
+    \mathrm{e}^{ i \omega t} = \mathrm{e}^{ i \omega t } \mathrm{e}^{ i \omega T }  & \quad \text { Period T}  \\
+    \mathrm{e}^{ i \omega t} = \mathrm{e}^{ i \omega t } \mathrm{e}^{ i \omega T }
+  \end{cases}
+```
+
+
 - [ ] Period requirement
 
 ```math
@@ -88,14 +98,6 @@ x(t) = \mathrm{e}^{i \omega t}
 2 \pi = \omega T \to T = \frac{ 2 \pi }{ | \omega | }
 ```
 
-```math
-f(n) =
-  \begin{cases}
-    \mathrm{e}^{ i \omega t} = 1     \\
-    \mathrm{e}^{ i 2 \alpha } = 1    \\
-    2 \pi = \omega T \to T = \frac{ 2 \pi }{ | \omega | }
-  \end{cases}
-```
 
 ## :signal_strength: Discrete Time Signal
 
