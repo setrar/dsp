@@ -72,7 +72,7 @@ h_0[n] = h[ n ]
 
 - [ ] LTI System
 
-:green_book: Eq. (2.39) is commonly called the __convolution sum__
+:green_book: Eq. (2.39) is commonly called the _convolution sum_
 
 ```math
 y[n] = \sum_{k=-\infty}^\infty x[k]h[ n - k ]
