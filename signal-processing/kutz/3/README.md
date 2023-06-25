@@ -35,6 +35,6 @@ x(t) = C exp(\alpha t)
 \text{ Constants can be complex }
 ```
 
-| exponential sequence | exponential sequence blows  |
+| What is Alpha | is real ?  |
 |-------------------------------|------------------------------------------------|
 | <img src=images/exponential-sequence.png width='' height='' > </img> | <img src=images/exponential-sequence-blow.png width='' height='' > </img>  |
