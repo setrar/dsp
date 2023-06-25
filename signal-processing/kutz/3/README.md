@@ -35,9 +35,8 @@ A v = \lambda v
 x(t) = C exp(\alpha t)
 ```
 
-```math
-\text{ Constants can be complex }
-```
+> Constants can be [complex](https://en.wikipedia.org/wiki/Complex_number)
+
 
 | What if Alpha | is real ?  |
 |-------------------------------|------------------------------------------------|
