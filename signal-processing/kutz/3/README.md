@@ -25,7 +25,7 @@ A v = \lambda v
 \text{ eigenvalue problem }
 ```
 
-- [ ] Continuous Time Exponentials
+* Continuous Time Exponentials
 
 ```math
 x(t) = C exp(\alpha t)
@@ -39,13 +39,13 @@ x(t) = C exp(\alpha t)
 |-------------------------------|------------------------------------------------|
 | <img src=images/exponential-sequence.png width='' height='' > </img> | <img src=images/exponential-sequence-blow.png width='' height='' > </img>  |
 
-- [ ] Imaginary Exponentials
+- [ ] Imaginary Exponential Signals
 
 ```math
 x(t) = \mathrm{e}^{i \omega t}
 ```
 
-- [ ] Euler Formula
+* Euler Formula
 
 ```math
 \mathrm{e}^{\pm i \omega t} = \cos ( \omega t ) \pm i \sin ( \omega t )
@@ -55,4 +55,13 @@ x(t) = \mathrm{e}^{i \omega t}
 \text { Defines signals in terms of frequencies }
 ```
 
+* Periodicity
+
+```math
+\text { Imaginary Exponentials are Periodic }
+```
+
+```math
+\mathrm{e}^{ i \omega t} = \mathrm{e}^{ i \omega ( t + T ) }
+```
 
