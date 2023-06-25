@@ -94,7 +94,7 @@ x[n] \to x[n + N]
 
 - [ ] Even and Odd Signals
 
-> Even
+> Even cos(t)
 
 ```math
 x(t) = x( -t )
@@ -103,7 +103,7 @@ x(t) = x( -t )
 ```math
 x[n] = x[ -n]
 ```
-> Odd
+> Odd sin(t)
 
 ```math
 x(t) = - x( -t )
