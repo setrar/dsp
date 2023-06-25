@@ -22,7 +22,7 @@ Recursive function
 ```math
 f(n) =
   \begin{cases}
-    1       & \quad \text{if } f(0) \text{ and } f(1) \\
+    1       & \quad \text{if } n = 0 \text{ or } n = 1 \\
     f(n - 2) + f(n -1)  & \quad \text{if } n \text{ others }
   \end{cases}
 ```
