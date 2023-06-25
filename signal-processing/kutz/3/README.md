@@ -37,4 +37,4 @@ x(t) = C exp(\alpha t)
 
 | exponential sequence | exponential sequence blows  |
 |-------------------------------|------------------------------------------------|
-| <img src=images/exponential-sequence.png width='' height='' > </img> | <img src=images/even-odd-signal-decomposexponential-sequence-blow.png width='' height='' > </img>  |
+| <img src=images/exponential-sequence.png width='' height='' > </img> | <img src=images/exponential-sequence-blow.png width='' height='' > </img>  |
