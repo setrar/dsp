@@ -42,6 +42,6 @@ x(t) = C exp(\alpha t)
 - [ ] Imaginary Exponentials
 
 ```math
-x(t) = exp^{i \omega t}
+x(t) = \mathrm{e}^{i \omega t}
 ```
 
