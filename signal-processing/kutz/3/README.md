@@ -82,3 +82,10 @@ Note
 ```math
 \mathrm{e}^{ i 2 \alpha } = 1
 ```
+
+Period
+
+```math
+2 \pi = \omega T \to TT = \frac{ 2 \pi }{ | \omega \ }
+```
+
