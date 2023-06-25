@@ -76,3 +76,18 @@ x[n] \to x[-n]
 | <img src=images/reflection-continuous-graphically.png width='' height='' > </img> | <img src=images/reflection-discrete-graphically.png width='' height='' > </img>  |
 
 <img src=images/compositional-operations-graphically.png width='30%' height='30%' > </img>
+
+- [ ] Periodic Signals
+
+> Continuous - Time
+```math
+x(t) \to x(t + P)
+```
+> Discrete - Index
+```math
+x[n] \to x[n + N]
+```
+
+| Continuous Periodic Signal | Discrete Periodic Signal  |
+|-------------------------------|------------------------------------------------|
+| <img src=images/periodic-continuous-graphically.png width='' height='' > </img> | <img src=images/periodic-discrete-graphically.png width='' height='' > </img>  |
