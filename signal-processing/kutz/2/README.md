@@ -147,7 +147,7 @@ x[n] = - x[ -n]
   \end{cases}
 ```
 
-| Continuous Periodic Signal | Discrete Periodic Signal  |
+| Continuous Decomposition | Discrete Decomposition  |
 |-------------------------------|------------------------------------------------|
 | <img src=images/even-odd-signal-graphically.png width='' height='' > </img> | <img src=images/even-odd-signal-decomposition-graphically.png width='' height='' > </img>  |
 
