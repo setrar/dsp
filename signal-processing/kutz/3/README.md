@@ -24,3 +24,13 @@ A v = \lambda v
 ```math
 \text{ eigenvalue problem }
 ```
+
+- [ ] Continuous Time Exponentials
+
+```math
+x(t) = C exp(\alpha t)
+```
+
+```math
+\text{ Constants can be complex }
+```
