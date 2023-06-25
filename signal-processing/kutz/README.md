@@ -16,11 +16,11 @@ Numerical methods and scientific computing, data analysis and dimensionality red
 
 The lectures are from the textbook Oppenheim, Willsky and Nawab, "Systems and Signals".
 
-| :hash:  |  Episodes                                                          | 
-|---------|--------------------------------------------------------------------|
-| :one:   | [Introduction to Signal Processing: An Overview (Lecture 1)](1)    |
-| :two:   | [Introduction to Signal Processing: Basic Signals (Lecture 2)](2)  |
-| :three: | |
+| :hash:  |  Episodes                                                               | 
+|---------|-------------------------------------------------------------------------|
+| :one:   | [Introduction to Signal Processing: An Overview (Lecture 1)](1)         |
+| :two:   | [Introduction to Signal Processing: Basic Signals (Lecture 2)](2)       |
+| :three: | [Introduction to Signal Processing: Exponential Signals (Lecture 3)](3) |
 | :four:  | |
 | :five:  | |
 | :six:   | [Introduction to Signal Processing: LTI Systems (Lecture 6)](6) |
