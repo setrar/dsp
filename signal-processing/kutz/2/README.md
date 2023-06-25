@@ -152,6 +152,6 @@ x[n] = - x[ -n]
 | <img src=images/even-odd-signal-graphically.png width='' height='' > </img> | <img src=images/even-odd-signal-decomposition-graphically.png width='' height='' > </img>  |
 
 
-
+## [:back:](..)
 
 
