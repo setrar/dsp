@@ -1,7 +1,9 @@
 :three: [Introduction to Signal Processing: Exponential Signals (Lecture 3)](https://youtu.be/B6GPKiRHnsk)
 
 
-## Basic of Linear Signals
+# Basic of Linear Signals
+
+## Continuous Signal
 
 - [ ] Exponential Signals
 
@@ -84,4 +86,6 @@ x(t) = \mathrm{e}^{i \omega t}
 ```math
 2 \pi = \omega T \to T = \frac{ 2 \pi }{ | \omega | }
 ```
+
+## Discrete Time Signal
 
