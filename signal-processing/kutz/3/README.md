@@ -65,3 +65,9 @@ x(t) = \mathrm{e}^{i \omega t}
 \mathrm{e}^{ i \omega t} = \mathrm{e}^{ i \omega ( t + T ) }
 ```
 
+Period T
+
+```math
+\mathrm{e}^{ i \omega t} = \mathrm{e}^{ i \omega ( t ) } \mathrm{e}^{ i \omega ( T ) }
+```
+
