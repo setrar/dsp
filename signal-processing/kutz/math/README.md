@@ -26,3 +26,8 @@ f(n) =
     f(n - 2) + f(n -1)  & \quad \text{if } n > 1
   \end{cases}
 ```
+
+# References
+
+- [ ] [Writing mathematical expressions](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
+- [ ] [LaTeX/Mathematics](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
