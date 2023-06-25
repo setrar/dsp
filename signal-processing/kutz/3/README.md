@@ -38,3 +38,10 @@ x(t) = C exp(\alpha t)
 | What is Alpha | is real ?  |
 |-------------------------------|------------------------------------------------|
 | <img src=images/exponential-sequence.png width='' height='' > </img> | <img src=images/exponential-sequence-blow.png width='' height='' > </img>  |
+
+- [ ] Imaginary Exponentials
+
+```math
+x(t) = exp^{i \omega t}
+```
+
