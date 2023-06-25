@@ -14,3 +14,13 @@ Assume
 ```math
 x = v exp(\lambda t)
 ```
+
+Gives
+
+```math
+a = v \lambda v
+```
+
+```math
+\text{ eigenvalues }
+```
