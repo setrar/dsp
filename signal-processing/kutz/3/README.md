@@ -49,6 +49,9 @@ x(t) = \mathrm{e}^{i \omega t}
 
 ```math
 \mathrm{e}^{\pm i \omega t} = \cos ( \omega t ) \pm i \sin ( \omega t )
+```
+
+```math
 \text { Defines signals in terms of frequencies }
 ```
 
