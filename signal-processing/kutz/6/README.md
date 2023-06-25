@@ -76,7 +76,7 @@ h_0[n] = h[ n ]
 y[n] = \sum_{k=-\infty}^\infty x[k]h[ n - k ]
 ```
 
-:green_book: Eq. (2.39) is commonly called the _convolution sum_ of any two sequences
+:green_book: Eq. (2.39) is commonly called the _[convolution](https://en.wikipedia.org/wiki/Convolution) sum_ of any two sequences
 
 
 > Graphically showing the kick vs response
