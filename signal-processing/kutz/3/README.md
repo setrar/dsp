@@ -8,3 +8,9 @@
 ```math
 \dot{x} = A x
 ```
+
+Assume
+
+```math
+x = v exp(\lambdat)
+```
