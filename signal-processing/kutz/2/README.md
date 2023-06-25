@@ -124,30 +124,18 @@ x[n] = - x[ -n]
 ```
 
 ```math
-x[n] = x[ -n]
-```
-> Odd sin(t)
-
-```math
-x(t) = - x( -t )
-```
-
-```math
-x[n] = - x[ -n]
-```
-
-
-| Continuous Periodic Signal | Discrete Periodic Signal  |
-|-------------------------------|------------------------------------------------|
-| <img src=images/even-odd-signal-graphically.png width='' height='' > </img> | <img src=images/even-odd-signal-decomposition-graphically.png width='' height='' > </img>  |
-
-```math
 \varepsilon v \{ x[n] \} =
   \begin{cases}
     \frac{1}{2}, n < 0 \\
     1, n = 0 \\
     \frac{1}{2}, n > 0
   \end{cases}
+```
+
+> Odd sin(t)
+
+```math
+\vartheta d \{ x(t) \} = \frac{1}{2} [ x( t ) - x( -t ) ] 
 ```
 
 ```math
@@ -158,6 +146,10 @@ x[n] = - x[ -n]
     \frac{1}{2}, n > 0
   \end{cases}
 ```
+
+| Continuous Periodic Signal | Discrete Periodic Signal  |
+|-------------------------------|------------------------------------------------|
+| <img src=images/even-odd-signal-graphically.png width='' height='' > </img> | <img src=images/even-odd-signal-decomposition-graphically.png width='' height='' > </img>  |
 
 
 
