@@ -45,3 +45,9 @@ x(t) = C exp(\alpha t)
 x(t) = \mathrm{e}^{i \omega t}
 ```
 
+- [ ] Euler Formula
+
+```math
+\mathrm{e}^{\pm i \omega t} = 
+```
+
