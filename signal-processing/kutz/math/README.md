@@ -20,5 +20,9 @@ A_{m,n} =
 Recursive function
 
 ```math
-f(x) = f(0)=1, f(1) = 1; f(n + 1) = f( n ) + (n - 1)
+f(n + 1) =
+  \begin{cases}
+    1       & \quad \text{if } f(0) \text{ and } f(1) \\
+    f(n) + f(n -1)  & \quad \text{if } n \text{ others }
+  \end{cases}
 ```
