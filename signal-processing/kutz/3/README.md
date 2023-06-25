@@ -86,6 +86,6 @@ Note
 Period
 
 ```math
-2 \pi = \omega T \to TT = \frac{ 2 \pi }{ | \omega | }
+2 \pi = \omega T \to T = \frac{ 2 \pi }{ | \omega | }
 ```
 
