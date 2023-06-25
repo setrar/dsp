@@ -1,11 +1,13 @@
 :three: [Introduction to Signal Processing: Exponential Signals (Lecture 3)](https://youtu.be/B6GPKiRHnsk)
 
 
-# Basic of Linear Signals
+# Exponential Signals
+
+
+Basic of Linear Signals
 
 ## :wavy_dash: Continuous Signal
 
-- [ ] Exponential Signals
 
 ```math
 \dot{x} = A x
