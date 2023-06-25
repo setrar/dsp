@@ -91,3 +91,32 @@ x[n] \to x[n + N]
 | Continuous Periodic Signal | Discrete Periodic Signal  |
 |-------------------------------|------------------------------------------------|
 | <img src=images/periodic-continuous-graphically.png width='' height='' > </img> | <img src=images/periodic-discrete-graphically.png width='' height='' > </img>  |
+
+- [ ] Even and Odd Signals
+
+> Even
+
+```math
+x(t) = x( -t )
+```
+
+```math
+x[n] = x[ -n]
+```
+> Odd
+
+```math
+x(t) = - x( -t )
+```
+
+```math
+x[n] = - x[ -n]
+```
+
+
+| Continuous Periodic Signal | Discrete Periodic Signal  |
+|-------------------------------|------------------------------------------------|
+| <img src=images/periodic-continuous-graphically.png width='' height='' > </img> | <img src=images/periodic-discrete-graphically.png width='' height='' > </img>  |
+
+
+even-odd-signal-graphically.png
