@@ -73,9 +73,10 @@ x(t) = \mathrm{e}^{i \omega t}
 ```math
 \mathrm{e}^{ i \omega t} = \mathrm{e}^{ i \omega ( t + T ) } =
   \begin{cases}
-    \mathrm{e}^{ i \omega t} = \mathrm{e}^{ i \omega t } \mathrm{e}^{ i \omega T }  & \quad \text { }  \\
-    \mathrm{e}^{ i \omega t} = \mathrm{e}^{ i \omega t } \mathrm{e}^{ i \omega T }  & \quad \text { Period T}  \\
-    \mathrm{e}^{ i \omega t} = \mathrm{e}^{ i \omega t } \mathrm{e}^{ i \omega T }
+    \mathrm{e}^{ i \omega t} = \mathrm{e}^{ i \omega t } \mathrm{e}^{ i \omega T }  & \quad \text { * Period T }  \\
+    \mathrm{e}^{ i \omega t} = 1  & \quad \text { * Period requirement }  \\
+    \mathrm{e}^{ i 2 \alpha } = 1 & \quad \text { Note }  \\
+    2 \pi = \omega T \to T = \frac{ 2 \pi }{ | \omega |  & \quad \text { Period }
   \end{cases}
 ```
 
