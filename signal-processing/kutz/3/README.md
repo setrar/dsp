@@ -131,4 +131,13 @@ e^{i2\pi} = 1 \to e^{i2\pi n} = 1
 x[n] = C \alpha ^ n
 ```
 
+```math
+\text { two forms of representation } \, ( \alpha = e^{\beta}  \to
+  \begin{cases}
+     c \alpha ^{n} \\
+     c e ^{\beta n}
+  \end{cases}
+```
+
+
 
