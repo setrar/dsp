@@ -16,14 +16,37 @@ Numerical methods and scientific computing, data analysis and dimensionality red
 
 The lectures are from the textbook Oppenheim, Willsky and Nawab, "Systems and Signals".
 
-| Lecture(:hash:)  |  Episodes                             | 
-|---------|---------------------------------------|
-| Lecture(:one:)   | [An Overview](1)          |
-| Lecture(:two:)   | [Basic Signals](2)        |
-| Lecture(:three:) | [Exponential Signals](3)  |
-| Lecture(:four:)  | [Impulses and Steps](4)   |
-| Lecture(:five:)  | [Properties of Signals](5)|
-| Lecture(:six:)   | [LTI Systems](6)          |
+|  :hash:       |  Episodes                             | 
+|---------------|---------------------------------------|
+| Lecture(1)    | [An Overview](1)                      |
+| Lecture(2)    | [Basic Signals](2)                    |
+| Lecture(3)    | [Exponential Signals](3)              |
+| Lecture(4)    | [Impulses and Steps](4)               |
+| Lecture(5)    | [Properties of Signals](5)            |
+| Lecture(6)    | [LTI Systems](6)                      |
+| Lecture(7)    | [Continuous LTI Systems
+| Lecture(8)    | [[LTI System Properties
+| Lecture(10)   | [Singular Functions
+| Lecture(11)   | [Fourier Series
+| Lecture(12)   | [Discrete Fourier Series
+| Lecture(13)   | [Convergence of Fourier Series
+| Lecture(14)   | [Fourier Series Expansion of Signal
+| Lecture(15)   | [Input-Output with Fourier Series
+| Lecture(16)   | [Frequency Filters
+| Lecture(17)   | [The Fourier Transform
+| Lecture(18)   | [Properties of the Fourier transform
+| Lecture(19)   | [roperties of the Fourier transform
+| Lecture(20)   | [Convolutions and Signal Modulation
+| Lecture(21)   | [Differential Equations and FFT
+| Lecture(22)   | [Discrete Time Fourier transform
+| Lecture(23)   | [Signal Convolutions and Multiplication
+| Lecture(24)   | [Difference Equations
+| Lecture(25)   | [Time-Frequency Filtering
+| Lecture(26)   | [Filters and Properties
+| Lecture(27)   | [Bode Plots and Differential Equations
+| Lecture(28)   | [Analysis of Bode Plots!
+
+
 
 # References
 
