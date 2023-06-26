@@ -8,33 +8,12 @@ Basic of Linear Signals
 
 ## :wavy_dash: Continuous Signal
 
-
-```math
-\dot{x} = A x
-```
-
-Assume
-
-```math
-x = v exp(\lambda t)
-```
-
-Gives
-
-```math
-A v = \lambda v
-```
-
-```math
-\text{ eigenvalue problem }
-```
-
 ```math
 \dot{x} = A x \to
   \begin{cases}
     \text { Assume }  & \quad x = v exp(\lambda t) \\
     \text { Gives  }  & \quad A v = \lambda v \\
-    \text { eigenvalue problem  }
+    \to               & \quad \text { eigenvalue problem  }
   \end{cases}
 ```
 
