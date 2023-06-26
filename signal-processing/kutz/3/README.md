@@ -70,7 +70,7 @@ x(t) = \mathrm{e}^{i \omega t}
 - [ ] General Sinusoidal
 
 ```math
-x(t) = A \cos( \omega t + \theta \to
+x(t) = A \cos( \omega t + \theta ) \to
   \begin{cases}
     A      & \quad \text { Amplitude } \\
     \omega & \quad \text { Frequency } \\
