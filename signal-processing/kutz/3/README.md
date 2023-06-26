@@ -67,10 +67,6 @@ x(t) = \mathrm{e}^{i \omega t}
 - Period T
 
 ```math
-\mathrm{e}^{ i \omega t} = \mathrm{e}^{ i \omega t } \mathrm{e}^{ i \omega T }
-```
-
-```math
 \mathrm{e}^{ i \omega t} = \mathrm{e}^{ i \omega ( t + T ) } =
   \begin{cases}
     \mathrm{e}^{ i \omega t} = \mathrm{e}^{ i \omega t } \mathrm{e}^{ i \omega T }  & \quad \text { * Period T }  \\
