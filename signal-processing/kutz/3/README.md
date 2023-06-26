@@ -107,7 +107,13 @@ P_T = \frac{1}{T} E_T = 1
 - [ ] Harmonics
 
 ```math
-2 \pi n = \omega T \quad n = o, \pm 1, \pm 2 
+e^{i2\pi} = 1 \to e^{i2\pin} = 1
+```
+
+> Many signals with the same period
+
+```math
+2 \pi n = \omega T \quad n = o, \pm 1, \pm 2, \dots 
 ```
 
 ## :signal_strength: Discrete Time Signal
