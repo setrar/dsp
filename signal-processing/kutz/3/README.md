@@ -113,7 +113,7 @@ e^{i2\pi} = 1 \to e^{i2\pi n} = 1
 > Many signals with the same period
 
 ```math
-2 \pi n = \omega T \quad n = o, \pm 1, \pm 2, \dots 
+2 \pi n = \omega T \quad n = 0, \pm 1, \pm 2, \dots 
 ```
 
 ## :signal_strength: Discrete Time Signal
