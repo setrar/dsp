@@ -97,6 +97,13 @@ x(t) = A \cos( \omega t + \phi ) \to
 ```math
 E_T = \int_{0}^{T} | e^{i \omega t} | \mathrm{d}t = \int_{0}^{T} 1 \mathrm{d}t = T
 ```
+> Energy is related to period
+
+```math
+P_T = \frac_{1}{T} E_T = 1
+```
+> Average power in period
+
 
 ## :signal_strength: Discrete Time Signal
 
