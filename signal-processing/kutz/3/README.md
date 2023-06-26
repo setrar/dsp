@@ -161,4 +161,14 @@ e^{ i (\omega + 2 \pi) n} = e^{ i \omega n } e ^{i 2 \pi n } = e^{i \omega n}
   \end{cases}
 ```
 
+- Fundamental Period
 
+```math
+e^{ i \omega (n + N) } = e^{ i \omega n }
+  \begin{cases}
+     \text { Period N } e^{i \omega N} = 1 \\
+     \text { Periodicity Condition } \omega N = 2 \pi N \to \frac(\omega}{2 \pi} = \frac{n}{N} \\
+           \quad \omega \in [0, 2 \pi] \\
+           \quad \omega \in [-\pi,\pi]
+  \end{cases}
+```
