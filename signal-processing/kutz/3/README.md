@@ -95,7 +95,7 @@ x(t) = A \cos( \omega t + \phi ) \to
 - [ ] Power and Energy
 
 ```math
-E_T = \int_{0}^{T} | e^{i \omega t} | \mathrm{d}t
+E_T = \int_{0}^{T} | e^{i \omega t} | \mathrm{d}t = \int_{0}^{T} 1 \mathrm{d}t = T
 ```
 
 ## :signal_strength: Discrete Time Signal
