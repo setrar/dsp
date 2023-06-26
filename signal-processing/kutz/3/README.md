@@ -118,9 +118,9 @@ e^{i2\pi} = 1 \to e^{i2\pi n} = 1
 
 <img src=images/fundamental-period.png width='50%' height='50%' > </img>
 
-
-
-
+|  |   |
+|-------------------------------|------------------------------------------------|
+| <img src=images/r_and_i-parts.png width='' height='' > </img>  |  <img src=images/r_and_i-blowing-parts.png width='' height='' > </img> |
 
 ## :signal_strength: Discrete Time Signal
 
@@ -132,11 +132,6 @@ e^{i2\pi} = 1 \to e^{i2\pi n} = 1
   \end{cases}
 ```
 
-|  |   |
-|-------------------------------|------------------------------------------------|
-| <img src=images/r_and_i-parts.png width='' height='' > </img>  |  <img src=images/r_and_i-blowing-parts.png width='' height='' > </img> |
-
-
 - [ ] Discrete Sinusoidal Signals
 
 ```math
@@ -146,7 +141,6 @@ x[n] = e^{ i \omega n }
      \text { Note }  & \quad x[n] = C \alpha ^ n \to | \alpha \ = 1
   \end{cases}
 ```
-
 
 |  |   |
 |-------------------------------|------------------------------------------------|
