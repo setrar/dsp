@@ -70,7 +70,7 @@ x(t) = \mathrm{e}^{i \omega t}
 - [ ] General Sinusoidal
 
 ```math
-x(t) = A \cos( \omega t + \theta ) \to
+x(t) = A \cos( \omega t + \phi ) \to
   \begin{cases}
     A      & \quad \text { Amplitude ( Energy ) } \\
     \omega & \quad \text { Frequency ( based on your electromagnetique spectrum ) } \\
@@ -83,9 +83,9 @@ x(t) = A \cos( \omega t + \theta ) \to
 - [ ] Exponentials and sinusoids
 
 ```math
-x(t) = A \cos( \omega t + \theta ) \to
+x(t) = A \cos( \omega t + \phi ) \to
   \begin{cases}
-     \text { In exponential form } & \quad A \cos( \omega t + \theta ) = \frac{A}{2} e^{i \theta} e^{i \omega t} + \frac{A}{2} e^{-i \theta} e^{-i \omega t}\\
+     \text { In exponential form } & \quad A \cos( \omega t + \phi ) = \frac{A}{2} e^{i \phi} e^{i \omega t} + \frac{A}{2} e^{-i \phi} e^{-i \omega t}\\
      \text { Alternatively } & \omega
   \end{cases}
 ```
