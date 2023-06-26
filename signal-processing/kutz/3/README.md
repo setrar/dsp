@@ -128,14 +128,10 @@ e^{i2\pi} = 1 \to e^{i2\pi n} = 1
 ## :signal_strength: Discrete Time Signal
 
 ```math
-x[n] = C \alpha ^ n
-```
-
-```math
 \text { two forms of representation } \, ( \alpha = e^{\beta} ) \to
   \begin{cases}
-     C \alpha ^{n} \\
-     C e ^{\beta n}
+     x[n] = C \alpha ^ n \\
+     x[n] = C e ^ {\beta n}
   \end{cases}
 ```
 
