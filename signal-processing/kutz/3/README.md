@@ -172,7 +172,7 @@ e^{ i \omega (n + N) } = e^{ i \omega n }
   \end{cases}
 ```
 
-|  |   |
+|  | Repeating Signals  |
 |-------------------------------|------------------------------------------------|
 | <img src=images/discrete-fundamental-period.png width='' height='' > </img> | <img src=images/discrete-fundamental-period-colored.png width='' height='' > </img> |
 
