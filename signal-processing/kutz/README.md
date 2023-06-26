@@ -25,7 +25,7 @@ The lectures are from the textbook Oppenheim, Willsky and Nawab, "Systems and Si
 | Lecture[(5)](5)    | Properties of Signals                  |
 | Lecture[(6)](6)    | LTI Systems                            |
 | Lecture[(7)](7)    | Continuous LTI Systems                 |
-| Lecture[(8)](8)    | [LTI System Properties                 |
+| Lecture[(8)](8)    | LTI System Properties                  |
 | Lecture[(10)](10)  | Singular Functions                     |
 | Lecture[(11)](11)  | Fourier Series                         |
 | Lecture[(12)](12)  | Discrete Fourier Series                |
