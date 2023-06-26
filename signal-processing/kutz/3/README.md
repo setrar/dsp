@@ -130,8 +130,8 @@ e^{i2\pi} = 1 \to e^{i2\pi n} = 1
 ```math
 \text { two forms of representation } \, ( \alpha = e^{\beta} ) \to
   \begin{cases}
-     x[n] = C \alpha ^ n \\
-     x[n] = C e ^ {\beta n}
+     \quad x[n] = C \alpha ^ n \\
+     \quad x[n] = C e ^ {\beta n}
   \end{cases}
 ```
 
