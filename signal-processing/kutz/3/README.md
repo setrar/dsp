@@ -132,10 +132,10 @@ x[n] = C \alpha ^ n
 ```
 
 ```math
-\text { two forms of representation } \, ( \alpha = e^{\beta}  \to
+\text { two forms of representation } \, ( \alpha = e^{\beta} ) \to
   \begin{cases}
-     c \alpha ^{n} \\
-     c e ^{\beta n}
+     C \alpha ^{n} \\
+     C e ^{\beta n}
   \end{cases}
 ```
 
