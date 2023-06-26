@@ -78,5 +78,7 @@ x(t) = A \cos( \omega t + \theta ) \to
   \end{cases}
 ```
 
+<img src=images/general-sinusoidal-graph.png width='40%' height='40%' > </img>
+
 ## :signal_strength: Discrete Time Signal
 
