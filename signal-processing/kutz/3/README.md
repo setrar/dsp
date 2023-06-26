@@ -180,7 +180,8 @@ e^{ i \omega (n + N) } = e^{ i \omega n }
 <img src=images/comparison-continuous-discrete.png width='' height='' > </img>
 
 
-## [:back:](..)
+## [:back: ](../#round_pushpin-signal-processing-an-introduction)
+
 
 
 
