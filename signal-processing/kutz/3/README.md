@@ -73,7 +73,7 @@ x(t) = \mathrm{e}^{i \omega t}
 x(t) = A \cos( \omega t + \theta ) \to
   \begin{cases}
     A      & \quad \text { Amplitude ( Energy ) } \\
-    \omega & \quad \text { Frequency ( based on your electromagnetique ) } \\
+    \omega & \quad \text { Frequency ( based on your electromagnetique spectrum ) } \\
     \theta & \quad \text { Phase ( Center of Time )}
   \end{cases}
 ```
