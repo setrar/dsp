@@ -72,9 +72,9 @@ x(t) = \mathrm{e}^{i \omega t}
 ```math
 x(t) = A \cos( \omega t + \theta ) \to
   \begin{cases}
-    A      & \quad \text { Amplitude } \\
-    \omega & \quad \text { Frequency } \\
-    \theta & \quad \text { Phase }
+    A      & \quad \text { Amplitude ( Energy ) } \\
+    \omega & \quad \text { Frequency ( based on your electromagnetique ) } \\
+    \theta & \quad \text { Phase ( Center of Time )}
   \end{cases}
 ```
 
