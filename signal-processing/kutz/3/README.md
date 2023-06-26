@@ -70,7 +70,7 @@ x(t) = \mathrm{e}^{i \omega t}
 \mathrm{e}^{ i \omega t} = \mathrm{e}^{ i \omega ( t + T ) } \to
   \begin{cases}
     \mathrm{e}^{ i \omega t} = \mathrm{e}^{ i \omega t } \mathrm{e}^{ i \omega T }  & \quad \text { extracting Period T }  \\
-    \mathrm{e}^{ i \omega t} = 1                                                    & \quad \text { This is the Period requirement }  \\
+    \mathrm{e}^{ i \omega t} = 1                                                    & \quad \to \text { This is the Period requirement }  \\
     \mathrm{e}^{ i 2 \alpha } = 1                                                   & \quad \text { Note }  \\
     2 \pi = \omega T \to T = \frac{ 2 \pi }{ | \omega | }                           & \quad \text { Period }
   \end{cases}
