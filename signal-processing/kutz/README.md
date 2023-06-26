@@ -14,7 +14,7 @@ Numerical methods and scientific computing, data analysis and dimensionality red
 
 ## :round_pushpin: Signal Processing: An Introduction
 
-[(Youtube Playlist)](https://www.youtube.com/playlist?list=PL6Vi_EcJpt8E96_JTKoOKY3HYWVGjf6b4) 
+[:tv: Signal Processing: An Introduction (Youtube Playlist)](https://www.youtube.com/playlist?list=PL6Vi_EcJpt8E96_JTKoOKY3HYWVGjf6b4) 
 
 The lectures are from the textbook Oppenheim, Willsky and Nawab, "Systems and Signals".
 
