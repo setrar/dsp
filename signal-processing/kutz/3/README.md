@@ -70,7 +70,12 @@ x(t) = \mathrm{e}^{i \omega t}
 - [ ] General Sinusoidal
 
 ```math
-x(t) = A \cos( \omega t + \theta )
+x(t) = A \cos( \omega t + \theta \to
+  \begin{cases}
+    A      & \quad \text { Amplitude } \\
+    \omega & \quad \text { Frequency } \\
+    \theta & \quad \text { Phase }
+  \end{cases}
 ```
 
 ## :signal_strength: Discrete Time Signal
