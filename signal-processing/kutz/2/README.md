@@ -71,6 +71,12 @@ x(t) \to x(-t)
 x[n] \to x[-n]
 ```
 
+```scilab
+fs=22050;
+t=(0:2*fs-1);
+plot(t);
+```
+
 | Continuous Reflection | Discrete Reflection  |
 |-------------------------------|------------------------------------------------|
 | <img src=images/reflection-continuous-graphically.png width='' height='' > </img> | <img src=images/reflection-discrete-graphically.png width='' height='' > </img>  |
