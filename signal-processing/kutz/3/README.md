@@ -149,5 +149,16 @@ x[n] = e^{ i \omega n }
 
 <img src=images/discrete-sinusoidal-signals.png width='50%' height='50%' > </img>
 
+- [ ] Periodicity
+
+```math
+e^{ i (\omega + 2 \pi) n} = e^{ i \omega n } e ^{i 2 \pi n } = e^{i \omega n}
+  \begin{cases}
+     \text { Signal at } \omega & \quad \text { is identical to } ( \omega + 2 \pi n ) \\
+     \text { Pick }  \\
+                                   & \quad \omega \in [0, 2 \pi] \\
+                                   & \quad \omega \in [-\pi,\pi]
+  \end{cases}
+```
 
 
