@@ -147,5 +147,7 @@ x[n] = e^{ i \omega n }
   \end{cases}
 ```
 
+<img src=images/discrete-sinusoidal-signal.png width='50%' height='50%' > </img>
+
 
 
