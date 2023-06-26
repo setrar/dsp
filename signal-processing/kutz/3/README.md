@@ -116,9 +116,17 @@ e^{i2\pi} = 1 \to e^{i2\pi n} = 1
 2 \pi n = \omega T \quad n = 0, \pm 1, \pm 2, \dots 
 ```
 
+|  |   |
+|-------------------------------|------------------------------------------------|
+| <img src=images/r_and_i-blowing-parts.png width='' height='' > </img> | <img src=images/r_and_i-parts.png width='' height='' > </img>  |
+
+
+
+
 ## :signal_strength: Discrete Time Signal
 
 ```math
 x[n] = C \alpha ^ n
 ```
+
 
