@@ -65,7 +65,12 @@ x(t) = \mathrm{e}^{i \omega t}
    & \quad \text { Smallest T for which this holds } \\
    & \quad 2 \pi = \omega T \to T = \frac{ 2 \pi }{ | \omega | }
   \end{cases}
+```
 
+- [ ] General Sinusoidal
+
+```math
+x(t) = A \cos( \omega t + \theta )
 ```
 
 ## :signal_strength: Discrete Time Signal
