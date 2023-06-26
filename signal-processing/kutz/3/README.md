@@ -87,8 +87,8 @@ x(t) = A \cos( \omega t + \phi ) \to
   \begin{cases}
      \text { In exponential form } & \quad A \cos( \omega t + \phi ) = \frac{A}{2} e^{i \phi} e^{i \omega t} + \frac{A}{2} e^{-i \phi} e^{-i \omega t}\\
      \text { Alternatively }  \\
-      & \quad A \cos( \omega t + \phi ) = A \mathfrak{R} \{ e^{i( \omega t + \phi)} \} \\
-      & \quad A \cos( \omega t + \phi ) = A \mathfrak{R} \{ e^{i( \omega t + \phi)} \}
+                                   & \quad A \cos( \omega t + \phi ) = A \mathfrak{R} \{ e^{i( \omega t + \phi)} \} \\
+                                   & \quad A \sin( \omega t + \phi ) = A \mathfrak{I} \{ e^{i( \omega t + \phi)} \}
   \end{cases}
 ```
 
