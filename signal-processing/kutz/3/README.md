@@ -177,7 +177,7 @@ e^{ i \omega (n + N) } = e^{ i \omega n }
 | <img src=images/discrete-fundamental-period.png width='' height='' > </img> | <img src=images/discrete-fundamental-period-colored.png width='' height='' > </img> |
 
 
-<img src=images/comparison-continuous-discrete.png width='70%' height='70%' > </img>
+<img src=images/comparison-continuous-discrete.png width='' height='' > </img>
 
 
 
