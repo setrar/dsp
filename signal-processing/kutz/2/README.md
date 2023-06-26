@@ -72,9 +72,16 @@ x[n] \to x[-n]
 ```
 
 ```scilab
+// sampling rate of the input signal, in Hz. 22050 Hz being the default rate.
 fs=22050;
 t=(0:2*fs-1);
 plot(t);
+
+w0=2 * %pi;
+
+y=sin( w0 * 1000 * t);
+
+plot(y);
 ```
 
 | Continuous Reflection | Discrete Reflection  |
