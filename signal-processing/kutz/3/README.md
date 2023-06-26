@@ -154,10 +154,10 @@ x[n] = e^{ i \omega n }
 ```math
 e^{ i (\omega + 2 \pi) n} = e^{ i \omega n } e ^{i 2 \pi n } = e^{i \omega n}
   \begin{cases}
-     \text { Signal at } \omega & \, \text { is identical to } ( \omega + 2 \pi n ) \\
+     \text { Signal at } \omega & \: \text { is identical to } ( \omega + 2 \pi n ) \\
      \text { Pick }  \\
-                                & \, \omega \in [0, 2 \pi] \\
-                                & \, \omega \in [-\pi,\pi]
+                                & \: \omega \in [0, 2 \pi] \\
+                                & \: \omega \in [-\pi,\pi]
   \end{cases}
 ```
 
