@@ -118,3 +118,7 @@ e^{i2\pi} = 1 \to e^{i2\pi n} = 1
 
 ## :signal_strength: Discrete Time Signal
 
+```math
+x[n] = C \alpha ^ n
+```
+
