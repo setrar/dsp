@@ -1,6 +1,6 @@
 :one: [Introduction to Signal Processing: An Overview (Lecture 1)](https://www.youtube.com/watch?v=kjw6W0SZe04&t=0s) 
 
-[Signal Processsing](https://en.wikipedia.org/wiki/Signal_processing) is an electrical engineering subfield that focuses on analyzing, modifying and synthesizing (i.e [System analisys](https://en.wikipedia.org/wiki/System_analysis) ) signals, such as sound, images, potential fields, seismic signals, altimetry processing, and scientific measurements.[1] Signal processing techniques are used to optimize transmissions, digital storage efficiency, correcting distorted signals, subjective video quality and to also detect or pinpoint components of interest in a measured signal.[2]
+[Signal Processsing](https://en.wikipedia.org/wiki/Signal_processing) is an electrical engineering subfield that focuses on analyzing, modifying and synthesizing (i.e [System analysis](https://en.wikipedia.org/wiki/System_analysis) ) signals, such as sound, images, potential fields, seismic signals, altimetry processing, and scientific measurements.[1] Signal processing techniques are used to optimize transmissions, digital storage efficiency, correcting distorted signals, subjective video quality and to also detect or pinpoint components of interest in a measured signal.[2]
 
 - [ ] Diversity of signals
 
