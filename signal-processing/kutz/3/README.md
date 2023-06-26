@@ -118,7 +118,7 @@ e^{i2\pi} = 1 \to e^{i2\pi n} = 1
 
 |  |   |
 |-------------------------------|------------------------------------------------|
-| <img src=images/r_and_i-blowing-parts.png width='' height='' > </img> | <img src=images/r_and_i-parts.png width='' height='' > </img>  |
+| <img src=images/r_and_i-parts.png width='' height='' > </img>  |  <img src=images/r_and_i-blowing-parts.png width='' height='' > </img> |
 
 
 
