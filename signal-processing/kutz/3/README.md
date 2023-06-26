@@ -58,10 +58,10 @@ x(t) = \mathrm{e}^{i \omega t}
 ```math
 \mathrm{e}^{ i \omega t} = \mathrm{e}^{ i \omega ( t + T ) } \to
   \begin{cases}
-    \mathrm{e}^{ i \omega t} = \mathrm{e}^{ i \omega t } \mathrm{e}^{ i \omega T }  & \quad \text { extracting Period T }  \\
-    \mathrm{e}^{ i \omega t} = 1                                                    & \quad \to \text { This is the Period requirement }  \\
-    \mathrm{e}^{ i 2 \alpha } = 1                                                   & \quad \text { Note }  \\
-    2 \pi = \omega T \to T = \frac{ 2 \pi }{ | \omega | }                           & \quad \text { Period }
+    \text { Period T }            & \quad \mathrm{e}^{ i \omega t} = \mathrm{e}^{ i \omega t } \mathrm{e}^{ i \omega T }  \\
+    \text { Period requirement }  & \quad \mathrm{e}^{ i \omega t} = 1                                                    \\
+    \text { Note }                & \quad \mathrm{e}^{ i 2 \alpha } = 1                                                   \\
+    \text { Period }              & \quad 2 \pi = \omega T \to T = \frac{ 2 \pi }{ | \omega | }                           
   \end{cases}
 ```
 
