@@ -168,6 +168,6 @@ e^{ i \omega (n + N) } = e^{ i \omega n }
   \begin{cases}
      \text { Period N }              & \quad e^{i \omega N} = 1 \\
      \text { Periodicity Condition } & \quad \omega N = 2 \pi N \to \frac{\omega}{2 \pi} = \frac{n}{N} \\
-     \text { {\color{red}Fundamental Period} }    & \quad {\color{red} N = n( \frac{2 \pi}{\omega}) }
+     \text { {\color{blue}Fundamental Period} }    & \quad {\color{blue} N = n( \frac{2 \pi}{\omega}) }
   \end{cases}
 ```
