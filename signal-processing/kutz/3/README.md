@@ -45,10 +45,6 @@ x(t) = \mathrm{e}^{i \omega t}
   \end{cases}
 ```
 
-```math
-\text { Defines signals in terms of frequencies }
-```
-
 * Imaginary Exponentials are Periodic
 
 ```math
