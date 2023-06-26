@@ -85,7 +85,8 @@ x(t) = A \cos( \omega t + \theta ) \to
 ```math
 x(t) = A \cos( \omega t + \theta ) \to
   \begin{cases}
-     \text { In exponential form } & \quad A \cos( \omega t + \theta ) = \frac{A}{2} \e^{i \theta}\e^{i \omega t} \\
+     \text { In exponential form } & \quad A \cos( \omega t + \theta ) = \frac{A}{2} \e^{i \theta} \e^{i \omega t} \\
+     \text { Alternatively } & \omega
   \end{cases}
 ```
 
