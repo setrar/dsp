@@ -16,14 +16,14 @@ Numerical methods and scientific computing, data analysis and dimensionality red
 
 The lectures are from the textbook Oppenheim, Willsky and Nawab, "Systems and Signals".
 
-| :hash:  |  Episodes                             | 
+| Lecture(:hash:)  |  Episodes                             | 
 |---------|---------------------------------------|
-| :one:   | [An Overview (Lecture 1)](1)          |
-| :two:   | [Basic Signals (Lecture 2)](2)        |
-| :three: | [Exponential Signals (Lecture 3)](3)  |
-| :four:  | [Impulses and Steps (Lecture 4)](4)   |
-| :five:  | [Properties of Signals (Lecture 5)](5)|
-| :six:   | [LTI Systems (Lecture 6)](6)          |
+| Lecture(:one:)   | [An Overview](1)          |
+| Lecture(:two:)   | [Basic Signals](2)        |
+| Lecture(:three:) | [Exponential Signals](3)  |
+| Lecture(:four:)  | [Impulses and Steps](4)   |
+| Lecture(:five:)  | [Properties of Signals](5)|
+| Lecture(:six:)   | [LTI Systems](6)          |
 
 # References
 
