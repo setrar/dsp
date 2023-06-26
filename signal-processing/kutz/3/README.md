@@ -116,6 +116,8 @@ e^{i2\pi} = 1 \to e^{i2\pi n} = 1
 2 \pi n = \omega T \quad n = 0, \pm 1, \pm 2, \dots 
 ```
 
+<img src=images/fundamental-period.png width='50%' height='50%' > </img>
+
 |  |   |
 |-------------------------------|------------------------------------------------|
 | <img src=images/r_and_i-parts.png width='' height='' > </img>  |  <img src=images/r_and_i-blowing-parts.png width='' height='' > </img> |
