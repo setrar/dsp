@@ -21,7 +21,7 @@ The lectures are from the textbook Oppenheim, Willsky and Nawab, "Systems and Si
 | :one:   | [Introduction to Signal Processing: An Overview (Lecture 1)](1)         |
 | :two:   | [Introduction to Signal Processing: Basic Signals (Lecture 2)](2)       |
 | :three: | [Introduction to Signal Processing: Exponential Signals (Lecture 3)](3) |
-| :four:  | [intro](4)|
+| :four:  | [Introduction to Signal Processing: Impulses and Steps (Lecture 4)](4)  |
 | :five:  | |
 | :six:   | [Introduction to Signal Processing: LTI Systems (Lecture 6)](6) |
 
