@@ -41,7 +41,7 @@ x(t) = \mathrm{e}^{i \omega t}
 \text { Euler Formula } \to
   \begin{cases}
     & \quad \mathrm{e}^{\pm i \omega t} = \cos ( \omega t ) \pm i \sin ( \omega t ) \\
-    \text { which defines signals in terms of frequencies }
+    & \quad \text { which defines signals in terms of frequencies }
   \end{cases}
 ```
 
