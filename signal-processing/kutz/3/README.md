@@ -60,13 +60,12 @@ x(t) = \mathrm{e}^{i \omega t}
 - [ ] Fundamental Period
 
 ```math
-\mathrm{e}^{ i 2 \pi } = 1
-```
+\mathrm{e}^{ i 2 \pi } = 1 \to
+  \begin{cases}
+   & \quad \text { Smallest T for which this holds } \\
+   & \quad 2 \pi = \omega T \to T = \frac{ 2 \pi }{ | \omega | }
+  \end{cases}
 
-> SSmallest T for which this holdss
-
-```math
-2 \pi = \omega T \to T = \frac{ 2 \pi }{ | \omega | }
 ```
 
 ## :signal_strength: Discrete Time Signal
