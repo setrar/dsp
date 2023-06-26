@@ -135,5 +135,8 @@ e^{i2\pi} = 1 \to e^{i2\pi n} = 1
   \end{cases}
 ```
 
+|  |   |
+|-------------------------------|------------------------------------------------|
+| <img src=images/real-coefficients.png width='' height='' > </img>  |  <img src=images/real-coefficients-blows.png width='' height='' > </img> |
 
 
