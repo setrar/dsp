@@ -92,7 +92,17 @@ x(t) = A \cos( \omega t + \phi ) \to
   \end{cases}
 ```
 
+- [ ] Power and Energy
 
+- [ ] Time-Averaged Signal Power
+
+```math
+E_T = \int_{0}^{T} | e^{i \omega t} | \mathrm{d}t
+```
+
+```math
+P_\infty = \lim\limits_{N \to \infty} \frac{1}{2N + 1} \sum_{n=-N}^{N} | x[t] |^2
+```
 
 ## :signal_strength: Discrete Time Signal
 
