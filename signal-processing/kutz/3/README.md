@@ -29,6 +29,16 @@ A v = \lambda v
 \text{ eigenvalue problem }
 ```
 
+```math
+\dot{x} = A x \to
+  \begin{cases}
+    \text { Assume }  & \quad x = v exp(\lambda t) \\
+    \text { Gives  }  & \quad A v = \lambda v \\
+    \text { eigenvalue problem  }
+  \end{cases}
+```
+
+
 * Continuous Time Exponentials
 
 ```math
