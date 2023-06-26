@@ -172,6 +172,6 @@ e^{ i \omega (n + N) } = e^{ i \omega n }
   \end{cases}
 ```
 
-<img src=images/discrete-fundamental-period.png width='50%' height='50%' > </img>
+<img src=images/discrete-fundamental-period.png width='70%' height='70%' > </img>
 
 
