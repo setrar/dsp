@@ -156,8 +156,8 @@ e^{ i (\omega + 2 \pi) n} = e^{ i \omega n } e ^{i 2 \pi n } = e^{i \omega n}
   \begin{cases}
      \text { Signal at } \omega \text { is identical to } ( \omega + 2 \pi n ) \\
      \text { Pick }  \\
-                                \quad \omega \in [0, 2 \pi] \\
-                                \quad \omega \in [-\pi,\pi]
+           \quad \omega \in [0, 2 \pi] \\
+           \quad \omega \in [-\pi,\pi]
   \end{cases}
 ```
 
