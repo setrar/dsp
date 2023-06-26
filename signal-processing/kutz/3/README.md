@@ -80,5 +80,16 @@ x(t) = A \cos( \omega t + \theta ) \to
 
 <img src=images/general-sinusoidal-graph.png width='50%' height='50%' > </img>
 
+- [ ] Exponentials and sinusoids
+
+```math
+x(t) = A \cos( \omega t + \theta ) \to
+  \begin{cases}
+     \text { In exponential form } & \quad A \cos( \omega t + \theta ) = \frac{A}{2} \e^{i \theta}\e^{i \omega t} \\
+  \end{cases}
+```
+
+
+
 ## :signal_strength: Discrete Time Signal
 
