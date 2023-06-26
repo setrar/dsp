@@ -104,6 +104,11 @@ P_T = \frac{1}{T} E_T = 1
 ```
 > Average power in period
 
+- [ ] Harmonics
+
+```math
+2 \pi n = \omega T \quad n = o, \pm 1, \pm 2 
+```
 
 ## :signal_strength: Discrete Time Signal
 
