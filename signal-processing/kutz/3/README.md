@@ -45,13 +45,7 @@ x(t) = \mathrm{e}^{i \omega t}
   \end{cases}
 ```
 
-* Imaginary Exponentials are Periodic
-
-```math
-\mathrm{e}^{ i \omega t} = \mathrm{e}^{ i \omega ( t + T ) }
-```
-
-- Period T
+- [ ] Imaginary Exponentials are Periodic
 
 ```math
 \mathrm{e}^{ i \omega t} = \mathrm{e}^{ i \omega ( t + T ) } \to
