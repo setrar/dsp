@@ -52,7 +52,7 @@ x(t) = \mathrm{e}^{i \omega t}
   \begin{cases}
     \text { extract the Period T }         & \quad \mathrm{e}^{ i \omega t} = \mathrm{e}^{ i \omega t } \mathrm{e}^{ i \omega T }  \\
     \text { with Periodicty requirement }  & \quad \mathrm{e}^{ i \omega t} = 1                                                    \\
-    \text { also Note that }               & \quad \mathrm{e}^{ i 2 \alpha } = 1                                                   \\
+    \text { also Note that }               & \quad \mathrm{e}^{ i 2 \pi } = 1                                                      \\
     \text { so the Period T is }           & \quad 2 \pi = \omega T \to T = \frac{ 2 \pi }{ | \omega | }                           
   \end{cases}
 ```
