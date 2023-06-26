@@ -172,9 +172,9 @@ e^{ i \omega (n + N) } = e^{ i \omega n }
   \end{cases}
 ```
 
-| What if Alpha | is real ?  |
+|  |   |
 |-------------------------------|------------------------------------------------|
-| <img src=images/discrete-fundamental-period.png width='70%' height='70%' > </img> | <img src=images/discrete-fundamental-period-colored.png width='70%' height='70%' > </img> |
+| <img src=images/discrete-fundamental-period.png width='' height='' > </img> | <img src=images/discrete-fundamental-period-colored.png width='' height='' > </img> |
 
 
 
