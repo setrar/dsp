@@ -65,6 +65,17 @@ x(t) = \mathrm{e}^{i \omega t}
   \end{cases}
 ```
 
+- [ ] Fundamental Period
+
+```math
+\mathrm{e}^{ i 2 \pi } = 1
+```
+
+> SSmallest T for which this holdss
+
+```math
+2 \pi = \omega T \to T = \frac{ 2 \pi }{ | \omega | }
+```
 
 ## :signal_strength: Discrete Time Signal
 
