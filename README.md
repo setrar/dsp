@@ -3,7 +3,7 @@
 
 [Signal Processing](https://en.wikipedia.org/wiki/Signal_processing) is a subfield of data processing. [Data processing](https://en.wikipedia.org/wiki/Data_processing) involves manipulating, analyzing, and extracting information from raw data to obtain useful insights or achieve specific objectives. Signal processing specifically focuses on the processing and [analysis](https://en.wikipedia.org/wiki/System_analysis) of signals, which are typically time-varying or spatially varying quantities that represent some form of information.
 
-Signal processing techniques are used to extract, modify, or enhance specific features or information contained within signals. This can involve tasks such as filtering, noise reduction, compression, feature extraction, pattern recognition, and more. By applying various algorithms and methods, signal processing aims to extract meaningful information or transform signals into a more suitable format for further analysis or interpretation.
+Signal processing techniques are used to extract, modify, or enhance specific features or information contained within signals. This can involve tasks such as filtering, noise reduction, compression, feature extraction, pattern recognition, and more. By applying various algorithms and methods, signal processing aims to extract meaningful information or [transform](https://en.wikipedia.org/wiki/Transform_theory) signals into a more suitable format for further analysis or interpretation.
 
 In summary, signal processing is a specialized area within the broader field of data processing, specifically focusing on the processing and analysis of signals to extract useful information or achieve specific objectives.
 
