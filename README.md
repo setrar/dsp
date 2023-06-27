@@ -36,3 +36,4 @@ In summary, signal processing is a specialized area within the broader field of 
 
 - [ ] [Big data signal analysis: better way to store and query signal data](https://stackoverflow.com/questions/36821903/big-data-signal-analysis-better-way-to-store-and-query-signal-data)
 - [ ] [Enabling signal processing over data streams](https://blog.acolyer.org/2017/08/10/enabling-signal-processing-over-data-streams/)
+- [ ] [Basics of Image Proceessing](https://vincmazet.github.io/bip/)
