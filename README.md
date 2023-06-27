@@ -35,3 +35,4 @@ In summary, signal processing is a specialized area within the broader field of 
    > In the field of signal processing and mathematics, various types of transformations are studied, such as Fourier transforms, Laplace transforms, and wavelet transforms. While these transforms have different applications and properties, they all involve the conversion of signals or data from one representation to another. Music transposition can be seen as a specific type of transformation within the realm of music theory and analysis.
 
 - [ ] [Big data signal analysis: better way to store and query signal data](https://stackoverflow.com/questions/36821903/big-data-signal-analysis-better-way-to-store-and-query-signal-data)
+- [ ] [Enabling signal processing over data streams](https://blog.acolyer.org/2017/08/10/enabling-signal-processing-over-data-streams/)
