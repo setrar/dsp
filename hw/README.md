@@ -2,10 +2,13 @@
 
 - [ ] [Ettus Research USRP FPGA HDL Source](https://github.com/EttusResearch/fpga)
 - [ ] [myriadrf](https://myriadrf.org)
-- [ ] [LimeSDR](https://www.crowdsupply.com/lime-micro/limesdr)
 - [ ] [Welcome to the SoapySDR project](https://github.com/pothosware/SoapySDR/wiki)
 
 FPGA
+
+* LimeSDR - An open, full-duplex, USB stick software defined radio
+  - [ ] [LimeSDR](https://www.crowdsupply.com/lime-micro/limesdr)
+  - [ ] [LimeSDR Mini 2.0](https://www.crowdsupply.com/lime-micro/limesdr-mini-2)
 
 - [ ] [Intro to Digital Electronics and FPGAs](https://www.youtube.com/watch?v=-qpfv8KLXOk)
   - [ ] [Programming an FPGA](https://learn.sparkfun.com/tutorials/programming-an-fpga)
