@@ -12,6 +12,18 @@ Want to learn something about a system? `Kick it`
   \end{cases}
 ```
 
+```scilab
+a=0.5;
+n=0:10;
+x=(a)^n;
+a=gca();
+a.thickness = 2;
+a.x_location = "origin";
+a.y_location = "origin";
+plot2d3('gnn',n,x);
+xtitle('','n','D[n]');
+```
+
 
 -  [ ] [Step Function](https://en.wikipedia.org/wiki/Step_function): [Unit Step Function](https://math.mit.edu/~stoopn/18.031/stepanddelta.pdf)
 
