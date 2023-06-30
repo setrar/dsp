@@ -30,6 +30,15 @@ xtitle('δ[n]','n','');
 
 -  [ ] [Step Function](https://en.wikipedia.org/wiki/Step_function): [Unit Step Function](https://math.mit.edu/~stoopn/18.031/stepanddelta.pdf)
 
+```math
+\mathit{u}[n] =
+  \begin{cases}
+    0 \quad n < 0 \\
+    1 \quad n \gt 0
+  \end{cases}
+```
+
+
 and their responses (i.e. [impulse response function](https://en.wikipedia.org/wiki/Impulse_response) or IFR)
 
 
