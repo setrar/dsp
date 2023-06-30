@@ -58,8 +58,6 @@ and their responses (i.e. [impulse response function](https://en.wikipedia.org/w
 {\color{Yellow} \text{ Integration and Differentiation} }
 ```
 
-
-
 <img src=images/relation-delta-unit-function.png width='50%' height='50%' > </img>  
 
 ```math
@@ -129,6 +127,16 @@ Or
 ```math
 {\color{Cerulean} \text{ {Relation between} } \delta(t) \text { and } \mathit{u}(t) }
 ```
+
+```math
+\mathit{u(t)} = \int_{-\infty}^{t} \delta(\tau)d\tau
+```
+
+
+```math
+{\color{Yellow} \text{ Integration and Differentiation} }
+```
+
 
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
