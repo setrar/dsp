@@ -16,6 +16,7 @@ FPGA
 - [ ] [Exploring FPGA - The Retro Desk :tv: (Youtube Playlist)](https://www.youtube.com/playlist?list=PLPSrOWYluVLJxqlrWqjZWQ1B4bBgrQ42G)
   - [ ] [Documentation for Chinese ALTERA Cyclone IV EP4CE6 FPGA Development Board](https://github.com/SlithyMatt/Altera-Cyclone-IV-board-V3.0)
 
+- [ ] [Elektor TV : Hello FPGA – Getting Started with Microchip FPGAs](https://youtu.be/zcaZxu010cg)
 
 # References
 - [ ] [	LTESniffer – An Open-Source LTE Downlink/Uplink Eavesdropper (github.com/syssec-kaist)](https://news.ycombinator.com/item?id=35952206)
