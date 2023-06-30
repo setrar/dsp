@@ -44,9 +44,12 @@ and their responses (i.e. [impulse response function](https://en.wikipedia.org/w
 <img src=images/unit-step-function.png width='50%' height='50%' > </img>  
 
 ```math
-\left \text{ Relation between } \delta[n] \text {  and } \mathit{u}[n]
+\text{ Relation between } \delta[n] \text {  and } \mathit{u}[n]
 ```
 
+Integration and Differentiation
+
+<img src=images/relation-delta-unit-function.png width='50%' height='50%' > </img>  
 
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
