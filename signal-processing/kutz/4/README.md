@@ -13,9 +13,8 @@ Want to learn something about a system? `Kick it`
 ```
 
 ```scilab
-a=1;
 n=-5:5;
-x=(a)^n;
+x=1;
 a=gca();
 a.thickness = 2;
 a.x_location = "origin";
