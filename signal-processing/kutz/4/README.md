@@ -129,7 +129,7 @@ Or
 ```
 
 ```math
-\mathit{u(t)} = \int_{-\infty}^{t} \delta(\tau)d\tau
+\mathit{u(t)} = \int_{-\infty}^{t} \delta(\tau)\mathit{d\tau}
 ```
 
 
