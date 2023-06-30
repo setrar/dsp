@@ -55,6 +55,13 @@ Integration and Differentiation
 \delta[n] = \mathit{u}[n] - \mathit{u}[n - 1]
 ```
 
+And
+
+```math
+ \mathit{u}[n] = \sum_{-\inft}^{\inft} \delta[n]
+```
+
+
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
 
