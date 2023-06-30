@@ -2,6 +2,13 @@
 
 Lecture focuses on :
 -  [ ] Impulse Function: [Dirac Delta Function](https://en.wikipedia.org/wiki/Dirac_delta_function)
+Want to learn something about a system? `Kick it`
+
+```math
+\delta[n] =
+```
+
+
 -  [ ] [Step Function](https://en.wikipedia.org/wiki/Step_function): [Unit Step Function](https://math.mit.edu/~stoopn/18.031/stepanddelta.pdf)
 
 and their responses (i.e. [impulse response function](https://en.wikipedia.org/wiki/Impulse_response) or IFR)
