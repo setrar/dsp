@@ -43,5 +43,11 @@ and their responses (i.e. [impulse response function](https://en.wikipedia.org/w
 
 <img src=images/unit-step-function.png width='50%' height='50%' > </img>  
 
+```math
+\text {"Relation between "] \delta[n] \text { " and "} \mathit{u}[n]
+```
+
+
+
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
 
