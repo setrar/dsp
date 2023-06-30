@@ -132,6 +132,10 @@ Or
 \mathit{u(t)} = \int_{-\infty}^{t} \delta(\tau)\mathit{d\tau}
 ```
 
+```math
+\mathit{\delta(t)} = \frac{\mathit{u(t)}(\mathit{dt}
+```
+
 
 ```math
 {\color{Yellow} \text{ Integration and Differentiation} }
