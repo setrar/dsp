@@ -67,7 +67,7 @@ Alternatively
  \mathit{u}[n] = \sum_{k=0}^{\infty} \delta[n - k]
 ```
 
-
+<img src=images/interval-of-summation.png width='50%' height='50%' > </img>
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
 
