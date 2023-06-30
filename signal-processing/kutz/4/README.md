@@ -51,6 +51,10 @@ Integration and Differentiation
 
 <img src=images/relation-delta-unit-function.png width='50%' height='50%' > </img>  
 
+```math
+\delta[n] = \mathit{u}[n] - \mathit{u}[n - 1]
+```
+
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
 
