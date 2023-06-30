@@ -13,13 +13,14 @@ Want to learn something about a system? `Kick it`
 ```
 
 ```scilab
-n=-5:5;
-x=1;
+n = -5:5;
+delta_sequence = zeros(1,11);
+delta_sequence(6) = 1;
 ha=gca();
 ha.thickness = 2;
 ha.x_location = "origin";
 ha.y_location = "origin";
-plot2d3('gnn',n,x);
+plot2d3('gnn',n,delta_sequence)
 xtitle('δ[n]','n','');
 ```
 
