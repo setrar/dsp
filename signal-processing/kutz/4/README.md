@@ -82,7 +82,7 @@ Or
 ```
 
 ```math
-\text { {\color{Cerulean}Critical property} }
+\text { {\color{green}Critical property} }
 ```
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
