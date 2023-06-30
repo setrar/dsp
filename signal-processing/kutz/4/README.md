@@ -58,7 +58,7 @@ Integration and Differentiation
 And
 
 ```math
- \mathit{u}[n] = \sum_{-\infty}^{\infty} \delta[n]
+ \mathit{u}[n] = \sum_{m=-\infty}^{\infty} \delta[m]
 ```
 
 
