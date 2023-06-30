@@ -41,6 +41,7 @@ xtitle('δ[n]','n','');
 
 and their responses (i.e. [impulse response function](https://en.wikipedia.org/wiki/Impulse_response) or IFR)
 
+<img src=images/unit-step-function.png width='50%' height='50%' > </img>  
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
 
