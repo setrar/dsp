@@ -34,7 +34,7 @@ xtitle('δ[n]','n','');
 \mathit{u}[n] =
   \begin{cases}
     0 \quad n < 0 \\
-    1 \quad n \gte 0
+    1 \quad n >= 0
   \end{cases}
 ```
 
