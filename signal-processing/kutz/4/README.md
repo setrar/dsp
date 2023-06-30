@@ -69,5 +69,12 @@ Alternatively
 
 <img src=images/interval-of-summation.png width='50%' height='50%' > </img>
 
+- [ ] Sifting property (of the delta function)
+
+```math
+\mathit{x}[n]\delta[n] = \mathit{x}[0]\delta[n]
+```
+
+
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
 
