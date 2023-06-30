@@ -95,6 +95,10 @@ Or
   \end{cases}
 ```
 
+```math
+\text { {\color{green}But it integrates to unity} }
+```
+
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
 
