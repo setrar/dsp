@@ -121,12 +121,12 @@ Or
 \text { {\color{green}Discontinuous at t=0} }
 ```
 
+<img src=images/unit-step-continuous.png width='50%' height='50%' > </img>
+
 ```math
 {\color{Cerulean} \text{ {Relation between} } \delta(t) \text { and } \mathit{u}(t) }
 ```
 
-
-<img src=images/unit-step-continuous.png width='50%' height='50%' > </img>
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
 
