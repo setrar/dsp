@@ -6,6 +6,10 @@ Want to learn something about a system? `Kick it`
 
 ```math
 \delta[n] =
+  \begin{cases}
+    0 \quad n \neq 0 \\
+    1 \quad n = 0
+  \end{cases}
 ```
 
 
