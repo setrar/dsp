@@ -81,5 +81,9 @@ Or
 \mathit{x}[n]\delta[n - n_0] = \mathit{x}[n_0]\delta[n - n_0]
 ```
 
+```math
+\text { {\color{Cerulean}Critical property} }
+```
+
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
 
