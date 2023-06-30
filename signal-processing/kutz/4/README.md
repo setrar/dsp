@@ -75,6 +75,11 @@ Alternatively
 \mathit{x}[n]\delta[n] = \mathit{x}[0]\delta[n]
 ```
 
+Or 
+
+```math
+\mathit{x}[n]\delta[n - n_0] = \mathit{x}[n_0]\delta[n - n_0]
+```
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
 
