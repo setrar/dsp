@@ -15,10 +15,10 @@ Want to learn something about a system? `Kick it`
 ```scilab
 n=-5:5;
 x=1;
-a=gca();
-a.thickness = 2;
-a.x_location = "origin";
-a.y_location = "origin";
+ha=gca();
+ha.thickness = 2;
+ha.x_location = "origin";
+ha.y_location = "origin";
 plot2d3('gnn',n,x);
 xtitle('δ[n]','n','');
 ```
