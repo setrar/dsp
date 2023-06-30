@@ -54,8 +54,11 @@ and their responses (i.e. [impulse response function](https://en.wikipedia.org/w
 \text { {\color{green}But it integrates to unity} }
 ```
 
+```math
+{\color{Yellow} \text{ Integration and Differentiation} }
+```
 
-Integration and Differentiation
+
 
 <img src=images/relation-delta-unit-function.png width='50%' height='50%' > </img>  
 
