@@ -88,7 +88,7 @@ Or
 \text { {\color{green}Critical property} }
 ```
 
-- [ ] Delta Function (continuous)
+- [ ] The Delta Function (continuous)
 
 ```math
 \delta(t) =
@@ -100,6 +100,20 @@ Or
 
 ```math
 \text { {\color{green}But it integrates to unity} }
+```
+
+- [ ] The Unit Step Function (continuous)
+
+```math
+\mathit{u(t)} =
+  \begin{cases}
+    0 \quad t < 0 \\
+    1 \quad t \geq 0
+  \end{cases}
+```
+
+```math
+\text { {\color{green}Discontinuous at t=0} }
 ```
 
 
