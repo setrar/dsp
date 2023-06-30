@@ -2,6 +2,7 @@
 
 Lecture focuses on :
 -  [ ] Impulse Function: [Dirac Delta Function](https://en.wikipedia.org/wiki/Dirac_delta_function)
+
 Want to learn something about a system? `Kick it`
 
 ```math
