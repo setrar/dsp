@@ -12,7 +12,7 @@ Want to learn something about a system? `Kick it`
   \end{cases}
 ```
 
-<img src=imagges/dirac-delta-function.png width='50%' height='50%' > </img>
+<img src=images/dirac-delta-function.png width='50%' height='50%' > </img>
 
 ```scilab
 n = -5:5;
