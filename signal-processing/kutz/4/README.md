@@ -61,6 +61,12 @@ And
  \mathit{u}[n] = \sum_{m=-\infty}^{\infty} \delta[m]
 ```
 
+Alternatively
+
+```math
+ \mathit{u}[n] = \sum_{k=0}^{\infty} \delta[n - k]
+```
+
 
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
