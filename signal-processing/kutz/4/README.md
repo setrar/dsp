@@ -85,5 +85,16 @@ Or
 \text { {\color{green}Critical property} }
 ```
 
+- [ ] Delta Function (continuous)
+
+```math
+\delta(t) =
+  \begin{cases}
+    0 \quad t \neq 0 \\
+    \infty \quad t = 0
+  \end{cases}
+```
+
+
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
 
