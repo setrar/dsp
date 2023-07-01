@@ -104,8 +104,17 @@ flowchart LR
 ```
 
 ```math
+{\color{Purple} \text{ Memory system } }
+```
+
+```math
 y[n] = x[n - 1]
 ```
+
+```math
+{\color{Green} \text{ Accumulator/Summer } }
+```
+
 
 ```math
 y[n] = \sum_{k=-\infty}^{n} x[k]
@@ -116,12 +125,26 @@ y(t) = \int_{-\infty}^{t} x(\tau)d\tau
 ```
 
 ```math
-{\color{Purple} \text{ Memory system } }
+{\color{Yellow} \text{ Invertible } }
 ```
 
 ```math
-{\color{Green} \text{ Accumulator/Summer } }
+{\color{Purple} \text{ Transform } }
 ```
+
+```math
+y(t) = 2x(t)
+```
+
+```math
+{\color{Purple} \text{ Invert } }
+```
+
+```math
+w(t) = \frac{1}{2} y(t)
+```
+
+
 
 
 
