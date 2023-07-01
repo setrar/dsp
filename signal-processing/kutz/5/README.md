@@ -114,8 +114,13 @@ y[n] = \sum_{k=-\infty}^{n} x[k]
 ```math
 {\color{Purple} \text{ Memory system } }
 ```
+
 ```math
 {\color{Green} \text{ Accumulator/Summer } }
+```
+
+```math
+y(t) = \int_{-\infty}^{t} x(\tau)d\tau
 ```
 
 
