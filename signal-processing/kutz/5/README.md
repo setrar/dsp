@@ -67,7 +67,7 @@ C -->|Output| *
 
 ```mermaid
 flowchart LR
-    A[Input] --> B{}
+    A[Input] --> B{.}
     B -->|Yes| C[OK]
     C --> D[Rethink]
     D --> B
