@@ -161,7 +161,8 @@ y(t) = x^2(t)
 
 $${
 \color{Green} \mathbf{ 
-CAUSALITY 
+CAUSALITY IS SO TIRING
+BUT WE WILL SEE
 } 
 }$$
 
