@@ -68,10 +68,10 @@ C -->|Output| *
 ```mermaid
 flowchart LR
     A[Input] --> B{.}
-    B -->|Yes| C[OK]
-    C --> D[Rethink]
-    D --> B
-    B ---->|No| E[End]
+    B --> C
+    B ----> C
+    C --> E{.}
+    E --> F
 ```
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
