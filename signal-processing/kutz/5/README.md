@@ -108,7 +108,14 @@ y[n] = x[n - 1]
 ```
 
 ```math
-y[n] = \sum_{k=-\infty}{t} x[k]
+y[n] = \sum_{k=-\infty}^{n} x[k]
+```
+
+```math
+{\color{Purple} \text{ Memory system } }
+```
+```math
+{\color{Green} \text{ Accumulator/Summer } }
 ```
 
 
