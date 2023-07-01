@@ -149,6 +149,14 @@ Or
 {\color{Purple} \text{ Consider the forcing } }
 ```
 
+```math
+f(x) =
+  \begin{cases}
+    f_0(x) \quad x_0 - \xhi < x < x_0 + \xhi \\
+    0 \quad \text { elsewhere }
+  \end{cases}
+
+```
 
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
