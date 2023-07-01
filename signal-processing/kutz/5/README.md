@@ -1,5 +1,6 @@
 [Introduction to Signal Processing: Properties of Signals (Lecture 5)](https://youtu.be/Gw8eE93OyUY)
 
+---
 
 ```math
 {\color{Yellow} \text{ Transforming Signals } }
@@ -27,6 +28,8 @@ flowchart LR
     f-->g("y[n]"):::someclass
     classDef someclass fill:#a2f
 ```
+
+---
 
 ```math
 {\color{Purple} \text{ System Level Processsing } }
