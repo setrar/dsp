@@ -32,6 +32,23 @@ flowchart LR
 {\color{Purple} \text{ System Level Processsing } }
 ```
 
+```math
+{\color{Yellow} \text{ Transforming Signals } }
+```
+
+```math
+x(t) \to y(t)
+```
+
+```math
+x[n] \to y[n]
+```
+
+```math
+{\color{Purple} \text{ System Level Processsing } }
+```
+
+
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
 
