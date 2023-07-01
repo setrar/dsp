@@ -161,8 +161,8 @@ y(t) = x^2(t)
 
 $${
 \color{Green} \mathbf{ 
-CAUSALITY IS SO TIRING \space
-BUT WE WILL SEE
+CAUSALITY \space IS \space SO \space TIRING \space
+BUT \space WE \space WILL \space SEE
 } 
 }$$
 
