@@ -69,7 +69,7 @@ C -->|Output| *
 flowchart LR
     ` -->|Input| B{.}
     B --> C[System1]
-    B ----> D[System2]
+    B --> D[System2]
     C --> E{+}
     D --> E{+}
     E--> |Output| *
@@ -83,12 +83,12 @@ flowchart LR
 flowchart LR
     ` -->|Input| B{.}
     B --> F[System1]
-    F----> C[System2]
-    B ----> D[System3]
+    F --> C[System2]
+    B --> D[System3]
     C --> E{+}
     D --> E{+}
-    E ----> G[System4]
-    G--> |Output| *
+    E --> G[System4]
+    G --> |Output| *
 ```
 
 ```math
@@ -150,8 +150,8 @@ title: (a)
 ---
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR
-    E["x[n]"] -->F[System]
-    F["y(n)"]-->G[Inverse system]
+    E["x[n]"] --> F[System]
+    F -->|"y(n)"| G[Inverse system]
     G["w[n] = x [n]"] --> Z
 ```
 
