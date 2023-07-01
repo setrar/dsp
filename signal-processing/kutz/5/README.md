@@ -2,7 +2,7 @@
 
 ---
 
-$${\color{Yellow} Transforming \space Signals }$$
+$${\color{Yellow} \text{ Transforming Signals} }$$
 
 
 $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
