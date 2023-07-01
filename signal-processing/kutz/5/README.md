@@ -150,7 +150,7 @@ title: (a)
 ---
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR
-    E --> F[System]
+    E -->|t| F[System]
     F --> G[Inverse system]
     G --> Z
 ```
