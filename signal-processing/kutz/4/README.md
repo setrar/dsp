@@ -133,7 +133,7 @@ Or
 ```
 
 ```math
-\mathit{\delta(t)} = \frac{\mathit{u(t)}{\mathit{dt}}
+\mathit{\delta(t)} = \frac{\mathit{u(t)}}{\mathit{dt}}
 ```
 
 
