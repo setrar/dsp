@@ -70,9 +70,9 @@ flowchart LR
     A[Input] --> B{.}
     B --> C[System1]
     B ----> D[System2]
-    C --> E{.}
-    D --> E{.}
-    E --> F
+    C --> E{+}
+    D --> E{+}
+    E[Output] --> F
 ```
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
