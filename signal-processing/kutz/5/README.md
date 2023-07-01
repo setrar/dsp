@@ -1,5 +1,30 @@
 [Introduction to Signal Processing: Properties of Signals (Lecture 5)](https://youtu.be/Gw8eE93OyUY)
 
 
+- [ ] Transforming Signals
+
+```mermaid
+---
+title: (a)
+---
+%%{init: {"flowchart": {"htmlLabels": false}} }%%
+flowchart LR
+    a("x(t)"):::someclass -->b[Continous-Time \n   System]
+    b-->d("y(t)"):::someclass
+    classDef someclass fill:#09f
+```
+
+```mermaid
+---
+title: (b)
+---
+%%{init: {"flowchart": {"htmlLabels": false}} }%%
+flowchart LR
+    e("x[n]"):::someclass -->f[Discrete-Time \n    System]
+    f-->g("y[n]"):::someclass
+    classDef someclass fill:#a2f
+```
+
+
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
 
