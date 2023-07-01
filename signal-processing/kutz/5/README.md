@@ -144,28 +144,6 @@ y(t) = 2x(t)
 w(t) = \frac{1}{2} y(t)
 ```
 
-```mermaid
----
-title: (a)
----
-%%{init: {"flowchart": {"htmlLabels": false}} }%%
-flowchart LR
-    ` -->|"x[n]"| F[System]
-    F -->|"y[n]"| G[Inverse system]
-    G -->|"w[n] = x[n]"| *
-```
-
-```mermaid
----
-title: (b)
----
-%%{init: {"flowchart": {"htmlLabels": false}} }%%
-flowchart LR
-    ` -->|"x(t)"| F["y(t) = 2x(t)"]
-    F -->|"y(t)"| G["w(t) = 1/2y(t)"]
-    G -->|"w(n) = x(t)"| *
-```
-
 <img src=images/invertible.png width='50%' height='50%' > </img>
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
