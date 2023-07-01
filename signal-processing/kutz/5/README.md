@@ -160,7 +160,9 @@ y(t) = x^2(t)
 ```
 
 $${
-\color{Green} \mathbf{ CAUSALITY } 
+\color{Green} \mathbf{ 
+CAUSALITY 
+} 
 }$$
 
 ```math
