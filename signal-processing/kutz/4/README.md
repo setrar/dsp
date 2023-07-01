@@ -210,6 +210,9 @@ I(\xi) = \int_{x_0 - \xi}^{x_0 + \xi} \frac{1}{2 \xi}dx = \frac{1}{2 \xi} \int_{
 {\color{Yellow} \text{ One possible definition } }
 ```
 
+```math
+{\color{Cerulean} \text{ { Only makes sense in context of integration } }
+```
 
 
 
