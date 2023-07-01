@@ -166,7 +166,7 @@ flowchart LR
     G -->|"w(n) = x(t)"| *
 ```
 
-<img src=images/inverttible.png width='50%' height='50%' > </img>
+<img src=images/invertible.png width='50%' height='50%' > </img>
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
 
