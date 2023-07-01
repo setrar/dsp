@@ -194,6 +194,19 @@ f(x) =
 I(\xi) = \int_{x_0 - \xi}^{x_0 + \xi} \frac{1}{2 \xi}dx = \frac{1}{2 \xi} \int_{x_0 - \xi}^{x_0 + \xi} dx = 1
 ```
 
+```math
+{\color{Purple} \text{ Dirac delta function } }
+```
+
+```math
+\delta(x - x_0) = \lim_{\xi \to 0]
+  \begin{cases}
+    1/(2 \xi) \quad x_0 - \xi < x < x_0 + \xi \\
+    0 \quad \text { elsewhere }
+  \end{cases}
+```
+
+
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
 
