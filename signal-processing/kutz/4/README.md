@@ -158,6 +158,14 @@ f(x) =
 
 ```
 
+```math
+{\color{Yellow} \text{ Interval of interest } }
+```
+
+```math
+x \in [ x_0 - \xi, x_0 + \xi ]
+```
+
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
 
