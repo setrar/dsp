@@ -144,6 +144,16 @@ y(t) = 2x(t)
 w(t) = \frac{1}{2} y(t)
 ```
 
+```mermaid
+---
+title: (a)
+---
+%%{init: {"flowchart": {"htmlLabels": false}} }%%
+flowchart LR
+    e("x[n]") -->f[System]
+    f[y(n)]-->g(Inverse system)
+    g[w[n] = x [n]] --> Z
+```
 
 
 
