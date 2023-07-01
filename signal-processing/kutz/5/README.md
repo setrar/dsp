@@ -91,7 +91,7 @@ flowchart LR
 ```
 
 ```math
-{\color{Yellow} \text{ Processing in parallel } }
+{\color{Yellow} \text{ Processing in series and parallel } }
 ```
 
 
