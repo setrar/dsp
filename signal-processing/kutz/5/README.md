@@ -151,7 +151,7 @@ title: (a)
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR
     E -->|"x[n]"| F[System]
-    F --> G[Inverse system]
+    F -->|"y[n]"| G[Inverse system]
     G --> Z
 ```
 
