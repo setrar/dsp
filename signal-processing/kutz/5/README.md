@@ -69,8 +69,9 @@ C -->|Output| *
 flowchart LR
     A[Input] --> B{.}
     B --> C[System1]
-    B ----> C[System2]
+    B ----> D[System2]
     C --> E{.}
+    D --> E{.}
     E --> F
 ```
 
