@@ -166,6 +166,13 @@ f(x) =
 x \in [ x_0 - \xi, x_0 + \xi ]
 ```
 
+```math
+{\color{Purple} \text{ Define an impulse } }
+```
+
+```math
+I(\xi) = \int_{0}{l} f(x)dx = \int_{x_0 - \xi}{x_0 + \xi} f_0(x)dx
+```
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
 
