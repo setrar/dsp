@@ -186,5 +186,14 @@ f(x) =
   \end{cases}
 ```
 
+```math
+{\color{Purple} \text{ Impulse is unity } }
+```
+
+```math
+I(\xi) = \int_{x_0 - \xi}^{x_0 + \xi} \frac{1}{2 \xi}dx = \frac{1}{2 \xi} \int_{x_0 - \xi}^{x_0 + \xi} dx = 1
+```
+
+
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
 
