@@ -2,9 +2,7 @@
 
 ---
 
-```math
 {\color{Yellow} \text{ Transforming Signals } }
-```
 
 ```diff
 - text in red
