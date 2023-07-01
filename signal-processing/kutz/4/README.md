@@ -206,6 +206,11 @@ I(\xi) = \int_{x_0 - \xi}^{x_0 + \xi} \frac{1}{2 \xi}dx = \frac{1}{2 \xi} \int_{
   \end{cases}
 ```
 
+```math
+{\color{Yellow} \text{ One possible definition } }
+```
+
+
 
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
