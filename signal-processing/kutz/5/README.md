@@ -68,8 +68,8 @@ C -->|Output| *
 ```mermaid
 flowchart LR
     A[Input] --> B{.}
-    B --> C
-    B ----> C
+    B --> C[System1]
+    B ----> C[System2]
     C --> E{.}
     E --> F
 ```
