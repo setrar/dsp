@@ -97,7 +97,7 @@ flowchart LR
 
 ---
 
-- [ ] Sysstem Properties
+- [ ] System Properties
 
 ```math
 {\color{Yellow} \text{ Memory } }
@@ -106,6 +106,11 @@ flowchart LR
 ```math
 y[n] = x[n - 1]
 ```
+
+```math
+y[n] = \sum_{k=-\infty}{t} x[k]
+```
+
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
 
