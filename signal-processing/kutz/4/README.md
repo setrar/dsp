@@ -230,6 +230,7 @@ I(\xi) = \int_{x_0 - \xi}^{x_0 + \xi} \frac{1}{2 \xi}dx = \frac{1}{2 \xi} \int_{
 \delta(x) = \lim\limits_{\xi \to 0} \frac{\xi}{\pi} \frac{sin^2 x/\xi}{x^2}
 ```
 
+<img src=images/delta-sequences.png width='50%' height='50%' > </img>
 
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
