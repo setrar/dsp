@@ -199,7 +199,7 @@ I(\xi) = \int_{x_0 - \xi}^{x_0 + \xi} \frac{1}{2 \xi}dx = \frac{1}{2 \xi} \int_{
 ```
 
 ```math
-\delta(x - x_0) = \lim_{\xi \to 0]
+\delta(x - x_0) = \lim\limits_{\xi \to 0}
   \begin{cases}
     1/(2 \xi) \quad x_0 - \xi < x < x_0 + \xi \\
     0 \quad \text { elsewhere }
