@@ -61,5 +61,10 @@ B --> C[System2]
 C -->|Output| *
 ```
 
+```math
+{\color{Cerulean} \text{ Processing in series } }
+```
+
+
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
 
