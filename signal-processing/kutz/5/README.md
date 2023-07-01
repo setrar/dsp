@@ -54,10 +54,8 @@ x[n] \to y[n]
 ```mermaid
 flowchart LR
 
-_ -->|Input| B(System1)
-B --> C{Decision}
+_ -->|Input| C(System1)
 C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
 ```
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
