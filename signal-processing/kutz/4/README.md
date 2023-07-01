@@ -143,6 +143,8 @@ Or
 {\color{Yellow} \text{ Integration and Differentiation} }
 ```
 
+---
+
 ```math
 {\color{Purple} \text{ Consider the forcing } }
 ```
