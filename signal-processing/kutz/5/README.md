@@ -83,7 +83,7 @@ flowchart LR
 flowchart LR
     ` -->|Input| B{.}
     B --> F[System1]
-    F----> E[System2]
+    F----> C[System2]
     B ----> D[System3]
     C --> E{+}
     D --> E{+}
