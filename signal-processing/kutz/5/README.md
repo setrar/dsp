@@ -79,5 +79,21 @@ flowchart LR
 {\color{Yellow} \text{ Processing in parallel } }
 ```
 
+```mermaid
+flowchart LR
+    ` -->|Input| B{.}
+    B --> F[System1]
+    F----> E[System2]
+    B ----> D[System3]
+    C --> E{+}
+    D --> E{+}
+    E--> |Output| *
+```
+
+```math
+{\color{Yellow} \text{ Processing in parallel } }
+```
+
+
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
 
