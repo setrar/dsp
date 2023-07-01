@@ -54,7 +54,7 @@ x[n] \to y[n]
 ```mermaid
 flowchart LR
 
-A[Hard] -->|Text| B(Round)
+-->|Text| B(Round)
 B --> C{Decision}
 C -->|One| D[Result 1]
 C -->|Two| E[Result 2]
