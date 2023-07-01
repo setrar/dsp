@@ -159,7 +159,9 @@ y(t) = 0
 y(t) = x^2(t)
 ```
 
-What is $${\color{Green} \mathbf{ CAUSALITY } }$$ ?
+$${
+\color{Green} \mathbf{ CAUSALITY } 
+}$$
 
 ```math
 {\color{Yellow} \text{ Memoryless systems are causal } }
