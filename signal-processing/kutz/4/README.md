@@ -124,6 +124,8 @@ Or
 
 <img src=images/unit-step-continuous.png width='50%' height='50%' > </img>
 
+---
+
 ```math
 {\color{Cerulean} \text{ {Relation between} } \delta(t) \text { and } \mathit{u}(t) }
 ```
@@ -139,6 +141,10 @@ Or
 
 ```math
 {\color{Yellow} \text{ Integration and Differentiation} }
+```
+
+```math
+{\color{cyan} \text{ Consider the forcing } }
 ```
 
 
