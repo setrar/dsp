@@ -174,5 +174,17 @@ x \in [ x_0 - \xi, x_0 + \xi ]
 I(\xi) = \int_{0}^{l} f(x)dx = \int_{x_0 - \xi}^{x_0 + \xi} f_0(x)dx
 ```
 
+```math
+{\color{Purple} \text{ Specific impulse } }
+```
+
+```math
+f(x) =
+  \begin{cases}
+    \frac{1}{2 \xi} \quad \x_0 - \xi < x < x_0 + \xi
+    0 \quad \text { elsewhere }
+  \end{cases}
+```
+
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
 
