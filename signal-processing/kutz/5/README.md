@@ -51,7 +51,14 @@ x[n] \to y[n]
 {\color{Purple} \text{ System Level Processsing } }
 ```
 
+```mermaid
+flowchart LR
 
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
+```
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
 
