@@ -155,6 +155,17 @@ flowchart LR
     G -->|"w[n] = x[n]"| *
 ```
 
+```mermaid
+---
+title: (b)
+---
+%%{init: {"flowchart": {"htmlLabels": false}} }%%
+flowchart LR
+    ` -->|"x(t)"| F["y(t) = 2x(t)"]
+    F -->|"y(t)"| G["w(t) = 1/2y(t)"]
+    G -->|"w(n) = x(t)"| *
+```
+
 
 
 
