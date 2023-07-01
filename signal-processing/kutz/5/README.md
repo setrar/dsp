@@ -129,6 +129,10 @@ y(t) = \int_{-\infty}^{t} x(\tau)d\tau
 ```
 
 ```math
+{\color{Purple} \text{ Distinct Inputs - Distinct Outputs } }
+```
+
+```math
 {\color{Purple} \text{ Transform } }
 ```
 
