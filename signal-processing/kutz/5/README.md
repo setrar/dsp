@@ -150,7 +150,7 @@ title: (a)
 ---
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR
-    E["x[n]"] --> F[System]
+    E|"x[n]"| --> F[System]
     F -->|"y(n)"| G[Inverse system]
     G["w[n] = x [n]"] --> Z
 ```
