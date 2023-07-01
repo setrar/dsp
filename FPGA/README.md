@@ -21,6 +21,8 @@ FPGA
 HDL - Languages
 
 - [ ] ["FPGA Design with Chisel" - Josh Bassett (LCA 2021 Online)](https://www.youtube.com/watch?v=Wst8IoYRWKo)
+- [ ] [Chisel/FIRRTL Hardware Compiler Framework](https://www.chisel-lang.org/)
+- [ ] [Digital Design with Chisel by Martin Schoeberl](https://github.com/schoeberl/chisel-book)
 
 # References
 - [ ] [	LTESniffer – An Open-Source LTE Downlink/Uplink Eavesdropper (github.com/syssec-kaist)](https://news.ycombinator.com/item?id=35952206)
