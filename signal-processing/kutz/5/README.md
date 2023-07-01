@@ -151,7 +151,7 @@ w(t) = \frac{1}{2} y(t)
 <img src=images/invertible.png width='50%' height='50%' > </img>
 
 ```math
-{\color{Yellow} \text{ Non Invertible } }
+{\color{Yellow} \mathbf{ Non Invertible } }
 ```
 
 ```math
@@ -160,6 +160,14 @@ y(t) = 0
 
 ```math
 y(t) = x^2(t)
+```
+
+```math
+{\color{Green} \text{ Causality } }
+```
+
+```math
+{\color{Yellow} \text{ Non Invertible } }
 ```
 
 
