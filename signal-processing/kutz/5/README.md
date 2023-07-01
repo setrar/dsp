@@ -47,8 +47,10 @@ x(t) \to y(t)
 x[n] \to y[n]
 ```
 
+---
+
 ```math
-{\color{Purple} \text{ System Level Processsing } }
+{\color{Cerulean} \text{ System Level Processsing } }
 ```
 
 ```mermaid
