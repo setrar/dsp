@@ -21,6 +21,7 @@ FPGA
 HDL - Languages
 
 - [ ] ["FPGA Design with Chisel" - Josh Bassett (LCA 2021 Online)](https://www.youtube.com/watch?v=Wst8IoYRWKo)
+  - [ ] [DodonPachi board reverse engineerin](https://en.wikipedia.org/wiki/DoDonPachi)
 - [ ] [Chisel/FIRRTL Hardware Compiler Framework](https://www.chisel-lang.org/)
 - [ ] [Digital Design with Chisel by Martin Schoeberl](https://github.com/schoeberl/chisel-book)
 - [ ] [Chisel Lab](https://github.com/schoeberl/chisel-lab)
