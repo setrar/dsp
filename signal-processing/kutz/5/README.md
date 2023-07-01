@@ -152,7 +152,7 @@ title: (a)
 flowchart LR
     ` -->|"x[n]"| F[System]
     F -->|"y[n]"| G[Inverse system]
-    G --> *
+    G -->|"w[n] = x[n]"| *
 ```
 
 
