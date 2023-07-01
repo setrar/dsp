@@ -166,27 +166,7 @@ flowchart LR
     G -->|"w(n) = x(t)"| *
 ```
 
-```math
-\begin{tikzpicture}
-\node [terminator, fill=blue!20] at (0,0) (start) {\textbf{Start}};
-\node [data, fill=blue!20] at (0,-2) (data) {Provide data};
-\node [decision, fill=blue!20] at (0,-5) (decision) {Valid data?};
-\node [process, fill=red!20] at (3.5,-5) (error) {Error};
-\node [process, fill=green!20] at (0,-8) (success) {Success};
-\node [terminator, fill=blue!20] at (0,-10) (end) {\textbf{End}};
-\node[draw=none] at (1.85, -4.75) (no) {No};
-\node[draw=none] at (0.35, -6.75) (yes) {Yes};
-\path [connector] (start) -- (data);
-\path [connector] (data) -- (decision);
-\path [connector] (decision) -- (error);
-\path [connector] (decision) -- (success);
-\path [connector] (error) |- (end);
-\path [connector] (success) -- (end);
-\end{tikzpicture}
-```
-
-
-
+<img src=images/inverttible.png width='50%' height='50%' > </img>
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
 
