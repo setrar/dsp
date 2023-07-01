@@ -56,7 +56,7 @@ flowchart LR
 
 _ -->|Input| C(System1)
 C --> D[System2]
-* --> id
+D --> _
 ```
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
