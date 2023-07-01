@@ -152,7 +152,7 @@ Or
 ```math
 f(x) =
   \begin{cases}
-    f_0(x) \quad x_0 - \xhi < x < x_0 + \xhi \\
+    f_0(x) \quad x_0 - \xi < x < x_0 + \xi \\
     0 \quad \text { elsewhere }
   \end{cases}
 
