@@ -214,6 +214,14 @@ I(\xi) = \int_{x_0 - \xi}^{x_0 + \xi} \frac{1}{2 \xi}dx = \frac{1}{2 \xi} \int_{
 {\color{Cerulean} \text{ Only makes sense in context of integration } }
 ```
 
+```math
+{\color{Purple} \text{ Other definitions } }
+```
+
+```math
+\delta(x) = \lim\limits_{\xi \to 0} \frac{1}{\pi\xi} \frac{1}{1 + x^2/\xi^2}
+```
+
 
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
