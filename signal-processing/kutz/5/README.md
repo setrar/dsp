@@ -65,6 +65,14 @@ C -->|Output| *
 {\color{Cerulean} \text{ Processing in series } }
 ```
 
+```mermaid
+flowchart LR
+    A[Start] --> B{Is it?}
+    B -->|Yes| C[OK]
+    C --> D[Rethink]
+    D --> B
+    B ---->|No| E[End]
+```
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
 
