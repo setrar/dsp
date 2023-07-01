@@ -28,6 +28,10 @@ flowchart LR
     classDef someclass fill:#a2f
 ```
 
+```math
+{\color{Purple} \text{ System Level Processsing } }
+```
+
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
 
