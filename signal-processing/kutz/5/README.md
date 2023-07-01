@@ -163,7 +163,7 @@ y(t) = x^2(t)
 ```
 
 ```math
-{\color{Green} \mathbf{ Causality } }
+{\color{Green} \mathbf{ CAUSALITY } }
 ```
 
 ```math
