@@ -151,7 +151,7 @@ w(t) = \frac{1}{2} y(t)
 <img src=images/invertible.png width='50%' height='50%' > </img>
 
 ```math
-{\color{Yellow} \mathbf{ Non Invertible } }
+{\color{Yellow} \text{ Non Invertible } }
 ```
 
 ```math
@@ -163,11 +163,11 @@ y(t) = x^2(t)
 ```
 
 ```math
-{\color{Green} \text{ Causality } }
+{\color{Green} \mathbf{ Causality } }
 ```
 
 ```math
-{\color{Yellow} \text{ Non Invertible } }
+{\color{Yellow} \text{ Memoryless systems are causal } }
 ```
 
 
