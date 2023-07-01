@@ -144,7 +144,7 @@ Or
 ```
 
 ```math
-\left {\color{Purple} \text{ Consider the forcing } }
+\left .{\color{Purple} \text{ Consider the forcing } }
 ```
 
 
