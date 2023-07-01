@@ -55,7 +55,8 @@ x[n] \to y[n]
 flowchart LR
 
 _ -->|Input| C(System1)
-C --> D[Result 1]
+C --> D[System2]
+* --> id
 ```
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
