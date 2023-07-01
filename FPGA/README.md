@@ -1,4 +1,4 @@
-# Hardware Relateed Stuff
+# Hardware Related Stuff
 
 - [ ] [Ettus Research USRP FPGA HDL Source](https://github.com/EttusResearch/fpga)
 - [ ] [myriadrf](https://myriadrf.org)
@@ -17,6 +17,10 @@ FPGA
   - [ ] [Documentation for Chinese ALTERA Cyclone IV EP4CE6 FPGA Development Board](https://github.com/SlithyMatt/Altera-Cyclone-IV-board-V3.0)
 
 - [ ] [Elektor TV : Hello FPGA – Getting Started with Microchip FPGAs](https://youtu.be/zcaZxu010cg)
+
+HDL - Languages
+
+- [ ] ["FPGA Design with Chisel" - Josh Bassett (LCA 2021 Online)](https://www.youtube.com/watch?v=Wst8IoYRWKo)
 
 # References
 - [ ] [	LTESniffer – An Open-Source LTE Downlink/Uplink Eavesdropper (github.com/syssec-kaist)](https://news.ycombinator.com/item?id=35952206)
