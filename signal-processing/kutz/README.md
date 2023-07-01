@@ -53,6 +53,8 @@ The lectures are from the textbook Oppenheim, Willsky and Nawab, "Systems and Si
 
 - [ ] [Writing mathematical expressions](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
 - [ ] [LaTeX/Mathematics](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
+- [ ] [Math support in Markdown](https://github.blog/2022-05-19-math-support-in-markdown/)
+- [ ] [mermaid.live](https://mermaid.live/)
 
 
 
