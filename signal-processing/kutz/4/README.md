@@ -232,6 +232,14 @@ I(\xi) = \int_{x_0 - \xi}^{x_0 + \xi} \frac{1}{2 \xi}dx = \frac{1}{2 \xi} \int_{
 
 <img src=images/delta-sequences.png width='50%' height='50%' > </img>
 
+```math
+\text { {\color{green}Sifting property} }
+```
+
+```math
+\int{0}{l} f(x)\delta(x - x_0)dx = \lim\limits_{\xi \to 0} \int_{x_0 - \xi}^{x_0 + \xi} \frac{f(x)}{2 \xi}dx = \lim\limits_{\xi \to 0} \frac{1}{2 \xi} \int_{x_0 - \xi}^{x_0 + \xi} f(x)dx = \lim\limits_{\xi \to 0} \frac{1}{2 \xi} f(\dot{x}) = f(x_0)
+```
+
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
 
