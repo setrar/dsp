@@ -2,7 +2,7 @@
 
 ---
 
-{\color{Yellow} \text{ Transforming Signals } }
+$${\color{Yellow} \text{ Transforming Signals } }$$
 
 ```diff
 - text in red
