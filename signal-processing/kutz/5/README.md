@@ -112,6 +112,10 @@ y[n] = \sum_{k=-\infty}^{n} x[k]
 ```
 
 ```math
+y(t) = \int_{-\infty}^{t} x(\tau)d\tau
+```
+
+```math
 {\color{Purple} \text{ Memory system } }
 ```
 
@@ -119,9 +123,6 @@ y[n] = \sum_{k=-\infty}^{n} x[k]
 {\color{Green} \text{ Accumulator/Summer } }
 ```
 
-```math
-y(t) = \int_{-\infty}^{t} x(\tau)d\tau
-```
 
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
