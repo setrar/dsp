@@ -223,7 +223,7 @@ I(\xi) = \int_{x_0 - \xi}^{x_0 + \xi} \frac{1}{2 \xi}dx = \frac{1}{2 \xi} \int_{
 ```
 
 ```math
-\delta(x) = \lim\limits_{\xi \to 0} \frac{1}{\sqrt{\pi\xi}} exp(x^2/\xi^2}
+\delta(x) = \lim\limits_{\xi \to 0} \frac{1}{\sqrt{\pi\xi}} exp(x^2/\xi^2)
 ```
 
 
