@@ -62,7 +62,7 @@ C -->|Output| *
 ```
 
 ```math
-{\color{Cerulean} \text{ Processing in series } }
+{\color{Yellow} \text{ Processing in series } }
 ```
 
 ```mermaid
@@ -73,6 +73,10 @@ flowchart LR
     C --> E{+}
     D --> E{+}
     E--> F[Output] 
+```
+
+```math
+{\color{Yellow} \text{ Processing in parallel } }
 ```
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
