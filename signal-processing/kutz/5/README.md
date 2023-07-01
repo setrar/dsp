@@ -95,6 +95,17 @@ flowchart LR
 {\color{Yellow} \text{ Series and parallel } }
 ```
 
+---
+
+- [ ] Sysstem Properties
+
+```math
+{\color{Yellow} \text{ Memory } }
+```
+
+```math
+y[n] = x[n - 1]
+```
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
 
