@@ -8,7 +8,7 @@
 |--------------------|------------------------------------------------------------------------------------------|--------------------|
 | Lecture[(1)](1)    | [01 MOS Square Law and Parasitics](https://youtu.be/xeEQdo5MOGo)                         | |
 | Lecture[(1)](1)    | [02 MOSFET as a Switch](https://youtu.be/pwrrcRuxjlQ)                                    | |
-| Lecture[(1)](1)    | 03 Advanced MOS Modeling | |
+| Lecture[(1)](1)    | [03 Advanced MOS Modeling](https://youtu.be/HYjzjqk54hk) | |
 | Lecture[(1)](1)    | DC Characteristics of 45nm NMOS | |
 | Lecture[(1)](1)    | Common Source Gain-Bandwidth Tradeoffs | |
 | Lecture[(1)](1)    | 04 IC Passives | |
