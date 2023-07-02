@@ -31,7 +31,7 @@
 | Lecture[(1)](1)    | What is sourcing and sinking in a circuit? | |
 
 
-- [ ] [Microelectronic Circuits - Part I](https://www.youtube.com/playlist?list=PLUJOuapA83-SlFZ3--2laPkMqi0T77WRB) from [:tv;@Microelectronics-ChanCarusone](https://www.youtube.com/@Microelectronics-ChanCarusone)
+- [ ] [Microelectronic Circuits - Part I](https://www.youtube.com/playlist?list=PLUJOuapA83-SlFZ3--2laPkMqi0T77WRB) from [:tv:@Microelectronics-ChanCarusone](https://www.youtube.com/@Microelectronics-ChanCarusone)
 
 |  :hash:            |  Episodes                                                                                | :grey_question:    |
 |--------------------|------------------------------------------------------------------------------------------|--------------------|
