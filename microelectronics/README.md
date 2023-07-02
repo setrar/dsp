@@ -10,6 +10,10 @@
 | [25:04](https://www.youtube.com/watch?v=6Maq5IyHSuc&t=1504s) | Ohm's Law and other formulae 
 | [32:59](https://www.youtube.com/watch?v=6Maq5IyHSuc&t=1979s) | Resistor colour codes
 
+- [ ] FET
+
+[What is a MOSFET? How MOSFETs Work? (MOSFET Tutorial)](https://www.youtube.com/watch?v=DLd5dUychY8)
+
 - [ ] [Microelectronic Circuits - Part I](https://www.youtube.com/playlist?list=PLUJOuapA83-SlFZ3--2laPkMqi0T77WRB)
 
 |  :hash:            |  Episodes                                                                                | :grey_question:    |
