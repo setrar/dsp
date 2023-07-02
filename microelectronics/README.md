@@ -1,6 +1,13 @@
 
 - [ ] [A simple guide to electronic components.](https://www.youtube.com/watch?v=6Maq5IyHSuc)
 
+|  :hash:                                                      |  Episodes                              | :grey_question:    |
+|--------------------------------------------------------------|----------------------------------------|--------------------|
+| [0:15](https://www.youtube.com/watch?v=6Maq5IyHSuc&t=15s)    | Rezistor
+| [4:31](https://www.youtube.com/watch?v=6Maq5IyHSuc&t=271s)   | Capacitor
+| [15:30](https://www.youtube.com/watch?v=6Maq5IyHSuc&t=930s)  | diodes
+| [20:29](https://www.youtube.com/watch?v=6Maq5IyHSuc&t=1229s) | tranzistor
+| [25:00](https://www.youtube.com/watch?v=6Maq5IyHSuc&t=1500s) | ohm law
 
 - [ ] [Microelectronic Circuits - Part I](https://www.youtube.com/playlist?list=PLUJOuapA83-SlFZ3--2laPkMqi0T77WRB)
 
