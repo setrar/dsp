@@ -6,7 +6,7 @@
 
 |  :hash:            |  Episodes                              | :grey_question:    |
 |--------------------|----------------------------------------|--------------------|
-| Lecture[(1)](1)    | 01 MOS Square Law and Parasitics | |
+| Lecture[(1)](1)    | [01 MOS Square Law and Parasitics](https://youtu.be/xeEQdo5MOGo) | |
 | Lecture[(1)](1)    | 02 MOSFET as a Switch | |
 | Lecture[(1)](1)    | 03 Advanced MOS Modeling | |
 | Lecture[(1)](1)    | DC Characteristics of 45nm NMOS | |
@@ -17,7 +17,7 @@
 | Lecture[(1)](1)    | 07 Feedback Preliminaries - Finding the Loop Gain | |
 | Lecture[(1)](1)    | 08 Feedback Stability Analysis | |
 | Lecture[(1)](1)    | 09 Feedback Amplifiers Basics | |
-| Lecture[(1)](1)    | 10 Feedback Amplifiers Stability and Compensation Basics | |
+| Lecture[(1)](1)    | [10 Feedback Amplifiers Stability and Compensation Basics](https://youtu.be/ZrAwelmMQGw) | |
 | Lecture[(1)](1)    | 11 Single Stage Opamp Basics | |
 | Lecture[(1)](1)    | 12 Slew Rate and Offset | |
 | Lecture[(1)](1)    | 13 Other Single Stage Op Amps | |
