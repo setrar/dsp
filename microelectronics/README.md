@@ -24,6 +24,7 @@
 [Dependent Resistors (LDR, NTC, PTC and VDR)]([https://www.youtube.com/watch?v=523XkennY9I)
 
 - [ ] [:tv:@CircuitBread - CircuitBread](https://www.youtube.com/@CircuitBread)
+
 [Intro to Op-Amps (Operational Amplifiers) | Basic Circuits](https://youtu.be/fmRHDqcodS4)
 
 - [ ] [Microelectronic Circuits - Part I](https://www.youtube.com/playlist?list=PLUJOuapA83-SlFZ3--2laPkMqi0T77WRB)
