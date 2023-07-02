@@ -3,11 +3,18 @@
 
 |  :hash:                                                      |  Episodes                              | :grey_question:    |
 |--------------------------------------------------------------|----------------------------------------|--------------------|
-| [0:15](https://www.youtube.com/watch?v=6Maq5IyHSuc&t=15s)    | Rezistor
-| [4:31](https://www.youtube.com/watch?v=6Maq5IyHSuc&t=271s)   | Capacitor
-| [15:30](https://www.youtube.com/watch?v=6Maq5IyHSuc&t=930s)  | diodes
-| [20:29](https://www.youtube.com/watch?v=6Maq5IyHSuc&t=1229s) | tranzistor
-| [25:00](https://www.youtube.com/watch?v=6Maq5IyHSuc&t=1500s) | ohm law
+| [0:12](https://www.youtube.com/watch?v=6Maq5IyHSuc&t=12s)    | Resistor
+| [4:25](https://www.youtube.com/watch?v=6Maq5IyHSuc&t=265s)   | Capacitor
+| [16:11](https://www.youtube.com/watch?v=6Maq5IyHSuc&t=971s)  | Diode
+| [20:17](https://www.youtube.com/watch?v=6Maq5IyHSuc&t=1217s) | Transistor
+| [25:04](https://www.youtube.com/watch?v=6Maq5IyHSuc&t=1504s) | Ohm's Law and other formulae 
+| [32:59](https://www.youtube.com/watch?v=6Maq5IyHSuc&t=1979s) | Resistor colour codes
+
+  03.  16:11 - Diodes 
+  04.  20:17 - Transistors
+  05.  25:04 - Ohm's Law and other formulae 
+  06.  32:59 - Resistor colour codes
+
 
 - [ ] [Microelectronic Circuits - Part I](https://www.youtube.com/playlist?list=PLUJOuapA83-SlFZ3--2laPkMqi0T77WRB)
 
