@@ -1,31 +1,35 @@
 
-
-- [ ] [bigclivedotcom](https://www.youtube.com/@bigclivedotcom)
-
-[A simple guide to electronic components.](https://www.youtube.com/watch?v=6Maq5IyHSuc)
-
-|  :hash:                                                      |  Episodes                              | :grey_question:    |
-|--------------------------------------------------------------|----------------------------------------|--------------------|
-| [0:12](https://www.youtube.com/watch?v=6Maq5IyHSuc&t=12s)    | Resistor
-| [4:25](https://www.youtube.com/watch?v=6Maq5IyHSuc&t=265s)   | Capacitor
-| [16:11](https://www.youtube.com/watch?v=6Maq5IyHSuc&t=971s)  | Diode
-| [20:17](https://www.youtube.com/watch?v=6Maq5IyHSuc&t=1217s) | Transistor
-| [25:04](https://www.youtube.com/watch?v=6Maq5IyHSuc&t=1504s) | Ohm's Law and other formulae 
-| [32:59](https://www.youtube.com/watch?v=6Maq5IyHSuc&t=1979s) | Resistor colour codes
-
-- [ ] [Electrical Electronics Applications](https://www.youtube.com/@eeapplication)
-
-- [ ] [What is a MOSFET? How MOSFETs Work? (MOSFET Tutorial)](https://www.youtube.com/watch?v=DLd5dUychY8)
-- [ ] [What are the Types of Transistors?](https://www.youtube.com/watch?v=HpicBoV9g_k&t=182s)
-
-- [ ] [Electronic Applications](https://www.youtube.com/@eapplications)
-
-[How to use Breadboard?](https://www.youtube.com/watch?v=dFzF59Lv3LM)
-[Dependent Resistors (LDR, NTC, PTC and VDR)]([https://www.youtube.com/watch?v=523XkennY9I)
-
 - [ ] [:tv:@CircuitBread - CircuitBread](https://www.youtube.com/@CircuitBread)
 
-[Intro to Op-Amps (Operational Amplifiers) | Basic Circuits](https://youtu.be/fmRHDqcodS4)
+- [ ] [Circuits 101](https://www.youtube.com/playlist?list=PLfYdTiQCV_p4IKgfbRML5EHFJPfBdW9Fv)
+
+|  :hash:            |  Episodes                                                                                | :grey_question:    |
+|--------------------|------------------------------------------------------------------------------------------|--------------------|
+| Lecture[(1)](1)    | Voltage, Current, and Power Explained - Laying the Foundation for Basic Circuits | Basic Electronics | |
+| Lecture[(1)](1)    | Ohm’s Law Tutorial with easy practice problems | Basic Circuits | |
+| Lecture[(1)](1)    | What are Branches, Nodes, and Loops with Series and Parallel Components? | Basic Electronics | |
+| Lecture[(1)](1)    | LTspice - Getting Started in 8 Minutes | |
+| Lecture[(1)](1)    | Kirchhoff's Current Law (KCL) - How to Solve Complicated Circuits | |
+| Lecture[(1)](1)    | Kirchhoff's Voltage Law (KVL) - How to Solve Complicated Circuits | Basic Circuits | Electronics | |
+| Lecture[(1)](1)    | Electronics Workbench Tour | Electrical Engineering Tutorials from • | |
+| Lecture[(1)](1)    | Basic Circuits Math - Using Substitution and Matrices to Solve Circuits Equations | |
+| Lecture[(1)](1)    | Independent versus Dependent Voltage and Current Sources | Basic Circuits | Electronics Tutorials | |
+| Lecture[(1)](1)    | Introduction to Bipolar Junction Transistors (BJTs) | Basic Electronics | |
+| Lecture[(1)](1)    | Solving Circuits with Superposition | Basic Circuits | CircuitBread Electronics Tutorials | |
+| Lecture[(1)](1)    | Thevenin Equivalent Circuits | Basic Circuits | Electronics Tutorials | |
+| Lecture[(1)](1)    | Norton Equivalent Circuits | Basic Circuits | |
+| Lecture[(1)](1)    | Intro to Op-Amps (Operational Amplifiers) | Basic Circuits | |
+| Lecture[(1)](1)    | Op-Amp (Operational Amplifier) Practice Problems | |
+| Lecture[(1)](1)    | Voltage Follower - Operational Amplifier | Basic Circuits | Electronics Tutorials | |
+| Lecture[(1)](1)    | Inverting and Non-inverting Amplifiers - Op-amps | Basic Circuits #13 | |
+| Lecture[(1)](1)    | Integrator - Operational Amplifier | Basic Circuits #14 | |
+| Lecture[(1)](1)    | Differentiator - Operational Amplifier | Basic Circuits #15 | Electronics Tutorials | |
+| Lecture[(1)](1)    | Comparator - Operational Amplifier | Basic Circuits #16 | Electronics Tutorials | |
+| Lecture[(1)](1)    | 6 Most Important Things from Circuits 101 | Basic Electronics | |
+| Lecture[(1)](1)    | Introduction to Capacitors - Basic Circuits #17 | Electronics Tutorials | |
+| Lecture[(1)](1)    | Introduction to Inductors - Basic Circuits #18 | Electronics Tutorials | |
+| Lecture[(1)](1)    | What is sourcing and sinking in a circuit? | |
+
 
 - [ ] [Microelectronic Circuits - Part I](https://www.youtube.com/playlist?list=PLUJOuapA83-SlFZ3--2laPkMqi0T77WRB)
 
