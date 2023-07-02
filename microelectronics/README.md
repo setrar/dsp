@@ -1,4 +1,7 @@
 
+- [ ] [A simple guide to electronic components.](https://www.youtube.com/watch?v=6Maq5IyHSuc)
+
+
 - [ ] [Microelectronic Circuits - Part I](https://www.youtube.com/playlist?list=PLUJOuapA83-SlFZ3--2laPkMqi0T77WRB)
 
 |  :hash:            |  Episodes                                                                                | :grey_question:    |
