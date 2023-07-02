@@ -10,12 +10,6 @@
 | [25:04](https://www.youtube.com/watch?v=6Maq5IyHSuc&t=1504s) | Ohm's Law and other formulae 
 | [32:59](https://www.youtube.com/watch?v=6Maq5IyHSuc&t=1979s) | Resistor colour codes
 
-  03.  16:11 - Diodes 
-  04.  20:17 - Transistors
-  05.  25:04 - Ohm's Law and other formulae 
-  06.  32:59 - Resistor colour codes
-
-
 - [ ] [Microelectronic Circuits - Part I](https://www.youtube.com/playlist?list=PLUJOuapA83-SlFZ3--2laPkMqi0T77WRB)
 
 |  :hash:            |  Episodes                                                                                | :grey_question:    |
