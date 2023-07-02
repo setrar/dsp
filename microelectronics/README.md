@@ -6,31 +6,40 @@
 
 |  :hash:            |  Episodes                              | :grey_question:    |
 |--------------------|----------------------------------------|--------------------|
-| Lecture[(1)](1)    | An Overview                            | :white_check_mark: | 
-| Lecture[(2)](2)    | Basic Signals                          | :white_check_mark: | 
-| Lecture[(3)](3)    | [03 Advanced MOS Modeling](https://youtu.be/HYjzjqk54hk)                    | :white_check_mark: | 
-| Lecture[(4)](4)    | Impulses and Steps                     | :white_check_mark: | 
-| Lecture[(5)](5)    | Properties of Signals                  | :eight_pointed_black_star: | 
-| Lecture[(6)](6)    | LTI Systems                            | :white_check_mark: | 
-| Lecture[(7)](7)    | Continuous LTI Systems                 |
-| Lecture[(8)](8)    | LTI System Properties                  |
-| Lecture[(10)](10)  | Singular Functions                     |
-| Lecture[(11)](11)  | Fourier Series                         |
-| Lecture[(12)](12)  | Discrete Fourier Series                |
-| Lecture[(13)](13)  | Convergence of Fourier Series          |
-| Lecture[(14)](14)  | Fourier Series Expansion of Signal     |
-| Lecture[(15)](15)  | Input-Output with Fourier Series       |
-| Lecture[(16)](16)  | Frequency Filters                      |
-| Lecture[(17)](17)  | The Fourier Transform                  | :eight_pointed_black_star: | 
-| Lecture[(18)](18)  | Properties of the Fourier transform    |
-| Lecture[(19)](19)  | Properties of the Fourier transform    |
-| Lecture[(20)](20)  | Convolutions and Signal Modulation     |
-| Lecture[(21)](21)  | Differential Equations and FFT         |
-| Lecture[(22)](22)  | Discrete Time Fourier transform        |
-| Lecture[(23)](23)  | Signal Convolutions and Multiplication |
-| Lecture[(24)](24)  | Difference Equations                   |
-| Lecture[(25)](25)  | Time-Frequency Filtering               |
-| Lecture[(26)](26)  | Filters and Properties                 |
-| Lecture[(27)](27)  | Bode Plots and Differential Equations  |
-| Lecture[(28)](28)  | Analysis of Bode Plots!                |
-
+| Lecture[(1)](1)    | 01 MOS Square Law and Parasitics | |
+| Lecture[(1)](1)    | 02 MOSFET as a Switch | |
+| Lecture[(1)](1)    | 03 Advanced MOS Modeling | |
+| Lecture[(1)](1)    | DC Characteristics of 45nm NMOS | |
+| Lecture[(1)](1)    | Common Source Gain-Bandwidth Tradeoffs | |
+| Lecture[(1)](1)    | 04 IC Passives | |
+| Lecture[(1)](1)    | 05 Mismatch | |
+| Lecture[(1)](1)    | 06 Analog amplifier biasing and mismatch | |
+| Lecture[(1)](1)    | 07 Feedback Preliminaries - Finding the Loop Gain | |
+| Lecture[(1)](1)    | 08 Feedback Stability Analysis | |
+| Lecture[(1)](1)    | 09 Feedback Amplifiers Basics | |
+| Lecture[(1)](1)    | 10 Feedback Amplifiers Stability and Compensation Basics | |
+| Lecture[(1)](1)    | 11 Single Stage Opamp Basics | |
+| Lecture[(1)](1)    | 12 Slew Rate and Offset | |
+| Lecture[(1)](1)    | 13 Other Single Stage Op Amps | |
+| Lecture[(1)](1)    | 14 Two Stage Op Amps | |
+| Lecture[(1)](1)    | 15 Two Stage Opamp Compensation | |
+| Lecture[(1)](1)    | 16 Noise Time Domain Analysis | |
+| Lecture[(1)](1)    | 17 Introduction to Noise | |
+| Lecture[(1)](1)    | 18 Input Referred Noise | |
+| Lecture[(1)](1)    | 19 Common Source and Cascode Stages Noise | |
+| Lecture[(1)](1)    | 20 Noise in Single Stage Op Amps | |
+| Lecture[(1)](1)    | 21 Nonlinearity and Dynamic Range | |
+| Lecture[(1)](1)    | 22 Low Noise and Variable Gain Amplifiers | |
+| Lecture[(1)](1)    | 23 Fully Differential Analog Circuits | |
+| Lecture[(1)](1)    | 24 Biasing Circuits | |
+| Lecture[(1)](1)    | 25 Reference Circuits | |
+| Lecture[(1)](1)    | 26 Regulators | |
+| Lecture[(1)](1)    | 27 CMOS Comparator Operation | |
+| Lecture[(1)](1)    | 28 Comparator Specs and Characterization | |
+| Lecture[(1)](1)    | 29 Electronic Oscillators | |
+| Lecture[(1)](1)    | 30 Jitter and Phase Noise in Oscillators | |
+| Lecture[(1)](1)    | 31 Integer N Charge Pump PLL Basics | |
+| Lecture[(1)](1)    | 32 Charge Pumps | |
+| Lecture[(1)](1)    | 33 PLL Linear Analysis and Design Procedure | |
+| Lecture[(1)](1)    | 34 DLLs | |
+| Lecture[(1)](1)    | 35 ILOs | |
