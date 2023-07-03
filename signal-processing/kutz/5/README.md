@@ -78,6 +78,19 @@ stateDiagram-v2
 ```
 
 ```mermaid
+stateDiagram-v2
+    direction LR
+    [*] --> . : Input
+    . --> System1
+    . --> System3
+    System1 --> System2
+    System2 --> +
+    System3 --> +
+    + --> System4
+    System4 --> [*] : Output
+```
+
+```mermaid
 flowchart LR
     ` -->|Input| B{.}
     B --> F[System1]
