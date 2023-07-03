@@ -49,6 +49,6 @@ HDL - Languages
 - [ ] [First RISC-V-Based System-on-Chip (SoC) FPGA Enters Mass Production](https://www.microchip.com/en-us/about/news-releases/products/first-risc-v-based-system-on-chip-fpga-enters-mass-production)
 - [ ] [IceStick FPGA Tutorial #FPGA #RISCV @BrunoLevy0](https://blog.adafruit.com/2021/01/28/icestick-fpga-tutorial-fpga-riscv-brunolevy01/)
 - [ ] [So what's the deal with CHISEL, and why is it so great?](https://www.reddit.com/r/FPGA/comments/wnnhb8/so_whats_the_deal_with_chisel_and_why_is_it_so/)
-- [ ] [Intermediate Representation](https://en.wikipedia.org/wiki/Intermediate_representation)
+- [ ] In computer science, [register transfer language (RTL)](https://en.wikipedia.org/wiki/Register_transfer_language)  is a kind of  [Intermediate Representation (IR)](https://en.wikipedia.org/wiki/Intermediate_representation) that is very close to assembly language, such as that which is used in a compiler.
 
 
