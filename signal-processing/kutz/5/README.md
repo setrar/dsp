@@ -52,7 +52,7 @@ x[n] \to y[n]
 
 ```mermaid
 ---
-Title: Processing in series
+title: Processing in series
 ---
 stateDiagram-v2
     direction LR
