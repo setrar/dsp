@@ -51,6 +51,14 @@ x[n] \to y[n]
 ```
 
 ```mermaid
+stateDiagram-v2
+    direction LR
+    [*] --> System1 : Input
+    System1 --> System2
+    System2 --> [*] : Output
+```
+
+```mermaid
 flowchart LR
 
 ` -->|Input| B(System1)
