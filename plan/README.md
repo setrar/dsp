@@ -24,3 +24,13 @@ gantt
     Task in sec      :2014-01-12  , 12d
     another task      : 24d
 ```
+
+```mermaid
+stateDiagram-v2
+    [*] --> Still
+    Still --> [*]
+    Still --> Moving
+    Moving --> Still
+    Moving --> Crash
+    Crash --> [*]
+```
