@@ -71,6 +71,14 @@ C -->|Output| *
 ```
 
 ```mermaid
+stateDiagram-v2
+    direction LR
+    [*] --> . : Input
+    . --> System2
+    System2 --> [*] : Output
+```
+
+```mermaid
 flowchart LR
     ` -->|Input| B{.}
     B --> C[System1]
