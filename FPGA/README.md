@@ -38,5 +38,7 @@ HDL - Languages
 - [ ] [Safran: HIGH ACCURACY TIMING IP CORE (HATI) FPGA CORE ENABLING SUB-NANOSECOND SYNCHRONIZATION](https://safran-navigation-timing.com/product/high-accuracy-timing-ip-core-hati)
 - [ ] [What Is the Difference between NI and Ettus Research USRP Devices?](https://www.ni.com/en-ca/shop/wireless-design-test/what-is-a-usrp-software-defined-radio/what-is-the-difference-between-ni-and-ettus-usrps.html)
 - [ ] [Next Generation FPGAs for Electronic Warfare Systems](https://www.mobilityengineeringtech.com/component/content/article/adt/pub/features/articles/24386)
+- [ ] [Wikipedia : RISC-V](https://en.wikipedia.org/wiki/RISC-V)
+- [ ] [Getting Started in Kicad](https://docs.kicad.org/7.0/en/getting_started_in_kicad/getting_started_in_kicad.html)
 
 
