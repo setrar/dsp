@@ -26,14 +26,9 @@ gantt
 ```
 
 ```mermaid
-stateDiagram
+stateDiagram-v2
     direction LR
-    [*] --> A : Input
-    A --> B
-    B --> C
-    state B {
-      direction LR
-      a --> b
-    }
-    B --> D
+    [*] --> Moving : Input
+    Moving --> Crash
+    Crash --> [*] : Output
 ```
