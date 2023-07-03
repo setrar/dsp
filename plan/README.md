@@ -28,7 +28,7 @@ gantt
 ```mermaid
 stateDiagram
     direction LR
-    [*] -->|Input| A
+    [*] --> A : EvScrollLockPressed
     A --> B
     B --> C
     state B {
