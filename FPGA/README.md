@@ -26,6 +26,10 @@ HDL - Languages
 - [ ] [Digital Design with Chisel by Martin Schoeberl](https://github.com/schoeberl/chisel-book)
 - [ ] [Chisel Lab](https://github.com/schoeberl/chisel-lab)
 
+:tv: Digi-Key
+
+- [] [Introduction to FPGA Part 1 - What is an FPGA? | Digi-Key Electronics](https://www.youtube.com/watch?v=lLg1AgA2Xoo&list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb)
+
 # References
 - [ ] [	LTESniffer – An Open-Source LTE Downlink/Uplink Eavesdropper (github.com/syssec-kaist)](https://news.ycombinator.com/item?id=35952206)
 - [ ] [USRP](https://www.ettus.com/sdr-software/uhd-usrp-hardware-driver)
