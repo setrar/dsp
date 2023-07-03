@@ -55,6 +55,7 @@ The lectures are from the textbook Oppenheim, Willsky and Nawab, "Systems and Si
 - [ ] [LaTeX/Mathematics](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
 - [ ] [Math support in Markdown](https://github.blog/2022-05-19-math-support-in-markdown/)
 - [ ] [mermaid.live](https://mermaid.live/)
+- [ ] [9724. Mermaid Cheat Sheet](https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/)
 
 When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
 $${ x = {-b \pm \sqrt{b^2-4ac} \over 2a} }$$
