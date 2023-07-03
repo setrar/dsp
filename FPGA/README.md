@@ -30,6 +30,12 @@ HDL - Languages
 
 - [ ] [Introduction to FPGA Part 1 - What is an FPGA? | Digi-Key Electronics](https://www.youtube.com/watch?v=lLg1AgA2Xoo&list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb)
 
+:electric_plug: Hardware
+
+:star: Development Kit
+
+- [MPFS-ICICLE-KIT-ES DEVELOPMENT KIT, POLARFIRE S](https://canada.newark.com/microchip/mpfs-icicle-kit-es/development-kit-polarfire-soc/dp/45AJ6163) $1,065.66
+
 # References
 - [ ] [	LTESniffer – An Open-Source LTE Downlink/Uplink Eavesdropper (github.com/syssec-kaist)](https://news.ycombinator.com/item?id=35952206)
 - [ ] [USRP](https://www.ettus.com/sdr-software/uhd-usrp-hardware-driver)
