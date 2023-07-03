@@ -28,7 +28,7 @@ gantt
 ```mermaid
 stateDiagram
     direction LR
-    [*] -->[Input] A
+    [*][Input] --> A
     A --> B
     B --> C
     state B {
