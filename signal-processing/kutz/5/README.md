@@ -59,6 +59,7 @@ stateDiagram-v2
     [*] --> System1 : Input
     System1 --> System2
     System2 --> [*] : Output
+style title fill:#00758f
 ```
 
 ```math
