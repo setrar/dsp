@@ -31,4 +31,5 @@ HDL - Languages
 - [ ] [USRP](https://www.ettus.com/sdr-software/uhd-usrp-hardware-driver)
 - [ ] [GnuRadio](https://www.ettus.com/sdr-software/gnu-radio/)
 - [ ] [Next Generation FPGAs for Electronic Warfare Systems - April 1, 2016](https://www.mobilityengineeringtech.com/component/content/article/adt/pub/features/articles/24386)
+- [ ] [Safran: HIGH ACCURACY TIMING IP CORE (HATI) FPGA CORE ENABLING SUB-NANOSECOND SYNCHRONIZATION](https://safran-navigation-timing.com/product/high-accuracy-timing-ip-core-hati)
 
