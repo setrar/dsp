@@ -38,4 +38,4 @@ In summary, signal processing is a specialized area within the broader field of 
 - [ ] [Enabling signal processing over data streams](https://blog.acolyer.org/2017/08/10/enabling-signal-processing-over-data-streams/)
 - [ ] [Basics of Image Proceessing](https://vincmazet.github.io/bip/)
 - [ ] [Microssoft Research: Enabling	Signal	Processing	over	Stream	Data](http://www.cs.ox.ac.uk/files/9136//sigmod2017-trilldsp-slides.pdf)
-- [ ] [Next Generation FPGAs for Electronic Warfare Systems](https://www.mobilityengineeringtech.com/component/content/article/adt/pub/features/articles/24386)
+- [ ] [WikiPedia: Electromagnetic warfare](https://en.wikipedia.org/wiki/Electromagnetic_warfare)
