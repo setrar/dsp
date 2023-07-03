@@ -51,15 +51,11 @@ x[n] \to y[n]
 ```
 
 ```mermaid
----
-title: Processing in series
----
 stateDiagram-v2
     direction LR
     [*] --> System1 : Input
     System1 --> System2
     System2 --> [*] : Output
-style title fill:#00758f
 ```
 
 ```math
@@ -92,18 +88,6 @@ stateDiagram-v2
     System3 --> +
     + --> System4
     System4 --> [*] : Output
-```
-
-```mermaid
-flowchart LR
-    ` -->|Input| B{.}
-    B --> F[System1]
-    F --> C[System2]
-    B --> D[System3]
-    C --> E{+}
-    D --> E{+}
-    E --> G[System4]
-    G --> |Output| *
 ```
 
 ```math
