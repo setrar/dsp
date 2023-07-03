@@ -74,8 +74,11 @@ C -->|Output| *
 stateDiagram-v2
     direction LR
     [*] --> . : Input
+    . --> System1
     . --> System2
-    System2 --> [*] : Output
+    system1 --> +
+    system2 --> +
+    + --> [*] : Output
 ```
 
 ```mermaid
