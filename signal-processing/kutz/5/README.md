@@ -52,7 +52,7 @@ x[n] \to y[n]
 
 ```mermaid
 ---
-title: \color{Yellow} Processing in series
+{ \color{Yellow} title: Processing in series }
 ---
 
 stateDiagram-v2
