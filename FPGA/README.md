@@ -32,4 +32,5 @@ HDL - Languages
 - [ ] [GnuRadio](https://www.ettus.com/sdr-software/gnu-radio/)
 - [ ] [Next Generation FPGAs for Electronic Warfare Systems - April 1, 2016](https://www.mobilityengineeringtech.com/component/content/article/adt/pub/features/articles/24386)
 - [ ] [Safran: HIGH ACCURACY TIMING IP CORE (HATI) FPGA CORE ENABLING SUB-NANOSECOND SYNCHRONIZATION](https://safran-navigation-timing.com/product/high-accuracy-timing-ip-core-hati)
+- [ ] [What Is the Difference between NI and Ettus Research USRP Devices?](https://www.ni.com/en-ca/shop/wireless-design-test/what-is-a-usrp-software-defined-radio/what-is-the-difference-between-ni-and-ettus-usrps.html)
 
