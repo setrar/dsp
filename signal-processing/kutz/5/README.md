@@ -58,14 +58,6 @@ stateDiagram-v2
     System2 --> [*] : Output
 ```
 
-```mermaid
-flowchart LR
-
-` -->|Input| B(System1)
-B --> C[System2]
-C -->|Output| *
-```
-
 ```math
 {\color{Yellow} \text{ Processing in series } }
 ```
@@ -76,19 +68,9 @@ stateDiagram-v2
     [*] --> . : Input
     . --> System1
     . --> System2
-    system1 --> +
-    system2 --> +
+    System1 --> +
+    System2 --> +
     + --> [*] : Output
-```
-
-```mermaid
-flowchart LR
-    ` -->|Input| B{.}
-    B --> C[System1]
-    B --> D[System2]
-    C --> E{+}
-    D --> E{+}
-    E --> |Output| *
 ```
 
 ```math
