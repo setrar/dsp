@@ -130,3 +130,10 @@
 | Lecture[(1)](1)    | 33 PLL Linear Analysis and Design Procedure | |
 | Lecture[(1)](1)    | 34 DLLs | |
 | Lecture[(1)](1)    | 35 ILOs | |
+
+# References
+
+- [ ] [Kicad](https://www.kicad.org)
+```
+brew install kicad
+```
