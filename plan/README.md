@@ -13,7 +13,7 @@ journey
   
 ```
 
-``mermaid
+```mermaid
 quadrantChart
     title Reach and engagement of campaigns
     x-axis Low Reach --> High Reach
