@@ -46,5 +46,6 @@ HDL - Languages
 - [ ] [Next Generation FPGAs for Electronic Warfare Systems](https://www.mobilityengineeringtech.com/component/content/article/adt/pub/features/articles/24386)
 - [ ] [Wikipedia : RISC-V](https://en.wikipedia.org/wiki/RISC-V)
 - [ ] [Getting Started in Kicad](https://docs.kicad.org/7.0/en/getting_started_in_kicad/getting_started_in_kicad.html)
+- [ ] [First RISC-V-Based System-on-Chip (SoC) FPGA Enters Mass Production](https://www.microchip.com/en-us/about/news-releases/products/first-risc-v-based-system-on-chip-fpga-enters-mass-production)
 
 
