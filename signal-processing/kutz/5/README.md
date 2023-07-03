@@ -52,9 +52,8 @@ x[n] \to y[n]
 
 ```mermaid
 ---
-$${\color{Yellow} \text{ Processing in series } }$$
+Title: Processing in series
 ---
-
 stateDiagram-v2
     direction LR
     [*] --> System1 : Input
