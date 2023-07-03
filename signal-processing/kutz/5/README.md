@@ -88,7 +88,7 @@ flowchart LR
     B --> D[System2]
     C --> E{+}
     D --> E{+}
-    E--> |Output| *
+    E --> |Output| *
 ```
 
 ```math
