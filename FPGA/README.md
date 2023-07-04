@@ -35,7 +35,7 @@ HDL - Languages
 ## :star: Development Boards (Kits)
 
 - [ ] [MPFS-ICICLE-KIT-ES DEVELOPMENT KIT, POLARFIRE S](https://canada.newark.com/microchip/mpfs-icicle-kit-es/development-kit-polarfire-soc/dp/45AJ6163) $1,065.66
-- [] [Cheap FPGA Development Boards](https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards)
+- [ ] [Cheap FPGA Development Boards](https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards)
 
 # References
 - [ ] [	LTESniffer – An Open-Source LTE Downlink/Uplink Eavesdropper (github.com/syssec-kaist)](https://news.ycombinator.com/item?id=35952206)
