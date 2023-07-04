@@ -20,7 +20,7 @@ It's worth noting that while FPGAs may not be as popular in the broader IT commu
 
 No, the Raspberry Pi is not a microcontroller. It is a single-board computer (SBC) that is designed to offer the functionality of a computer on a small, affordable board. The Raspberry Pi boards are capable of running full-fledged operating systems such as Linux and can perform a wide range of tasks, including web browsing, programming, multimedia playback, and more.
 
-Microcontrollers, on the other hand, are integrated circuits that are specifically designed for embedded systems and are typically used to control and monitor hardware devices. Microcontrollers are often used in applications that require real-time control, low power consumption, and low-cost solutions. They have a smaller form factor and are optimized for running specific tasks efficiently.
+Microcontrollers, on the other hand, are [integrated circuits](https://en.wikipedia.org/wiki/Integrated_circuit) that are specifically designed for embedded systems and are typically used to control and monitor hardware devices. Microcontrollers are often used in applications that require real-time control, low power consumption, and low-cost solutions. They have a smaller form factor and are optimized for running specific tasks efficiently.
 
 While the Raspberry Pi does have some GPIO (General Purpose Input/Output) pins that allow for interfacing with external hardware, its primary focus is on providing a versatile computing platform rather than being solely dedicated to controlling hardware at a low level like microcontrollers.
 
