@@ -1,3 +1,6 @@
+- [ ] [KhanAcademy Physics - SemiConductors](https://www.khanacademy.org/science/in-in-class-12th-physics-india/in-in-semiconductors)
+
+
 
 - [ ] [:tv:@CircuitBread - CircuitBread](https://www.youtube.com/@CircuitBread)
 
