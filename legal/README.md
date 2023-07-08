@@ -8,12 +8,15 @@
 
 
 
-Canada [(ISED)](https://www.ic.gc.ca/), in charge of the new licensing framework, said it wanted to `“help smaller users access 5G spectrum in very localized areas”`. It listed:
+Canada [(ISED)](https://www.ic.gc.ca/), in charge of the new licensing framework, said it wanted to `“help smaller users access 5G spectrum in very localized areas”`. 
+
+It listed:
 - `agriculture`,
 - `mining`,
 - `manufacturing`,
 - `healthcare`,
 - `public safety and transportation` as candidate industries
+
 to set up:
 - `private` and
 - `campus` 5G networks with local spectrum. 
