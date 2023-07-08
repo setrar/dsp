@@ -14,3 +14,4 @@ Additionally, regulatory requirements and licenses may apply for operating in sp
 To use the CaribouLite SDR as a Wi-Fi device, you may need to refer to the documentation, software tools, and firmware provided by the manufacturer to configure it for Wi-Fi operation and ensure compliance with applicable regulations.
 
 - [ ] [Use Wi-Fi 6E networks with Apple devices](https://support.apple.com/en-ca/HT213433)
+- [ ] [Countries Enabling Wi-Fi in 6 GHz (Wi-Fi 6E)](https://www.wi-fi.org/countries-enabling-wi-fi-in-6-ghz-wi-fi-6e)
