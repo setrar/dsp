@@ -12,3 +12,5 @@ However, it's important to note that the CaribouLite SDR is a hardware platform,
 Additionally, regulatory requirements and licenses may apply for operating in specific frequency bands, including the 6 GHz band. It's essential to understand and comply with the regulations and licensing requirements in your jurisdiction when using radio frequency devices.
 
 To use the CaribouLite SDR as a Wi-Fi device, you may need to refer to the documentation, software tools, and firmware provided by the manufacturer to configure it for Wi-Fi operation and ensure compliance with applicable regulations.
+
+- [ ] [Use Wi-Fi 6E networks with Apple devices](https://support.apple.com/en-ca/HT213433)
