@@ -3,7 +3,7 @@
 
 > can I use the [CaribouLite - 6GHz SDR](https://github.com/cariboulabs/cariboulite) as a wifi
 
-Yes, the CaribouLite - 6GHz SDR can be used for Wi-Fi communication in the 6 GHz frequency range. The 6 GHz band has been designated for Wi-Fi use, and the CaribouLite SDR can operate within this frequency range to enable Wi-Fi connectivity.
+Yes, the CaribouLite - 6GHz SDR (Certified by [OSHWA](https://www.oshwa.org/)) can be used for Wi-Fi communication in the 6 GHz frequency range. The 6 GHz band has been designated for Wi-Fi use, and the CaribouLite SDR can operate within this frequency range to enable Wi-Fi connectivity.
 
 With the CaribouLite SDR, you can configure it as an access point or a client to establish Wi-Fi connections with compatible devices. It supports various Wi-Fi protocols, including Wi-Fi 6 (802.11ax) and Wi-Fi 6E, which utilizes the 6 GHz band for enhanced performance and reduced interference.
 
