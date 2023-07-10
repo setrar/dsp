@@ -15,3 +15,4 @@ To use the CaribouLite SDR as a Wi-Fi device, you may need to refer to the docum
 
 - [ ] [Use Wi-Fi 6E networks with Apple devices](https://support.apple.com/en-ca/HT213433)
 - [ ] [Countries Enabling Wi-Fi in 6 GHz (Wi-Fi 6E)](https://www.wi-fi.org/countries-enabling-wi-fi-in-6-ghz-wi-fi-6e)
+      > Canada	Adopted	5925-7125 MHz
