@@ -100,6 +100,9 @@ II. Finite Average Power, Zero Energy
 ```math
 P_\infty > 0, E_\infty = \infty
 ```
+
+:bulb: [Signals and Systems: Energy and Power Signals](https://www.tutorialspoint.com/signals-and-systems-energy-and-power-signals)
+
 III. Other
 
 - [ ] All Signals Deliver their Information with Energy and Power
