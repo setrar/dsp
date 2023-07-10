@@ -59,7 +59,7 @@ flowchart LR
     classDef someclass fill:#a2f
 ```
 
-- [ ] Signal Energy
+- [ ] [Signal Energy](https://en.wikipedia.org/wiki/Energy_(signal_processing))
 
 ```math
 E = \int_{t1}^{t2} | x(t) |^2 \mathrm{d}t
