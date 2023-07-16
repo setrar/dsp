@@ -24,7 +24,7 @@ Yes, learning microelectronics can be highly beneficial when getting into Digita
 
 While it's possible to work with DSP without in-depth knowledge of microelectronics, having a strong foundation in microelectronics will undoubtedly enhance your understanding and proficiency in DSP and open up more opportunities for you in this field.
 
-:chat: Will it also help to understand the underlying maths?
+:cat: Will it also help to understand the underlying maths?
 
 Absolutely, understanding the underlying mathematics is crucial when working with Digital Signal Processing (DSP). Here's why:
 
