@@ -26,6 +26,10 @@ While it's possible to work with DSP without in-depth knowledge of microelectron
 
 :cat: Will it also help to understand the underlying maths?
 
+```math
+e = mc^2
+```
+
 Absolutely, understanding the underlying mathematics is crucial when working with Digital Signal Processing (DSP). Here's why:
 
 1. Algorithm Design: DSP involves designing algorithms to process and analyze signals. A solid understanding of mathematics, particularly concepts like calculus, linear algebra, and Fourier analysis, is essential for developing effective and efficient DSP algorithms. These mathematical principles form the basis for operations such as signal transformation, filtering, modulation, and spectral analysis.
