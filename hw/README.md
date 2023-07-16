@@ -17,3 +17,4 @@
 - [ ] [Digital Audio Processing with STM32      - Noise Gate - Phil's Lab #58](https://youtu.be/q_Anc8KyrXI)
 - [ ] [Audio EQ Software Implementation (STM32) - Phil's Lab #89](https://youtu.be/4o-_gUht_Xc)
 - [ ] [STM32 Fast Fourier Transform (CMSIS DSP FFT) - Phil's Lab #111](https://youtu.be/d1KvgOwWvkM)
+- [ ] [FIR Filter Design and Software Implementation - Phil's Lab #17](https://youtu.be/uNNNj9AZisM)
