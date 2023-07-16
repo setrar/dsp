@@ -12,10 +12,12 @@
 - [ ] [Audio DSP Project for the Raspberry Pi Pico (RP2040)](https://github.com/playduck/pico-dsp)
 
 :abacus: `Digital Audio Processing with STM32` by [:tv:@Phil's Lab](https://www.youtube.com/@PhilsLab)
-- [ ] [Digital Audio Processing with STM32 #1   - Introduction and Filters - Phil's Lab #46](https://youtu.be/VDhmVrbSpqA)
-- [ ] [Digital Audio Processing with STM32 #4   - STM32 I2S ADC DMA & Double Buffering - Phil's Lab #55](https://youtu.be/zlGSxZGwj-E)
-- [ ] [Digital Audio Processing with STM32      - Noise Gate - Phil's Lab #58](https://youtu.be/q_Anc8KyrXI)
-- [ ] [Audio EQ Software Implementation (STM32) - Phil's Lab #89](https://youtu.be/4o-_gUht_Xc)
-- [ ] [STM32 Fast Fourier Transform (CMSIS DSP FFT) - Phil's Lab #111](https://youtu.be/d1KvgOwWvkM)
-- [ ] [FIR Filter Design and Software Implementation - Phil's Lab #17](https://youtu.be/uNNNj9AZisM)
-- [ ] [The Simplest Digital Filter (STM32 Implementation) - Phil's Lab #92](https://youtu.be/1e_ZB8p5n6s)
+| Episodes |
+|----------|
+| [Digital Audio Processing with STM32 #1   - Introduction and Filters - Phil's Lab #46](https://youtu.be/VDhmVrbSpqA)             |
+| [Digital Audio Processing with STM32 #4   - STM32 I2S ADC DMA & Double Buffering - Phil's Lab #55](https://youtu.be/zlGSxZGwj-E) |
+| [Digital Audio Processing with STM32      - Noise Gate - Phil's Lab #58](https://youtu.be/q_Anc8KyrXI)                           |
+| [Audio EQ Software Implementation (STM32) - Phil's Lab #89](https://youtu.be/4o-_gUht_Xc)                                        |
+| [STM32 Fast Fourier Transform (CMSIS DSP FFT) - Phil's Lab #111](https://youtu.be/d1KvgOwWvkM)                                   |
+| [FIR Filter Design and Software Implementation - Phil's Lab #17](https://youtu.be/uNNNj9AZisM)                                   |
+| [The Simplest Digital Filter (STM32 Implementation) - Phil's Lab #92](https://youtu.be/1e_ZB8p5n6s)                              |
