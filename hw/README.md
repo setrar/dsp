@@ -13,7 +13,7 @@
 
 :abacus: `Digital Audio Processing with STM32` by [:tv:@Phil's Lab](https://www.youtube.com/@PhilsLab)
 | Episodes |
-|----------|
+|:---------|
 | [Digital Audio Processing with STM32 #1   - Introduction and Filters - Phil's Lab #46](https://youtu.be/VDhmVrbSpqA)             |
 | [Digital Audio Processing with STM32 #4   - STM32 I2S ADC DMA & Double Buffering - Phil's Lab #55](https://youtu.be/zlGSxZGwj-E) |
 | [Digital Audio Processing with STM32      - Noise Gate - Phil's Lab #58](https://youtu.be/q_Anc8KyrXI)                           |
