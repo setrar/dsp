@@ -18,3 +18,4 @@
 - [ ] [Audio EQ Software Implementation (STM32) - Phil's Lab #89](https://youtu.be/4o-_gUht_Xc)
 - [ ] [STM32 Fast Fourier Transform (CMSIS DSP FFT) - Phil's Lab #111](https://youtu.be/d1KvgOwWvkM)
 - [ ] [FIR Filter Design and Software Implementation - Phil's Lab #17](https://youtu.be/uNNNj9AZisM)
+- [ ] [The Simplest Digital Filter (STM32 Implementation) - Phil's Lab #92](https://youtu.be/1e_ZB8p5n6s)
