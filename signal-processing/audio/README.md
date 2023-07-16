@@ -12,6 +12,4 @@
 - [ ] [Adafruit: MCP4725 12-Bit DAC Tutorial - Python Computer Wiring](https://learn.adafruit.com/mcp4725-12-bit-dac-tutorial?view=all#python-computer-wiring-2997763)
 
 
-- [ ] [:tv: Delta-Sigma Modulator Basics](https://www.youtube.com/watch?v=NrkFd7h6R2Y)
-- [ ] [:tv: A lecture on the z Transform](https://www.youtube.com/watch?v=dq7-Bqu8HRA)
 
