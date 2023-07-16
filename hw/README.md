@@ -11,5 +11,7 @@
   - [ ] The project uses the [Microphone Library for Pico](https://github.com/ArmDeveloperEcosystem/microphone-library-for-pico) to capture 64 audio samples at a time from the microphone, then transforms the audio samples using [Arm's CMSIS-DSP library](https://arm-software.github.io/CMSIS_5/DSP/html/index.html) into a spectrogram, which is then displayed on the TFT LCD display one row at a time using the [ST7789 Library for Pico](https://github.com/ArmDeveloperEcosystem/st7798-library-for-pico).
 - [ ] [Audio DSP Project for the Raspberry Pi Pico (RP2040)](https://github.com/playduck/pico-dsp)
 
-:abacus: STM32 Phill Lab's
-- [ ] [Digital Audio Processing with STM32 #1 - Introduction and Filters - Phil's Lab #46](https://youtu.be/VDhmVrbSpqA)
+:abacus: Digital Audio Processing with STM32 - Phil's Lab
+- [ ] [Digital Audio Processing with STM32 #1  - Introduction and Filters - Phil's Lab #46](https://youtu.be/VDhmVrbSpqA)
+- [ ] [Digital Audio Processing with STM32 #4  - STM32 I2S ADC DMA & Double Buffering - Phil's Lab #55](https://youtu.be/zlGSxZGwj-E)
+- [ ] [Digital Audio Processing with STM32 #58 - Noise Gate - Phil's Lab](https://youtu.be/q_Anc8KyrXI)
