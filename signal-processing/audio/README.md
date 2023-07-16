@@ -10,7 +10,8 @@
 - [ ] [12-Bit Digital-to-Analog Converter with EEPROM Memory in SOT-23-6](https://ww1.microchip.com/downloads/en/devicedoc/22039d.pdf)
 - [ ] [How To Use CircuitPython on a Raspberry Pi](https://www.tomshardware.com/how-to/use-circuitpython-raspberry-pi)
 - [ ] [Adafruit: MCP4725 12-Bit DAC Tutorial - Python Computer Wiring](https://learn.adafruit.com/mcp4725-12-bit-dac-tutorial?view=all#python-computer-wiring-2997763)
-- [ ] [](https://www.youtube.com/playlist?list=PLXSyc11qLa1ZCn0JCnaaXOWN6Z46rK9jd)
+- [ ] [:tv: :chains: Real-Time Software Implementation of Analog Filters](https://www.youtube.com/playlist?list=PLXSyc11qLa1ZCn0JCnaaXOWN6Z46rK9jd)
+
 
 
 - [ ] [:octocat: PicoAudioPWM](https://github.com/danjperron/PicoAudioPWM)
