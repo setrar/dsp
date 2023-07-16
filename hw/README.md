@@ -15,5 +15,5 @@
 - [ ] [Digital Audio Processing with STM32 #1   - Introduction and Filters - Phil's Lab #46](https://youtu.be/VDhmVrbSpqA)
 - [ ] [Digital Audio Processing with STM32 #4   - STM32 I2S ADC DMA & Double Buffering - Phil's Lab #55](https://youtu.be/zlGSxZGwj-E)
 - [ ] [Digital Audio Processing with STM32      - Noise Gate - Phil's Lab #58](https://youtu.be/q_Anc8KyrXI)
-- [ ] [Digital Audio Processing with STM32 #89  - Audio EQ Software Implementation - Phil's Lab](https://youtu.be/4o-_gUht_Xc)
+- [ ] [Audio EQ Software Implementation (STM32) - Phil's Lab #89](https://youtu.be/4o-_gUht_Xc)
 - [ ] [Digital Audio Processing with STM32 #111 - STM32 Fast Fourier Transform (CMSIS DSP FFT) - Phil's Lab](https://youtu.be/d1KvgOwWvkM)
