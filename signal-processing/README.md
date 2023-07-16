@@ -14,3 +14,7 @@
   Digital Electronics
   Number Systems
   and many more to come in near future..
+
+- [ ] [:tv: Delta-Sigma Modulator Basics](https://www.youtube.com/watch?v=NrkFd7h6R2Y)
+- [ ] [:tv: A lecture on the z Transform](https://www.youtube.com/watch?v=dq7-Bqu8HRA)
+
