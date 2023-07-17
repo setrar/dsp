@@ -1,6 +1,6 @@
 # Filtering a time-series in Octave/Sciplot
 
-First create some points for a time series. In this case we'll create one second of random data sampled at 44 kHz.
+First create some points for a time series. In this case we'll create one second of random data sampled at `44 kHz`.
 
 ```octave
 sampling_t = 1/44000;
