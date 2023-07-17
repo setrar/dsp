@@ -1,6 +1,6 @@
 # Octave
 
-* [Filtering a time-series in Octave/Sciplot](Butterworth_low-pass_filter.md) using [octave-online.net](https://octave-online.net)
+* [Filtering a time-series in Octave/Sciplot](Butterworth_low-pass_filter) using [octave-online.net](https://octave-online.net)
 
 
 # References
