@@ -28,8 +28,7 @@ specgram(x)
 Now we'll use a built-in function to create a third order [Butterworth low-pass filter](https://en.wikipedia.org/wiki/Butterworth_filter) with cutoff frequency:
 
 ```math
-\tau = 0.1 \text { radians }
-\pi*\tau
+\tau = 0.1 \text { radians } \to \pi*\tau
 ```
 
 `pi*0.1 radians`
