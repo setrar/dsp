@@ -71,7 +71,7 @@ specgram(y)
 
 Now look at the magnitude of the FFT
 
-```
+```octave
 plot(log(abs(fft(y))))
 ```
 
