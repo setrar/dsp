@@ -17,6 +17,14 @@ plot(t,x);
 <img src=images/gnuplot_plot_1a.png width=50% height=50% > </img>
 
 
+Have a look at its spectrum (it is mostly uniform, what we would expect from noise)
+
+```octave
+specgram(x)
+```
+
+<img src=images/gnuplot_plot_2.png width=50% height=50% > </img>
+
 # References
 
 - [ ] [Filtering a time-series in Octave/Sciplot](https://en.wikibooks.org/wiki/Digital_Signal_Processing/Digital_Filters#Filtering_a_time-series_in_Octave/Sciplot)
