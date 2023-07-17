@@ -23,7 +23,7 @@ Have a look at its spectrum (it is mostly uniform, what we would expect from noi
 specgram(x)
 ```
 
-<img src=images/gnuplot_plot_2.png width=50% height=50% > </img>
+<img src=images/gnuplot_plot_2a.png width=50% height=50% > </img>
 
 # References
 
