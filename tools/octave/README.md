@@ -1,6 +1,6 @@
 # Octave
 
-* [Filtering a time-series in Octave/Sciplot](https://en.wikibooks.org/wiki/Digital_Signal_Processing/Digital_Filters#Filtering_a_time-series_in_Octave/Sciplot) using [octave-online.net](https://octave-online.net)
+* [Filtering a time-series in Octave/Sciplot](Butterworth-low-pass-filter.md) using [octave-online.net](https://octave-online.net)
 
 
 # References
