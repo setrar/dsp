@@ -25,7 +25,7 @@ specgram(x)
 
 <img src=images/gnuplot_plot_2a.png width=50% height=50% > </img>
 
-Now we'll use a built-in function to create a third order [Butterworth low-pass filter](https://en.wikipedia.org/wiki/Butterworth_filter) with cutoff frequency:
+Now we'll use a built-in function to create a `(3rd)` third order [Butterworth low-pass filter](https://en.wikipedia.org/wiki/Butterworth_filter) with cutoff frequency:
 
 ```math
 \tau = 0.1 \text { radians } \to \pi\tau
