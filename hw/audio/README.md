@@ -17,5 +17,7 @@
 - [ ] [:octocat: PicoAudioPWM](https://github.com/danjperron/PicoAudioPWM)
 - [ ] [:tv: Raspberry Pi Pico output audio in PWM](https://www.youtube.com/watch?v=dgIQz5uy2vA)
 
+- [ ] [Cookbook formulae for audio equalizer biquad filter coefficients](https://webaudio.github.io/Audio-EQ-Cookbook/audio-eq-cookbook.html)
+
 
 
