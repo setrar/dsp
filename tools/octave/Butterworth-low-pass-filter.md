@@ -25,7 +25,14 @@ specgram(x)
 
 <img src=images/gnuplot_plot_2a.png width=50% height=50% > </img>
 
-Now we'll use a built-in function to create a third order Butterworth low-pass filter with cutoff frequency pi*0.1 radians
+Now we'll use a built-in function to create a third order [Butterworth low-pass filter](https://en.wikipedia.org/wiki/Butterworth_filter) with cutoff frequency:
+
+```math
+\tau = 0.1 \text { radians }
+\pi*\tau
+```
+
+`pi*0.1 radians`
 
 ```octave
 [b,a] = butter(3,0.1)
