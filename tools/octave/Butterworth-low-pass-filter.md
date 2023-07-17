@@ -62,7 +62,7 @@ Check its spectrogram
 specgram(y)
 ```
 
-<img src=images/gnuplot_plot_4a.png width=50% height=50% > </img>
+<img src=images/gnuplot_plot_5a.png width=50% height=50% > </img>
 
 
 Now look at the magnitude of the FFT
@@ -71,7 +71,8 @@ Now look at the magnitude of the FFT
 plot(log(abs(fft(y))))
 ```
 
-<img src=images/gnuplot_plot_5a.png width=50% height=50% > </img>
+<img src=images/gnuplot_plot_4a.png width=50% height=50% > </img>
+
 
 
 
