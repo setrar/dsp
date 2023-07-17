@@ -47,6 +47,34 @@ Now filter the time series.
 y = filter(b,a,x);
 ```
 
+Have a look at the time resulting (y) series
+
+```octave
+plot(t,y);
+```
+
+<img src=images/gnuplot_plot_3a.png width=50% height=50% > </img>
+
+
+Check its spectrogram
+
+```octave
+specgram(y)
+```
+
+<img src=images/gnuplot_plot_4a.png width=50% height=50% > </img>
+
+
+Now look at the magnitude of the FFT
+
+```
+plot(log(abs(fft(y))))
+```
+
+<img src=images/gnuplot_plot_5a.png width=50% height=50% > </img>
+
+
+
 # References
 
 - [ ] [Filtering a time-series in Octave/Sciplot](https://en.wikibooks.org/wiki/Digital_Signal_Processing/Digital_Filters#Filtering_a_time-series_in_Octave/Sciplot)
