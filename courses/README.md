@@ -20,6 +20,6 @@
 - [ ] [Signals: Complex Exponentials](https://www.youtube.com/watch?v=UxR2CMgvtLk&t=53s)
 
 ```math
-e^{j\omega_0 t}
+e^{j\omega_0t}
 `` 
 
