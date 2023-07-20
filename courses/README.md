@@ -23,4 +23,4 @@
 e^{j\omega_0t} \to j = \sqrt{- 1}
 ``` 
 
-Difference between a mathematician and an engineer, i represents current
+> Difference between a mathematician and an engineer, i represents current then j is used instead
