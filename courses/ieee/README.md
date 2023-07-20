@@ -17,3 +17,7 @@ Class 4: Windowing, Digital Filter Design, Fixed Point vs Floating Point
 
 Class 5: Fast Fourier Transform, Multi-rate Signal Processing, Multi-rate Filters
 
+| | | |
+|-|-|-|
+| <img src=images/linear-phase-filter.png width='' height='' > <img> | <img src=images/multistage-CIC.png	 width='' height='' > <img> | <img src=images/sliding-correlation.png width='' height='' > <img> |
+
