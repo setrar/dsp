@@ -4,6 +4,7 @@
 |-|
 | [:cat:GPT Is it worth learning microelectronics when getting into DSP?](#catgpt-is-it-worth-learning-microelectronics-when-getting-into-dsp) |
 | [:cat:GPT Will it also help to understand the underlying maths?](#catgpt-will-it-also-help-to-understand-the-underlying-maths) |
+| [:cat:GPT does a guitar tuner uses the FFT?](#catgpt-does-a-guitar-tuner-uses-the-fft)
 
 
 [Signal Processing](https://en.wikipedia.org/wiki/Signal_processing) is a subfield of data processing. [Data processing](https://en.wikipedia.org/wiki/Data_processing) involves manipulating, analyzing, and extracting information from raw data to obtain useful insights or achieve specific objectives. Signal processing specifically focuses on the processing and [analysis](https://en.wikipedia.org/wiki/System_analysis) of signals, which are typically time-varying or spatially varying quantities that represent some form of information.
@@ -49,7 +50,7 @@ Absolutely, understanding the underlying mathematics is crucial when working wit
 
 By understanding the underlying mathematics, you'll have a deeper comprehension of the theory behind DSP algorithms, making it easier for you to design, analyze, and implement them effectively. It also provides a solid foundation for further exploration and specialization within the field of DSP.
 
-#### :cat:GPT does a guitar tuner uses the FFT?
+#### :cat:GPT Does a guitar tuner uses the FFT?
 
 Yes, many modern guitar tuners use the Fast Fourier Transform (FFT) algorithm as part of their tuning process. The FFT is a widely used algorithm in digital signal processing, and it's particularly efficient for analyzing the frequency components of a signal, which is exactly what a tuner needs to do.
 
