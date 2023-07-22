@@ -12,7 +12,7 @@ Signal processing techniques are used to extract, modify, or enhance specific fe
 In summary, signal processing is a specialized area within the broader field of data processing, specifically focusing on the processing and analysis of signals to extract useful information or achieve specific objectives.
 
 
-#### :cat: Is it worth learning microelectronics when getting into DSP?
+#### :cat:GPT Is it worth learning microelectronics when getting into DSP?
 
 Yes, learning microelectronics can be highly beneficial when getting into Digital Signal Processing (DSP). Here's why:
 
