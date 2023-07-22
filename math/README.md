@@ -17,6 +17,7 @@
 
 ## Probabilities and Random Variables
 
+[Probabilities of probabilities](https://www.youtube.com/playlist?list=PLZHQObOWTQDOjmo3Y6ADm0ScWAlEXf-fp)
 
 ## Fourrier
 
