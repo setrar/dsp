@@ -8,7 +8,7 @@ Signal processing techniques are used to extract, modify, or enhance specific fe
 In summary, signal processing is a specialized area within the broader field of data processing, specifically focusing on the processing and analysis of signals to extract useful information or achieve specific objectives.
 
 
-:cat: is it worth learning microelectronics when getting into DSP?
+#### :cat: is it worth learning microelectronics when getting into DSP?
 
 Yes, learning microelectronics can be highly beneficial when getting into Digital Signal Processing (DSP). Here's why:
 
@@ -24,7 +24,7 @@ Yes, learning microelectronics can be highly beneficial when getting into Digita
 
 While it's possible to work with DSP without in-depth knowledge of microelectronics, having a strong foundation in microelectronics will undoubtedly enhance your understanding and proficiency in DSP and open up more opportunities for you in this field.
 
-:cat: Will it also help to understand the underlying maths?
+#### :cat:GPT Will it also help to understand the underlying maths?
 
 ```math
 e = mc^2
@@ -43,6 +43,26 @@ Absolutely, understanding the underlying mathematics is crucial when working wit
 5. Research and Development: If you plan to pursue research or development in DSP, a strong foundation in mathematics is particularly valuable. It allows you to explore cutting-edge algorithms, contribute to the field's advancements, and delve into topics like optimization, machine learning, and statistical signal processing.
 
 By understanding the underlying mathematics, you'll have a deeper comprehension of the theory behind DSP algorithms, making it easier for you to design, analyze, and implement them effectively. It also provides a solid foundation for further exploration and specialization within the field of DSP.
+
+#### :cat:GPT does a guitar tuner uses the FFT?
+
+Yes, many modern guitar tuners use the Fast Fourier Transform (FFT) algorithm as part of their tuning process. The FFT is a widely used algorithm in digital signal processing, and it's particularly efficient for analyzing the frequency components of a signal, which is exactly what a tuner needs to do.
+
+Here's a brief overview of how a guitar tuner typically works and how the FFT comes into play:
+
+1. Sound Input: The guitar tuner receives an audio input from the guitar through a microphone or a built-in pickup. This input is essentially a time-domain signal, which represents how the air pressure (sound) changes over time.
+
+2. Preprocessing: Before applying the FFT, the tuner may perform some preprocessing on the signal to clean up noise, remove unwanted frequencies, or improve accuracy.
+
+3. FFT Analysis: The FFT algorithm is then applied to the preprocessed audio signal. The FFT converts the time-domain signal into the frequency domain, representing the signal as a sum of different frequency components. This allows the tuner to determine the fundamental frequency and other harmonics present in the guitar's sound.
+
+4. Frequency Identification: After the FFT analysis, the tuner identifies the dominant frequency component, which corresponds to the pitch of the played note.
+
+5. Comparison with Target Frequencies: The tuner compares the identified frequency with the target frequency of the note being tuned (e.g., A440 Hz for the standard A note). Based on the difference between the identified frequency and the target frequency, the tuner indicates whether the string needs to be tuned up or down.
+
+6. Display: The tuner provides visual or audible feedback to the user, guiding them to tune the guitar string accurately.
+
+Using the FFT allows guitar tuners to analyze the audio signal quickly and accurately, making the tuning process much more efficient and reliable than traditional methods. The algorithm's ability to break down complex signals into their individual frequency components is crucial for identifying the specific note being played on the guitar.
 
 # References
 
