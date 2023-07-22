@@ -1,5 +1,9 @@
 # DSP
 
+|  TOC |
+|-|
+| [:cat:GPT Is it worth learning microelectronics when getting into DSP?](#cat-is-it-worth-learning-microelectronics-when-getting-into-dsp) |
+
 
 [Signal Processing](https://en.wikipedia.org/wiki/Signal_processing) is a subfield of data processing. [Data processing](https://en.wikipedia.org/wiki/Data_processing) involves manipulating, analyzing, and extracting information from raw data to obtain useful insights or achieve specific objectives. Signal processing specifically focuses on the processing and [analysis](https://en.wikipedia.org/wiki/System_analysis) of signals, which are typically time-varying or spatially varying quantities that represent some form of information.
 
@@ -8,7 +12,7 @@ Signal processing techniques are used to extract, modify, or enhance specific fe
 In summary, signal processing is a specialized area within the broader field of data processing, specifically focusing on the processing and analysis of signals to extract useful information or achieve specific objectives.
 
 
-#### :cat: is it worth learning microelectronics when getting into DSP?
+#### :cat: Is it worth learning microelectronics when getting into DSP?
 
 Yes, learning microelectronics can be highly beneficial when getting into Digital Signal Processing (DSP). Here's why:
 
