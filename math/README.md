@@ -1,5 +1,9 @@
 # Math for DSP
 
+## Multivariable calculus
+
+[Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus)
+
 ## Linear Algebra
 
 
@@ -8,6 +12,8 @@
 ## Differential Equation
 
 [An overview of differential equations.](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6) by [:tv: 3Blue1Brown](https://www.youtube.com/@3blue1brown)
+
+
 
 ## Probabilities and Random Variables
 
