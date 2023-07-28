@@ -9,10 +9,10 @@
 - [ ] [How To Use CircuitPython on a Raspberry Pi](https://www.tomshardware.com/how-to/use-circuitpython-raspberry-pi)
 
 
-##### [MCP4725 12-Bit Single Output DAC w/EEPROM and I2C™](https://www.microchip.com/en-us/product/mcp4725)
-
-- [ ] [MCP4725 Breakout Board - 12-Bit DAC with I2C Interface - STEMMA QT / qwiic](https://www.adafruit.com/product/935)
-- [ ] [Adafruit: MCP4725 12-Bit DAC Tutorial - Python Computer Wiring](https://learn.adafruit.com/mcp4725-12-bit-dac-tutorial?view=all#python-computer-wiring-2997763)
+| [MCP4725 12-Bit Single Output DAC w/EEPROM and I2C™](https://www.microchip.com/en-us/product/mcp4725) |
+|-|
+| [MCP4725 Breakout Board - 12-Bit DAC with I2C Interface - STEMMA QT / qwiic](https://www.adafruit.com/product/935) |
+| [Adafruit: MCP4725 12-Bit DAC Tutorial - Python Computer Wiring](https://learn.adafruit.com/mcp4725-12-bit-dac-tutorial?view=all#python-computer-wiring-2997763) |
 
 
 - [ ] [:octocat: PicoAudioPWM](https://github.com/danjperron/PicoAudioPWM)
