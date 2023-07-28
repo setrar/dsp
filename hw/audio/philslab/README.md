@@ -1,6 +1,6 @@
 
 
-:abacus: [`Digital Audio Processing with STM32`](https://www.youtube.com/playlist?list=PLXSyc11qLa1ZCn0JCnaaXOWN6Z46rK9jd) by [:tv:@Phil's Lab](https://www.youtube.com/@PhilsLab)
+:abacus: [`Real-Time Software Implementation of Analog Filters`](https://www.youtube.com/playlist?list=PLXSyc11qLa1ZCn0JCnaaXOWN6Z46rK9jd) by [:tv:@Phil's Lab](https://www.youtube.com/@PhilsLab)
 | Episodes |
 |:---------|
 | Real-Time Software Implementation of Analog Filters - Phil's Lab #20|
