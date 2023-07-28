@@ -8,8 +8,9 @@
 - [ ] [12-Bit Digital-to-Analog Converter with EEPROM Memory in SOT-23-6](https://ww1.microchip.com/downloads/en/devicedoc/22039d.pdf)
 - [ ] [How To Use CircuitPython on a Raspberry Pi](https://www.tomshardware.com/how-to/use-circuitpython-raspberry-pi)
 
+#### :round_pushpin: [MCP4725 12-Bit Single Output DAC w/EEPROM and I2C™](https://www.microchip.com/en-us/product/mcp4725)
 
-| [MCP4725 12-Bit Single Output DAC w/EEPROM and I2C™](https://www.microchip.com/en-us/product/mcp4725) |
+|  |
 |:-|
 | [MCP4725 Breakout Board - 12-Bit DAC with I2C Interface - STEMMA QT / qwiic](https://www.adafruit.com/product/935) |
 | [Adafruit: MCP4725 12-Bit DAC Tutorial - Python Computer Wiring](https://learn.adafruit.com/mcp4725-12-bit-dac-tutorial?view=all#python-computer-wiring-2997763) |
