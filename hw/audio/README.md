@@ -10,7 +10,7 @@
 
 #### :round_pushpin: [MCP4725 12-Bit Single Output DAC w/EEPROM and I2C™](https://www.microchip.com/en-us/product/mcp4725)
 
-|  |
+| Description |
 |:-|
 | [MCP4725 Breakout Board - 12-Bit DAC with I2C Interface - STEMMA QT / qwiic](https://www.adafruit.com/product/935) |
 | [Adafruit: MCP4725 12-Bit DAC Tutorial - Python Computer Wiring](https://learn.adafruit.com/mcp4725-12-bit-dac-tutorial?view=all#python-computer-wiring-2997763) |
@@ -22,7 +22,9 @@
 - [ ] [Cookbook formulae for audio equalizer biquad filter coefficients](https://webaudio.github.io/Audio-EQ-Cookbook/audio-eq-cookbook.html)
 
 
-:play_or_pause_button: FFT Playlists
+#### :play_or_pause_button: FFT Playlists
 
-- [ ] [:tv: :play_or_pause_button: STM32 Audio DSP](https://www.youtube.com/playlist?list=PLTNEB0-EzPluXh0d_5zRprbgRfgkrYxfO)
-- [ ] [:tv: :play_or_pause_button: Real-Time Software Implementation of Analog Filters](https://www.youtube.com/playlist?list=PLXSyc11qLa1ZCn0JCnaaXOWN6Z46rK9jd)
+| Description |
+|:-|
+| [:tv: :play_or_pause_button: STM32 Audio DSP](https://www.youtube.com/playlist?list=PLTNEB0-EzPluXh0d_5zRprbgRfgkrYxfO) |
+| [:tv: :play_or_pause_button: Real-Time Software Implementation of Analog Filters](https://www.youtube.com/playlist?list=PLXSyc11qLa1ZCn0JCnaaXOWN6Z46rK9jd) |
