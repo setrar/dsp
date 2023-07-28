@@ -27,4 +27,4 @@
 | Description |
 |:-|
 | [:tv: :play_or_pause_button: STM32 Audio DSP](https://www.youtube.com/playlist?list=PLTNEB0-EzPluXh0d_5zRprbgRfgkrYxfO) |
-| [:tv: :play_or_pause_button: Real-Time Software Implementation of Analog Filters](https://www.youtube.com/playlist?list=PLXSyc11qLa1ZCn0JCnaaXOWN6Z46rK9jd) |
+| [:tv: :play_or_pause_button: Real-Time Software Implementation of Analog Filters](philslab) |
