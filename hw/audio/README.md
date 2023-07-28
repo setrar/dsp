@@ -6,7 +6,6 @@
 - [ ] [ESP32 vs. STM32: Which one is better?](https://www.utmel.com/components/esp32-vs-stm32-which-one-is-better?id=1383)
 - [ ] [The Integrator Amplifier](https://www.electronics-tutorials.ws/opamp/opamp_6.html)
 - [ ] [12-Bit Digital-to-Analog Converter with EEPROM Memory in SOT-23-6](https://ww1.microchip.com/downloads/en/devicedoc/22039d.pdf)
-- [ ] [How To Use CircuitPython on a Raspberry Pi](https://www.tomshardware.com/how-to/use-circuitpython-raspberry-pi)
 
 #### :round_pushpin: [MCP4725 12-Bit Single Output DAC w/EEPROM and I2C™](https://www.microchip.com/en-us/product/mcp4725)
 
@@ -28,3 +27,7 @@
 |:-|
 | [:tv: :play_or_pause_button: STM32 Audio DSP](https://www.youtube.com/playlist?list=PLTNEB0-EzPluXh0d_5zRprbgRfgkrYxfO) |
 | [:tv: :play_or_pause_button: Real-Time Software Implementation of Analog Filters](philslab) |
+
+# References
+
+- [ ] [How To Use CircuitPython on a Raspberry Pi](https://www.tomshardware.com/how-to/use-circuitpython-raspberry-pi)
