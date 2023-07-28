@@ -22,7 +22,7 @@
 - [ ] [Cookbook formulae for audio equalizer biquad filter coefficients](https://webaudio.github.io/Audio-EQ-Cookbook/audio-eq-cookbook.html)
 
 
-#### :play_or_pause_button: FFT Playlists
+#### :round_pushpin: :play_or_pause_button: FFT Playlists
 
 | Description |
 |:-|
