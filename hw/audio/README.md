@@ -13,6 +13,7 @@
 - [ ] [STM32 Nucleo Boards](https://www.st.com/stm32nucleo)
 - [ ] [STM32CubeIDE Integrated Development Environment for STM32](https://www.st.com/en/development-tools/stm32cubeide.html)
 - [ ] [Datasheet Review: High-Performance STM32 Cortex-M4 Microcontroller](https://www.hackster.io/news/datasheet-review-high-performance-stm32-cortex-m4-microcontroller-d1d6d07bea70)
+- [ ] [Getting Started With STM32 & Nucleo Part 4: Working with ADC and DMA - Maker.io](https://www.youtube.com/watch?v=EsZLgqhqfO0)
 
 ### :roll_of_paper: Loose Items
 
