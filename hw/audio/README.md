@@ -7,6 +7,7 @@
 - [ ] [DEVMO STM32F407VET6 STM32 Cortex-M4 MCU Minimum System Core Board Development Board NRF2410 FMSG SD Card](https://www.amazon.ca/dp/B08HK7JGG3)
 
 - [ ] [STM32CubeIDE Integrated Development Environment for STM32](https://www.st.com/en/development-tools/stm32cubeide.html)
+- [ ] [Datasheet Review: High-Performance STM32 Cortex-M4 Microcontroller](https://www.hackster.io/news/datasheet-review-high-performance-stm32-cortex-m4-microcontroller-d1d6d07bea70)
 
 ### :roll_of_paper: Loose Items
 
