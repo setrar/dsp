@@ -3,7 +3,6 @@
 ### :electron: [STM32](https://en.wikipedia.org/wiki/STM32) Boards
 
 - [ ] [STM32 Nucleo Development Board with STM32F446RE MCU NUCLEO-F446RE](https://www.amazon.ca/STM32-Nucleo-Development-STM32F446RE-NUCLEO-F446RE/dp/B01I8XLEM8)
-- [ ] [Waveshare STM32 Board Nucleo NUCLEO-F411RE STM32F411RE STM32 Development Board Integrate ST-LINK/V2-1 Debugger/Programmer](https://www.amazon.ca/Waveshare-NUCLEO-F411RE-STM32F411RE-Development-Programmer/dp/B00NJL7ZJG0)
 - [ ] [Waveshare STM32 Board Nucleo NUCLEO-F411RE STM32F411RE STM32 Development Board Integrate ST-LINK/V2-1 Debugger/Programmer](https://www.amazon.ca/Waveshare-NUCLEO-F411RE-STM32F411RE-Development-Programmer/dp/B00NJL7ZJG)
 - [ ] [DEVMO STM32F407VET6 STM32 Cortex-M4 MCU Minimum System Core Board Development Board NRF2410 FMSG SD Card](https://www.amazon.ca/dp/B08HK7JGG3)
 
