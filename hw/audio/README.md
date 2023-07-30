@@ -6,9 +6,9 @@
 - [ ] [Waveshare STM32 Board Nucleo NUCLEO-F411RE STM32F411RE STM32 Development Board Integrate ST-LINK/V2-1 Debugger/Programmer](https://www.amazon.ca/Waveshare-NUCLEO-F411RE-STM32F411RE-Development-Programmer/dp/B00NJL7ZJG0)
 - [ ] [DEVMO STM32F407VET6 STM32 Cortex-M4 MCU Minimum System Core Board Development Board NRF2410 FMSG SD Card](https://www.amazon.ca/dp/B08HK7JGG3)
 
-| [STM32® 32-bit MCU Family](https://www.digikey.ca/en/product-highlight/s/stmicroelectronics/stm32-f4) |
-|-|
-| [STM32F446RE High-performance foundation line, Arm Cortex-M4 core with DSP and FPU, 512 Kbytes of Flash memory, 180 MHz CPU, ART Accelerator, Dual QSPI](https://www.st.com/en/microcontrollers-microprocessors/stm32f446re.html) |
+| | [STM32® 32-bit MCU Family](https://www.digikey.ca/en/product-highlight/s/stmicroelectronics/stm32-f4) |
+|-|-|
+| [STM32F446RE](https://www.st.com/en/microcontrollers-microprocessors/stm32f446re.html) | [High-performance foundation line, Arm Cortex-M4 core with DSP and FPU, 512 Kbytes of Flash memory, 180 MHz CPU, ART Accelerator, Dual QSPI |
 
 
 - [ ] 
