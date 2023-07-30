@@ -1,6 +1,6 @@
 # Audio
 
-### :electron: STM32 Boards
+### :electron: [STM32](https://en.wikipedia.org/wiki/STM32) Boards
 
 - [ ] [STM32 Nucleo Development Board with STM32F446RE MCU NUCLEO-F446RE](https://www.amazon.ca/STM32-Nucleo-Development-STM32F446RE-NUCLEO-F446RE/dp/B01I8XLEM8)
 
