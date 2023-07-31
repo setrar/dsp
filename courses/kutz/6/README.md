@@ -66,9 +66,9 @@ $${
 \end{gather}
 ```
 
-> Graphically
-
 <img src=images/delta_function_graphically.png width='30%' height='30%' > </img>
+
+{\color{Cerulean} \text{ Graphically } }
 
 - [ ] Transform
 
