@@ -182,7 +182,7 @@ $${
 ```math
 \begin{gather}
    {\color{Purple} \text{ Signal only depends upon } } \\
-   {\color{Green} \text{ current past past times } }
+   {\color{Purple} \text{ current past past times } }
 \end{gather}
 ```
 
