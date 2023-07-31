@@ -227,5 +227,14 @@ $${
 \end{gather}
 ```
 
+```math
+\begin{gather}
+   x(t) \to y(t) \\
+    {\color{Purple} \text{ Then } } \\
+   x(t - t_0] \to y(t - t_0)
+\end{gather}
+```
+
+
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
 
