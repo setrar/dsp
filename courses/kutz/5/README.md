@@ -112,7 +112,7 @@ y[n] = (2x[n] + x^2[n])
 ```
 
 ```math
-{\color{Purple} \text{ Memoryless system } }
+{\color{Purple} \text{ Memoryless system } } \\
 {\color{Green} \text{ Future only depends on current time } }
 ```
 
