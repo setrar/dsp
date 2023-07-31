@@ -74,7 +74,7 @@ $${
 
 ```math
 \begin{gather}
-   {\color{Purple} \text{ Transform } } \\
+   {\color{Purple} \\mathbf{ Transform } } \\
    \\ 
    y[n] = \sum_{k=\infty}^\infty x[k]h_k[n] \\
    \\
