@@ -231,7 +231,19 @@ $${
 \begin{gather}
    x(t) \to y(t) \\
     {\color{Purple} \text{ Then } } \\
-   x(t - t_0] \to y(t - t_0)
+   x(t - t_0) \to y(t - t_0)
+\end{gather}
+```
+
+$${
+\color{Yellow} \mathbf{ Linearity } 
+}$$
+
+```math
+\begin{gather}
+   x_1(t) + x_2(t) \to y_1(t) + y_2(t) \\
+   ax(t) \to ay(t) \\
+    {\color{Green} \text{ Complex number } }
 \end{gather}
 ```
 
