@@ -175,11 +175,9 @@ y(t) = x^2(t)
 ```
 
 $${
-\color{Green} \mathbf{ 
-CAUSALITY \space IS \space SO \space TIRING \space
-BUT \space WE \space WILL \space SEE
-} 
+\color{Yellow} \mathbf{ Causality } 
 }$$
+
 
 ```math
 {\color{Yellow} \text{ Memoryless systems are causal } }
