@@ -209,10 +209,10 @@ $${
 <img src=images/stability.png width='40%' height='40%' > </img>
 
 ```math
-\begin{gather}
+\begin{align}
     {\color{Purple} \text{ Stable } } \\
    x[n] \to y[n] \to {\color{Green} \text{ Grows/Decays } }
-\end{gather}
+\end{align}
 ```
 
 
