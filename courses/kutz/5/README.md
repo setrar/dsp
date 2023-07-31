@@ -206,7 +206,7 @@ $${
 \color{Yellow} \mathbf{ SStability } 
 }$$
 
-<img src=images/stability.png width='50%' height='50%' > </img>
+<img src=images/stability.png width='40%' height='40%' > </img>
 
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
