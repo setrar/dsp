@@ -52,7 +52,7 @@ $${
 ```math
 \begin{gather}
     x[n] = ... + x[-3]\delta[n + 3] + x[-2]\delta[n + 2] + x[-1]\delta[n + 1] + x[0]\delta[n] \\
-               + x[1]\delta[n + 1] + x[2]\delta[n - 2] + x[3]\delta[n - 3] + ... \\
+              + x[1]\delta[n + 1] + x[2]\delta[n - 2] + x[3]\delta[n - 3] + ... \\
    {\color{Cerulean} \text{ Represent any function } }
 \end{gather}
 ```
