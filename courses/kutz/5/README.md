@@ -179,6 +179,13 @@ $${
 \color{Yellow} \mathbf{ Causality } 
 }$$
 
+```math
+\begin{gather}
+   {\color{Purple} \text{ Signal only depends upon } } \\
+   {\color{Green} \text{ current past past times } }
+\end{gather}
+```
+
 
 ```math
 {\color{Yellow} \text{ Memoryless systems are causal } }
