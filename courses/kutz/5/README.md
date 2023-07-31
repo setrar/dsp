@@ -59,7 +59,7 @@ stateDiagram-v2
 ```
 
 ```math
-{\color{Yellow} \text{ Processing in series } }
+{\color{Purple} \text{ Processing in series } }
 ```
 
 ```mermaid
@@ -74,7 +74,7 @@ stateDiagram-v2
 ```
 
 ```math
-{\color{Yellow} \text{ Processing in parallel } }
+{\color{Purple} \text{ Processing in parallel } }
 ```
 
 ```mermaid
@@ -91,7 +91,7 @@ stateDiagram-v2
 ```
 
 ```math
-{\color{Yellow} \text{ Series and parallel } }
+{\color{Purple} \text{ Series and parallel } }
 ```
 
 ---
