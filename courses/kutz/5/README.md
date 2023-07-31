@@ -250,7 +250,7 @@ $${
 \begin{gather}
    \text{ continuous time: } ax_1(t) + bx_2(t) \to ay_1(t) + by_2(t) \\
    \text{ discrete time: } ax_1[n] + bx_2[n] \to ay_1[n] + by_2[n] \\
-  {\color{Green} \text{ a can be complex number } }
+  {\color{Green} \text{ Absolutely critical property } }
 \end{gather}
 ```
 
