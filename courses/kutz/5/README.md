@@ -209,12 +209,23 @@ $${
 <img src=images/stability.png width='40%' height='40%' > </img>
 
 ```math
-\begin{align}
+\begin{gather}
     {\color{Purple} \text{ Stable } } \\
    x[n] \to y[n] \to {\color{Green} \text{ Grows/Decays } }
-\end{align}
+\end{gather}
 ```
 
+$${
+\color{Yellow} \mathbf{ Time Invariance } 
+}$$
+
+```math
+\begin{gather}
+   x[n] \to y[n]
+    {\color{Purple} \text{ Then } } \\
+   x[n - n_0] \to y[n - n_0]
+\end{gather}
+```
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
 
