@@ -107,15 +107,13 @@ stateDiagram-v2
 {\color{Yellow} \text{ Memory } }
 ```
 
-```math
-{\color{Purple} \text{ Memory system } }
-```
 
 ```math
 y[n] = x[n - 1]
 ```
 
 ```math
+{\color{Purple} \text{ Memory system } }
 {\color{Green} \text{ Accumulator/Summer } }
 ```
 
