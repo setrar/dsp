@@ -186,9 +186,11 @@ $${
 \end{gather}
 ```
 
-
 ```math
-{\color{Yellow} \text{ Memoryless systems are causal } }
+\begin{gather}
+    {\color{Purple} \text{ Memoryless system } } \\
+    {\color{Green} \text{ are causal } }
+\end{gather}
 ```
 
 
