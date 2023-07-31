@@ -60,7 +60,7 @@ $${
 
 ```math
 \begin{gather}
-    x[n] = \sum_{k=\infty}^\infty x[k]\delta[n - k]
+    x[n] = \sum_{k=\infty}^\infty x[k]\delta[n - k] \\
    \\
    {\color{Cerulean} \text{ General Representation } }
 \end{gather}
