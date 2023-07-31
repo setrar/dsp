@@ -45,13 +45,8 @@ $${
         0,        & \quad n \neq 1
       \end{cases} \\
    \text{   } \\
-   {\color{Green} \text{ Sifting Property } }
+   {\color{Cerulean} \text{ Sifting Property } }
 \end{gather}
-```
-
-```math
-```
-```math
 ```
 
 > represent any function
