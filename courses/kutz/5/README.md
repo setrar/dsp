@@ -101,7 +101,7 @@ stateDiagram-v2
 
 ---
 
-- [ ] System Properties
+#### :round_pushpin: System Properties
 
 $${
 \color{Yellow} \mathbf{ Memory } 
