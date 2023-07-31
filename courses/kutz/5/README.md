@@ -124,14 +124,23 @@ y[n] = x[n - 1]
 ```
 
 ```math
-{\color{Purple} \text{ Memory system } }
-{\color{Green} \text{ Accumulator/Summer } }
+\begin{gather}
+   {\color{Purple} \text{ Memory system } } \\
+   {\color{Green} \text{ Delay Encodes Memory } }
+\end{gather}
 ```
 
 
 ```math
 y[n] = \sum_{k=-\infty}^{n} x[k]
 ```
+```math
+\begin{gather}
+   {\color{Purple} \text{ Memory system } } \\
+   {\color{Green} \text{ Accumulator/Summer } }
+\end{gather}
+```
+
 
 ```math
 y(t) = \int_{-\infty}^{t} x(\tau)d\tau
