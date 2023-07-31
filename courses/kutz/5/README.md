@@ -103,9 +103,9 @@ stateDiagram-v2
 
 - [ ] System Properties
 
-```math
-{\color{Yellow} \text{ Memory } }
-```
+$${
+\color{Yellow} \mathbf{ Memory } 
+}$$
 
 ```math
 \begin{gather}
@@ -141,9 +141,10 @@ stateDiagram-v2
 \end{gather}
 ```
 
-```math
-{\color{Yellow} \text{ Invertible } }
-```
+$${
+\color{Yellow} \mathbf{ Invertible } 
+}$$
+
 
 ```math
 {\color{Purple} \text{ Distinct Inputs - Distinct Outputs } }
