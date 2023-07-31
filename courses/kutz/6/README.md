@@ -8,7 +8,7 @@ $${
 ```math
 \begin{gather}
    {\color{Green} \text{ Linearity  } } \\
-   {\color{Green} \text{ Time-Invariance } }
+   {\color{Green} \text{ Time-Invariance } } \\
    {\color{Purple} \text{ Linear Superposition (holds) } }
 \end{gather}
 ```
