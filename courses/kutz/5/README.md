@@ -146,21 +146,14 @@ stateDiagram-v2
 ```
 
 ```math
-{\color{Purple} \dots \text{ Distinct Inputs - Distinct Outputs } \dots }
+{\color{Purple} \text{ Distinct Inputs - Distinct Outputs } }
 ```
 
 ```math
 \begin{gather}
-   {\color{Purple} \text{ Transform } } \quad y(t) = 2x(t)
+   {\color{Purple} \text{ Transform } } \quad y(t) = 2x(t) \\
+   {\color{Purple} \text{ Invert } } \quad w(t) = \frac{1}{2} y(t)
 \end{gather}
-```
-
-```math
-{\color{Purple} \text{ Invert } }
-```
-
-```math
-w(t) = \frac{1}{2} y(t)
 ```
 
 <img src=images/invertible.png width='50%' height='50%' > </img>
