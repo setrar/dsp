@@ -193,6 +193,14 @@ $${
 \end{gather}
 ```
 
+```math
+\begin{gather}
+    {\color{Purple} \text{ Not Causal } } \\
+   y[n] = x[n] - x[n + 1] \\
+   y(t) = x(t + 1) \\
+   {\color{Green} \text{ Depends on Future } }
+\end{gather}
+```
 
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
