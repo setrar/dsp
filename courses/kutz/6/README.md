@@ -91,11 +91,21 @@ $${
 }$$
 
 ```math
-h_k[n] = h_0[ n - k ]
+
 ```
 
 ```math
-h_0[n] = h[ n ]
+
+```
+
+```math
+\begin{gather}
+   h_k[n] = h_0[ n - k ] \\
+   \\ 
+   h_0[n] \to h[ n ] \\
+   \\
+   {\color{Purple} \text{Unit response from } \boldsymbol{\delta}[n] }
+\end{gather}
 ```
 
 
