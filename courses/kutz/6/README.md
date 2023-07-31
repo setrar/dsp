@@ -104,13 +104,8 @@ $${
    \\ 
    h_0[n] \to h[ n ] \\
    \\
-   {\color{Purple} \text{Unit response from } \boldsymbol{\delta}[n] }
+   {\color{Purple} \text{Unit response from } \boldsymbol{\delta}[ n ] }
 \end{gather}
-```
-
-
-```math
-\text{Unit response from } \boldsymbol{\delta}[ n ]
 ```
 
 - [ ] LTI System
