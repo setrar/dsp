@@ -21,7 +21,7 @@ $${
 ```math
 \begin{gather}
    \\
-   {\color{Purple} \mathbf{ Delta Functions } }
+   {\color{Purple} \mathbf{ Delta \space Functions } }
 \end{gather}
 ```
 
