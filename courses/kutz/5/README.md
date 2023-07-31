@@ -156,6 +156,10 @@ stateDiagram-v2
 \end{gather}
 ```
 
+```math
+{\color{Purple} \text{ Invertible Function Examples } }
+```
+
 <img src=images/invertible.png width='50%' height='50%' > </img>
 
 ```math
