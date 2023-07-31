@@ -108,7 +108,10 @@ $${
 \end{gather}
 ```
 
-- [ ] LTI System
+$${
+\color{Yellow} \mathbf{ LTI \space System } 
+}$$
+
 
 ```math
 y[n] = \sum_{k=-\infty}^\infty x[k]h[ n - k ]
