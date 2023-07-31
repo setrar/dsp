@@ -68,10 +68,15 @@ stateDiagram-v2
     [*] --> . : Input
     . --> System1
     . --> System2
-    System1 --> [+ (Addition of Signals)]
-    System2 --> [+ (Addition of Signals)]
+    System1 --> +
+    System2 --> +
     + --> [*] : Output
 ```
+
+```math
+{\color{Green} \text{ + (Addition of Signals) } }
+```
+
 
 ```math
 {\color{Purple} \text{ Processing in parallel } }
