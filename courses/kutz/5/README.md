@@ -108,23 +108,16 @@ stateDiagram-v2
 ```
 
 ```math
-y[n] = (2x[n] + x^2[n])
-```
-
-```math
 \begin{gather}
+    y[n] = (2x[n] + x^2[n]) \\
     {\color{Purple} \text{ Memoryless system } } \\
     {\color{Green} \text{ Future only depends on current time } }
 \end{gather}
 ```
 
-
-```math
-y[n] = x[n - 1]
-```
-
 ```math
 \begin{gather}
+   y[n] = x[n - 1] \\
    {\color{Purple} \text{ Memory system } } \\
    {\color{Green} \text{ Delay Encodes Memory } }
 \end{gather}
@@ -132,10 +125,8 @@ y[n] = x[n - 1]
 
 
 ```math
-y[n] = \sum_{k=-\infty}^{n} x[k]
-```
-```math
 \begin{gather}
+   y[n] = \sum_{k=-\infty}^{n} x[k] \\
    {\color{Purple} \text{ Memory system } } \\
    {\color{Green} \text{ Accumulator/Summer } }
 \end{gather}
