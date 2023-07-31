@@ -25,8 +25,6 @@ $${
 \end{gather}
 ```
 
-:point_right: Sifting Property 
-
 ```math
 \begin{gather}
     x[-1]\delta[n + 1] =
@@ -45,7 +43,9 @@ $${
       \begin{cases}
         x[ 1 ],   & \quad n = 1 \\
         0,        & \quad n \neq 1
-      \end{cases}
+      \end{cases} \\
+   \text{   } \\
+   {\color{Green} \text{ Sifting Property } }
 \end{gather}
 ```
 
