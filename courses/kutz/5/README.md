@@ -188,7 +188,7 @@ $${
 
 ```math
 \begin{gather}
-    {\color{Purple} \text{ Memoryless system } } \\
+    {\color{Purple} \text{ Memoryless systems } } \\
     {\color{Green} \text{ are causal } }
 \end{gather}
 ```
