@@ -24,7 +24,7 @@ The lectures are from the textbook Oppenheim, Willsky and Nawab, "Systems and Si
 | Lecture[(2)](2)    | Basic Signals                          | :white_check_mark: | 
 | Lecture[(3)](3)    | Exponential Signals                    | :white_check_mark: | 
 | Lecture[(4)](4)    | Impulses and Steps                     | :white_check_mark: | 
-| Lecture[(5)](5)    | Properties of Signals                  | :eight_pointed_black_star: | 
+| Lecture[(5)](5)    | Properties of Signals                  | :white_check_mark: | 
 | Lecture[(6)](6)    | LTI Systems                            | :white_check_mark: | 
 | Lecture[(7)](7)    | Continuous LTI Systems                 |
 | Lecture[(8)](8)    | LTI System Properties                  |
