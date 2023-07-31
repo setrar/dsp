@@ -124,7 +124,6 @@ stateDiagram-v2
 \end{gather}
 ```
 
-
 ```math
 \begin{gather}
    y[n] = \sum_{k=-\infty}^{n} x[k] \\
@@ -151,11 +150,9 @@ stateDiagram-v2
 ```
 
 ```math
-{\color{Purple} \text{ Transform } }
-```
+\begin{gather}
+   {\color{Purple} \text{ Transform } } \quad y(t) = 2x(t)
 
-```math
-y(t) = 2x(t)
 ```
 
 ```math
