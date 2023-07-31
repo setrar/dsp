@@ -242,8 +242,15 @@ $${
 ```math
 \begin{gather}
    x_1(t) + x_2(t) \to y_1(t) + y_2(t) \\
-   ax(t) \to ay(t) \\
-    {\color{Green} \text{ Complex number } }
+   ax(t) \to ay(t) \to {\color{Green} \text{ a can be complex number } }
+\end{gather}
+```
+
+```math
+\begin{gather}
+   \text{ continuous time: } ax_1(t) + bx_2(t) \to ay_1(t) + by_2(t) \\
+   \text{ discrete time: } ax_1[n] + bx_2[n] \to ay_1[n] + by_2[n] \\
+  {\color{Green} \text{ a can be complex number } }
 \end{gather}
 ```
 
