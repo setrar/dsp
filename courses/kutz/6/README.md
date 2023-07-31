@@ -86,7 +86,9 @@ $${
 
 ```
 
-- [ ] Time Invariance
+$${
+\color{Yellow} \mathbf{ Time Invariance } 
+}$$
 
 ```math
 h_k[n] = h_0[ n - k ]
