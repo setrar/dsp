@@ -107,6 +107,15 @@ stateDiagram-v2
 {\color{Yellow} \text{ Memory } }
 ```
 
+```math
+y[n] = (2x[n] + x^2[n])
+```
+
+```math
+{\color{Purple} \text{ Memoryless system } }
+{\color{Green} \text{ Future only depends on current time } }
+```
+
 
 ```math
 y[n] = x[n - 1]
