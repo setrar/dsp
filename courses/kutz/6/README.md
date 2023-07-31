@@ -39,7 +39,7 @@ $${
       \begin{cases}
         x[ 0 ],   & \quad n = 0\\
         0,        & \quad n \neq 0
-      \end{cases}
+      \end{cases} \\
    \text{   } \\
     x[1]\delta[n + 1] =
       \begin{cases}
