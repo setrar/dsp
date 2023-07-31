@@ -74,7 +74,7 @@ $${
 
 ```math
 \begin{gather}
-   {\color{Cerulean} \text{ Transform } } \\
+   {\color{Purple} \text{ Transform } } \\
    \\ 
    y[n] = \sum_{k=\infty}^\infty x[k]h_k[n] \\
    {\color{Cerulean} \text{Where } h_k[n] \text{ is the response to } \boldsymbol{\delta}[ n - k] }
