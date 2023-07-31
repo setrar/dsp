@@ -114,16 +114,18 @@ $${
 
 
 ```math
-y[n] = \sum_{k=-\infty}^\infty x[k]h[ n - k ]
+\begin{gather}
+    y[n] = \sum_{k=-\infty}^\infty x[k]h[ n - k ]
+    \\
+    {\color{Cerulean} h[ n ] \text{ being the Fundamental Response } }
+\end{gather}
 ```
 
 :green_book: Eq. (2.39) is commonly called the _[convolution](https://en.wikipedia.org/wiki/Convolution) sum_ of any two sequences
 
 
-> Graphically showing the kick vs response
-
 ```math
-h[ n ] \text{ being the Fundamental Response } 
+{\color{Cerulean} \text{ Graphically showing the kick vs response } }
 ```
 
 
