@@ -20,7 +20,7 @@ $${
 
 ```math
 \begin{gather}
-   \text{   } \\
+   \\
    {\color{Purple} \text{ Delta Functions } }
 \end{gather}
 ```
@@ -32,19 +32,19 @@ $${
         x[ -1 ],   & \quad n = -1 \\
         0,         & \quad n \neq -1
       \end{cases} \\
-   \text{   } \\
+    \\
     x[0]\delta[n ] =
       \begin{cases}
         x[ 0 ],   & \quad n = 0\\
         0,        & \quad n \neq 0
       \end{cases} \\
-   \text{   } \\
+    \\
     x[1]\delta[n + 1] =
       \begin{cases}
         x[ 1 ],   & \quad n = 1 \\
         0,        & \quad n \neq 1
       \end{cases} \\
-   \text{   } \\
+    \\
    {\color{Cerulean} \text{ Sifting Property } }
 \end{gather}
 ```
