@@ -203,7 +203,7 @@ $${
 ```
 
 $${
-\color{Yellow} \mathbf{ SStability } 
+\color{Yellow} \mathbf{ Stability } 
 }$$
 
 <img src=images/stability.png width='40%' height='40%' > </img>
