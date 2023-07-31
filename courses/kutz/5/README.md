@@ -152,7 +152,7 @@ stateDiagram-v2
 ```math
 \begin{gather}
    {\color{Purple} \text{ Transform } } \quad y(t) = 2x(t)
-
+\end{gather}
 ```
 
 ```math
