@@ -208,6 +208,13 @@ $${
 
 <img src=images/stability.png width='40%' height='40%' > </img>
 
+```math
+\begin{gather}
+    {\color{Purple} \text{ Stable } } \\
+   x[n] \to y[n] \to {\color{Green} \text{ Grows/Decays } }
+\end{gather}
+```
+
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
 
