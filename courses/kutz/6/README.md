@@ -14,7 +14,18 @@ $${
 \end{gather}
 ```
 
-- [ ] Delta Functions
+$${
+\color{Yellow} \mathbf{ Discrete Time LTI Systems } 
+}$$
+
+```math
+\begin{gather}
+   \text{   } \\
+   {\color{Purple} \text{ Delta Functions } }
+\end{gather}
+```
+
+- [ ] D
 
 :point_right: Sifting Property 
 
