@@ -1,6 +1,17 @@
 :six: [Introduction to Signal Processing: LTI Systems (Lecture 6)](https://youtu.be/x5wtnbIQ0Lk)
 
-:round_pushpin: Discrete Time LTI Systems (Linear Time-Invariant)
+
+$${
+\color{Yellow} \mathbf{ Linear Time-Invariant Systems } 
+}$$
+
+```math
+\begin{gather}
+   {\color{Green} \text{ Linearity  } } \\
+   {\color{Green} \text{ Time-Invariance } }
+   {\color{Purple} \text{ Linear Superposition (holds) } }
+\end{gather}
+```
 
 - [ ] Delta Functions
 
