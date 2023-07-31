@@ -164,7 +164,7 @@ $${
 <img src=images/invertible.png width='50%' height='50%' > </img>
 
 ```math
-{\color{Yellow} \text{ Non Invertible } }
+{\color{Green} \text{ Non Invertible } }
 ```
 
 ```math
