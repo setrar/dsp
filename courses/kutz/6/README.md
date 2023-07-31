@@ -87,7 +87,7 @@ $${
 ```
 
 $${
-\color{Yellow} \mathbf{ Time Invariance } 
+\color{Yellow} \mathbf{ Time \space Invariance } 
 }$$
 
 ```math
