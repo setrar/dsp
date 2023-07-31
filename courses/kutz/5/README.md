@@ -220,11 +220,11 @@ $${
 }$$
 
 ```math
-\begin{align}
+\begin{gather}
    x[n] \to y[n] \\
     {\color{Purple} \text{ Then } } \\
    x[n - n_0] \to y[n - n_0]
-\end{align}
+\end{gather}
 ```
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
