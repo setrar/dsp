@@ -49,4 +49,4 @@ $${
 \end{gather}
 ```
 
-<img src=images/calculus-concepts.png width=20% height=20% > </img>
+<img src=images/calculus-concepts.png width=40% height=40% > </img>
