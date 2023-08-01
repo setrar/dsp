@@ -15,7 +15,7 @@ $${
 ```
 
 $${
-\color{Yellow} \mathbf{ Discrete \space Time \space LTI \space Systems } 
+\color{Yellow} \mathbf{ Continuous \space Time \space LTI \space Systems } 
 }$$
 
 ```math
