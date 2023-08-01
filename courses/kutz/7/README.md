@@ -38,7 +38,7 @@ $${
     \delta_\Delta(t) =
       \begin{cases}
         \frac{1}{\Delta}   & \quad 0 \leq t < \Delta \\
-        0,         & \quad n \neq -1
+        0         & \quad \text{ elsewhere }
       \end{cases} \\
     \\
     x[0]\delta[n ] =
