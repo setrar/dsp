@@ -48,3 +48,5 @@ $${
    {\color{Cerulean} \text{ Sifting Property } }
 \end{gather}
 ```
+
+<img src=images/calculus-concepts.png widtth=50% height=50% > </img>
