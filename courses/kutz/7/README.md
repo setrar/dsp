@@ -25,8 +25,15 @@ $${
 \end{gather}
 ```
 
+<img src=images/calculus-concepts.png width=40% height=40% > </img>
+
+```math
+   {\color{Cerulean} \text{ Calculus Concepts } }
+```
+
 ```math
 \begin{gather}
+   {\color{Yellow} \text{ Sifting Property } }
     x[-1]\delta[n + 1] =
       \begin{cases}
         x[ -1 ],   & \quad n = -1 \\
@@ -45,12 +52,6 @@ $${
         0,        & \quad n \neq 1
       \end{cases} \\
     \\
-   {\color{Cerulean} \text{ Sifting Property } }
 \end{gather}
 ```
 
-<img src=images/calculus-concepts.png width=40% height=40% > </img>
-
-```math
-   {\color{Cerulean} \text{ Calculus Concepts } }
-```
