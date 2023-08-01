@@ -2,7 +2,7 @@
 
 
 $${
-\color{Yellow} \mathbf{ Linear Time-Invariant Systems } 
+\color{Yellow} \mathbf{ Linear \space Time-Invariant \space Systems } 
 }$$
 
 ```math
