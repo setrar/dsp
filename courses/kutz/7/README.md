@@ -50,3 +50,7 @@ $${
 ```
 
 <img src=images/calculus-concepts.png width=40% height=40% > </img>
+
+```math
+   {\color{Cerulean} \text{ Sifting Property } }
+```
