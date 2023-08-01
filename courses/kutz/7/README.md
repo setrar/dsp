@@ -33,7 +33,8 @@ $${
 
 ```math
 \begin{gather}
-   {\color{Yellow} \text{ Sifting Property } }
+   {\color{Yellow} \text{ Sifting Property } } \\
+   \\
     x[-1]\delta[n + 1] =
       \begin{cases}
         x[ -1 ],   & \quad n = -1 \\
