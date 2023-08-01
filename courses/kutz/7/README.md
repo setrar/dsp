@@ -35,9 +35,9 @@ $${
 \begin{gather}
    {\color{Yellow} \text{ Sifting Property } } \\
    \\
-    x[-1]\delta[n + 1] =
+    \delta_Delta(t) =
       \begin{cases}
-        x[ -1 ],   & \quad n = -1 \\
+        \frac{1}{\Delta]   & \quad 0 =< t < \Delta \\
         0,         & \quad n \neq -1
       \end{cases} \\
     \\
