@@ -1,4 +1,4 @@
-:six: [Introduction to Signal Processing: Continuous LTI Systems (Lecture 7)](https://youtu.be/lmH1UGCtvG8)
+:seven: [Introduction to Signal Processing: Continuous LTI Systems (Lecture 7)](https://youtu.be/lmH1UGCtvG8)
 
 
 $${
