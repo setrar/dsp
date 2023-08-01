@@ -41,13 +41,9 @@ $${
         0         & \quad \text{ elsewhere }
       \end{cases} \\
     \\
-   {\color{Purple} \text{ then } } \\
+   {\color{Purple} \text{ Then } } \\
     \\
-    x[1]\delta[n + 1] =
-      \begin{cases}
-        x[ 1 ],   & \quad n = 1 \\
-        0,        & \quad n \neq 1
-      \end{cases} \\
+    x(t) = \lim\limits_{\delta \to 0 } \displaystyle\sum_{i=1}^{10} t_i
     \\
 \end{gather}
 ```
