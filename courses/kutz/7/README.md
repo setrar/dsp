@@ -41,11 +41,7 @@ $${
         0         & \quad \text{ elsewhere }
       \end{cases} \\
     \\
-    x[0]\delta[n ] =
-      \begin{cases}
-        x[ 0 ],   & \quad n = 0\\
-        0,        & \quad n \neq 0
-      \end{cases} \\
+   {\color{Purple} \text{ then } } \\
     \\
     x[1]\delta[n + 1] =
       \begin{cases}
