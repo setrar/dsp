@@ -35,7 +35,7 @@ $${
 \begin{gather}
    {\color{Yellow} \text{ Sifting Property } } \\
    \\
-    \delta_Delta(t) =
+    \delta_\Delta(t) =
       \begin{cases}
         \frac{1}{\Delta}   & \quad 0 =< t < \Delta \\
         0,         & \quad n \neq -1
