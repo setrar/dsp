@@ -37,7 +37,7 @@ $${
    \\
     \delta_Delta(t) =
       \begin{cases}
-        \frac{1}{\Delta]   & \quad 0 =< t < \Delta \\
+        \frac{1}{\Delta}   & \quad 0 =< t < \Delta \\
         0,         & \quad n \neq -1
       \end{cases} \\
     \\
