@@ -1,5 +1,6 @@
 
 
+---
 
 ```math
 \begin{gather}
@@ -12,4 +13,4 @@
     {\color{Cerulean} \mbox{ Must know response to delta function } }
 \end{gather}
 ```
-
+---
