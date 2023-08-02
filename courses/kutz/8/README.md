@@ -36,7 +36,11 @@
    \\
    \color{Green} \mathbf{ Eexample  } \\
     \\
-    h_{\tau} (t) = h_0 ( t - \tau ) \to h( t - \tau ) \\
+     h[n] =
+      \begin{cases}
+        1   & \quad n = 0,1 \\
+        0   & \quad \text{ otherwise }
+      \end{cases} \\
     \\
    \color{Yellow} \mathbf{ Solution  } \\
     \\
