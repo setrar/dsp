@@ -22,11 +22,11 @@
     \\
     {\color{Cerulean} \mbox{ Must know response to delta function } } \\
     \\
-    {\color{Green} \text{ Short hand notation of : } } \\
+    {\color{Green} \text{ Short hand notation of (a.k.a the convolution operation) of : } } \\
     \\
-    {\color{Green} \text{ (a) the summation  } \to  } x[n] * h[n]  {\color{Green} \text{ is the convolution operation  }  } \\
+    {\color{Green} \text{ (a) the summation  } \to  } \quad x[n] * h[n]   } \\
     \\
-    {\color{Green} \text{ (b) the integral  } \to  } x(t) * h(t) {\color{Green} \text{ is the convolution operation  }  } \\
+    {\color{Green} \text{ (b) the integral  } \to  } \quad x(t) * h(t)  } \\
     \\
 \end{gather}        
 ```
