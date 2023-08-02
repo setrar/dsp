@@ -117,6 +117,13 @@ $${
     x(t) = e^{-at} u(t), \quad a > 0  \\
     \\
     h(t) = u(t) \\
+    \\
+    x(\tau) h( t - \tau ) =
+      \begin{cases}
+        e^{-at}   & \quad 0 < \tau < t \\
+        0         & \quad \text{ otherwise }
+      \end{cases} \\
+    \\
 \end{gather}
 ```
 
