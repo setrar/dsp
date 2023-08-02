@@ -129,3 +129,4 @@ $${
 \end{gather}
 ```
 
+<img src=delta-function-continuous_examples-solution.png width=40% height=40% > </img>
