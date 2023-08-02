@@ -1,4 +1,4 @@
-
+:eight: [Introduction to Signal Processing: LTI System Properties (Lecture 8)](https://youtu.be/V2mz6R4yrwc)
 
 
 ```math
