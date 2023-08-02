@@ -73,7 +73,7 @@ $${
     \\
    \color{Yellow} \mathbf{ Continuous \space LTI  } \\
     \\
-    y(t) = \int_{-\infty}^{\infty} x(\tau) h_{\tau} (t) \mathrm{d}\tau
+    y(t) = \int_{-\infty}^{\infty} x(\tau) h_{\tau} (t) \mathrm{d}\tau \\
     \\
     {\color{Cerulean} \text{ Where } h_{\tau} (t) \text{ is the response to } \delta(t - \tau) }
 \end{gather}
