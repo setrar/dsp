@@ -53,3 +53,14 @@
 ```math
    \color{Orange} \mathbf{ Properties  } \\
 ```
+
+```math
+\begin{gather}
+   \color{Purple} \mathbf{ Commutative  } \\
+    \\
+    x[n] * h[n] = h[n] * x[n] = \displaystyle\sum_{k=-\infty}^{+\infty} h[k]x[n - k] \\
+    \\
+    x(t) * h(t) = h(t) * x(t) = \int_{-\infty}^{+\infty} h(\tau) x( t - \tau) \mathrm{d}\tau =  \\
+    \\
+\end{gather}
+```
