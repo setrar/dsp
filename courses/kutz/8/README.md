@@ -21,7 +21,7 @@
 \begin{gather}
     \\
     {\color{Cerulean} \mbox{ Must know response to delta function } } \\
-    {\color{Cerulean} \text{ (a) Short hand notation of : } \\
+    {\color{Cerulean} \text{ (a) Short hand notation of : } } \\
     \\
     {\color{Cerulean} \text{ (a) the summation is the convolution operation  } \to x[n] * h[n] } \\
     \\
