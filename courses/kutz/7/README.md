@@ -126,6 +126,9 @@ $${
         0         & \quad \text{ otherwise }
       \end{cases} \\
     \\
+   \color{Yellow} \mathbf{ Solution } \\
+    \\
+    y(t) = \frac{1}{a}(1 - e^{-at})u(t)
 \end{gather}
 ```
 
