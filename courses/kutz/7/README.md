@@ -48,3 +48,15 @@ $${
 \end{gather}
 ```
 
+```math
+\begin{gather}
+   {\color{Yellow} \text{ Take limit for integral } } \\
+    \\
+    x(t) = \lim\limits_{\Delta \to 0 } \displaystyle\sum_{k=-\infty}^{\infty} x(k \Delta) \delta_\Delta(t - k \Delta) \Delta
+    \\
+   {\color{Purple} \text{ Then } } \\
+    \\
+    x(t) = \int_{-\int}{\int} x(\tau) \delta(t - \tau) \mathrm{d}\tau
+    \\
+\end{gather}
+```
