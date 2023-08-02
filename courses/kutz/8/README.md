@@ -12,14 +12,19 @@
     \\
     y[n] = \displaystyle\sum_{k=-\infty}^{+\infty} x[k]h[n - k] = x[n] * h[n] \quad \mbox  {\color{Cerulean} (a)} \\
     \\
-    {\color{Cerulean} \text{ Short hand notation of the summation is the convolution operation  } \to x[n] * h[n] } \\
-    y(t) = \int_{-\infty}^{+\infty} x(\tau) h( t - \tau) \mathrm{d}\tau = x(t) * h(t) \dots (b) \\
-    \\
-    {\color{Cerulean} \text{ Short hand notation of the integral is the convolution operation  } \to x(t) * h(t) } \\
+    y(t) = \int_{-\infty}^{+\infty} x(\tau) h( t - \tau) \mathrm{d}\tau = x(t) * h(t) \quad \mbox  {\color{Cerulean} (b)} \\
     \\
 \end{gather}
 ```
 ---
 ```math
-    {\color{Cerulean} \mbox{ Must know response to delta function } }
+\begin{gather}
+    \\
+    {\color{Cerulean} \mbox{ Must know response to delta function } } \\
+    \\
+    {\color{Cerulean} \text{ (a) Short hand notation of the summation is the convolution operation  } \to x[n] * h[n] } \\
+    \\
+    {\color{Cerulean} \text{ (b) Short hand notation of the integral is the convolution operation  } \to x(t) * h(t) } \\
+    \\
+\end{gather}        
 ```
