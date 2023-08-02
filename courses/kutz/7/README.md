@@ -43,7 +43,7 @@ $${
     \\
    {\color{Purple} \text{ Then } } \\
     \\
-    x(t) = \lim\limits_{\Delta \to 0 } \displaystyle\sum_{ki=-\infty}^{\infty} x(k \Delta) \delta_\Delta(t - k \Delta) \Delta
+    x(t) = \lim\limits_{\Delta \to 0 } \displaystyle\sum_{k=-\infty}^{\infty} x(k \Delta) \delta_\Delta(t - k \Delta) \Delta
     \\
 \end{gather}
 ```
