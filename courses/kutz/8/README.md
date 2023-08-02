@@ -34,7 +34,7 @@
 ```math
 \begin{gather}
    \\
-   \color{Green} \mathbf{ Eexample  } \\
+   \color{Green} \mathbf{ Example  } \\
     \\
      h[n] =
       \begin{cases}
