@@ -88,7 +88,7 @@ $${
     \\
    \color{Yellow} \mathbf{ Continuous \space LTI  } \\
     \\
-    y(t) = \int_{-\infty}^{\infty} x(\tau) h{ t - \tau } \mathrm{d}\tau = x(t) * h(t) \\
+    y(t) = \int_{-\infty}^{\infty} x(\tau) h( t - \tau ) \mathrm{d}\tau = x(t) * h(t) \\
 \end{gather}
 ```
 
