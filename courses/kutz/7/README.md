@@ -75,19 +75,20 @@ $${
     \\
     y(t) = \int_{-\infty}^{\infty} x(\tau) h_{\tau} (t) \mathrm{d}\tau \\
     \\
-    {\color{Cerulean} \text{ Where } h_{\tau} (t) \text{ is the response to } \delta(t - \tau) }
+    {\color{Cerulean} \text{ Where } h_{\tau} (t) \text{ is the response to } \delta(t - \tau) } \\
 \end{gather}
 ```
 
 ```math
 \begin{gather}
+   \\
    \color{Green} \mathbf{ Time \space Invariance  } \\
     \\
     h_{\tau} (t) = h_0 ( t - \tau ) \to h( t - \tau ) \\
     \\
    \color{Yellow} \mathbf{ Continuous \space LTI  } \\
     \\
-    y(t) = \int_{-\infty}^{\infty} x(\tau) h_{\tau} (t) \mathrm{d}\tau
+    y(t) = \int_{-\infty}^{\infty} x(\tau) h{ t - \tau } \mathrm{d}\tau = x(t) * h(t) \\
 \end{gather}
 ```
 
