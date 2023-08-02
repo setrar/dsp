@@ -92,3 +92,16 @@ $${
 \end{gather}
 ```
 
+```math
+\begin{gather}
+   \\
+   \color{Green} \mathbf{ LTI } \\
+    \\
+    y[n] = \displaystyle\sum_{k=-\infty}^{\infty} x[k]h[n - k] \\
+    \\
+   \color{Yellow} \mathbf{ Continuous \space LTI  } \\
+    \\
+    y(t) = \int_{-\infty}^{\infty} x(\tau) h_{\tau} (t) \mathrm{d}\tau \\
+\end{gather}
+```
+
