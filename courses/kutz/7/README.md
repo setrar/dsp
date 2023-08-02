@@ -118,6 +118,8 @@ $${
     \\
     h(t) = u(t) \\
     \\
+    \color{Yellow} \mathbf{ Integrand  } \\
+    \\
     x(\tau) h( t - \tau ) =
       \begin{cases}
         e^{-at}   & \quad 0 < \tau < t \\
