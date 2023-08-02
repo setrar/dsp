@@ -30,3 +30,16 @@
     \\
 \end{gather}        
 ```
+
+```math
+\begin{gather}
+   \\
+   \color{Green} \mathbf{ Eexample  } \\
+    \\
+    h_{\tau} (t) = h_0 ( t - \tau ) \to h( t - \tau ) \\
+    \\
+   \color{Yellow} \mathbf{ Solution  } \\
+    \\
+    y[n] = x[n] + x[n - 1] \\
+\end{gather}
+```
