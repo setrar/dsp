@@ -64,3 +64,17 @@ $${
 | | |
 |-|-|
 | <img src=images/delta-function-continuous_1.png width='' height='' > </img> | <img src=images/delta-function-continuous_2.png width='' height='' > </img> |
+
+```math
+\begin{gather}
+   \color{Green} \mathbf{ Discrete \space LTI  } \\
+    \\
+    y[n] = \displaystyle\sum_{k=-\infty}^{\infty} x[k]h[n - k] \\
+    \\
+   \color{Yellow} \mathbf{ Continuous \space LTI  } \\
+    \\
+    y(t) = \int_{-\infty}^{\infty} x(\tau) h_{\tau} (t) \mathrm{d}\tau
+    \\
+\end{gather}
+```
+
