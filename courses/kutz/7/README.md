@@ -60,3 +60,7 @@ $${
     \\
 \end{gather}
 ```
+
+| | |
+|-|-|
+| <img src=images/delta-function-continuous_1.png width='' height='' > </img> | <img src=images/delta-function-continuous_2.png width='' height='' > </img> |
