@@ -103,4 +103,20 @@ $${
 \end{gather}
 ```
 
+$${
+\color{Green} \mathbf{ One \space particular \space example } 
+}$$
+
 <img src=images/delta-function-continuous_examples.png width=40% height=40% > </img>
+
+```math
+\begin{gather}
+   \\
+   \color{Green} \mathbf{ Solution } \\
+    \\
+    x(t) = e_{-at} u(t), \quad a > 0  \\
+    \\
+    h(t) = u(t) \\
+\end{gather}
+```
+
