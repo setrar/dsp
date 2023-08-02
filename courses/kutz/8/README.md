@@ -9,7 +9,7 @@
     \\
     y(t) = \int_{-\infty}^{\infty} x(\tau) h_{ t - \tau} (t) \mathrm{d}\tau = x(t) * h(t) \\
     \\
-    {\color{Cerulean} \text{ Must know response to delta function } \\
+    {\color{Cerulean} \text{ Must know response to delta function } }
 \end{gather}
 ```
 
