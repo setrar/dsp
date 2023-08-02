@@ -79,3 +79,15 @@ $${
 \end{gather}
 ```
 
+```math
+\begin{gather}
+   \color{Green} \mathbf{ Time \space Invariance  } \\
+    \\
+    h_{\tau} (t) = h_0 ( t - \tau ) \to h( t - \tau ) \\
+    \\
+   \color{Yellow} \mathbf{ Continuous \space LTI  } \\
+    \\
+    y(t) = \int_{-\infty}^{\infty} x(\tau) h_{\tau} (t) \mathrm{d}\tau
+\end{gather}
+```
+
