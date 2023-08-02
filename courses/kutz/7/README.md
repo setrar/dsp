@@ -114,7 +114,7 @@ $${
    \\
    \color{Green} \mathbf{ Solution } \\
     \\
-    x(t) = e_{-at} u(t), \quad a > 0  \\
+    x(t) = e^{-at} u(t), \quad a > 0  \\
     \\
     h(t) = u(t) \\
 \end{gather}
