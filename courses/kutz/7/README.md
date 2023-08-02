@@ -56,7 +56,7 @@ $${
     \\
    {\color{Purple} \text{ Then } } \\
     \\
-    x(t) = \int_{-\int}{\int} x(\tau) \delta(t - \tau) \mathrm{d}\tau
+    x(t) = \int_{-\infty}{\infty} x(\tau) \delta(t - \tau) \mathrm{d}\tau
     \\
 \end{gather}
 ```
