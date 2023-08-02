@@ -47,3 +47,9 @@
     y[n] = x[n] + x[n - 1] \\
 \end{gather}
 ```
+
+---
+
+```math
+   \color{Orange} \mathbf{ Properties  } \\
+```
