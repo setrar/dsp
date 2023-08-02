@@ -24,9 +24,9 @@
     \\
     {\color{Green} \text{ Short hand notation of : } } \\
     \\
-    {\color{Green} \text{ (a) the summation } \to x[n] * h[n] \text( is the convolution operation  }  } \\
+    {\color{Green} \text{ (a) the summation } \to x[n] * h[n] \text{ is the convolution operation  }  } \\
     \\
-    {\color{Green} \text{ (b) the integral }  \to x(t) * h(t) \text { is the convolution operation  }  } \\
+    {\color{Green} \text{ (b) the integral }  \to x(t) * h(t) \text{ is the convolution operation  }  } \\
     \\
 \end{gather}        
 ```
