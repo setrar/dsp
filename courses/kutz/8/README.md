@@ -125,6 +125,10 @@
     \\
     h[n] = 0, n \neq 0 \\
     \\
+   \color{Green} \text{ This gives  }
+    \\
+    h[n] = K\delta[n] = h[0]\delta[n]
+
 \end{gather}
 ```
 
