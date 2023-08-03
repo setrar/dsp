@@ -134,7 +134,7 @@
 
 ```math
 \begin{gather}
-   \color{Purple} \mathbf{ Memoryless solution  } \\
+   \color{Purple} \mathbf{ Memoryless \space solution  } \\
     \\
     h[n] = K\delta[n]
     \\
@@ -143,6 +143,17 @@
     y[n] = Kx[n] \\
     \\
      y(t) = Kx(t)
+
+\end{gather}
+```
+
+```math
+\begin{gather}
+   \color{Purple} \mathbf{ Invertible  } \\
+    \\
+    h[n] * h_1[n]= \delta[n]
+    \\
+    h(t) * h_1(t)= \delta(t)
 
 \end{gather}
 ```
