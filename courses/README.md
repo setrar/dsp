@@ -27,3 +27,20 @@ e^{j\omega_0t} \to j = \sqrt{- 1}
 
 - [ ] [You're viewing icons for v5.15.4](https://fontawesome.com/v5/search?o=r&m=free)
 - [ ] [Mermaid Live](https://mermaid.live/)
+
+```mermaid
+---
+title: Example Git diagram
+---
+gitGraph
+   commit
+   commit
+   branch develop
+   checkout develop
+   commit
+   commit
+   checkout main
+   merge develop
+   commit
+   commit
+```
