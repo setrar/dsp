@@ -35,7 +35,7 @@
     \\
    {\color{Cerulean} \text{ Exponential solutions } } \\
     \\
-    y = \mathcal{ C } e^{\lambda t} \quad \mathcal{ y } = \mathcal{ v } e^{\lamba t} \\
+    y = \mathcal{ C } e^{\lambda t} \quad \mathcal{ y } = \mathcal{ v } e^{\lambda t} \\
     \\
     \lambda = a \quad \mathcal{ A }v = \lambda v
 \end{gather}
