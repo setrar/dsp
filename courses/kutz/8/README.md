@@ -125,9 +125,24 @@
     \\
     h[n] = 0, n \neq 0 \\
     \\
-   \color{Green} \text{ This gives  }
+   \color{Green} \text{ This gives  } \\
     \\
     h[n] = K\delta[n] = h[0]\delta[n]
+
+\end{gather}
+```
+
+```math
+\begin{gather}
+   \color{Purple} \mathbf{ Memoryless solution  } \\
+    \\
+    h[n] = K\delta[n]
+    \\
+   \color{Green} \text{ This gives  } \\
+    \\
+    y[n] = Kx[n] \\
+    \\
+     y(t) = Kx(t)
 
 \end{gather}
 ```
