@@ -29,7 +29,7 @@
 
 ```math
 \begin{gather}
-   {\color{Purple} \mathbf{ Linear \space ODEss } } \\
+   {\color{Purple} \mathbf{ Linear \space ODEs } } \\
     \\
     \frac{ \mathrm{d}y }{ \mathrm{d}t} = ay \quad \frac{ \mathrm{d}y }{ \mathrm{d}t} = \mathcal{A}y \\
     \\
@@ -41,3 +41,4 @@
 \end{gather}
 ```
 
+:bulb: An ordinary differential equation (or `ODE`) has a discrete (`finite`) set of variables. 
