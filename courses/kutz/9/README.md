@@ -30,7 +30,7 @@
 \begin{gather}
    {\color{Purple} \mathbf{ Linear \space ODEss } } \\
     \\
-    \frac{ \mathrm{d}y }{ \mathrm{d}t} = ay \quad \frac{ \mathrm{d}y }{ \mathrm{d}t} = \mathcal{A} y \\
+    \frac{ \mathrm{d}y }{ \mathrm{d}t} = ay \quad \frac{ \mathrm{d}y }{ \mathrm{d}t} = \mathcal{A}y \\
     \\
    {\color{Cerulean} \text{ Exponential solutions } } \\
     \\
