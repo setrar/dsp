@@ -183,6 +183,6 @@
     \\
     |y(t)| = | \int_{k=-\infty}^{\infty} h(\tau) x( t - \tau) \mathrm{d}\tau |  \\
     \\
-    \leq \int_{k=0}^{\infty} |h(\tau)|; |x( t - \tau)|; \mathrm{d}\tau  \\
+    \leq \int_{k=0}^{\infty} |h(\tau)|\; |x( t - \tau)|\; \mathrm{d}\tau  \\
 \end{gather}
 ```
