@@ -88,5 +88,8 @@
     \\
     x(t) * (h_1(t) + h_2(t)  = x(t) * h_1(t) + x(t) * h_2(t)  \\
     \\
+   \color{Green} \text{ Graphically  }
 \end{gather}
 ```
+
+<img src=images/distributive-property.png width=40% height=40% > </img>
