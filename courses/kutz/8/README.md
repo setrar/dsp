@@ -71,7 +71,7 @@
     \\
     x(t) * h(t) = h(t) * x(t) = \int_{-\infty}^{\infty} h(\tau) x( t - \tau) \mathrm{d}\tau  \\
     \\
-   \color{Purple} \mathbf{ Let } \xi = t - \tau, \mathrm{d}\xi = - \mathrm{d}\tau }\\
+   \color{Purple} \mathbf{ Let } \xi = t - \tau, \mathrm{ d } \xi = - \mathrm{ d }\tau \\
     \\
 \end{gather}
 ```
