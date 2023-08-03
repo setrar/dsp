@@ -67,7 +67,7 @@
 
 ```math
 \begin{gather}
-   \color{Purple} \mathbf{ Derivation  } \\
+   \color{Purple} \text{ Derivation  } \\
     \\
     x(t) * h(t) = h(t) * x(t) = \int_{-\infty}^{\infty} h(\tau) x( t - \tau) \mathrm{d}\tau  \\
     \\
