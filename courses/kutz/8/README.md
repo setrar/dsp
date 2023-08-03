@@ -98,9 +98,9 @@
 \begin{gather}
    \color{Purple} \mathbf{ Commutative \space and \space Distributive  } \\
     \\
-    [x_1[n] + x_2[n]] * h[n] = x_1[n] * h[n] + x_2[n] * h[n] \\
+    (x_1[n] + x_2[n]) * h[n] = x_1[n] * h[n] + x_2[n] * h[n] \\
     \\
-    [x_1(t) + x_2(t)] * h(t)  = x_1(t) * h(t) + x_2(t) * h(t)  \\
+    (x_1(t) + x_2(t)) * h(t)  = x_1(t) * h(t) + x_2(t) * h(t)  \\
     \\
 \end{gather}
 ```
