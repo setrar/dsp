@@ -24,3 +24,6 @@ e^{j\omega_0t} \to j = \sqrt{- 1}
 ``` 
 
 > Difference between a mathematician and an engineer, i represents current then j is used instead
+
+- [ ] [You're viewing icons for v5.15.4](https://fontawesome.com/v5/search?o=r&m=free)
+- [ ] [Mermaid Live](https://mermaid.live/)
