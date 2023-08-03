@@ -159,3 +159,5 @@
 \end{gather}
 ```
 
+<img src=images/invertible-property.png width=40% height=40% > </img>
+
