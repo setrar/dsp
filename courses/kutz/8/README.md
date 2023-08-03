@@ -96,7 +96,7 @@
 
 ```math
 \begin{gather}
-   \color{Purple} \mathbf{ Commutative and Distributive  } \\
+   \color{Purple} \mathbf{ Commutative \space and \space Distributive  } \\
     \\
     [x_1[n] + x_2[n]] * h[n] = x_1[n] * h[n] + x_2[n] * h[n] \\
     \\
