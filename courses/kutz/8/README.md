@@ -75,7 +75,8 @@
     \\
     - \int_{\infty}^{-\infty} h( t - \xi) x (\xi) \mathrm{d}\xi = \int_{-\infty}^{\infty}  x (\xi) h( t - \xi) \mathrm{d}\xi \\
     \\
-    = x(t) * h(t)
+    = x(t) * h(t) \\
+     \\
 \end{gather}
 ```
 
