@@ -104,3 +104,14 @@
     \\
 \end{gather}
 ```
+
+```math
+\begin{gather}
+   \color{Purple} \mathbf{ Associative  } \\
+    \\
+    x[n] * (h_1[n] * h_2[n]) = (x[n] * h_1[n]) * h_2[n] \\
+    \\
+    x(t) \ast ((h_1(t) \ast h_2(t))  = x(t) * h_1(t) + x(t) * h_2(t)  \\
+    \\
+\end{gather}
+```
