@@ -169,7 +169,7 @@
     \\
     y[n] = \displaystyle\sum_{k=0}^{\infty} h[k]x[n - k] \\
     \\
-    y(t) = \int_{0}^{\infty} h(\tau) x( t - \tau) \mathrm{d}\tau  \\
+    y(t) = \int_{k=0}^{\infty} h(\tau) x( t - \tau) \mathrm{d}\tau  \\
     \\
 \end{gather}
 ```
