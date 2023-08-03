@@ -25,6 +25,7 @@
     \\
     \frac{ \mathrm{d}y }{ \mathrm{d}t} = ay \to \frac{ \mathrm{d}y }{ \mathrm{d}t} = \mathcal{A} y \\
 \end{gather}
+```
 
 ```math
 \begin{gather}
