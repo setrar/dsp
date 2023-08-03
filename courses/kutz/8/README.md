@@ -181,8 +181,8 @@
    \color{Green} \text{ Bounded input produces  } \\
    \color{Green} \text{ Bounded output  } \\
     \\
-    |y(t)| = | \int_{k=-\infty}^{\infty} h(\tau) x( t - \tau) \mathrm{d}\tau |  \\
+    |y(t)| = | \int_{-\infty}^{\infty} h(\tau) x( t - \tau) \mathrm{d}\tau |  \\
     \\
-    \leq \int_{k=0}^{\infty} |h(\tau)|\; |x( t - \tau)|\; \mathrm{d}\tau  \\
+    \leq \int_{-\infty}^{\infty} |h(\tau)|\; |x( t - \tau)|\; \mathrm{d}\tau  \\
 \end{gather}
 ```
