@@ -118,3 +118,13 @@
 ```
 
 <img src=images/associative-property.png width=40% height=40% > </img>
+
+```math
+\begin{gather}
+   \color{Purple} \mathbf{ Memory(less)  } \\
+    \\
+    h[n] = 0, n \neq 0 \\
+    \\
+\end{gather}
+```
+
