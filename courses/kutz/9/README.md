@@ -37,7 +37,7 @@
     \\
     y = \mathcal{ C } e^{\lambda t} \quad \mathcal{ y } = \mathcal{ v } e^{\lamba t} \\
     \\
-    \lamba = a \quad \mathcal{ A }v = \lambda v
+    \lambda = a \quad \mathcal{ A }v = \lambda v
 \end{gather}
 ```
 
