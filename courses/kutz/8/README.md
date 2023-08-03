@@ -173,3 +173,14 @@
     \\
 \end{gather}
 ```
+
+```math
+\begin{gather}
+   \color{Purple} \mathbf{ Stability  } \\
+    \\
+   \color{Green} \text{ Bounded input produces  } \\
+    \\
+   \color{Green} \text{ Bounded output  } \\
+    \\
+\end{gather}
+```
