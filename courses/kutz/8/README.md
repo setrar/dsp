@@ -83,11 +83,9 @@
 \begin{gather}
    \color{Purple} \mathbf{ Distributive  } \\
     \\
-    x[n] * (h_1[n] + h_2[n]) \\
-     \quad    = x[n] * h_1[n] + x[n] * h_2[n] \\
+    x[n] * (h_1[n] + h_2[n]) = x[n] * h_1[n] + x[n] * h_2[n] \\
     \\
-    x(t) * (h_1(t) + h_2(t) \\
-      \quad   = x(t) * h_1(t) + x(t) * h_2(t)  \\
+    x(t) * (h_1(t) + h_2(t)  = x(t) * h_1(t) + x(t) * h_2(t)  \\
     \\
 \end{gather}
 ```
