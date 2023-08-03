@@ -155,7 +155,7 @@
     \\
     h(t) * h_1(t)= \delta(t) \\
    \\
-   \color{Green} \text{ Block diagram form  }
+   \color{Green} \text{ Graphically  }
 \end{gather}
 ```
 
