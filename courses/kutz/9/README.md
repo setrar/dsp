@@ -39,7 +39,7 @@
     \\
    {\color{Purple} \text{ Exponential solutions } } \\
     \\
-    \lambda = a \quad \mathcal{ A }v = \lambda v
+    \lambda = a \quad \mathcal{ A }v = \lambda v \quad \text{ Eigenvalue Problem }
 \end{gather}
 ```
 
