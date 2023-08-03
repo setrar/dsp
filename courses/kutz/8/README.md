@@ -181,5 +181,7 @@
    \color{Green} \text{ Bounded input produces  } \\
    \color{Green} \text{ Bounded output  } \\
     \\
+    |y(t)| = |\int_{k=0}^{\infty} h(\tau) x( t - \tau) \mathrm{d}\tau|  \\
+    \\
 \end{gather}
 ```
