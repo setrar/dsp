@@ -23,6 +23,6 @@
     \\
    {\color{Cerulean} \text{ LTI differential equations } } \\
     \\
-    \frac{ \mathrm{d}y }{ \mathrm{d}t} = ay \to \frac{ \mathrm{d}y }{ \mathrm{d}t} = \mathcalc{A} y \\
+    \frac{ \mathrm{d}y }{ \mathrm{d}t} = ay \to \frac{ \mathrm{d}y }{ \mathrm{d}t} = \mathcal{A} y \\
 \end{gather}
 ```
