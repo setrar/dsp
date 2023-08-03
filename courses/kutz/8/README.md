@@ -186,5 +186,7 @@
     \leq \int_{-\infty}^{\infty} |h(\tau)|\; |x( t - \tau)|\; \mathrm{d}\tau  \\
     \\
     \leq \mathcal{ B } \int_{-\infty}^{\infty} |h(\tau)|\; \mathrm{d}\tau  \\
+    \\
+   \color{Green} \text{ Need integral to be less than infinity  } \\
 \end{gather}
 ```
