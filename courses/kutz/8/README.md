@@ -128,7 +128,7 @@
    \color{Green} \text{ This gives  } \\
     \\
     h[n] = K\delta[n] = h[0]\delta[n]
-
+    \\
 \end{gather}
 ```
 
@@ -143,7 +143,7 @@
     y[n] = Kx[n] \\
     \\
      y(t) = Kx(t)
-
+     \\
 \end{gather}
 ```
 
@@ -161,3 +161,15 @@
 
 <img src=images/invertible-property.png width=40% height=40% > </img>
 
+```math
+\begin{gather}
+   \color{Purple} \mathbf{ Causality  } \\
+    \\
+    h[n] = 0, n < 0 \\
+    \\
+    y[n] = \displaystyle\sum_{k=0}^{\infty} h[k]x[n - k] \\
+    \\
+    y(t) = \int_{0}^{\infty} h(\tau) x( t - \tau) \mathrm{d}\tau  \\
+    \\
+\end{gather}
+```
