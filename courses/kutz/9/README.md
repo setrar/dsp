@@ -41,4 +41,6 @@
 \end{gather}
 ```
 
+# References
+
 :bulb: An ordinary differential equation (or `ODE`) has a discrete (`finite`) set of variables. 
