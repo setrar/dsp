@@ -151,10 +151,11 @@
 \begin{gather}
    \color{Purple} \mathbf{ Invertible  } \\
     \\
-    h[n] * h_1[n]= \delta[n]
+    h[n] * h_1[n]= \delta[n] \\
     \\
-    h(t) * h_1(t)= \delta(t)
-
+    h(t) * h_1(t)= \delta(t) \\
+   \\
+   \color{Green} \text{ Block diagram form  }
 \end{gather}
 ```
 
