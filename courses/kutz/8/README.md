@@ -64,3 +64,14 @@
     \\
 \end{gather}
 ```
+
+```math
+\begin{gather}
+   \color{Purple} \mathbf{ Derivation  } \\
+    \\
+    x(t) * h(t) = h(t) * x(t) = \int_{-\infty}^{\infty} h(\tau) x( t - \tau) \mathrm{d}\tau  \\
+    \\
+   \color{Purple} \mathbf{ Let } \xi \\
+    \\
+\end{gather}
+```
