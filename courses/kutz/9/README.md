@@ -110,13 +110,13 @@
     \\
    {\color{Cerulean} \text{ System form } \frac{ \mathrm{d} y }{ \mathrm{dt}} = \mathcal{ A } y } \\
     \\
-   {\color{Orange} \text{ with }  } \\
+   {\color{Blue} \text{ with }  } \\
     \\
    \text{ with } \mathcal{ A } = \begin{bmatrix}
                         1             & 0             \\[0.3em] 
                         - \frac{c}{a} & - \frac{b}{a} \\[0.3em]
-                     \end{bmatrix}
-   {\color{Orange} \text{ Eigenvalues }  } \\
+                     \end{bmatrix} \\
+   {\color{Blue} \text{ Eigenvalues }  } \\
    \\
 a \lambda^2 + b \lambda + c = 0
     \\
