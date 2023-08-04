@@ -45,7 +45,7 @@
 
 ```math
 \begin{gather}
-   {\color{Purple} \dots \ quad \mathbf{ Second \space Order \space LTI } } \\
+   {\color{Purple} \dots \quad \mathbf{ Second \space Order \space LTI } } \\
     \\
     a \frac{ \mathrm{d^2} y }{ \mathrm{dt^2}} + b \frac{ \mathrm{d}y }{ \mathrm{dt} } + cy = f(t) \\
     \\
@@ -87,7 +87,7 @@
 
 ```math
 \begin{gather}
-   {\color{Purple} \dots \ quad \mathbf{ Second \space Order \space LTI } } \\
+   {\color{Purple} \dots \quad \mathbf{ Second \space Order \space LTI } } \\
     \\
     a \frac{ \mathrm{d^2} y }{ \mathrm{dt^2}} + b \frac{ \mathrm{d}y }{ \mathrm{dt} } + cy = f(t) \\
     \\
