@@ -93,7 +93,7 @@
     \\
    {\color{Cerulean} \text{ System ODEs : } }\\
    \\
-    \text{ System form } y_1 = y, \quad y_2 =  \frac{ \mathrm{d} y }{ \mathrm{dt}} } \\
+    \text{ System form } y_1 = y, \quad y_2 =  \frac{ \mathrm{d} y }{ \mathrm{dt}}  \\
     \\
     \text{ System form } \frac{ \mathrm{d} y }{ \mathrm{dt}} } = \mathcal{ A } y \\
     \\
