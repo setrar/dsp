@@ -59,7 +59,7 @@
 
 ```math
 \begin{gather}
-   {\color{Green} \mathrm{ . Homogeneous } } \\
+   {\color{Green} \dots \mathrm{ Homogeneous } } \\
     \\
     a \frac{ \mathrm{d^2} y_h }{ \mathrm{dt^2}} + b \frac{ \mathrm{d} y_h }{ \mathrm{dt} } + cy_h = 0 \\
     \\
@@ -73,7 +73,7 @@
 
 ```math
 \begin{gather}
-   {\color{Green} \mathrm{ . Particular } } \\
+   {\color{Green} \dots \mathrm{ Particular } } \\
     \\
     a \frac{ \mathrm{d^2} y_p }{ \mathrm{dt^2}} + b \frac{ \mathrm{d} y_p }{ \mathrm{dt} } + cy_p = f(t) \\
     \\
