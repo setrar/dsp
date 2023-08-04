@@ -57,6 +57,20 @@
 \end{gather}
 ```
 
+```math
+\begin{gather}
+   {\color{Green} \mathbf{ Homogeneous } } \\
+    \\
+    a \frac{ \mathrm{d^2} y_h }{ \mathrm{dt^2}} + b \frac{ \mathrm{d} y_h }{ \mathrm{dt} } + cy_h = 0 \\
+    \\
+   {\color{Cerulean} \text{ Solutions } y(t) = exp( \lambda t ) } \\
+    \\
+    a \lambda^2 + b \lambda^2 + c = 0 \\
+    \\
+   {\color{Green} \text{ Solve quadratic equation } } \\
+\end{gather}
+```
+
 
 # References
 
