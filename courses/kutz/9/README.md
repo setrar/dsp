@@ -91,9 +91,9 @@
     \\
     a \frac{ \mathrm{d^2} y }{ \mathrm{dt^2}} + b \frac{ \mathrm{d}y }{ \mathrm{dt} } + cy = f(t) \\
     \\
-   {\color{Cerulean} \text{ System form : } \\
+   {\color{Cerulean} \text{ System form : } }\\
    \\
-    y_1 = y, \quad y_2 =  \frac{ \mathrm{d} y }{ \mathrm{dt}} } \\
+    y_1 = y, \quad y_2 =  \frac{ \mathrm{d} y }{ \mathrm{dt}} \\
     \\
     \frac{ \mathrm{d} y }{ \mathrm{dt}} } = \mathcal{ A } y \\
     \\
