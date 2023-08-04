@@ -6,7 +6,7 @@
 | Lecture[(1)](1) | Differential Equations and Dynamical Systems: Overview | |
 | Lecture[(1)](1) | Calculus Review: The Derivative (and the Power Law and Chain Rule) | |
 | Lecture[(1)](1) | Gentle Introduction to Modeling with Matrices and Vectors: A Probabilistic Weather Model | |
-| Lecture[(4)](https://youtu.be/BjvkBLfvkqY) | The Simplest Ordinary Differential Equation (ODE) and Its Exponential Solution | :eight_pointed_black_star: |
+| Lecture[4](https://youtu.be/BjvkBLfvkqY) | The Simplest Ordinary Differential Equation (ODE) and Its Exponential Solution | :eight_pointed_black_star: |
 | Lecture[(1)](1) | Solving Differential Equations with Power Series: A Simple Example | |
 | Lecture[(1)](1) | Taylor Series and Power Series Made Easy (with Pictures): Review of Calculus | |
 | Lecture[(1)](1) | Taylor Series of the Exponential Function and Euler's Formula! | |
