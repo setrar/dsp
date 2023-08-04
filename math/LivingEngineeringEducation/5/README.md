@@ -2,6 +2,6 @@
 
 ```math
 
-{\color {Yellow}  x(t) = A \sin ( \omega (t - \phi) + \mathcal{ B } }
+{\color {Yellow}  x(t) = A \sin ( \omega (t - \phi) ) + \mathcal{ B } }
 
 ```
