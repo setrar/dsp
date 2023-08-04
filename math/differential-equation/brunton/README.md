@@ -1,7 +1,7 @@
 # by [Steve Brunton](https://www.youtube.com/@Eigensteve)
 
 
-| [:chains: Engineering Math: Differential Equations and Dynamical Systems](https://www.youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA) | | |
+| :hash: | [:chains: Engineering Math: Differential Equations and Dynamical Systems](https://www.youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA) | |
 |-|-|-|
 | Lecture[(1)](1) | Differential Equations and Dynamical Systems: Overview | |
 | Lecture[(1)](1) | Calculus Review: The Derivative (and the Power Law and Chain Rule) | |
