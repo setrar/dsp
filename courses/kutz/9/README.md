@@ -43,6 +43,21 @@
 \end{gather}
 ```
 
+```math
+\begin{gather}
+   {\color{Purple} \mathbf{ Second \space Order \space LTI } } \\
+    \\
+    a \frac{ \mathrm{d^2} y }{ \mathrm{dt^2}} + b \frac{ \mathrm{d}y }{ \mathrm{dt} } = f(t) \\
+    \\
+   {\color{Cerulean} \text{ Solutions } } \\
+    \\
+    y(t) = y_h(t) + y-p(t) \\
+    \\
+   {\color{Purple} \text{ Homogeneous + particular } } \\
+\end{gather}
+```
+
+
 # References
 
 :bulb: An ordinary differential equation (or `ODE`) has a discrete (`finite`) set of variables. 
