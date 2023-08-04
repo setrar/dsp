@@ -91,6 +91,22 @@
     \\
     a \frac{ \mathrm{d^2} y }{ \mathrm{dt^2}} + b \frac{ \mathrm{d}y }{ \mathrm{dt} } + cy = f(t) \\
     \\
+   {\color{Cerulean} \text{ System form } y_1 = y, \quad y_2 =  \frac{ \mathrm{d} y }{ \mathrm{dt}} } \\
+    \\
+   {\color{Cerulean} \text{ System form } \frac{ \mathrm{d} y }{ \mathrm{dt}} } = \mathcal{ A } y \\
+    \\
+   {\color{Green} \text{ turn into first order equation } } \\
+\end{gather}
+```
+
+
+
+```math
+\begin{gather}
+   {\color{Purple} \dots \quad \mathbf{ Second \space Order \space LTI } } \\
+    \\
+    a \frac{ \mathrm{d^2} y }{ \mathrm{dt^2}} + b \frac{ \mathrm{d}y }{ \mathrm{dt} } + cy = f(t) \\
+    \\
    {\color{Cerulean} \text{ System form } } \\
     \\
     y_1 = y, \quad y_2 =  \frac{ \mathrm{d} y }{ \mathrm{dt}} \\
