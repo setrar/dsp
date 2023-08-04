@@ -85,6 +85,20 @@
 \end{gather}
 ```
 
+```math
+\begin{gather}
+   {\color{Purple} \mathbf{ Second \space Order \space LTI } } \\
+    \\
+    a \frac{ \mathrm{d^2} y }{ \mathrm{dt^2}} + b \frac{ \mathrm{d}y }{ \mathrm{dt} } + cy = f(t) \\
+    \\
+   {\color{Cerulean} \text{ System form } } \\
+    \\
+    y_1 = y \quad y_2 =  \frac{ \mathrm{d} y }{ \mathrm{dt}} \\
+    \\
+   {\color{Green} \text{ first order equations } } \\
+\end{gather}
+```
+
 
 # References
 
