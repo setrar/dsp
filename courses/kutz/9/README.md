@@ -53,7 +53,7 @@
     \\
     y(t) = y_h(t) + y-p(t) \\
     \\
-   {\color{Purple} \text{ Homogeneous + particular } } \\
+   {\color{Green} \text{ Homogeneous + particular } } \\
 \end{gather}
 ```
 
