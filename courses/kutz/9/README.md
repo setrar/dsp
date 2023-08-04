@@ -110,7 +110,10 @@
     \\
    {\color{Cerulean} \text{ System form } \frac{ \mathrm{d} y }{ \mathrm{dt}} = \mathcal{ A } y } \\
     \\
-    \frac{ \mathrm{d} y_1 }{ \mathrm{dt}} = y_2\\
+   \text{ with } M = \begin{bmatrix}
+                        1             & 0             \\[0.3em] 
+                        - \frac{c}{a} & - \frac{b}{a} \\[0.3em]
+                     \end{bmatrix}
 \end{gather}
 ```
 
