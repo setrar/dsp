@@ -91,11 +91,11 @@
     \\
     a \frac{ \mathrm{d^2} y }{ \mathrm{dt^2}} + b \frac{ \mathrm{d}y }{ \mathrm{dt} } + cy = f(t) \\
     \\
-   {\color{Cerulean} \text{ System ODEs : } }\\
+   {\color{Cerulean} \text{ Solutions System ODEs : } }\\
    \\
-    \text{ System form } y_1 = y, \quad y_2 =  \frac{ \mathrm{d} y }{ \mathrm{dt}}  \\
+    \dots \text{ System form } y_1 = y, \quad y_2 =  \frac{ \mathrm{d} y }{ \mathrm{dt}}  \\
     \\
-    \text{ System form } \frac{ \mathrm{d} y }{ \mathrm{dt}} = \mathcal{ A } y \\
+    \dots \text{ System form } \frac{ \mathrm{d} y }{ \mathrm{dt}} = \mathcal{ A } y , \quad \dot{ x } = \mathcal{ A }x \\
     \\
    {\color{Green} \text{ turn into first order equations } } \\
 \end{gather}
