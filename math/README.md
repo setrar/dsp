@@ -15,7 +15,7 @@
 
 | [Differential Equations - Vol 1](https://www.youtube.com/playlist?list=PLnVYEpTNGNtV8Rt8WebZ6exvjjkcsAnXc) by [:tv: @MathAndScience](https://www.youtube.com/@MathAndScience) |
 |-|
-| [ :tv: What is a Differential Equation?](https://www.youtube.com/watch?v=PdY_LZBZ6kI) |
+| [What is a Differential Equation?](https://www.youtube.com/watch?v=PdY_LZBZ6kI) |
 | [01 - What Is A Differential Equation in Calculus? Learn to Solve Ordinary Differential Equations.](https://youtu.be/K80YEHQpx9g) |
 | [Solve & Verify Differential Equations by Integration - \[2\]](https://www.youtube.com/watch?v=tPRSxkdUvZg) |
 
