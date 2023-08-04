@@ -77,7 +77,7 @@
     \\
     a \frac{ \mathrm{d^2} y_p }{ \mathrm{dt^2}} + b \frac{ \mathrm{d} y_p }{ \mathrm{dt} } + cy_p = f(t) \\
     \\
-   {\color{Cerulean} \text{ Guess solutiobs like } f(t) } \\
+   {\color{Cerulean} \text{ Guess solutions like } f(t) } \\
     \\
     y = y_h + y_p \\
     \\
