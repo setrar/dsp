@@ -47,7 +47,7 @@
 \begin{gather}
    {\color{Purple} \mathbf{ Second \space Order \space LTI } } \\
     \\
-    a \frac{ \mathrm{d^2} y }{ \mathrm{dt^2}} + b \frac{ \mathrm{d}y }{ \mathrm{dt} } = f(t) \\
+    a \frac{ \mathrm{d^2} y }{ \mathrm{dt^2}} + b \frac{ \mathrm{d}y }{ \mathrm{dt} } + cy = f(t) \\
     \\
    {\color{Cerulean} \text{ Solutions } } \\
     \\
