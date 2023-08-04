@@ -10,7 +10,7 @@
     \\
     \frac{ \mathrm{d}y }{ \mathrm{d}t} = f(y,t) \\
     \\
-   {\color{Cerulean} \text{ Describess calcculus based physics } } \\
+   {\color{Cerulean} \text{ Describes calculus based physics } } \\
     \\
 \end{gather}
 ```
