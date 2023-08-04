@@ -103,6 +103,8 @@
 
 ```math
 \begin{gather}
+   {\color{Purple} \text{ System ODEs } } \\
+    \\
    {\color{Cerulean} \text{ System form } y_1 = y, \quad y_2 =  \frac{ \mathrm{d} y }{ \mathrm{dt}} } \\
     \\
     \frac{ \mathrm{d} y_1 }{ \mathrm{dt}} = y_2\\
