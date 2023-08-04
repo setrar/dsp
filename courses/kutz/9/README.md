@@ -112,13 +112,13 @@
     \\
    {\color{Blue} \text{ with }  } \\
     \\
-   \text{ with } \mathcal{ A } = \begin{bmatrix}
+   \mathcal{ A } = \begin{bmatrix}
                         1             & 0             \\[0.3em] 
                         - \frac{c}{a} & - \frac{b}{a} \\[0.3em]
                      \end{bmatrix} \\
    {\color{Blue} \text{ Eigenvalues }  } \\
    \\
-a \lambda^2 + b \lambda + c = 0
+a \lambda^2 + b \lambda + c = 0 \\
     \\
    {\color{Green} \text{ Solve quadratic equattion } } \\
 
