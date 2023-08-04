@@ -101,7 +101,7 @@
     \\
     \frac{ \mathrm{d} y_1 }{ \mathrm{dt}} = y_2\\
     \\
-   \frac{ \mathrm{d} y_1 }{ \mathrm{dt}} \quad = - \frac{b}{a} y_2 - \frac{c}{a} y_1 + \frac{f(t)}{a} \\
+   \frac{ \mathrm{d} y_2}{ \mathrm{dt}} \quad = - \frac{b}{a} y_2 - \frac{c}{a} y_1 + \frac{f(t)}{a} \\
     \\
 \end{gather}
 ```
