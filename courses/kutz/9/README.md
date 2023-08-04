@@ -65,7 +65,7 @@
     \\
    {\color{Cerulean} \text{ Solutions } y(t) = exp( \lambda t ) } \\
     \\
-    a \lambda^2 + b \lambda^2 + c = 0 \\
+    a \lambda^2 + b \lambda + c = 0 \\
     \\
    {\color{Green} \text{ Solve quadratic equation } } \\
 \end{gather}
