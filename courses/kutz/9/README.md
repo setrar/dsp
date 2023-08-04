@@ -97,30 +97,19 @@
     \\
     \dots \text{ System form } \frac{ \mathrm{d} y }{ \mathrm{dt}} = \mathcal{ A } y , \quad \dot{ x } = \mathcal{ A }x \\
     \\
-   {\color{Green} \text{ turn into first order equations } } \\
+   {\color{Green} \text{ turn into TWO first-order equations } } \\
 \end{gather}
 ```
 
-
-
 ```math
 \begin{gather}
-   {\color{Purple} \dots \quad \mathbf{ Second \space Order \space LTI } } \\
-    \\
-    a \frac{ \mathrm{d^2} y }{ \mathrm{dt^2}} + b \frac{ \mathrm{d}y }{ \mathrm{dt} } + cy = f(t) \\
-    \\
-   {\color{Cerulean} \text{ System form } } \\
-    \\
-    y_1 = y, \quad y_2 =  \frac{ \mathrm{d} y }{ \mathrm{dt}} \\
-    \\
-   {\color{Green} \text{ turn into first order equation } } \\
-    \\
    {\color{Cerulean} \text{ System form } y_1 = y, \quad y_2 =  \frac{ \mathrm{d} y }{ \mathrm{dt}} } \\
     \\
     \frac{ \mathrm{d} y_1 }{ \mathrm{dt}} = y_2\\
     \\
-   \frac{ \mathrm{d} y_2}{ \mathrm{dt}} \quad = - \frac{b}{a} y_2 - \frac{c}{a} y_1 + \frac{f(t)}{a} \\
+   {\color{Cerulean} \text{ System form } \frac{ \mathrm{d} y }{ \mathrm{dt}} = \mathcal{ A } y } \\
     \\
+    \frac{ \mathrm{d} y_1 }{ \mathrm{dt}} = y_2\\
 \end{gather}
 ```
 
