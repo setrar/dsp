@@ -2,6 +2,21 @@
 
 ```math
 
-{\color {Yellow}  x(t) = A \sin ( \omega (t - \phi) ) + \mathcal{ B } }
+
+
+
+\begin{gather}
+   \\
+   \color {Yellow}    \\
+    \\
+    x(t) = A \sin ( \omega (t - \phi) ) + \mathcal{ B } \to
+      \begin{cases}
+        A        & \quad \text{ Amplitude } \\
+        \omega   & \quad \text{ Frequency } \\
+        \mathcal{ B } & \quad \text{ Baseline } \\
+      \end{cases} \\
+    \\
+\end{gather}
+
 
 ```
