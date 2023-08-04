@@ -53,13 +53,13 @@
     \\
     y(t) = y_h(t) + y_p(t) \\
     \\
-   {\color{Green} \text{ Homogeneous + particular } } \\
+   {\color{Orange} \text{ Homogeneous + particular } } \\
 \end{gather}
 ```
 
 ```math
 \begin{gather}
-   {\color{Green} \dots \mathrm{ Homogeneous } } \\
+   {\color{Orange} \dots \mathrm{ Homogeneous } } \\
     \\
     a \frac{ \mathrm{d^2} y_h }{ \mathrm{dt^2}} + b \frac{ \mathrm{d} y_h }{ \mathrm{dt} } + cy_h = 0 \\
     \\
@@ -73,7 +73,7 @@
 
 ```math
 \begin{gather}
-   {\color{Green} \dots \mathrm{ Particular } } \\
+   {\color{Orange} \dots \mathrm{ Particular } } \\
     \\
     a \frac{ \mathrm{d^2} y_p }{ \mathrm{dt^2}} + b \frac{ \mathrm{d} y_p }{ \mathrm{dt} } + cy_p = f(t) \\
     \\
