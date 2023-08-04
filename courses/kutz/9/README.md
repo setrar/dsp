@@ -51,7 +51,7 @@
     \\
    {\color{Cerulean} \text{ Solutions } } \\
     \\
-    y(t) = y_h(t) + y-p(t) \\
+    y(t) = y_h(t) + y_p(t) \\
     \\
    {\color{Green} \text{ Homogeneous + particular } } \\
 \end{gather}
