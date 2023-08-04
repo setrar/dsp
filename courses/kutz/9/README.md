@@ -91,7 +91,7 @@
     \\
     a \frac{ \mathrm{d^2} y }{ \mathrm{dt^2}} + b \frac{ \mathrm{d}y }{ \mathrm{dt} } + cy = f(t) \\
     \\
-   {\color{Cerulean} \text{ Solutions System ODEs : } }\\
+   {\color{Cerulean} \text{ Solutions } \to \text{ System ODEs : } }\\
    \\
     \dots \text{ System form } y_1 = y, \quad y_2 =  \frac{ \mathrm{d} y }{ \mathrm{dt}}  \\
     \\
