@@ -140,7 +140,7 @@ a \lambda^2 + b \lambda + c = 0 \\
 \begin{gather}
    {\color{Purple} \mathbf{ Block \space Diagram } } \\
     \\
-    y = - \frac{1}[a} \frac{ \mathrm{d}y }{ \mathrm{d}t} + \frac{b}[a} x \\
+    y = - \frac{1}[a} \frac{ \mathrm{d}y }{ \mathrm{d}t} + \frac{b}{a} x \\
 \end{gather}
 ```
 
