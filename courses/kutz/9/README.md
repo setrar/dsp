@@ -146,6 +146,9 @@ a \lambda^2 + b \lambda + c = 0 \\
 \end{gather}
 ```
 
+<img src=images/operation-block-diagram.png width='' height='' > </img>
+
 # References
 
 :bulb: An ordinary differential equation (or `ODE`) has a discrete (`finite`) set of variables. 
+
