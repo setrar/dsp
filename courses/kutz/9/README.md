@@ -140,9 +140,8 @@ a \lambda^2 + b \lambda + c = 0 \\
 \begin{gather}
    {\color{Purple} \mathbf{ Block \ space Diagram } } \\
     \\
-   {\color{Cerulean} \text{ System form } y_1 = y, \quad y_2 =  \frac{ \mathrm{d} y }{ \mathrm{dt}} } \\
-    \\
     y = - \frac{1}[a} \frac{ \mathrm{d}y }{ \mathrm{d}t} + \frac{b}[a} x \\
+\end{gather}
 ```
 
 # References
