@@ -128,6 +128,14 @@ a \lambda^2 + b \lambda + c = 0 \\
 \end{gather}
 ```
 
+```math
+{\color{Purple} \mathbf{ Operations } } \\
+```
+
+| Addition | Multiplication | Differentiation | 
+|-|-|-|
+| <img src=images/operation-addition.png width='' height='' > </img> | | <img src=images/operation-multiplication.png width='' height='' > </img> | <img src=images/operation-differentiation.png width='' height='' > </img> |
+
 
 # References
 
