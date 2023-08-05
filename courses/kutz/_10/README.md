@@ -7,7 +7,7 @@
     \\
    {\color{Green} \text{ Revisiting Dirac Delta } } \\
     \\
-    x(t) = x(t) * \delta(t) = \int{-\infty}^{\infty} x(t) \delta (t - \tau )  \mathrm{d}t  \\
+    x(t) = x(t) * \delta(t) = \int_{-\infty}^{\infty} x(t) \delta (t - \tau )  \mathrm{d}t  \\
     \\
 \end{gather}
 ```
