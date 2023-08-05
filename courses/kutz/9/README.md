@@ -148,6 +148,8 @@ a \lambda^2 + b \lambda + c = 0 \\
 
 <img src=images/operation-block-diagram.png width=40% height=40% > </img>
 
+## [:back: ](../#round_pushpin-signal-processing-an-introduction)
+
 # References
 
 :bulb: An ordinary differential equation (or `ODE`) has a discrete (`finite`) set of variables. 
