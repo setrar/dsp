@@ -29,14 +29,14 @@ The lectures are from the textbook Oppenheim, Willsky and Nawab, "Systems and Si
 | Lecture[(7)](7)    | Continuous LTI Systems                 | :white_check_mark: | 
 | Lecture[(8)](8)    | LTI System Properties                  | :white_check_mark: | 
 | Lecture[(9)](9)    | LTI Differential Equations             | :white_check_mark: | 
-| Lecture[(10)](10)  | Singular Functions                     | :eight_pointed_black_star: | 
+| Lecture[(10)](_10) | Singular Functions                     | :eight_pointed_black_star: | 
 | Lecture[(11)](11)  | Fourier Series                         |
 | Lecture[(12)](12)  | Discrete Fourier Series                |
 | Lecture[(13)](13)  | Convergence of Fourier Series          |
 | Lecture[(14)](14)  | Fourier Series Expansion of Signal     |
 | Lecture[(15)](15)  | Input-Output with Fourier Series       |
 | Lecture[(16)](16)  | Frequency Filters                      |
-| Lecture[(17)](17)  | The Fourier Transform                  | :eight_pointed_black_star: | 
+| Lecture[(17)](_17) | The Fourier Transform                  | :eight_pointed_black_star: | 
 | Lecture[(18)](18)  | Properties of the Fourier transform    |
 | Lecture[(19)](19)  | Properties of the Fourier transform    |
 | Lecture[(20)](20)  | Convolutions and Signal Modulation     |
