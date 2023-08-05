@@ -39,7 +39,7 @@ The lectures are from the textbook Oppenheim, Willsky and Nawab, "Systems and Si
 | Lecture[(17)](_17) | The Fourier Transform                  | :eight_pointed_black_star: | 
 | Lecture[(18)](18)  | Properties of the Fourier transform    |
 | Lecture[(19)](19)  | Properties of the Fourier transform    |
-| Lecture[(20)](20)  | Convolutions and Signal Modulation     |
+| Lecture[(20)](_20) | Convolutions and Signal Modulation     |
 | Lecture[(21)](21)  | Differential Equations and FFT         |
 | Lecture[(22)](22)  | Discrete Time Fourier transform        |
 | Lecture[(23)](23)  | Signal Convolutions and Multiplication |
