@@ -146,7 +146,7 @@ a \lambda^2 + b \lambda + c = 0 \\
 \end{gather}
 ```
 
-<img src=images/operation-block-diagram.png width='' height='' > </img>
+<img src=images/operation-block-diagram.png width=40% height=40% > </img>
 
 # References
 
