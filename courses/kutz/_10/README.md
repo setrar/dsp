@@ -15,6 +15,8 @@
     \\
     r_{\Delta} (t) = \delta_{\Delta}(t) * \delta_{\Delta}(t)  \\
     \\
+   {\color{Green} \text{ Approximates short pulse } } \\
+    \\
 \end{gather}
 ```
 
