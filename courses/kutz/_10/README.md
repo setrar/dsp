@@ -21,7 +21,7 @@
 <img src=images/singularity-function.png width=40% height=40% > </img>
 
 ```math
-   {\color{Green} \left \text{ Approximates short pulse } } \\
+   {\color{Green} \mathbf{ Approximates \space short \space pulse } } \\
 ```
 
 <img src=images/singularity-function-examples.png width=60% height=60% > </img>
