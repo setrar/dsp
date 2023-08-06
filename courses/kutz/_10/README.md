@@ -85,6 +85,16 @@
 \end{gather}
 ```
 
+```math
+\begin{gather}
+   \\
+   {\color{Purple} \mathbf{ Constructting } u_1(t) } \\
+    \\
+    \frac{ \mathrm{ d \delta_{\Delta} t } }{ \mathrm{dt} } = \frac{1}{\Delta} \big[ \delta(t) ]  \\ 
+    \\
+\end{gather}
+```
+
 
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
