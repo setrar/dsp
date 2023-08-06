@@ -24,6 +24,11 @@
    {\color{Green} \mathbf{ Approximates \space short \space pulse } } \\
 ```
 
+```math
+   {\color{Cerulean} \mathbf{ Example } \frac{dy}{dt} + 2y = x } \\
+```
+
+
 <img src=images/singularity-function-examples.png width=60% height=60% > </img>
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
