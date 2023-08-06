@@ -88,7 +88,7 @@
 ```math
 \begin{gather}
    \\
-   {\color{Purple} \mathbf{ Constructting } u_1(t) } \\
+   {\color{Purple} \mathbf{ Constructing } \space u_1(t) } \\
     \\
     \frac{ \mathrm{ d \delta_{\Delta} (t) } }{ \mathrm{dt} } = \frac{1}{\Delta} \big[ \delta(t) - \delta(t - \Delta) \big]  \\ 
     \\
