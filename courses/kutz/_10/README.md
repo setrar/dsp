@@ -65,5 +65,15 @@
 \end{gather}
 ```
 
+```math
+\begin{gather}
+   \\
+   {\color{Purple} \mathbf{ Doublets } } \\
+    \\
+    u_2(t) = u_1(t) * u_1(t) \\
+    \\
+\end{gather}
+```
+
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
