@@ -82,6 +82,7 @@
     \\
     \left.u_k(t) = u_1(t) * \dots + u_1(t)  \right|_k \\ 
     \\
+    \left.\frac{x^3}{3}\right|_0^1
 \end{gather}
 ```
 
