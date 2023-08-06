@@ -37,4 +37,9 @@
 
 <img src=images/singularity-function-h_t.png width=40% height=40% > </img>
 
+```math
+   {\color{Green} \text{ Limit as } \Delta \to 0 } \\
+```
+
+
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
