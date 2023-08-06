@@ -89,6 +89,8 @@
 \begin{gather}
    \\
    {\color{Purple} \mathbf{ Constructing } \space u_1(t) } \\
+   \\
+   {\color{Cerulean} \text{ Unit derivator! } } \\
     \\
     \frac{ \mathrm{ d \delta_{\Delta} (t) } }{ \mathrm{dt} } = \frac{1}{\Delta} \big[ \delta(t) - \delta(t - \Delta) \big]  \\ 
     \\
@@ -105,5 +107,16 @@
 |-|-|
 | <img src=images/doublets-derivative.png width='' height='' > </img> | <img src=images/doublets-derivative-dipole.png width='' height='' > </img> |
 
+```math
+\begin{gather}
+   \\
+   {\color{Purple} \mathbf{ Constructing } \space u_{-1}(t) } \\
+   \\
+   {\color{Cerulean} \text{ Unit integrator! } } \\
+    \\
+    u(t) = \int{-infty}^{t} \Delta(\tau) \mathrm{dt} \\ 
+    \\
+\end{gather}
+```
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
