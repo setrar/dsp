@@ -118,7 +118,7 @@
     \\
    {\color{Cerulean} \text{ Integrate twice } } \\
     \\
-    u_2 = u_{-1} * u_{-1} \\ 
+    u_{-2} = u_{-1} * u_{-1} \\ 
     \\
 \end{gather}
 ```
