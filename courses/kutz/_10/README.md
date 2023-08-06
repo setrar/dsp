@@ -80,9 +80,8 @@
    \\
    {\color{Purple} \mathbf{ kth \space derivative \space response  } } \\
     \\
-    \left.u_k(t) = u_1(t) * \dots + u_1(t)  \right|_k \\ 
+    \left.u_k(t) = u_1(t) * \dots + u_1(t)  \right|_{k \text{ times } } \\ 
     \\
-    \left.\frac{x^3}{3}\right|_0^1
 \end{gather}
 ```
 
