@@ -92,7 +92,7 @@
     \\
     \frac{ \mathrm{ d \delta_{\Delta} (t) } }{ \mathrm{dt} } = \frac{1}{\Delta} \big[ \delta(t) - \delta(t - \Delta) \big]  \\ 
     \\
-   {\color{Purple} \text{ This gives } } \\
+   {\color{Cerulean} \text{ This gives } } \\
     \\
     x(t) * \frac{ \mathrm{ d \delta_{\Delta} (t) } }{ \mathrm{dt} } = \frac{ x(t) - x(t - \Delta }{\Delta} \approx  \frac{dx}{dt} \\ 
     \\
