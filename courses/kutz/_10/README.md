@@ -50,7 +50,7 @@
     \\
     y(t) = \frac{ \mathrm{dx} }{ \mathrm{dt} }  \\
     \\
-   {\color{Yellow} \text{ Unit response is the doublett } \\
+   {\color{Yellow} \text{ Unit response is the doublet } ] \\
     \\
     \frac{ \mathrm{dx} }{ \mathrm{dt} } = x(t) * u_1(t) \\
     \\
