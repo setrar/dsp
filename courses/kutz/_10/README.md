@@ -9,6 +9,10 @@
     \\
     x(t) = x(t) * \delta(t) = \int_{-\infty}^{\infty} x(\tau) \delta (t - \tau )  \mathrm{d}\tau  \\
     \\
+   {\color{Green} \text{ Take } x(t) = \delta (t) } \\
+    \\
+    \delta(t) = \delta(t) * \delta(t)  \\
+    \\
 \end{gather}
 ```
 
