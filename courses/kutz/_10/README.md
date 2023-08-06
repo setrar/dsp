@@ -101,7 +101,9 @@
 \end{gather}
 ```
 
-<img src=images/doublets-derivative.png width=40% height=40% > </img>
+| | |
+|-|-|
+| <img src=images/doublets-derivative.png width=40% height=40% > </img> | <img src=images/doublets-derivative-dipole.png width=40% height=40% > </img> |
 
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
