@@ -58,7 +58,7 @@
     \\
     \frac{ \mathrm{dx} }{ \mathrm{dt} } = x(t) * u_1(t) \\
     \\
-   {\color{Green} u_2(t) \text{ secondl derivative response } } \\
+   {\color{Green} u_2(t) \text{ second derivative response } } \\
     \\
     \frac{ \mathrm{d^2x} }{ \mathrm{dt^2} } = x(t) * u_2(t) \\
     \\
