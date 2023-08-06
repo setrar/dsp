@@ -15,12 +15,13 @@
     \\
     r_{\Delta} (t) = \delta_{\Delta}(t) * \delta_{\Delta}(t)  \\
     \\
-   {\color{Green} \text{ Approximates short pulse } } \\
-    \\
 \end{gather}
 ```
 
 <img src=images/singularity-function.png width=40% height=40% > </img>
 
+```math
+   {\color{Green} \text{ Approximates short pulse } } \\
+```
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
