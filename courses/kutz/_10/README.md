@@ -75,5 +75,16 @@
 \end{gather}
 ```
 
+```math
+\begin{gather}
+   \\
+   {\color{Purple} \biggg{ kth derivative response } } \\
+    \\
+    \left u_k(t) = u_1(t) * \dots + u_1(t)  \right|_{k \text{times}} \\ 
+    \\
+\end{gather}
+```
+
+
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
