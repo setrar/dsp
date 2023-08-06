@@ -31,4 +31,10 @@
 
 <img src=images/singularity-function-examples.png width=60% height=60% > </img>
 
+```math
+   {\color{Cerulean} h(t) = e_{-2t} u(t) \text{ Fundamental Response : }  } \\
+```
+
+<img src=images/singularity-function.png width=40% height=40% > </img>
+
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
