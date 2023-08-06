@@ -25,7 +25,7 @@
 ```
 
 ```math
-   {\color{Cerulean} \mathbf{ Example } \frac{dy}{dt} + 2y = x } \\
+   {\color{Cerulean} \mathbf{ Example : } \frac{dy}{dt} + 2y = x } \\
 ```
 
 
