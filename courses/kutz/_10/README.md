@@ -46,13 +46,21 @@
    \\
    {\color{Purple} \mathbf{ The \space Unit \space Doublet } } \\
     \\
-   {\color{Green} \text{ Outputt is the derivative } } \\
+   {\color{Green} \text{ Output is the derivative } } \\
     \\
     y(t) = \frac{ \mathrm{dx} }{ \mathrm{dt} }  \\
     \\
    {\color{Yellow} \text{ Unit response is the doublet } } \\
     \\
     \frac{ \mathrm{dx} }{ \mathrm{dt} } = x(t) * u_1(t) \\
+    \\
+   {\color{Green} u_1(t) \text{ fundamental derivative response } } \\
+    \\
+    \frac{ \mathrm{dx} }{ \mathrm{dt} } = x(t) * u_1(t) \\
+    \\
+   {\color{Green} u_2(t) \text{ secondl derivative response } } \\
+    \\
+    \frac{ \mathrm{d^2x} }{ \mathrm{dt^2} } = x(t) * u_2(t) \\
     \\
 \end{gather}
 ```
