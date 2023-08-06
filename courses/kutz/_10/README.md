@@ -120,6 +120,10 @@
     \\
     u_{-2} = u_{-1} * u_{-1} \\ 
     \\
+   {\color{Cerulean} \text{ Gives } } \\
+    \\
+    u_{-2} = tu(t) \\ 
+    \\
 \end{gather}
 ```
 
