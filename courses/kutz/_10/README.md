@@ -24,6 +24,6 @@
    {\color{Green} \text{ Approximates short pulse } } \\
 ```
 
-<img src=images/singularity-function-examples.png width=6% height=60% > </img>
+<img src=images/singularity-function-examples.png width=60% height=60% > </img>
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
