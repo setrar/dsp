@@ -13,6 +13,8 @@
     \\
     \delta(t) = \delta(t) * \delta(t)  \\
     \\
+    r_{\Delta} (t) = \delta_{\Delta}(t) * \delta_{\Delta}(t)  \\
+    \\
 \end{gather}
 ```
 
