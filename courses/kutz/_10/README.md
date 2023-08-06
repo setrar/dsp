@@ -80,7 +80,7 @@
    \\
    {\color{Purple} \mathbf{ kth \space derivative \space response  } \\
     \\
-    \left.u_k(t) = u_1(t) * \dots + u_1(t)  \right|_{k \text{ times }} \\ 
+    \left.u_k(t) = u_1(t) * \dots + u_1(t)  \right|_k \\ 
     \\
 \end{gather}
 ```
