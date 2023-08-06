@@ -32,13 +32,13 @@
 <img src=images/singularity-function-examples.png width=60% height=60% > </img>
 
 ```math
-   {\color{Cerulean} h(t) = e^{-2t} u(t) \text{ Fundamental Response : }  } \\
+   {\color{Cerulean} h(t) = e^{-2t} u(t) \text{ Fundamental Response : }  }
 ```
 
 <img src=images/singularity-function-h_t.png width=40% height=40% > </img>
 
 ```math
-   {\color{Green} \text{ Limit as } \Delta \to 0 } \\
+   {\color{Green} \text{ Limit as } \Delta \to 0 }
 ```
 
 ```math
@@ -50,7 +50,7 @@
     \\
     y(t) = \frac{ \mathrm{dx} }{ \mathrm{dt} }  \\
     \\
-   {\color{Yellow} \text{ Unit response is the doublet } ] \\
+   {\color{Yellow} \text{ Unit response is the doublet } } \\
     \\
     \frac{ \mathrm{dx} }{ \mathrm{dt} } = x(t) * u_1(t) \\
     \\
