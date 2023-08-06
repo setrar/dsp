@@ -41,5 +41,21 @@
    {\color{Green} \text{ Limit as } \Delta \to 0 } \\
 ```
 
+```math
+\begin{gather}
+   \\
+   {\color{Purple} \mathbf{ The \space Unit \space Doublet } } \\
+    \\
+   {\color{Green} \text{ Outputt is the derivative } } \\
+    \\
+    y(t) = \frac{ \mathrm{dx} }{ \mathrm{dt} }  \\
+    \\
+   {\color{Yellow} \text{ Unit response is the doublett } \\
+    \\
+    \frac{ \mathrm{dx} }{ \mathrm{dt} } = x(t) * u_1(t) \\
+    \\
+\end{gather}
+```
+
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
