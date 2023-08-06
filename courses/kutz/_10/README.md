@@ -90,7 +90,7 @@
    \\
    {\color{Purple} \mathbf{ Constructting } u_1(t) } \\
     \\
-    \frac{ \mathrm{ d \delta_{\Delta} (t) } }{ \mathrm{dt} } = \frac{1}{\Delta} \bigg[ \delta(t) \bigg]  \\ 
+    \frac{ \mathrm{ d \delta_{\Delta} (t) } }{ \mathrm{dt} } = \frac{1}{\Delta} \big[ \delta(t) - \delta(t - \Delta) \big]  \\ 
     \\
 \end{gather}
 ```
