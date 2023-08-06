@@ -78,7 +78,7 @@
 ```math
 \begin{gather}
    \\
-   {\color{Purple} \biggg{ kth derivative response } } \\
+   {\color{Purple} \bigg{ kth derivative response } } \\
     \\
     \left.u_k(t) = u_1(t) * \dots + u_1(t)  \right|_{k \text{times}} \\ 
     \\
