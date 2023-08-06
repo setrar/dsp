@@ -80,7 +80,7 @@
    \\
    {\color{Purple} \biggg{ kth derivative response } } \\
     \\
-    \left u_k(t) = u_1(t) * \dots + u_1(t)  \right|_{k \text{times}} \\ 
+    \left.u_k(t) = u_1(t) * \dots + u_1(t)  \right|_{k \text{times}} \\ 
     \\
 \end{gather}
 ```
