@@ -116,6 +116,10 @@
     \\
     u(t) = \int_{-\infty}^{t} \delta(\tau) \mathrm{d \tau} \\ 
     \\
+   {\color{Cerulean} \text{ Integrate twice } } \\
+    \\
+    u_2 = u_{-1} * u_{-1} \\ 
+    \\
 \end{gather}
 ```
 
