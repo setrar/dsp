@@ -114,7 +114,7 @@
    \\
    {\color{Cerulean} \text{ Unit integrator! } } \\
     \\
-    u(t) = \int_{-infty}^{t} \Delta(\tau) \mathrm{dt} \\ 
+    u(t) = \int_{-\infty}^{t} \Delta(\tau) \mathrm{dt} \\ 
     \\
 \end{gather}
 ```
