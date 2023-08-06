@@ -90,7 +90,7 @@
    \\
    {\color{Purple} \mathbf{ Constructing } \space u_1(t) } \\
    \\
-   {\color{Cerulean} \text{ Unit derivator! } } \\
+   {\color{Cerulean} \text{ Unit differentiator! } } \\
     \\
     \frac{ \mathrm{ d \delta_{\Delta} (t) } }{ \mathrm{dt} } = \frac{1}{\Delta} \big[ \delta(t) - \delta(t - \Delta) \big]  \\ 
     \\
@@ -123,6 +123,9 @@
    {\color{Cerulean} \text{ Gives } } \\
     \\
     u_{-2} = tu(t) \\ 
+    \\
+    x(t) * u_{-2}(t) = x(t) * u(t) * u(t) \\
+    \quad = \big( \int_{-infty}^{t} x(\sigma) \mathrm{d \sigma} \big) * u(t)
     \\
 \end{gather}
 ```
