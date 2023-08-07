@@ -274,7 +274,7 @@
     \\
     x(t) = \sum_{k=-\infty}^{\infty} a_k e^{i k \omega_0 t} \\
     \\
-   {\color{Yellow} \text{ But then } x(t) = x^*(t) } \\
+   {\color{Yellow} \text{ But then } x(t) = x^*(t) \mathrm{ complex conjugate } } \\
    \\
 \end{gather}
 ```
