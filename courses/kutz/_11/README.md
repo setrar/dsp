@@ -18,7 +18,7 @@
    \\
    {\color{YellowGreen} \mathbf{ Fourrier \space series  } } \\
     \\
-   x(t) = \sum a_k \cos \omega_k + b_k \sin \omega_kt \\
+   x(t) = \sum a_k \cos \omega_k t + b_k \sin \omega_k t \\
     \\
 \end{gather}
 ```
