@@ -59,6 +59,10 @@
     \\
    y(t) = \int_{-\infty}^{\infty} h(\tau)e^{s(t - \tau)} \mathrm{d \tau} \\
     \\
+   {\color{Cerulean} \text{ Pull out time  } } \\
+    \\
+   y(t) = e^{st} \int_{-\infty}^{\infty} h(\tau)e^{st} \mathrm{d \tau} = H(s)e^{st} \\
+    \\
 \end{gather}
 ```
 
