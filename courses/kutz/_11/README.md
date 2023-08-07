@@ -76,7 +76,10 @@
     \\
    {\color{Cerulean} \text{ Operator  } \mathscr{L} } \\
     \\
-
+    y(t) = \mathscr{L} e^{st} \\
+    \\
+    y(t) = H(s) e^{st} \\
+    \\
 \end{gather}
 ```
 
