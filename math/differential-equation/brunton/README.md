@@ -57,6 +57,6 @@
    \\
    { \color{Purple} 5. \quad \mathbf{ DATA \space SCIENCE \space AND \space MACHINE \space LEARNING } } \\
    \\
-   { \color{NavyBlue} \Big( \mathsf{ SVD } \space \mathbf{ X } \space = \mathbf{ U \sum V^t }  \Big) }
+   { \color{NavyBlue} \Big( \mathsf{ SVD } \space \mathbf{ X } \space = \mathbf{ U \sum V^t } \text{ ,etc. }  \Big) }
 \end{gather}
 ```
