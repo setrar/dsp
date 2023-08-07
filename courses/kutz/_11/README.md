@@ -72,7 +72,7 @@
    {\color{YellowOrange} \mathbf{ LTI \space Eigenfunction  } } \\
     \\
     \\
-   y(t) = \mathscr{L} X(t) \\
+   y(t) = \mathscr{L} x(t) \\
     \\
    {\color{Cerulean} \text{ Operator  } \mathscr{L} } \\
     \\
