@@ -18,6 +18,7 @@
    \\
    {\color{YellowGreen} \mathbf{ Fourrier \space series  } } \\
     \\
+    \\
    X(t) = \sum a_k \cos \omega_k t + b_k \sin \omega_k t \\
     \\
    {\color{Yellow} \text{ Alternatively  } } \\
