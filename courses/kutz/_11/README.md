@@ -230,7 +230,7 @@
 ```
 
 ```math
-\begin{equation}
+\begin{gather}
    \\
    {\color{Cerulean} \mathbf{ Fourier \space series  } } \\
     \\
@@ -239,7 +239,21 @@
     \\
    {\color{Yellow} \text{ All exponentials have period T }  } \\
    \\
-\end{equation}
+\end{gather}
+```
+
+```math
+\begin{gather}
+   \\
+   {\color{Purple} \mathbf{ Example } } \\
+    \\
+    \\
+    x(t) = \sum_{k=-3}^{3} a_k e^{i 2\phi k t} \\
+    \\
+   {\color{Yellow} \text{ Coefficients }  } \\
+   \\
+   a_0 = 1, a_{\pm 1} = \frac{1}{4}, a_{\pm 2} = \frac{1}{2}, a_{\pm 3} = \frac{1}{3}
+\end{gather}
 ```
 
 
