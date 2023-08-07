@@ -2,7 +2,7 @@
 Linear algebra is the branch of mathematics concerning linear equations such as:
 
 ```math
- a_{1}x_{1}+\cdots +a_{n}x_{n}=b,}
+ a_1x_1 + \dots + a_nx_n = b
 ```
 linear maps such as:
 
