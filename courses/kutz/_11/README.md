@@ -256,7 +256,7 @@
    \\
    {\color{Green} \text{ Expansion }  } \\
    \\
-   x(t) = 1 + \frac{1}{4} ( e ^{j 2 \pi t} + e ^{- j 2 \pi t}) 
+   x(t) = 1 + \frac{1}{4} ( e ^{j 2 \pi t} + e ^{- j 2 \pi t}) + \frac{1}{2} ( e ^{j 4 \pi t} + e ^{- j 4 \pi t}) + \frac{1}{3} ( e ^{j 6 \pi t} + e ^{- j 6 \pi t})  
 
 \end{gather}
 ```
