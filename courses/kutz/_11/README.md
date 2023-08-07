@@ -125,5 +125,21 @@
 \end{gather}
 ```
 
+```math
+\begin{gather}
+   \\
+   {\color{YellowGreen} \mathbf{ LTI \space Eigenvalue \space Problem  } } \\
+    \\
+    \\
+   {\color{Yellow} \text{ Multiple signals } } \\
+   \\
+    x(t) = a_1e^{s_1t} \\
+    \\
+   {\color{Cerulean} \text{ Eigenfunctions: } z^n } \\
+   {\color{Cerulean} \text{ Eigenvalues: } H(s) } \\
+    \\
+\end{gather}
+```
+
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
