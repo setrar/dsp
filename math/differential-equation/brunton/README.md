@@ -6,11 +6,11 @@
 
 ## What's Next
 
-1. [COMPLEX ANALYSIS](complex_analysis)  Engineering Math: Crash Course in Complex Analysis
+1. [Complex Analysis](complex_analysis)  Engineering Math: Crash Course in Complex Analysis
 
 ```math
 \begin{gather}
-   { \color{Purple} \mathbf{ COMPLEX \space ANALYSIS} } \\
+   { \color{Purple} 1. \mathbf{ COMPLEX \space ANALYSIS} } \\
    \\
    { \color{Blue} ( x = x + iy ) } \\
 \end{gather}
