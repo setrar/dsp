@@ -12,8 +12,12 @@
 ( x = x + iy )
 ```
 
-3. [Vextor Calculus](vector_calculus) Engineering Math: Vector Calculus and Partial Differential Equations 
+2. [Vextor Calculus](vector_calculus) Engineering Math: Vector Calculus and Partial Differential Equations
 
-4. [Partial Differential Equation](vector_calculus) Engineering Math: Vector Calculus and Partial Differential Equations
+```math
+\Big( \frac{ \mathrm{ d }}{ \mathrm {dx} } \to \nabla = \Big[ \frac{\partial}{\partialx} 
+```
 
-5. [Fourier Analysis](fourier_analysis)  Fourier Analysis \[Data-Driven Science and Engineering\] 
+5. [Partial Differential Equation](vector_calculus) Engineering Math: Vector Calculus and Partial Differential Equations
+
+6. [Fourier Analysis](fourier_analysis)  Fourier Analysis \[Data-Driven Science and Engineering\] 
