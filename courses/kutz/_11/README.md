@@ -42,6 +42,8 @@
     \\
    z^n \to H(z)z^n \\
     \\
+   {\color{Cerulean} \text{ Exponentials are eigenfunctions of LTI  } } \\
+    \\
 \end{gather}
 ```
 
