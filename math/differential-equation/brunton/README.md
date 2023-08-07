@@ -42,7 +42,12 @@
 4. [Fourier Analysis](fourier_analysis)  Fourier Analysis \[Data-Driven Science and Engineering\]
 
 ```math
-{ \color{Blue} \Big( \mathscr{ F } \mathbf{ and } \mathscr{ L } \Big) }
+\begin{gather}
+   \\
+   { \color{Purple} 4. \quad \mathbf{ FOURIER \space ANALYSIS } } \\
+   \\
+   { \color{Blue} \Big( \mathscr{ F } \mathbf{ and } \mathscr{ L } \Big) }
+\end{gather}
 ```
 
 5. Data S
