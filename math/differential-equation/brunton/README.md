@@ -31,7 +31,13 @@
 3. [Partial Differential Equation](vector_calculus) Engineering Math: Vector Calculus and Partial Differential Equations
 
 ```math
-{ \color{Blue} \Big( \frac{ \mathrm{ \partial }}{ \mathrm { \partial t} } u = \frac{ \mathrm{ \partial ^ 2 }}{ \mathrm { \partial x^2 } } u \Big)  }
+```math
+\begin{gather}
+   \\
+   { \color{Purple} 3. \quad \mathbf{ PARTIAL \space DIFFERENTIAL \space EQUATIONS \ space (PDEs) } } \\
+   \\
+   { \color{NavyBlue} \Big( \frac{ \mathrm{ \partial }}{ \mathrm { \partial t} } u = \frac{ \mathrm{ \partial ^ 2 }}{ \mathrm { \partial x^2 } } u \Big)  }
+\end{gather}
 ```
 
 4. [Fourier Analysis](fourier_analysis)  Fourier Analysis \[Data-Driven Science and Engineering\]
