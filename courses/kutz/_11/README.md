@@ -266,7 +266,7 @@
 \end{gather}
 ```
 
-<img src=images/fourier-series-example.png width=40% height=40% > </img>
+<img src=images/fourier-series-example.png width=60% height=60% > </img>
 
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
