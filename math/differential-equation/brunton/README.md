@@ -15,17 +15,17 @@
 2. [Vextor Calculus](vector_calculus) Engineering Math: Vector Calculus and Partial Differential Equations
 
 ```math
-\Big( \frac{ \mathrm{ d }}{ \mathrm {dx} } \implies \nabla = \Big[ \frac{\partial}{\partial x} , \frac{\partial}{\partial y}, \frac{\partial}{\partial z} \Big] \Big)  
+{ \color{Blue} \Big( \frac{ \mathrm{ d }}{ \mathrm {dx} } \implies \nabla = \Big[ \frac{\partial}{\partial x} , \frac{\partial}{\partial y}, \frac{\partial}{\partial z} \Big] \Big)  }
 ```
 
 5. [Partial Differential Equation](vector_calculus) Engineering Math: Vector Calculus and Partial Differential Equations
 
 ```math
-\Big( \frac{ \mathrm{ \partial }}{ \mathrm { \partial t} } u = \frac{ \mathrm{ \partial ^ 2 }}{ \mathrm { \partial x^2 } } u \Big)  
+{ \color{Blue} \Big( \frac{ \mathrm{ \partial }}{ \mathrm { \partial t} } u = \frac{ \mathrm{ \partial ^ 2 }}{ \mathrm { \partial x^2 } } u \Big)  }
 ```
 
 6. [Fourier Analysis](fourier_analysis)  Fourier Analysis \[Data-Driven Science and Engineering\]
 
 ```math
-\Big( \mathscr{ F } \mathbf{ and } \mathscr{ L } \Big)
+{ \color{Blue} \Big( \mathscr{ F } \mathbf{ and } \mathscr{ L } \Big) }
 ```
