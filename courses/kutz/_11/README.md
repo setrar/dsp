@@ -276,6 +276,9 @@
     \\
    {\color{Yellow} \text{ But then } x(t) = x^*(t) \quad \mathit{ where \space x^* \space complex \space conjugate } } \\
    \\
+   x(t) = \sum_{k=-\infty}^{\infty} a_k e^{i k \omega_0 t} = \sum_{k=-\infty}^{\infty} a_{k}^{*} e^{-i k \omega_0 t} \\
+  \\
+  {\color{Cerulean} \text{ Then } a_{k}^{*} = a_{-k} }
 \end{gather}
 ```
 
