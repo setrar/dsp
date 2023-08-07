@@ -66,4 +66,18 @@
 \end{gather}
 ```
 
+```math
+\begin{gather}
+   \\
+   {\color{YellowOrange} \mathbf{ LTI \space Eigenfunction  } } \\
+    \\
+    \\
+   y(t) = \mathscr{L} X(t) \\
+    \\
+   {\color{Cerulean} \text{ Operator  } \mathscr{L} } \\
+    \\
+
+\end{gather}
+```
+
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
