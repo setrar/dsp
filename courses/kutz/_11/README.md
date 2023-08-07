@@ -292,16 +292,16 @@
     x(t) = \sum_{k=-\infty}^{\infty} a_k e^{i k \omega_0 t} \\
     \\
     x(t)e^{-in \omega_0 t} = \sum_{k=-\infty}^{\infty} a_k e^{i (k-n) \omega_0 t} \\
-    \\
-   {\color{Yellow} \text{ Integrate over } t \in [0,T] } \\
    \\
    {\color{Green} \text{ Note }  } \\
    \\
-   \int_{0}^{T} e^{i (k - n) \omega_0 t} \mathit{dt} = \\
+   \int_{0}^{T} e^{i (k - n) \omega_0 t} \mathit{dt} = 
    \begin{cases}
         T, & \quad k = n \\
         0, & \quad k \neq n \\
     \end{cases} \\
+    \\
+   {\color{Yellow} \text{ Integrate over } t \in [0,T] } \\
    \\
 \end{gather}
 ```
