@@ -143,7 +143,11 @@
     \\
     a_3e^{s_3t} \to a_3H(s_3)e^{S_3t} \\
     \\
-   {\color{Yellow} \text{ Output of linear superposition } } \\
+   {\color{Yellow} \text{ Input - linear superposition } } \\
+   \\
+    x(t) = a_1e^{s_1t} + a_2e^{s_2t} + a_3e^{s_3t} \\
+    \\
+   {\color{Yellow} \text{ Output  } } \\
    \\
    y(t) = a_1H(s_1)e^{S_1t} + a_2H(s_2)e^{S_2t} + a_3H(s_3)e^{S_3t}
 \end{gather}
