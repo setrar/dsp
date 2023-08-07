@@ -10,7 +10,7 @@
 
 ```math
 \begin{gather}
-   { \color{Purple} 1. \mathbf{ COMPLEX \space ANALYSIS} } \\
+   { \color{Purple} 1. \quad \mathbf{ COMPLEX \space ANALYSIS} } \\
    \\
    { \color{Blue} ( x = x + iy ) } \\
 \end{gather}
