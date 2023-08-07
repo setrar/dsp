@@ -15,7 +15,7 @@
 2. [Vextor Calculus](vector_calculus) Engineering Math: Vector Calculus and Partial Differential Equations
 
 ```math
-\Big( \frac{ \mathrm{ d }}{ \mathrm {dx} } \to \nabla = \Big[ \frac{\partial}{\partial x} , \frac{\partial}{\partial y}, \frac{\partial}{\partial z} \Big] \Big)  
+\Big( \frac{ \mathrm{ d }}{ \mathrm {dx} } \implies \nabla = \Big[ \frac{\partial}{\partial x} , \frac{\partial}{\partial y}, \frac{\partial}{\partial z} \Big] \Big)  
 ```
 
 5. [Partial Differential Equation](vector_calculus) Engineering Math: Vector Calculus and Partial Differential Equations
