@@ -216,5 +216,18 @@
 \end{gather}
 ```
 
+```math
+\begin{gather}
+   \\
+   {\color{Cerulean} \mathbf{ Fourier \space series  } } \\
+    \\
+    \\
+    x(t) = \sum_{k=-\infty}{\infty} a_k e^{i k \omega_0 t}\\
+    \\
+   {\color{Yellow} \text{ All exponentials have period T }  } \\
+   \\
+\end{gather}
+```
+
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
