@@ -30,8 +30,8 @@ The lectures are from the textbook Oppenheim, Willsky and Nawab, "Systems and Si
 | Lecture[(8)](8)    | LTI System Properties                  | :white_check_mark: | 
 | Lecture[(9)](9)    | LTI Differential Equations             | :white_check_mark: | 
 | Lecture[(10)](_10) | Singular Functions                     | :white_check_mark: | 
-| Lecture[(11)](_11)  | Fourier Series                        | :eight_pointed_black_star: | 
-| Lecture[(12)](12)  | Discrete Fourier Series                |
+| Lecture[(11)](_11)  | Fourier Series                        | :white_check_mark: | 
+| Lecture[(12)](12)  | Discrete Fourier Series                | :eight_pointed_black_star: | 
 | Lecture[(13)](13)  | Convergence of Fourier Series          |
 | Lecture[(14)](14)  | Fourier Series Expansion of Signal     |
 | Lecture[(15)](15)  | Input-Output with Fourier Series       |
