@@ -146,4 +146,22 @@
 \\
 \end{gather}
 ```
+
+```math
+\begin{gather}
+   \\
+   {\color{Purple} \mathbf{ Define  } } \\
+    \\
+    u_0 = \delta(t) \\ 
+    u_{-1} = u(t) \\ 
+    \\
+   {\color{Yellow} \mathbf{ Operations \space are \space inverses  } } \\
+    \\
+    u_{-1}(t) * u_1(t) = u_0(t)\\
+    u_k(t) * u_p(t) = u_{k+p}(t) \\
+    \\
+\end{gather}
+```
+
+
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
