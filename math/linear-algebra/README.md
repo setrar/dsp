@@ -1,7 +1,7 @@
 [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
 
 
-Linear algebra is the branch of mathematics concerning linear equations such as:
+Linear algebra is the branch of mathematics concerning [linear equations](https://en.wikipedia.org/wiki/Linear_equation) such as:
 
 ```math
  a_1x_1 + \dots + a_nx_n = b
