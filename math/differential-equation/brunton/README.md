@@ -26,6 +26,6 @@
 
 6. [Fourier Analysis](fourier_analysis)  Fourier Analysis \[Data-Driven Science and Engineering\]
 
-```Math
+```math
 \Big( \mathscr{ F } \mathbf{ and } \mathscr{ L } \Big)
 ```
