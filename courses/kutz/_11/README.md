@@ -195,9 +195,9 @@
     \\
    {\color{Yellow} \text{ Sinusoids and imaginary exponentials } } \\
    \\
-   x(t) = \cos( \omega_0t ) \\
+   x(t) = \cos{ \omega_0 t } \\
    \\
-   x(t) = e^{i\omega_0t} \\
+   x(t) = e^{i \omega_0 t} \\
     \\
    {\color{Purple} \text{ Fundamental period } T = \frac{2\pi}{\omega_0} \\
 \end{gather}
