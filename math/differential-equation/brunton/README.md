@@ -20,4 +20,8 @@
 
 5. [Partial Differential Equation](vector_calculus) Engineering Math: Vector Calculus and Partial Differential Equations
 
+```math
+\Big( \frac{ \mathrm{ \partial }}{ \mathrm { \partial t} } u = \frac{ \mathrm{ \partial ^ 2 }}{ \mathrm { \partial ^2 t} } u \Big)  
+```
+
 6. [Fourier Analysis](fourier_analysis)  Fourier Analysis \[Data-Driven Science and Engineering\] 
