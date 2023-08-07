@@ -2,7 +2,7 @@
 
 ## Multivariable calculus
 
-[Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus)
+[Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus) By [:tv: 3Blue1Brown](https://www.youtube.com/@3blue1brown) on Khan Academy
 
 ## [Linear Algebra](linear-algebra)
 
