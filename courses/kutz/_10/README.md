@@ -133,4 +133,17 @@
 \end{gather}
 ```
 
+```math
+\begin{gather}
+   \\
+   {\color{Purple} \mathbf{ kth \space derivative \space response  } } \\
+    \\
+    \left.u_k(t) = u_1(t) * \dots + u_1(t)  \right|_{k \text{ times } } \\ 
+    \\
+   {\color{Purple} \mathbf{ kth \space integral \space response  } } \\
+    \\
+\left.u_k(t) = u(t) * \dots + u(t)  \right|_{k \text{ times } } = \int_{-\infty}^{t} u_{-(k-1)}(\tau) \mathrm{d \tau} \\
+\\
+\end{gather}
+```
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
