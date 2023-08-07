@@ -9,11 +9,11 @@
 1. [COMPLEX ANALYSIS](complex_analysis)  Engineering Math: Crash Course in Complex Analysis
 
 ```math
-\begin{layer}
+\begin{gather}
    { \color{Purple} \mathbf{ COMPLEX \space ANALYSIS} } \\
    \\
    { \color{Blue} ( x = x + iy ) } \\
-\end{layer}
+\end{gather}
 ```
 
 2. [Vextor Calculus](vector_calculus) Engineering Math: Vector Calculus and Partial Differential Equations
