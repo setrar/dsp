@@ -297,11 +297,11 @@
    \\
    {\color{Green} \text{ Note }  } \\
    \\
-   \begin{case}
-       \int_{0}^{T} e^{i (k - n) \omega_0 t} \mathit{dt} = \\
+   \int_{0}^{T} e^{i (k - n) \omega_0 t} \mathit{dt} = \\
+   \begin{cases}
         T, & \quad k = n \\
         0, & \quad k \neq n \\
-    \end{case} \\
+    \end{cases} \\
    \\
 \end{gather}
 ```
