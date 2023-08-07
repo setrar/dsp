@@ -125,8 +125,8 @@
     u_{-2} = tu(t) \\ 
     \\
     x(t) * u_{-2}(t) = x(t) * u(t) * u(t) \\
-    \qqquad \qquad \qquad = \Big( \int_{-\infty}^{t} x(\sigma) \mathrm{d \sigma} \Big) * u(t) \\
-    \quad \quad \quad = \int_{-\infty}^{t} \Big( \int_{-\infty}^{\tau} x(\sigma) \mathrm{d \sigma} \Big)  \mathrm{d \tau} \\
+    \qquad \qquad \qquad \qquad = \Big( \int_{-\infty}^{t} x(\sigma) \mathrm{d \sigma} \Big) * u(t) \\
+    \qquad \qquad \qquad \qquad = \int_{-\infty}^{t} \Big( \int_{-\infty}^{\tau} x(\sigma) \mathrm{d \sigma} \Big)  \mathrm{d \tau} \\
     \\
 \end{gather}
 ```
