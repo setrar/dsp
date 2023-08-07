@@ -26,4 +26,23 @@
     \\
 \end{gather}
 ```
+
+```math
+\begin{gather}
+   \\
+   {\color{Purple} \mathbf{ Fourrier \space and \space LTI  } } \\
+    \\
+    \\
+   {\color{Yellow} \text{ Continuous  } } \\
+    \\
+   e^{st} \to H(s)e^{st} \\
+    \\
+   {\color{Yellow} \text{ Discrete  } } \\
+    \\
+   z^n \to H(z)z^n \\
+    \\
+\end{gather}
+```
+
+
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
