@@ -50,4 +50,13 @@
 \end{gather}
 ```
 
-5. Data S
+5. [Data Science and Machine Learning]
+
+```math
+\begin{gather}
+   \\
+   { \color{Purple} 5. \quad \mathbf{ DATA \space SCIENCE \space AND \space MACHINE \space LEARNING } } \\
+   \\
+   { \color{NavyBlue} \Big( \mathscr{ SVD } \space \mathbf{ and } \space \mathscr{ L } \Big) }
+\end{gather}
+```
