@@ -128,7 +128,7 @@
     \qquad \qquad \qquad \qquad = \Big( \int_{-\infty}^{t} x(\sigma) \mathrm{d \sigma} \Big) * u(t) \\
     \qquad \qquad \qquad \qquad = \int_{-\infty}^{t} \Big( \int_{-\infty}^{\tau} x(\sigma) \mathrm{d \sigma} \Big)  \mathrm{d \tau} \\
     \\
-\left.u_k(t) = u(t) * \dots + u(t)  \right|_{k \text{ times } } \int_{-\infty}^{t} u_{-(k-1)}(\tau) \mathrm{d \tau} \\
+\left.u_k(t) = u(t) * \dots + u(t)  \right|_{k \text{ times } } = \int_{-\infty}^{t} u_{-(k-1)}(\tau) \mathrm{d \tau} \\
 \\
 \end{gather}
 ```
