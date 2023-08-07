@@ -50,7 +50,7 @@
 \end{gather}
 ```
 
-5. [Data Science and Machine Learning]
+5. [Singular Value Decomposition](svd) Singular Value Decomposition \[Data-Driven Science and Engineering\]
 
 ```math
 \begin{gather}
