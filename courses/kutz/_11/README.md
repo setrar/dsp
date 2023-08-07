@@ -199,7 +199,7 @@
    \\
    x(t) = e^{i \omega_0 t} \\
     \\
-   {\color{Purple} \text{ Fundamental period } T = \frac{2\pi}{\omega_0} \\
+   {\color{Purple} \text{ Fundamental period } T = \frac{2\pi}{\omega_0} } \\
 \end{gather}
 ```
 
