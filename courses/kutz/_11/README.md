@@ -10,7 +10,7 @@
 \end{gather}
 ```
 
-<img src=https://upload.wikimedia.org/wikipedia/commons/d/df/Fourier2_-_restoration1.jpg width=50% height=50% > </img>
+<img src=https://upload.wikimedia.org/wikipedia/commons/d/df/Fourier2_-_restoration1.jpg width=30% height=30% > </img>
 
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
