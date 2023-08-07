@@ -18,11 +18,11 @@
    \\
    {\color{YellowGreen} \mathbf{ Fourrier \space series  } } \\
     \\
-   x(t) = \sum a_k \cos \omega_k t + b_k \sin \omega_k t \\
+   X(t) = \sum a_k \cos \omega_k t + b_k \sin \omega_k t \\
     \\
-   {\color{YellowGreen} \text{ Alternatively  } } \\
+   {\color{Yellow} \text{ Alternatively  } } \\
     \\
-    x(t) = \sum c_k e^{i \omega_k t} \\
+    X(t) = \sum c_k e^{i \omega_k t} \\
     \\
 \end{gather}
 ```
