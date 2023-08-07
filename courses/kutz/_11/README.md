@@ -156,7 +156,7 @@
 ```math
 \begin{gather}
    \\
-   {\color{YellowGreen} \mathbf{ LTI \space General \space solution  } } \\
+   {\color{YellowGreen} \mathbf{ General \space solution: \space Continuous  } } \\
     \\
     \\
    {\color{Yellow} \text{ Input } } \\
@@ -166,6 +166,22 @@
    {\color{Yellow} \text{ Output  } } \\
    \\
    y(t) = \sum_{k} a_kH(s_k)e^{S_kt}
+\end{gather}
+```
+
+```math
+\begin{gather}
+   \\
+   {\color{YellowGreen} \mathbf{ General \space solution: \space Discrete  } } \\
+    \\
+    \\
+   {\color{Yellow} \text{ Input } } \\
+   \\
+    x[n] = \sum_{k} a_kz_k^n \\
+    \\
+   {\color{Yellow} \text{ Output  } } \\
+   \\
+   y[n] = \sum_{k} a_kH(z_k)z_k^n
 \end{gather}
 ```
 
