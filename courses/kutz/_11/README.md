@@ -11,7 +11,7 @@
 ```
 |  March 21, 1768 - May 16, 1830 |
 |-|
-| <img src=https://upload.wikimedia.org/wikipedia/commons/d/df/Fourier2_-_restoration1.jpg width=30% height=30% > </img> |
+| <img src=https://upload.wikimedia.org/wikipedia/commons/d/df/Fourier2_-_restoration1.jpg width='' height='' > </img> |
 
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
