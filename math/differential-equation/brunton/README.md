@@ -57,6 +57,6 @@
    \\
    { \color{Purple} 5. \quad \mathbf{ DATA \space SCIENCE \space AND \space MACHINE \space LEARNING } } \\
    \\
-   { \color{NavyBlue} \Big( \mathscr{ SVD } \space \mathbf{ and } \space \mathscr{ L } \Big) }
+   { \color{NavyBlue} \Big( \mathsf{ SVD } \space \mathbf{ and } \space \mathscr{ L } \Big) }
 \end{gather}
 ```
