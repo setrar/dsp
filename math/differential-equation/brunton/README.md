@@ -31,7 +31,6 @@
 3. [Partial Differential Equation](vector_calculus) Engineering Math: Vector Calculus and Partial Differential Equations
 
 ```math
-```math
 \begin{gather}
    \\
    { \color{Purple} 3. \quad \mathbf{ PARTIAL \space DIFFERENTIAL \space EQUATIONS \ space (PDEs) } } \\
