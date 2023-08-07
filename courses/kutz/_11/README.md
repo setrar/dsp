@@ -13,5 +13,13 @@
 |-|
 | <img src=images/fourrier.jpeg width='' height='' > </img> |
 
-
+```math
+\begin{gather}
+   \\
+   {\color{YellowGreen} \mathbf{ Fourrier \space series  } } \\
+    \\
+   x(t) = \sum a_k \cos \omega_k + b_k \sin \omega_kt \\
+    \\
+\end{gather}
+```
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
