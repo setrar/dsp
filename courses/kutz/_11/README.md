@@ -3,7 +3,7 @@
 ```math
 \begin{gather}
    \\
-   {\color{SaeGreen} \mathbf{ Fourrier \space series  } } \\
+   {\color{SeaGreen} \mathbf{ Fourrier \space series  } } \\
     \\
    {\color{YellowOrange} \mathbf{ Signal \space Representation  } } \\
     \\
