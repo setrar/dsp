@@ -47,5 +47,19 @@
 \end{gather}
 ```
 
+```math
+\begin{gather}
+   \\
+   {\color{YellowOrange} \mathbf{ LTI \space System  } } \\
+    \\
+    \\
+   y(t) = \int_{-\infty}^{\infty} h(\tau)x(t - \tau) \mathrm{d \tau} \\
+    \\
+   {\color{Cerulean} \text{ Exponentials  } } \\
+    \\
+   y(t) = \int_{-\infty}^{\infty} h(\tau)e^{s(t - \tau)} \mathrm{d \tau} \\
+    \\
+\end{gather}
+```
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
