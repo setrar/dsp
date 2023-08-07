@@ -10,6 +10,7 @@
 
 ```math
 \begin{gather}
+   \\
    { \color{Purple} 1. \quad \mathbf{ COMPLEX \space ANALYSIS} } \\
    \\
    { \color{NavyBlue} ( x = x + iy ) } \\
@@ -19,7 +20,12 @@
 2. [Vextor Calculus](vector_calculus) Engineering Math: Vector Calculus and Partial Differential Equations
 
 ```math
-{ \color{Blue} \Big( \frac{ \mathrm{ d }}{ \mathrm {dx} } \implies \nabla = \Big[ \frac{\partial}{\partial x} , \frac{\partial}{\partial y}, \frac{\partial}{\partial z} \Big] \Big)  }
+\begin{gather}
+   \\
+   { \color{Purple} 2. \quad \mathbf{ VECTOR \space CALCULUS} } \\
+   \\
+{ \color{NavyBlue} \Big( \frac{ \mathrm{ d }}{ \mathrm {dx} } \implies \nabla = \Big[ \frac{\partial}{\partial x} , \frac{\partial}{\partial y}, \frac{\partial}{\partial z} \Big] \Big)  } \\
+\end{gather}
 ```
 
 3. [Partial Differential Equation](vector_calculus) Engineering Math: Vector Calculus and Partial Differential Equations
