@@ -105,7 +105,8 @@
    \to \quad y[n] = z^n \sum_{k=-\infty}^{\infty} h[k]z^{ - k} \\
     \\ 
    {\color{Cerulean} \text{ Simplify  } } \\
-    y[n] = H(z)z^n
+    \\
+    y[n] = H(z)z^n \\
     \\
 \end{gather}
 ```
