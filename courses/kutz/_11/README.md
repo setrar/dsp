@@ -252,7 +252,12 @@
     \\
    {\color{Yellow} \text{ Coefficients }  } \\
    \\
-   a_0 = 1, a_{\pm 1} = \frac{1}{4}, a_{\pm 2} = \frac{1}{2}, a_{\pm 3} = \frac{1}{3}
+   a_0 = 1, a_{\pm 1} = \frac{1}{4}, a_{\pm 2} = \frac{1}{2}, a_{\pm 3} = \frac{1}{3} \\
+   \\
+   {\color{Green} \text{ Expansion }  } \\
+   \\
+   x(t) = 1 + \frac{1}{4} ( e ^{j 2 \pi t} + e ^{- j 2 \pi t}) 
+
 \end{gather}
 ```
 
