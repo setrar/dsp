@@ -13,7 +13,7 @@
 
 ```
 
-[Linear Algebra <3 Differential Equation](https://youtu.be/Vtijyyo5fKI?t=867)
+[Linear Algebra :anatomical_heart: Differential Equation](https://youtu.be/Vtijyyo5fKI?t=867)
 
 ## Differential Equation
 
