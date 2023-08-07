@@ -276,6 +276,7 @@
     \\
    {\color{Yellow} \text{ But then } x(t) = x^*(t) } \\
    \\
-
+\end{gather}
+```
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
