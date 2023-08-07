@@ -1,4 +1,4 @@
-[Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
+:abacus: [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
 
 
 Linear algebra is the branch of mathematics concerning [linear equations](https://en.wikipedia.org/wiki/Linear_equation) such as:
