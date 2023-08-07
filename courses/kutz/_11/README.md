@@ -50,7 +50,7 @@
 ```math
 \begin{gather}
    \\
-   {\color{YellowOrange} \mathbf{ LTI \space System  } } \\
+   {\color{YellowOrange} \mathbf{ LTI \space System: \space Continuous } } \\
     \\
     \\
    y(t) = \int_{-\infty}^{\infty} h(\tau)x(t - \tau) \mathrm{d \tau} \\
@@ -69,7 +69,7 @@
 ```math
 \begin{gather}
    \\
-   {\color{YellowOrange} \mathbf{ LTI \space Eigenfunction  } } \\
+   {\color{YellowOrange} \mathbf{ LTI \space Eigenfunction: \space Continuous  } } \\
     \\
     \\
    y(t) = \mathscr{L} x(t) \\
