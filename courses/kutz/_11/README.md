@@ -153,5 +153,21 @@
 \end{gather}
 ```
 
+```math
+\begin{gather}
+   \\
+   {\color{YellowGreen} \mathbf{ LTI \space General \space solution  } } \\
+    \\
+    \\
+   {\color{Yellow} \text{ Input } } \\
+   \\
+    x(t) = \sum_{k} a_ke^{s_kt} \\
+    \\
+   {\color{Yellow} \text{ Output  } } \\
+   \\
+   y(t) = \sum_{k} a_kH(s_k)e^{S_kt}
+\end{gather}
+```
+
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
