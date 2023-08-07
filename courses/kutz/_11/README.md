@@ -293,7 +293,7 @@
     \\
     x(t)e^{-in \omega_0 t} = \sum_{k=-\infty}^{\infty} a_k e^{i (k-n) \omega_0 t} \\
    \\
-   {\color{Green} \text{ Note }  } \\
+   {\color{Purple} \text{ Note }  } \\
    \\
    \int_{0}^{T} e^{i (k - n) \omega_0 t} \mathit{dt} = 
    \begin{cases}
