@@ -305,6 +305,7 @@
     \\
    {\color{Yellow} \text{ Integrate over } t \in [0,T] } \\
    \\
+   a_n = \frac{1}{T} \int_{0}^{T} x(t) e^{-in \omega_0 t} \mathit{dt}
 \end{gather}
 ```
 
