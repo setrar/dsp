@@ -278,14 +278,15 @@
    \\
    x(t) = \sum_{k=-\infty}^{\infty} a_k e^{i k \omega_0 t} = \sum_{k=-\infty}^{\infty} a_{k}^{*} e^{-i k \omega_0 t} \\
   \\
-  {\color{Cerulean} \text{ Then } a_{k}^{*} = a_{-k} }
+  {\color{Cerulean} \text{ Then } a_{k}^{*} = a_{-k} } \\
+  \\
 \end{gather}
 ```
 
 ```math
 \begin{gather}
    \\
-   {\color{Purple} \mathbf{ How \space to \space determin \space coefficients } } \\
+   {\color{Purple} \mathbf{ How \space to \space determine \space coefficients } } \\
     \\
     \\
     x(t) = \sum_{k=-\infty}^{\infty} a_k e^{i k \omega_0 t} \\
@@ -293,6 +294,14 @@
     x(t)e^{-in \omega_0 t} = \sum_{k=-\infty}^{\infty} a_k e^{i (k-n) \omega_0 t} \\
     \\
    {\color{Yellow} \text{ Integrate over } t \in [0,T] } \\
+   \\
+   {\color{Green} \text{ Note }  } \\
+   \\
+   \begin{case}
+       \int_{0}^{T} e^{i (k - n) \omega_0 t} \mathit{dt} = \\
+        T, & \quad k = n \\
+        0, & \quad k \neq n \\
+    \end{case} \\
    \\
 \end{gather}
 ```
