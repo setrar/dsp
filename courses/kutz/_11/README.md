@@ -282,4 +282,19 @@
 \end{gather}
 ```
 
+```math
+\begin{gather}
+   \\
+   {\color{Purple} \mathbf{ How \space to \space determin \space coefficients } } \\
+    \\
+    \\
+    x(t) = \sum_{k=-\infty}^{\infty} a_k e^{i k \omega_0 t} \\
+    \\
+    x(t)e^{-in \omega_0 t} = \sum_{k=-\infty}^{\infty} a_k e^{i (k-n) \omega_0 t} \\
+    \\
+   {\color{Yellow} \text{ Integrate over } t \in [0,T] } \\
+   \\
+\end{gather}
+```
+
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
