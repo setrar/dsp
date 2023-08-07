@@ -80,7 +80,6 @@
     \\
     y(t) = H(s) e^{st} \\
     \\
-    \\
     \mathscr{L} e^{st} = H(s) e^{st} \\
     \\
    {\color{Cerulean} \text{ Eigenfunctions: } e^{st} } \\
