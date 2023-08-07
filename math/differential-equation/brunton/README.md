@@ -12,7 +12,7 @@
 \begin{gather}
    { \color{Purple} 1. \quad \mathbf{ COMPLEX \space ANALYSIS} } \\
    \\
-   { \color{RoyalBlue} ( x = x + iy ) } \\
+   { \color{NavyBlue} ( x = x + iy ) } \\
 \end{gather}
 ```
 
