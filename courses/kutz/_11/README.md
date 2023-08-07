@@ -102,6 +102,8 @@
     \\
    y[n] = \sum_{k=-\infty}^{\infty} h[k]z^{n - k} = z^n \sum_{k=-\infty}^{\infty} h[k]z^{ - k} \\
     \\ 
+   y[n] = z^n \sum_{k=-\infty}^{\infty} h[k]z^{ - k} \\
+    \\ 
    {\color{Cerulean} \text{ Simplify  } } \\
     y[n] = H(z)z^n
     \\
