@@ -203,5 +203,18 @@
 \end{gather}
 ```
 
+```math
+\begin{gather}
+   \\
+   {\color{Cerulean} \mathbf{ Harmonics  } } \\
+    \\
+    \\
+    \Phy_k(t) = e^{i k \omega_0 t} = e^{i k (\frac{2\pi}{T}) t}\\
+    \\
+   {\color{Yellow} \text{ Where } k = 0, \pm 1, \pm 2, \dots } \\
+   \\
+\end{gather}
+```
+
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
