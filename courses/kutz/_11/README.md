@@ -111,4 +111,19 @@
 \end{gather}
 ```
 
+```math
+\begin{gather}
+   \\
+   {\color{YellowOrange} \mathbf{ LTI \space Eigenfunction: \space Discrete  } } \\
+    \\
+    \\
+    \mathscr{L} z^n = H(s) z^n \\
+    \\
+   {\color{Cerulean} \text{ Eigenfunctions: } z^n } \\
+   {\color{Cerulean} \text{ Eigenvalues: } H(s) } \\
+    \\
+\end{gather}
+```
+
+
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
