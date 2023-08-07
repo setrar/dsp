@@ -266,5 +266,7 @@
 \end{gather}
 ```
 
+<img src=images/fourier-series-example.png width='' height='' > </img>
+
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
