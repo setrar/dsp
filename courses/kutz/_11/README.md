@@ -261,12 +261,21 @@
    {\color{Green} \text{ Real Expression }  } \\
    \\
    x(t) = 1 + \frac{1}{2} \cos{ 2 \pi t } + \cos{ 4 \pi t } + \frac{2}{3} \cos{ 6 \pi t }  \\
-
-
 \end{gather}
 ```
 
 <img src=images/fourier-series-example.png width=60% height=60% > </img>
+
+```math
+\begin{gather}
+   \\
+   {\color{Purple} \mathbf{ Real \space Signals } } \\
+    \\
+    \\
+    x(t) = \sum_{k=-\infty}^{\infty} a_k e^{i k \omega_0 t} \\
+    \\
+   {\color{Yellow} \text{ But then } x(t) = x^*(t) } \\
+   \\
 
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
