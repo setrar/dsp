@@ -88,4 +88,24 @@
 \end{gather}
 ```
 
+```math
+\begin{gather}
+   \\
+   {\color{YellowOrange} \mathbf{ LTI \space System: \space Discrete  } } \\
+    \\
+    \\
+   x[n] = z^n \\
+    \\
+   {\color{Cerulean} \text{ Output response  } } \\
+    \\
+   y[n] = \sum_{k=-\infty}^{\infty} h[k]x[n - k] \\
+    \\
+   y[n] = \sum_{k=-\infty}^{\infty} h[k]z^{n - k} = z^n \sum_{k=-\infty}^{\infty} h[k]z^{ - k} \\
+    \\ 
+   {\color{Cerulean} \text{ Simplify  } } \\
+    y[n] = H(z)z^n
+    \\
+\end{gather}
+```
+
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
