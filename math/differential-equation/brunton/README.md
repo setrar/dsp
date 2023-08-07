@@ -9,7 +9,7 @@
 1. [Complex_Analysis](complex_analysis)  Engineering Math: Crash Course in Complex Analysis
 
 ```math
-( x = x + iy )
+{ \color{Blue} ( x = x + iy ) }
 ```
 
 2. [Vextor Calculus](vector_calculus) Engineering Math: Vector Calculus and Partial Differential Equations
