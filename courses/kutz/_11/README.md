@@ -133,10 +133,13 @@
     \\
    {\color{Yellow} \text{ Multiple signals } } \\
    \\
-    x(t) = a_1e^{s_1t} \\
+    x(t) = a_1e^{s_1t} + a_2e^{s_2t} + a_3e^{s_3t} \\
     \\
-   {\color{Cerulean} \text{ Eigenfunctions: } z^n } \\
-   {\color{Cerulean} \text{ Eigenvalues: } H(s) } \\
+   {\color{Yellow} \text{ Input-Output } } \\
+   \\
+    a_1e^{s_1t} \to a_1H(s_1)e^{S_1t} \\
+    a_2e^{s_2t} \to a_2H(s_2)e^{S_2t} \\
+    a_3e^{s_3t} \to a_3H(s_3)e^{S_3t} \\
     \\
 \end{gather}
 ```
