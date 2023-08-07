@@ -248,7 +248,7 @@
    {\color{Purple} \mathbf{ Example } } \\
     \\
     \\
-    x(t) = \sum_{k=-3}^{3} a_k e^{i 2\phi k t} \\
+    x(t) = \sum_{k=-3}^{3} a_k e^{i k \omega_0 t} \\
     \\
    {\color{Yellow} \text{ Coefficients }  } \\
    \\
