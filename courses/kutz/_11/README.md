@@ -185,5 +185,23 @@
 \end{gather}
 ```
 
+```math
+\begin{gather}
+   \\
+   {\color{Cerulean} \mathbf{ Fourier \space and \space Periodicity  } } \\
+    \\
+    \\
+    x(t) = x(t + T) \\
+    \\
+   {\color{Yellow} \text{ Sinusoids and imaginary exponentials } } \\
+   \\
+   x(t) = \cos( \omega_0t ) \\
+   \\
+   x(t) = e^{i\omega_0t} \\
+    \\
+   {\color{Purple} \text{ Fundamental period } T = \frac{2\pi}{\omega_0} \\
+\end{gather}
+```
+
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
