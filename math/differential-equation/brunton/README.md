@@ -24,4 +24,8 @@
 \Big( \frac{ \mathrm{ \partial }}{ \mathrm { \partial t} } u = \frac{ \mathrm{ \partial ^ 2 }}{ \mathrm { \partial x^2 } } u \Big)  
 ```
 
-6. [Fourier Analysis](fourier_analysis)  Fourier Analysis \[Data-Driven Science and Engineering\] 
+6. [Fourier Analysis](fourier_analysis)  Fourier Analysis \[Data-Driven Science and Engineering\]
+
+```Math
+\Big( \mathscr{ F } \mathbf{ and } \mathscr{ L } \Big)
+```
