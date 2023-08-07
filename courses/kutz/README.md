@@ -55,6 +55,7 @@ The lectures are from the textbook Oppenheim, Willsky and Nawab, "Systems and Si
 - [ ] [Writing mathematical expressions](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
 - [ ] [LaTeX/Mathematics](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
 - [ ] [Math support in Markdown](https://github.blog/2022-05-19-math-support-in-markdown/)
+- [ ] [LaTeX/Colors](https://en.wikibooks.org/wiki/LaTeX/Colors)
 - [ ] [mermaid.live](https://mermaid.live/)
 - [ ] [9724. Mermaid Cheat Sheet](https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/)
 
