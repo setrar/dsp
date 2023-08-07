@@ -165,5 +165,15 @@
 \end{gather}
 ```
 
+```math
+\begin{gather}
+   \\
+   {\color{YellowGreen} \mathbf{ Distributing \space Theory  } } \\
+    \\
+   {\color{YellowOrange} \mathbf{ Singular \space Functions  } } \\
+    \\
+\end{gather}
+```
+
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
