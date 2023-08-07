@@ -46,7 +46,7 @@
    \\
    { \color{Purple} 4. \quad \mathbf{ FOURIER \space ANALYSIS } } \\
    \\
-   { \color{Blue} \Big( \mathscr{ F } \mathbf{ and } \mathscr{ L } \Big) }
+   { \color{NavyBlue} \Big( \mathscr{ F } \mathbf{ and } \mathscr{ L } \Big) }
 \end{gather}
 ```
 
