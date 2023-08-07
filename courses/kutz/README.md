@@ -29,7 +29,7 @@ The lectures are from the textbook Oppenheim, Willsky and Nawab, "Systems and Si
 | Lecture[(7)](7)    | Continuous LTI Systems                 | :white_check_mark: | 
 | Lecture[(8)](8)    | LTI System Properties                  | :white_check_mark: | 
 | Lecture[(9)](9)    | LTI Differential Equations             | :white_check_mark: | 
-| Lecture[(10)](_10) | Singular Functions                     | :eight_pointed_black_star: | 
+| Lecture[(10)](_10) | Singular Functions                     | :white_check_mark: | 
 | Lecture[(11)](11)  | Fourier Series                         |
 | Lecture[(12)](12)  | Discrete Fourier Series                |
 | Lecture[(13)](13)  | Convergence of Fourier Series          |
