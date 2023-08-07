@@ -3,7 +3,7 @@
 ```math
 \begin{gather}
    \\
-   {\color{YellowGreen} \mathbf{ Fourrier \space series  } } \\
+   {\color{YellowGreen} \mathbf{ Fourier \space series  } } \\
     \\
    {\color{YellowOrange} \mathbf{ Signal \space Representation  } } \\
     \\
@@ -11,12 +11,12 @@
 ```
 |  March 21, 1768 - May 16, 1830 |
 |-|
-| <img src=images/fourrier.jpeg width='' height='' > </img> |
+| <img src=images/fourier.jpeg width='' height='' > </img> |
 
 ```math
 \begin{gather}
    \\
-   {\color{YellowGreen} \mathbf{ Fourrier \space series  } } \\
+   {\color{YellowGreen} \mathbf{ Fourier \space series  } } \\
     \\
     \\
    x(t) = \sum a_k \cos \omega_k t + b_k \sin \omega_k t \\
@@ -31,7 +31,7 @@
 ```math
 \begin{gather}
    \\
-   {\color{Purple} \mathbf{ Fourrier \space and \space LTI  } } \\
+   {\color{Purple} \mathbf{ Fourier \space and \space LTI  } } \\
     \\
     \\
    {\color{Yellow} \text{ Continuous  } } \\
