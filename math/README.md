@@ -6,6 +6,15 @@
 
 ## [Linear Algebra](linear-algebra)
 
+[Matrix Systems of Differential Equations](https://youtu.be/Vtijyyo5fKI)
+
+```math
+\underline{ \dot{x} } = \underline{ A } \underline{ x }
+
+```
+
+[Linear Algebra <3 Differential Equation](https://youtu.be/Vtijyyo5fKI?t=867)
+
 ## Differential Equation
 
 [An overview of differential equations.](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6) by [:tv: @3Blue1Brown](https://www.youtube.com/@3blue1brown)
