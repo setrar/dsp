@@ -293,7 +293,7 @@
     \\
     x(t)e^{-in \omega_0 t} = \sum_{k=-\infty}^{\infty} a_k e^{i (k-n) \omega_0 t} \\
    \\
-   {\color{Purple} \text{ Note: Orthogonality Condition }  } \\
+   {\color{Purple} \text{ Note: } \color{Green} \text{Orthogonality Condition }  } \\
    \\
    \int_{0}^{T} e^{i (k - n) \omega_0 t} \mathit{dt} = 
    \begin{cases}
