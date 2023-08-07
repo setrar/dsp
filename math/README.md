@@ -6,14 +6,14 @@
 
 ## [Linear Algebra](linear-algebra)
 
-[Matrix Systems of Differential Equations](https://youtu.be/Vtijyyo5fKI)
+[Matrix Systems of Differential Equations](https://youtu.be/Vtijyyo5fKI)  by [Steve Brunton](https://www.youtube.com/@Eigensteve)
 
 ```math
 \underline{ \dot{x} } = \underline{ A } \underline{ x }
 
 ```
 
-[Linear Algebra :anatomical_heart: Differential Equation](https://youtu.be/Vtijyyo5fKI?t=867)
+[Linear Algebra :anatomical_heart: Differential Equation](https://youtu.be/Vtijyyo5fKI?t=867)  by [Steve Brunton](https://www.youtube.com/@Eigensteve)
 
 ## Differential Equation
 
