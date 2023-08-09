@@ -58,5 +58,15 @@
 \end{gather}
 ```
 
+```math
+\begin{gather}
+   {\color{Purple} \mathbf{ Properties \space of \space Fourier \space series } } \\
+    \\
+    \\
+    x(t) \iff a_k
+   \\ 
+\end{gather}
+```
+
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
