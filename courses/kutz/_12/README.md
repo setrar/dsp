@@ -51,7 +51,7 @@
    {\color{Green} \mathbf{ Other \space Conditions } } \\
     \\
     \\
-   {\color{Cerulean} \text{ Signal x(t) is sof bounded variation } } \\
+   {\color{Cerulean} \text{ Signal x(t) is of bounded variation } } \\
    \\
    {\color{Cerulean} \text{ Only finite number of discontinuities } } \\
    \\ 
