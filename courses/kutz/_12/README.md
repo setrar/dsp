@@ -10,7 +10,8 @@
     x(t) = \sum_{k=-\infty}^{\infty} a_k e^{i k \omega_0 t} \\
     \\
     \\
-   a_n = \frac{1}{T} \int_{0}^{T} x(t) e^{-in \omega_0 t} \mathit{dt}
+   a_n = \frac{1}{T} \int_{0}^{T} x(t) e^{-in \omega_0 t} \mathit{dt} \\
+    \\
 \end{gather}
 ```
 
@@ -24,6 +25,7 @@
     \\
    {\color{Yellow} \text{ Finite energy over one period } } \\
    {\color{Yellow} \text{ (Absolutely integrable ) } } \\
+   \\ 
 \end{gather}
 ```
 
@@ -37,7 +39,8 @@
     \\
     | a_n | \leq \frac{1}{T} \int_{T} | x(t) e^{-in \omega_0 t} | \mathit{dt} = \frac{1}{T} \int_{T} | x(t) | \mathit{dt} \\
     \\
-    | a_n | \leq \infty
+    | a_n | \leq \infty \\
+    \\
 \end{gather}
 ```
 
