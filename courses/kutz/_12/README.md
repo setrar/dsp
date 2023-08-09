@@ -203,6 +203,10 @@ s4=sin(4*x/2); s4=s4/norm(s4);
 
 <img src=images/sinwaves.png width=50% height=50% > </img>
 
+```math
+   \color{Purple} \text{ Python }
+```
+
 ```python
 f = np.exp(-2*np.square(x-np.pi+1))
 
@@ -223,6 +227,20 @@ a1=f*s1'; f1=a1*s1;
 a2=f*s2'; f2=a1*s1+a2*s2;
 a3=f*s3'; f3=a1*s1+a2*s2+a3*s3;
 a4=f*s4'; f4=a1*s1+a2*s2+a3*s3+a4*s4;
+```
+
+```math
+   \color{Purple} \text{ Python }
+```
+
+```python
+approx=0*x
+for k in range(9):
+    ax = fig.add_subplot(4, 3, k+1)
+    s=np.sin(k+1)*x/2); s=s/np.sqrt(np.dot(s,s))
+    a=np.dot(f,s)
+    approx=approx+a*s
+    plt.plot(x,f,x,approx)
 ```
 
 
