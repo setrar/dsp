@@ -127,5 +127,20 @@
 \end{gather}
 ```
 
+```math
+\begin{gather}
+   {\color{Purple} \mathbf{ Multiplication } } \\
+    \\
+    \\
+    x(t) \leftrightarrow a_k \\
+    y(t) \leftrightarrow b_k \\
+   \\
+   {\color{Yellow} \text{ Then } } \\
+   \\
+   x(t)y(t) \leftrightarrow h_k = \sum_{p=-\infty}^{\infty} a_pb_{k-p} \\
+   \\
+\end{gather}
+```
+
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
