@@ -157,5 +157,15 @@
 \end{gather}
 ```
 
+```math
+\begin{gather}
+   {\color{Purple} \mathbf{ Persevals } } \\
+    \\
+    \\
+    \frac{1}{T} \int_{T} |x(t)|^2 \mathit{dt} = \sum_{k=-\infty}^{\infty} |a_k|^2
+   \\
+\end{gather}
+```
+
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
