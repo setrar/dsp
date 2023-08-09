@@ -167,6 +167,10 @@
 \end{gather}
 ```
 
+```math
+   \color{Purple} \text{ Python }
+```
+
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
@@ -181,6 +185,10 @@ s2 = np.sin(2*x)*2.5; s2=s2
 s3 = np.sin(3*x)*5; s3=s3
 s4 = np.sin(4*x)*7.5; s4=s4
 
+```
+
+```math
+   \color{Purple} \text{ Matlab }
 ```
 
 ```matlab
