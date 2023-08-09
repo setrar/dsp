@@ -23,7 +23,7 @@
     \int_{T} | x(t) |^2 \mathit{dt} < \infty \\
     \\
    {\color{Yellow} \text{ Finite energy over one period } } \\
-   {\color{Yellow} \text{ (Absolutely integrable } } \\
+   {\color{Yellow} \text{ (Absolutely integrable ) } } \\
 \end{gather}
 ```
 
