@@ -48,11 +48,11 @@
 
 ```math
 \begin{gather}
-   \\
    {\color{Green} \mathbf{ Other \space Conditions } } \\
     \\
     \\
    {\color{Cerulean} \text{ Signal x(t) is sof bounded variation } } \\
+   \\
    {\color{Cerulean} \text{ Only finite number of discontinuities } } \\
    \\ 
 \end{gather}
