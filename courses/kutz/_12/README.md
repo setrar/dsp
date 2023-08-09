@@ -142,5 +142,20 @@
 \end{gather}
 ```
 
+```math
+\begin{gather}
+   {\color{Purple} \mathbf{ Conjugation } } \\
+    \\
+    \\
+    x(t) \leftrightarrow a_k \\
+    x^*(t) \leftrightarrow a_k^* \\
+   \\
+   {\color{Yellow} \text{ Real signals } } \\
+   \\
+   a_{-k} = a_k^* \\
+   \\
+\end{gather}
+```
+
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
