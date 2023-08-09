@@ -300,7 +300,7 @@ for k in range(9):
 plt.show()
 ```
 
-<img src=images/orthogonal.png width=50% height=50% > </img>
+<img src=images/orthogonal.png width='' height='' > </img>
 
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
