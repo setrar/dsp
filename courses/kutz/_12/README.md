@@ -4,7 +4,7 @@
 ```math
 \begin{gather}
    \\
-   {\color{Purple} \mathbf{ Convergence \space of \space Fourier \space series } } \\
+   {\color{YellowGreen} \mathbf{ Convergence \space of \space Fourier \space series } } \\
     \\
     \\
     x(t) = \sum_{k=-\infty}^{\infty} a_k e^{i k \omega_0 t} \\
