@@ -82,5 +82,19 @@
 \end{gather}
 ```
 
+```math
+\begin{gather}
+   {\color{Purple} \mathbf{ Time \space Shifting } } \\
+    \\
+    \\
+   b_k = \frac{1}{T} \int_{T} x(t - t_0) e^{-ik \omega_0 t} \mathit{dt} \\
+   \\ 
+   {\color{Yellow} \text{ Then } } \\
+   \\
+   b_k = e^{-ik \omega_0 t_0} a_k \\
+   \\
+\end{gather}
+```
+
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
