@@ -201,4 +201,6 @@ s3=sin(3*x/2); s3=s3/norm(s3);
 s4=sin(4*x/2); s4=s4/norm(s4);
 ```
 
+<img src=images/sinwaves.png width=50% height=50% > </img>
+
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
