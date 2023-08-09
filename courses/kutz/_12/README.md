@@ -14,5 +14,18 @@
 \end{gather}
 ```
 
+```math
+\begin{gather}
+   \\
+   {\color{Green} \mathbf{ Conditions \space of \space Convergence } } \\
+    \\
+    \\
+    \int_{T} | x(t) |^2 \mathit{dt} < \infty \\
+    \\
+   {\color{Yellow} \text{ Finite energgy over one period } } \\
+   {\color{Yellow} \text{ (Absolutely integrable } } \\
+\end{gather}
+```
+
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
