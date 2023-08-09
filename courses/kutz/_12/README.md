@@ -290,6 +290,19 @@ for k in range(9):
 plt.show()
 ```
 
+```math
+   \color{Purple} \text{ Run the Python Code }
+```
+
+```bash
+python src/orthogonal.py
+```
+
+```math
+   \color{Green} \text{ the result }
+```
+
+
 <img src=images/orthogonal.png width='' height='' > </img>
 
 
