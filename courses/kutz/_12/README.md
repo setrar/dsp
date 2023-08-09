@@ -174,8 +174,6 @@
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
-import scipy.linalg
-from numpy.fft import fft, fftshift, ifft
 
 n=200
 x = np.linspace(0, 2*np.pi, n)
@@ -267,8 +265,6 @@ for j=1:30
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
-import scipy.linalg
-from numpy.fft import fft, fftshift, ifft
 
 n=200
 x = np.linspace(0, 2*np.pi, n)
