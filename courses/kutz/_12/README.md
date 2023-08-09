@@ -203,4 +203,28 @@ s4=sin(4*x/2); s4=s4/norm(s4);
 
 <img src=images/sinwaves.png width=50% height=50% > </img>
 
+```python
+f = np.exp(-2*np.square(x-np.pi+1))
+
+a1=np.dot(f,s1); f1=a1*s1
+a2=np.dot(f,s2); f2=a1*s1+a2*s2
+a3=np.dot(f,s3); f3=a1*s1+a2*s2+a3*s3
+a4=np.dot(f,s4); f4=a1*s1+a2*s2+a3*s3+a4*s4
+```
+
+```math
+   \color{Purple} \text{ Matlab }
+```
+
+```matlab
+f=exp(-2*(x-pi+1).^2);
+
+a1=f*s1'; f1=a1*s1;
+a2=f*s2'; f2=a1*s1+a2*s2;
+a3=f*s3'; f3=a1*s1+a2*s2+a3*s3;
+a4=f*s4'; f4=a1*s1+a2*s2+a3*s3+a4*s4;
+```
+
+
+
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
