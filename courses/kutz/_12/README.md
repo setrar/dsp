@@ -115,5 +115,17 @@
 \end{gather}
 ```
 
+```math
+\begin{gather}
+   {\color{Purple} \mathbf{ Time \space Scaling } } \\
+    \\
+    \\
+   x(\alpha t) = \sum_{k=-\infty}^{\infty} a_k e^{ik \alpha \omega_0 t} \\
+   \\ 
+   {\color{Yellow} \text{ Changes fundamental frequency } } \\
+   \\
+\end{gather}
+```
+
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
