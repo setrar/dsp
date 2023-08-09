@@ -78,7 +78,8 @@
    \\
    {\color{Yellow} \text{ Then } } \\
    \\
-   z(t) = A x(t) + B y(t) \leftrightarrow c_k = A a_k + B b_k
+   z(t) = A x(t) + B y(t) \leftrightarrow c_k = A a_k + B b_k \\
+   \\
 \end{gather}
 ```
 
