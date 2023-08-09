@@ -99,5 +99,21 @@
 \end{gather}
 ```
 
+```math
+\begin{gather}
+   {\color{Purple} \mathbf{ Time \space Reversal } } \\
+    \\
+    \\
+   x(t) = \sum_{k=-\infty}^{\infty} a_k e^{ik \omega_0 t} \\
+   \\ 
+   {\color{Yellow} \text{ Then } } \\
+   \\
+   x(-t) = \sum_{k=-\infty}^{\infty} a_k e^{-ik \omega_0 t} \\
+   \\
+   x(-t) \leftrightarrow a_k \\
+   \\
+\end{gather}
+```
+
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
