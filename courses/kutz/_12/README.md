@@ -58,6 +58,8 @@
 \end{gather}
 ```
 
+---
+
 ```math
 \begin{gather}
    {\color{Purple} \mathbf{ Properties \space of \space Fourier \space series } } \\
