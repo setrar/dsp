@@ -236,6 +236,7 @@ approx=0*x
 for k in range(9):
     ax = fig.add_subplot(4, 3, k+1)
     s=np.sin(k+1)*x/2); s=s/np.sqrt(np.dot(s,s))
+    # Dot product of two arrays (inner product)
     a=np.dot(f,s)
     approx=approx+a*s
     plt.plot(x,f,x,approx)
@@ -278,6 +279,7 @@ approx=0*x
 for k in range(9):
     ax = fig.add_subplot(4, 3, k+1)
     s=np.sin((k+1)*x/2); s=s/np.sqrt(np.dot(s,s))
+    # Dot product of two arrays (inner product)
     a=np.dot(f,s)
     approx=approx+a*s
     plt.plot(x,f,x,approx)
