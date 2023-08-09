@@ -18,3 +18,16 @@ a2=np.dot(f,s2); f2=a1*s1+a2*s2
 a3=np.dot(f,s3); f3=a1*s1+a2*s2+a3*s3
 a4=np.dot(f,s4); f4=a1*s1+a2*s2+a3*s3+a4*s4
 
+# Create a figure with subplots
+fig = plt.figure(figsize=(10, 6))
+
+approx=0*x
+for k in range(9):
+    ax = fig.add_subplot(4, 3, k+1)
+    s=np.sin((k+1)*x/2); s=s/np.sqrt(np.dot(s,s))
+    a=np.dot(f,s)
+    approx=approx+a*s
+    plt.plot(x,f,x,approx)
+
+# Show the figure
+plt.show()
