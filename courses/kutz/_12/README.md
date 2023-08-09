@@ -110,7 +110,7 @@
    \\
    x(-t) = \sum_{k=-\infty}^{\infty} a_k e^{-ik \omega_0 t} \\
    \\
-   x(-t) \leftrightarrow a_k \\
+   x(-t) \leftrightarrow a_{-k} \\
    \\
 \end{gather}
 ```
