@@ -63,8 +63,22 @@
    {\color{Purple} \mathbf{ Properties \space of \space Fourier \space series } } \\
     \\
     \\
-    x(t) \iff a_k
+    x(t) \leftrightarrow a_k \\
    \\ 
+\end{gather}
+```
+
+```math
+\begin{gather}
+   {\color{Purple} \mathbf{ Linearity } } \\
+    \\
+    \\
+    x(t) \leftrightarrow a_k \\
+    x(t) \leftrightarrow a_k \\
+   \\
+   {\color{Yellow} \text{ Then } } \\
+   \\
+   z(t) = A x(t) + B y(y) \leftrightarrow c_k = A a_k + B b_k
 \end{gather}
 ```
 
