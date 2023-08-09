@@ -148,7 +148,7 @@
     \\
     \\
     x(t) \leftrightarrow a_k \\
-    x^*(t) \leftrightarrow a_k^* \\
+    x^*(t) \leftrightarrow a_{-k}^* \\
    \\
    {\color{Yellow} \text{ Real signals } } \\
    \\
