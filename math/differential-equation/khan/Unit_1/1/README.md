@@ -43,6 +43,7 @@
     \color{yellow} \frac{\mathit{d^2y}}{\mathit{dx^2}} + 2 \frac{\mathit{dy}}{\mathit{dx}} = 3y \\
     \\ 
   \end{cases} \\
+\\
 \text{ Solution: Function or Set of functions } \\
 \end{gather}
 ```
