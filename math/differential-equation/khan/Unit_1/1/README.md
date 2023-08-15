@@ -62,7 +62,6 @@
     \\
     x = -2 \text{ or } x = -1 \\
     \\ 
-  \end{cases} \\
 \text{ Solution: Value or Set of Values} \\
 \end{gather}
 ```
