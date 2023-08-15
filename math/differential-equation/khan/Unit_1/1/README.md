@@ -81,8 +81,9 @@
 ```
 
 ```math
-\begin{gather}
 \color{Green}
+\begin{gather}
+    \\
     y_1(x) = e^{-3x} \\
     \\
     y_1^{'}(x) = -3 e^{-3x} \\
