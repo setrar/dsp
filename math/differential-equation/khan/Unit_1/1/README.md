@@ -7,6 +7,7 @@
 ```math
 \color{Green} \text{ Differential Equation } \\
 \to y = f(x)
+\\
 ```
 
 ```math
