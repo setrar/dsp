@@ -6,13 +6,13 @@
 
 ```math
 \\
-\color{Green} \text{ Differential Equation } \\
-\to y = f(x)
-\\
+\color{Green} \text{ Differential Equation } 
 ```
 
 ```math
 \begin{gather}
+  y = f(x) \to 
+
   \begin{cases}
     y^{''} + 2 y^{'} = 3y \\
     \\
