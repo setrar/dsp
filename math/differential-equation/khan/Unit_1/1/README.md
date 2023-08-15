@@ -94,7 +94,7 @@
   \\
   \color{Purple} 9 e^{-3x} + \color{Cerulean} 2 (-3) e^{-3x} = \color{Yellow} 3 e^{-3x}
   \\
-  \color{Purple} 9 e^{-3x} + \color{Cerulean} -6 e^{-3x} = \color{Yellow} 3 e^{-3x}
+  \color{Purple} 9 e^{-3x} \color{Cerulean} -6 e^{-3x} = \color{Yellow} 3 e^{-3x}
   \\
    \color{Cerulean} 3 e^{-3x} = \color{Yellow} 3 e^{-3x}
   \\
