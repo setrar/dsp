@@ -10,13 +10,13 @@
 ```
 
 ```math
+\color{Purple} \text{ essentially saying the same thing } \\
   \begin{cases}
     y^{''} + 2 y^{'} = 3y \\
     \\
     f^{''}(x) + 2 f^{'}(x) = 3 f(x) \\
     \\
     \frac{\mathit{d^2y}}{\mathit{dx^2}} + 2 \frac{\mathit{dy}}{\mathit{dx}} = 3y \\
-    \\
-    \color{Purple} \text{ essentially saying the same thing } \\
+    \\ 
   \end{cases}
 ```
