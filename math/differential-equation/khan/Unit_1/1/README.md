@@ -6,10 +6,9 @@
 
 ```math
 \color{Green} \text{ Differential Equation }
-\\
-\\
+```
 
-
+```math
 \dot{x} = A x \to
   \begin{cases}
     y^{''} \\
