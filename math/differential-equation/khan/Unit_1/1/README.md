@@ -12,7 +12,7 @@
 
   \begin{cases}
     y^{''} + 2 y^{'} = 3 y \\
-    f^{''} + 2 f^{'} = 3 f \\
+    f^{''}(x) + 2 f^{'}(x) = 3 f(x) \\
     \frac{\mathit{dx}}{\mathit{dt}}
   \end{cases}
 ```
