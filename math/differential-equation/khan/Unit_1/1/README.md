@@ -5,7 +5,8 @@
 ```
 
 ```math
-\color{Green} \text{ Differential Equation }
+\color{Green} \text{ Differential Equation } \\
+y = f(x)
 ```
 
 ```math
