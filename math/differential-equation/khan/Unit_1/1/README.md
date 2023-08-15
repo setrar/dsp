@@ -3,3 +3,7 @@
 ```math
 \color{Orange} \text{ What are Differential Equations ? } 
 ```
+
+```math
+\color{Green} \text{ Differential Equation }
+```
