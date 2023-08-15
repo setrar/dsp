@@ -11,8 +11,6 @@
 
 ```math
 \begin{gather}
-  \text{ in a system where } y = f(x) \to 
-
   \begin{cases}
     y^{''} + 2 y^{'} = 3y \\
     \\
