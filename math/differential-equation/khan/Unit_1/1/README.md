@@ -62,6 +62,6 @@
     \\
     x = -2 \text{ or } x = -1 \\
     \\ 
-\text{ Solution: Value or Set of Values} \\
+\color{White} \text{ Solution: Value or Set of Values} \\
 \end{gather}
 ```
