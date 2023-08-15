@@ -31,6 +31,30 @@
 ```
 
 ```math
+\begin{gather}
+\\
+\color{Orange} \mathbf{ Examples ? }
+\\
+\end{gather}
+```
+
+```math
+\begin{gather}
+\color{Green}
+  \begin{cases}
+    y_1(x) = e^{-3x} \\
+    \\
+    y_1^{'}(x) = -3 e^{-3x} \\
+    \\
+    y_1^{''}(x) = 9 e^{-3x} \\
+    \\ 
+  \end{cases} \\
+  \\
+\end{gather}
+```
+
+
+```math
 \\
 \color{Green} \text{ Differential Equation }
 \\
