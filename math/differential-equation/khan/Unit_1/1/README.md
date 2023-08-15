@@ -9,7 +9,7 @@
 ```
 
 ```math
-\dot{x} = A x \to
+
   \begin{cases}
     y^{''} \\
     f^{''} \\
