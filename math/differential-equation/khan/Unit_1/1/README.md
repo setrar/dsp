@@ -102,3 +102,24 @@
 \color{White} y_1 \text{ is a solution to the differential equation } \\
 \end{gather}
 ```
+
+```math
+\color{Pink}
+\begin{gather}
+    \\
+  \begin{cases}
+    y_2(x) = e^{x} \\
+    \\
+    y_2^{'}(x) = e^{x} \\
+    \\
+    y_2^{''}(x) = e^{x} \\
+  \end{cases}
+  \\
+  \color{Purple} e^x + \color{Cerulean} 2 e^x = \color{Yellow} 3 e^x
+  \\
+   \color{Cerulean} 3 e^x = \color{Yellow} 3 e^x
+  \\
+\\
+\color{White} y_2 \text{ is a solution to the differential equation } \\
+\end{gather}
+```
