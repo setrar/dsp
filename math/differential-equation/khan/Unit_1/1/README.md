@@ -18,7 +18,7 @@
     \\
     \frac{\mathit{d^2y}}{\mathit{dx^2}} + 2 \frac{\mathit{dy}}{\mathit{dx}} = 3y \\
     \\ 
-  \end{cases}
+  \end{cases} \\
 \color{Purple} \text{ Essentially saying the same thing } \\
 \end{gather}
 ```
