@@ -98,5 +98,6 @@
   \\
    \color{Cerulean} 3 e^{-3x} = \color{Yellow} 3 e^{-3x}
   \\
+\color{White} y_1 \text{ is a solution to the differential equation } \\
 \end{gather}
 ```
