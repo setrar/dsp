@@ -12,8 +12,8 @@
 ```math
 
   \begin{cases}
-    y^{''} + 2 y^{'} = 3 y \\
+    y^{''} + 2 y^{'} = 3y \\
     f^{''}(x) + 2 f^{'}(x) = 3 f(x) \\
-    \frac{\mathit{dx}}{\mathit{dt}}
+    \frac{\mathit{d^2y}}{\mathit{dx^2}} + 2 \frac{\mathit{dy}}{\mathit{dx}} = 3y \\
   \end{cases}
 ```
