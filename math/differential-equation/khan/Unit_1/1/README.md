@@ -8,5 +8,13 @@
 \color{Green} \text{ Differential Equation }
 \\
 \\
-y^{''}
+
+
+\dot{x} = A x \to
+  \begin{cases}
+    y^{''} \\
+    f^{''} \\
+    \frac{\mathit{dx}}{\mathit{dt}}
+  \end{cases}
+
 ```
