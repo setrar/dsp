@@ -31,30 +31,6 @@
 ```
 
 ```math
-\begin{gather}
-\\
-\color{Orange} \mathbf{ Examples ? }
-\\
-\end{gather}
-```
-
-```math
-\begin{gather}
-\color{Green}
-  \begin{cases}
-    y_1(x) = e^{-3x} \\
-    \\
-    y_1^{'}(x) = -3 e^{-3x} \\
-    \\
-    y_1^{''}(x) = 9 e^{-3x} \\
-    \\ 
-  \end{cases} \\
-  \\
-\end{gather}
-```
-
-
-```math
 \\
 \color{Green} \text{ Differential Equation }
 \\
@@ -93,5 +69,26 @@
     x = -2 \text{ or } x = -1 \\
     \\ 
 \color{White} \text{ Solution: Value or Set of Values} \\
+\end{gather}
+```
+
+```math
+\begin{gather}
+\\
+\color{Orange} \mathbf{ Examples }
+\\
+\end{gather}
+```
+
+```math
+\begin{gather}
+\color{Green}
+    y_1(x) = e^{-3x} \\
+    \\
+    y_1^{'}(x) = -3 e^{-3x} \\
+    \\
+    y_1^{''}(x) = 9 e^{-3x} \\
+    \\ 
+  \\
 \end{gather}
 ```
