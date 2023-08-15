@@ -11,7 +11,7 @@
 ```math
 
   \begin{cases}
-    y^{''} \\
+    y^{''} + 2 y^' = 3 y \\
     f^{''} \\
     \frac{\mathit{dx}}{\mathit{dt}}
   \end{cases}
