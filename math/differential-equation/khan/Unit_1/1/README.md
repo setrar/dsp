@@ -50,7 +50,7 @@
 
 ```math
 \\
-\color{Green} \text{ vs Algebraic Equation }
+\color{Orange} \text{ vs Algebraic Equation }
 \\
 ```
 
