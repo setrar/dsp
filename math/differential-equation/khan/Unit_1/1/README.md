@@ -84,12 +84,19 @@
 \color{Green}
 \begin{gather}
     \\
+  \begin{cases}
+
     y_1(x) = e^{-3x} \\
     \\
     y_1^{'}(x) = -3 e^{-3x} \\
     \\
     y_1^{''}(x) = 9 e^{-3x} \\
-    \\ 
+    \\
+  \end{cases}
+  \\
+  \color{Purple} 9 e^{-3x} + \color{Cerulean} -6 e^{-3x} = \color{Yellow} 3 e^{-3x}
+  \\
+   \color{Cerulean} 3 e^{-3x} = \color{Yellow} 3 e^{-3x}
   \\
 \end{gather}
 ```
