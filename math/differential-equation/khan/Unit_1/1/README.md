@@ -10,7 +10,9 @@
 ```
 
 ```math
+\color{yellow}
 \begin{gather}
+
   \begin{cases}
     y^{''} + 2 y^{'} = 3y \\
     \\
