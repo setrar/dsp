@@ -6,7 +6,7 @@
 
 ```math
 \color{Green} \text{ Differential Equation } \\
-y = f(x)
+\to y = f(x)
 ```
 
 ```math
