@@ -10,6 +10,7 @@
 ```
 
 ```math
+\begin{gather}
 \color{Purple} \text{ essentially saying the same thing } \\
   \begin{cases}
     y^{''} + 2 y^{'} = 3y \\
@@ -19,4 +20,5 @@
     \frac{\mathit{d^2y}}{\mathit{dx^2}} + 2 \frac{\mathit{dy}}{\mathit{dx}} = 3y \\
     \\ 
   \end{cases}
+\end{gather}
 ```
