@@ -6,7 +6,7 @@
    \\
    \color{Orange} \frac{\mathit{dy}}{\mathit{dx}} = \color{White} \frac{ 5 \color{Cerulean}{y} }{x} \\
    \\
-   \text{ Is } y = −2x^5 \text{ a solution to the above equation? }
+   \text{ Is } \color{Cerulean} y = -2x^5 \color{White} \text{ a solution to the above equation? }
    \\
 \end{gather}
 
