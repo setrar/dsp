@@ -54,9 +54,9 @@
    \\
    ^4/_4 
      \begin{cases}
-      \text { In conclusion, yes,  } y = -2x^5 \text{ is a solution to the differential} \\
       \\
-      \text{ equation } 
+      \text { In conclusion, yes,  } y = -2x^5 \text{ is a solution to the differential equation } \\
+      \\
      \end{cases}
     \\
 \end{gather}
