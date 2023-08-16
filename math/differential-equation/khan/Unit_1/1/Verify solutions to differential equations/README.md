@@ -191,6 +191,12 @@
       \\
       5x^4 - 2 \stackrel\frown{ \doteq } \frac{2x + 5x^5 - 10 x}{x} \\
       \\
+      5x^4 - 2 \stackrel\frown{ \doteq } \frac{5x^5 - 8 x}{x} \\
+      \\
+      5x^4 - 2 \stackrel\frown{ \doteq } 5x^4 - 8 \\
+      \\
+      - 2 \neq - 8 \\
+      \\
       \text { We obtained the same expression on each side. }
      \end{cases}
     \\
