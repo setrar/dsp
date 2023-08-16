@@ -18,19 +18,22 @@
      \begin{cases}
       \text { In order to find whether } y = −2x^5 \text{ is a solution, }\\
       \text { we need to substitute it into the equation } \\
-      \text { and see if we get equivalent expressions on each side of the equal sign. }
+      \text { and see if we get equivalent expressions on each side of the equal sign. } \\
      \end{cases}
+   \\
    ^2/_4 
      \begin{cases}
       \text{ In addition to substituting for y, we need to find the } \\
       \text{ corresponding } \frac{\mathit{dy}}{\mathit{dx}} \text{ expression to substitute into the equation: } \\
       \frac{\mathit{dy}}{\mathit{dx}} = \frac{\mathit{d}}{\mathit{dx}} \big[ −2x^5 \big] \\
-      = -10x^4
-     \end{cases}
+      = -10x^4 \\
+     \end{cases} \\
+   \\
    ^3/_4 
      \begin{cases}
       \text{ Now we substitute } \color{Cerulean} y = -2x^5 \color{White} \text{ and } \color{Orange} \frac{\mathit{dy}}{\mathit{dx}} = -10x^4 \\
       \text{ into the equation } \color{Orange} \frac{\mathit{dy}}{\mathit{dx}} = \color{White} \frac{ 5 \color{Cerulean}{y} }{x} \\
      \end{cases}
+    \\
 \end{gather}
 ```
