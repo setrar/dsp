@@ -204,7 +204,7 @@
    ^4/_4 
      \begin{cases}
       \\
-      \text { In conclusion, {\color{Yellow} yes},  }  g(x) = \frac{\sqrt{3x^2}}{2} \text{ is a solution to the differential equation } \\
+      \text { In conclusion, {\color{Red} no},  }  g(x) = x^5 - 2x \text{ is not a solution to the differential equation } \\
       \\
      \end{cases}
     \\
