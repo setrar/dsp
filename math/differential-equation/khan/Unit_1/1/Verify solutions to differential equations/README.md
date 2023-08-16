@@ -55,7 +55,7 @@
    ^4/_4 
      \begin{cases}
       \\
-      \text { In conclusion, yes,  } \color{Cerulean} y = -2x^5 \color{White} \text{ is a solution to the differential equation } \\
+      \text { In conclusion, {\color{Yellow} yes},  } \color{Cerulean} y = -2x^5 \color{White} \text{ is a solution to the differential equation } \\
       \\
      \end{cases}
     \\
