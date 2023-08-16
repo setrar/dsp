@@ -33,7 +33,7 @@
       \\
       \text{ corresponding } \frac{\mathit{dy}}{\mathit{dx}} \text{ expression to substitute into the equation: } \\
       \\
-      \frac{\mathit{dy}}{\mathit{dx}} = \frac{\mathit{d}}{\mathit{dx}} \biggg[ −2x^5 \biggg] \\
+      \frac{\mathit{dy}}{\mathit{dx}} = \frac{\mathit{d}}{\mathit{dx}} \bigg[ −2x^5 \bigg] \\
       \\
       \quad = -10x^4
      \end{cases}
