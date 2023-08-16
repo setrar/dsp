@@ -23,9 +23,8 @@
 
 ```math
 \begin{gather}
-\text{ In addition to substituting for y } \\
-\text{ we need to find the corresponding } \\
-\frac{\mathit{dy}}{\mathit{dx}} \text{ fraction expression to substitute into the equation: } \\
+\text{ In addition to substituting for y, we need to find the } \\
+\text{ corresponding } \frac{\mathit{dy}}{\mathit{dx}} \text{ fraction expression to substitute into the equation: } \\
 \frac{\mathit{dy}}{\mathit{dx}} = \frac{\mathit{d}}{\mathit{dx}} \big[ −2x^5 \big]
 \end{gather}
 ```
