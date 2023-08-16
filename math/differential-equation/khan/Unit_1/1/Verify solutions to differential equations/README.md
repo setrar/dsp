@@ -106,17 +106,6 @@
      \end{cases}
    \\
    \\
-   ^3/_4 
-     \begin{cases}
-      \text{ Now we substitute } {\color{Cerulean} g(x) = \frac{\sqrt{3x^2}}{2} } \text{ and } {\color{Orange} g^{\prime}(x) =  \frac{3x}{2\sqrt{3x^2}} } \text{ into the equation: }\\
-      \\
-      {\color{Orange} \frac{3x}{2\sqrt{3x^2}} } \stackrel\frown{ \doteq } \frac{3x}{4 {\color{Cerulean} \frac{\sqrt{3x^2}}{2} }} \\
-      \\
-      \frac{3x}{2\sqrt{3x^2}}  {\color{Green}\check{ = }} \frac{3x}{2\sqrt{3x^2} } \\
-      \\
-      \text { We obtained the same expression on each side. }
-     \end{cases}
-    \\
 
 \end{gather}
 ```
