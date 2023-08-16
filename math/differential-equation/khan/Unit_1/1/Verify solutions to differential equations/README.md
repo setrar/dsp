@@ -104,7 +104,7 @@
       \\
       g^{\prime}(x) = \frac{\mathit{d}}{\mathit{dx}} \big[ \frac{\sqrt{3x^2}}{2} \big] \\
       \\
-      \quad \quad = \frac{1}{2} \dot \frac{1}{2\sqrt{3x^2}} \dot \frac{\mathit{d}}{\mathit{dx}} [ 3x^2 ] \\
+      \quad \quad = \frac{1}{2} \dot \frac{1}{2\sqrt{3x^2}} \dot \frac{\mathit{d}}{\mathit{dx}} \big[ 3x^2 \big] \\
       \\
       \quad \quad = \frac{3x}{2\sqrt{3x^2}}
      \end{cases}
