@@ -20,8 +20,9 @@
       \\
       \text { we need to substitute it into the equation and see } \\
       \\
-      \text { if we get equivalent expressions on each side of the equal sign. } \\
+      \text { if we get equivalent expressions on each side of the equal sign. }
      \end{cases}
+   \\
    \\
    ^2/_4 
      \begin{cases}
@@ -31,12 +32,14 @@
       \\
       \frac{\mathit{dy}}{\mathit{dx}} = \frac{\mathit{d}}{\mathit{dx}} \big[ −2x^5 \big] \\
       \\
-      = -10x^4 \\
-     \end{cases} \\
+      = -10x^4
+     \end{cases}
+   \\
    \\
    ^3/_4 
      \begin{cases}
       \text{ Now we substitute } \color{Cerulean} y = -2x^5 \color{White} \text{ and } \color{Orange} \frac{\mathit{dy}}{\mathit{dx}} = -10x^4 \\
+      \\
       \text{ into the equation } \color{Orange} \frac{\mathit{dy}}{\mathit{dx}} = \color{White} \frac{ 5 \color{Cerulean}{y} }{x} \\
      \end{cases}
     \\
