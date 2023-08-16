@@ -153,3 +153,54 @@
 
 ```
 
+```math
+
+\begin{gather}
+   \\
+
+   ^1/_4 
+     \begin{cases}
+      \text { In order to find whether } g(x) = x^5 - 2x  \text{ is a solution, }\\
+      \\
+      \text { we need to substitute it into the equation and see } \\
+      \\
+      \text { if we get equivalent expressions on each side of the equal sign. }
+     \end{cases}
+   \\
+   \\
+
+   ^2/_4 
+     \begin{cases}
+      \text{ In addition to substituting for g(x), we need to find the } \\
+      \\
+      \text{ corresponding } \frac{\mathit{dy}}{\mathit{dx}} \text{ expression to substitute into the equation: } \\
+      \\
+      g^{\prime}(x) = \frac{\mathit{d}}{\mathit{dx}} \bigg[  x^5 - 2x \bigg] \\
+      \\
+      \quad \quad = 5x^4 -2
+     \end{cases}
+   \\
+   \\
+   ^3/_4 
+     \begin{cases}
+      \text{ Now we substitute } {\color{Cerulean} g(x) = x^5 - 2x } \text{ and } {\color{Orange} g^{\prime}(x) =  5x^4 -2 } \text{ into the equation: }\\
+      \\
+      {\color{Orange} g^{\prime}(x) = } \frac{2x + 5 {\color{Cerulean} g(x) }}{\mathit{ x }} \\
+      \\
+      {\color{Orange} 5x^4 -2 } \stackrel\frown{ \doteq } \frac{2x + 5 ({\color{Cerulean} (x^5 - 2x) })}{\mathit{ x }} \\
+      \\
+      \text { We obtained the same expression on each side. }
+     \end{cases}
+    \\
+    \\
+   ^4/_4 
+     \begin{cases}
+      \\
+      \text { In conclusion, {\color{Yellow} yes},  }  g(x) = \frac{\sqrt{3x^2}}{2} \text{ is a solution to the differential equation } \\
+      \\
+     \end{cases}
+    \\
+
+\end{gather}
+
+```
