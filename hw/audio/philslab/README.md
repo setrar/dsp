@@ -1,8 +1,8 @@
 
 
 :abacus: [`Real-Time Software Implementation of Analog Filters`](https://www.youtube.com/playlist?list=PLXSyc11qLa1ZCn0JCnaaXOWN6Z46rK9jd) by [:tv:@Phil's Lab](https://www.youtube.com/@PhilsLab)
-| Episodes |
-|:---------|
+| Episodes | Interesting Points |
+|:---------|-|
 | Real-Time Software Implementation of Analog Filters - Phil's Lab #20|
 | [FIR Filter Design and Software Implementation - Phil's Lab #17](https://youtu.be/uNNNj9AZisM)                                   |
 | Moving Average Filter - Theory and Software Implementation - Phil's Lab #21|
@@ -13,7 +13,7 @@
 | Extended Kalman Filter - Sensor Fusion #3 - Phil's Lab #37|
 | Notch Filters - Theory and Software Implementation - Phil's Lab #39|
 | Decimation Filters - Theory and Software Implementation - Phil's Lab #42|
-| [Digital Audio Processing with STM32 #1   - Introduction and Filters - Phil's Lab #46](https://youtu.be/VDhmVrbSpqA)             |
+| [Digital Audio Processing with STM32 #1   - Introduction and Filters - Phil's Lab #46](https://youtu.be/VDhmVrbSpqA)             | [Difference Equatiton](https://www.youtube.com/watch?v=VDhmVrbSpqA&t=861s)
 | Notch Filters - Digital Audio Processing with STM32 #2 - Phil's Lab #49|
 | Tremolo Effect - Digital Audio Processing with STM32 #3 - Phil's Lab #51|
 | [STM32 I2S ADC DMA & Double Buffering - Digital Audio Processing with STM32 #4 - Phil's Lab #55](https://youtu.be/zlGSxZGwj-E) |
