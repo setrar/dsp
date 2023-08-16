@@ -14,7 +14,7 @@
 
 ```math
 \begin{gather}
-   1/4 
+   ^1/_4 
      \begin{cases}
       \text { In order to find whether } y = −2x^5 \text{ is a solution, }\\
       \text { we need to substitute it into the equation } \\
