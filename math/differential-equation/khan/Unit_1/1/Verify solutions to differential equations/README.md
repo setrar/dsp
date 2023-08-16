@@ -187,7 +187,9 @@
       \\
       {\color{Orange} g^{\prime}(x) = } \frac{2x + 5 {\color{Cerulean} g(x) }}{\mathit{ x }} \\
       \\
-      {\color{Orange} 5x^4 -2 } \stackrel\frown{ \doteq } \frac{2x + 5 ({\color{Cerulean} (x^5 - 2x) })}{\mathit{ x }} \\
+      {\color{Orange} 5x^4 -2 } \stackrel\frown{ \doteq } \frac{2x + 5 ({\color{Cerulean} x^5 - 2x })}{\mathit{ x }} \\
+      \\
+      5x^4 - 2 \stackrel\frown{ \doteq } \frac{2x + 5x^5 - 10 x}{x} \\
       \\
       \text { We obtained the same expression on each side. }
      \end{cases}
