@@ -3,7 +3,7 @@
 :abacus: [`Real-Time Software Implementation of Analog Filters`](https://www.youtube.com/playlist?list=PLXSyc11qLa1ZCn0JCnaaXOWN6Z46rK9jd) by [:tv:@Phil's Lab](https://www.youtube.com/@PhilsLab)
 | Episodes | Interesting Points |
 |:---------|-|
-| Real-Time Software Implementation of Analog Filters - Phil's Lab #20|
+| [Real-Time Software Implementation of Analog Filters - Phil's Lab #20](https://www.youtube.com/watch?v=MrbffdimDts)| [Differential Equation](https://www.youtube.com/watch?v=MrbffdimDts&t=257s) |
 | [FIR Filter Design and Software Implementation - Phil's Lab #17](https://youtu.be/uNNNj9AZisM)                                   |
 | Moving Average Filter - Theory and Software Implementation - Phil's Lab #21|
 | Z-Transform - Practical Applications - Phil's Lab #27|
