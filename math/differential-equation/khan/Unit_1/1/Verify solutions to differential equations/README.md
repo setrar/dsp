@@ -102,7 +102,7 @@
       \\
       \text{ corresponding } \frac{\mathit{dy}}{\mathit{dx}} \text{ expression to substitute into the equation: } \\
       \\
-      g^{\prime}(x) = \frac{\mathit{d}}{\mathit{dx}} \big[ \frac{\sqrt{3x^2}}{2} \big] \\
+      g^{\prime}(x) = \frac{\mathit{d}}{\mathit{dx}} \bigg[ \frac{\sqrt{3x^2}}{2} \bigg] \\
       \\
       \quad \quad = \frac{1}{2} . \frac{1}{2\sqrt{3x^2}} . \frac{\mathit{d}}{\mathit{dx}} [ 3x^2 ] \\
       \\
