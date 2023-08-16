@@ -1,6 +1,10 @@
 [Verify solutions to differential equations](https://www.khanacademy.org/math/differential-equations/first-order-differential-equations/differential-equations-intro/e/introduction-to-differential-equations-and-initial-value-problems)
 
 ```math
+\color{Yellow] \mathbf{ 1st) \space example }
+```
+
+```math
 
 \begin{gather}
    \\
