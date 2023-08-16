@@ -112,9 +112,7 @@
       \\
       {\color{Orange} \frac{3x}{2\sqrt{3x^2}} } \stackrel\frown{ \doteq } \frac{3x}{\mathit{4 {\color{Cerulean} \frac{\sqrt{3x^2}}{2} }}} \\
       \\
-      -10x^4 \stackrel\frown{ \doteq } \frac{ -10 x^5 }{ x } \\
-      \\
-      -10x^4  {\color{Green} \check{ = }} -10x^4 \\
+      \frac{3x}{2\sqrt{3x^2}}  \check{ = }} \frac{3x}{2\sqrt{3x^2} } \\
       \\
       \text { We obtained the same expression on each side. }
      \end{cases}
