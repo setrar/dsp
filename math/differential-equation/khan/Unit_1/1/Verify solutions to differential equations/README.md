@@ -23,6 +23,6 @@
 
 ```math
 \begin{gather}
-\frac{\mathit{dy}}{\mathit{dx}} = \frac{5y}{x} = \frac{\mathit{d}}{\mathit{dx}} \big[ −2x^5 \big]
+\frac{\mathit{dy}}{\mathit{dx}} = \frac{\mathit{d}}{\mathit{dx}} \big[ −2x^5 \big]
 \end{gather}
 ```
