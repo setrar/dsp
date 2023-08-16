@@ -125,6 +125,15 @@
       \text { We obtained the same expression on each side. }
      \end{cases}
     \\
+    \\
+   ^4/_4 
+     \begin{cases}
+      \\
+      \text { In conclusion, {\color{Yellow} yes},  } {\color{Cerulean} g(x) = \frac{\sqrt{3x^2}}{2} } \text{ is a solution to the differential equation } \\
+      \\
+     \end{cases}
+    \\
+
 \end{gather}
 
 ```
