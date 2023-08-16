@@ -80,32 +80,3 @@
 
 ```
 
-```math
-\begin{gather}
-   ^1/_4 
-     \begin{cases}
-      \text { In order to find whether } g(x) = \frac{\sqrt{3x^2}}{2} \text{ is a solution, }\\
-      \\
-      \text { we need to substitute it into the equation and see } \\
-      \\
-      \text { if we get equivalent expressions on each side of the equal sign. }
-     \end{cases}
-   \\
-   \\
-   ^2/_4 
-     \begin{cases}
-      \text{ In addition to substituting for g(x), we need to find the } \\
-      \\
-      \text{ corresponding } \frac{\mathit{dy}}{\mathit{dx}} \text{ expression to substitute into the equation: } \\
-      \\
-      g^{\prime}(x) = \frac{\mathit{d}}{\mathit{dx}} \big[ \frac{\sqrt{3x^2}}{2} \big] \\
-      \\
-      \quad \quad = \frac{1}{2} \dot \frac{1}{2\sqrt{3x^2}} \dot \frac{\mathit{d}}{\mathit{dx}} [ 3x^2 ] \\
-      \\
-      \quad \quad = \frac{3x}{2\sqrt{3x^2}}
-     \end{cases}
-   \\
-   \\
-
-\end{gather}
-```
