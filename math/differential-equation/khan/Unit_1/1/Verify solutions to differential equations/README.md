@@ -103,5 +103,22 @@
       \quad \quad = \frac{3x}{2\sqrt{3x^2}}
      \end{cases}
    \\
+   \\
+   ^3/_4 
+     \begin{cases}
+      \text{ Now we substitute } {\color{Cerulean} g(x) = \frac{\sqrt{3x^2}}{2} } \text{ and } {\color{Orange} g^{\prime}(x) =  \frac{3x}{2\sqrt{3x^2}} } \text{ into the equation: }\\
+      \\
+      {\color{Orange} g^{\prime}(x) = } \frac{3x}{\mathit{4 {\color{Cerulean} g(x) }}} \\
+      \\
+      \color{Orange} -10x^4 \color{White} \stackrel\frown{ \doteq } \frac{ 5 ( \color{Cerulean} -2 x^5 \color{White} ) }{ x } \\
+      \\
+      -10x^4 \stackrel\frown{ \doteq } \frac{ -10 x^5 }{ x } \\
+      \\
+      -10x^4  {\color{Green} \check{ = }} -10x^4 \\
+      \\
+      \text { We obtained the same expression on each side. }
+     \end{cases}
+    \\
+
 \end{gather}
 ```
