@@ -95,6 +95,21 @@
      \end{cases}
    \\
    \\
+
+   ^2/_4 
+     \begin{cases}
+      \text{ In addition to substituting for g(x), we need to find the } \\
+      \\
+      \text{ corresponding } \frac{\mathit{dy}}{\mathit{dx}} \text{ expression to substitute into the equation: } \\
+      \\
+      g^{\prime}(x) = \frac{\mathit{d}}{\mathit{dx}} \big[ \frac{\sqrt{3x^2}}{2} \big] \\
+      \\
+      \quad \quad = \frac{1}{2} \dot \frac{1}{2\sqrt{3x^2}} \dot \frac{\mathit{d}}{\mathit{dx}} [ 3x^2 ] \\
+      \\
+      \quad \quad = \frac{3x}{2\sqrt{3x^2}}
+     \end{cases}
+   \\
+   \\
 \end{gather}
 
 ```
