@@ -110,7 +110,7 @@
       \\
       {\color{Orange} g^{\prime}(x) = } \frac{3x}{\mathit{4 {\color{Cerulean} g(x) }}} \\
       \\
-      \color{Orange} -10x^4 \color{White} \stackrel\frown{ \doteq } \frac{ 5 ( \color{Cerulean} -2 x^5 \color{White} ) }{ x } \\
+      {\color{Orange} \frac{3x}{2\sqrt{3x^2}} } \stackrel\frown{ \doteq } \frac{3x}{\mathit{4 {\color{Cerulean} \frac{\sqrt{3x^2}}{2} }}} \\
       \\
       -10x^4 \stackrel\frown{ \doteq } \frac{ -10 x^5 }{ x } \\
       \\
