@@ -42,7 +42,7 @@
       \\
       \color{Orange} \frac{\mathit{dy}}{\mathit{dx}} = \color{White} \frac{ 5 \color{Cerulean}{y} }{x} \\
       \\
-      \color{Orange} -10x^4 \color{White} \breve{ \doteq } \frac{ 5 ( \color{Cerulean} -2 x^5 \color{White} ) }{ x } \\
+      \color{Orange} -10x^4 \color{White} \stackrel{ \doteq } \frac{ 5 ( \color{Cerulean} -2 x^5 \color{White} ) }{ x } \\
       \\
       -10x^4 \doteq \frac{ -10 x^5 }{ x } \\
       \\
