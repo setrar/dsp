@@ -195,7 +195,7 @@
       \\
       5x^4 - 2 \stackrel\frown{ \doteq } 5x^4 - 8 \\
       \\
-      - 2 \neq - 8 \\
+      - 2 {\color{Red} \neq} - 8 \\
       \\
       \text { We obtained the same expression on each side. }
      \end{cases}
