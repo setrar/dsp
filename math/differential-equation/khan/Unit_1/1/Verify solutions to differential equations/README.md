@@ -32,7 +32,7 @@
       \\
       \frac{\mathit{dy}}{\mathit{dx}} = \frac{\mathit{d}}{\mathit{dx}} \big[ −2x^5 \big] \\
       \\
-      = -10x^4
+      \quad = -10x^4
      \end{cases}
    \\
    \\
