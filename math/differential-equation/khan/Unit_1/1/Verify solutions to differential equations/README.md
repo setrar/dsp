@@ -137,3 +137,19 @@
 \end{gather}
 
 ```
+
+- [ ] 3rd Example
+
+
+```math
+
+\begin{gather}
+   \\
+   {\color{Orange}  g^{\prime}(x)} = \frac{2x + 5 {\color{Cerulean} y }}{\mathit{ x }} \\
+   \\
+   \text{ Is } {\color{Cerulean} g(x) = x^5 - 2x } \text{ a solution to the above equation? }
+   \\
+\end{gather}
+
+```
+
