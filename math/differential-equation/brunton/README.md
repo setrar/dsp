@@ -33,7 +33,7 @@
 ```math
 \begin{gather}
    \\
-   { \color{Purple} 3. \quad \mathbf{ PARTIAL \space DIFFERENTIAL \space EQUATIONS \ space (PDEs) } } \\
+   { \color{Purple} 3. \quad \mathbf{ PARTIAL \space DIFFERENTIAL \space EQUATIONS \space (PDEs) } } \\
    \\
    { \color{NavyBlue} \Big( \frac{ \mathrm{ \partial }}{ \mathrm { \partial t} } u = \frac{ \mathrm{ \partial ^ 2 }}{ \mathrm { \partial x^2 } } u \Big)  }
 \end{gather}
