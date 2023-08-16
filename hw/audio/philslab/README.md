@@ -4,7 +4,7 @@
 | Episodes | Interesting Points |
 |:---------|-|
 | [Real-Time Software Implementation of Analog Filters - Phil's Lab #20](https://www.youtube.com/watch?v=MrbffdimDts)| [Differential Equation](https://www.youtube.com/watch?v=MrbffdimDts&t=257s) |
-| [FIR Filter Design and Software Implementation - Phil's Lab #17](https://youtu.be/uNNNj9AZisM)                                   |
+| [FIR Filter Design and Software Implementation - Phil's Lab #17](https://youtu.be/uNNNj9AZisM) | [C# Implementation](https://www.youtube.com/watch?v=uNNNj9AZisM&t=740s) |
 | Moving Average Filter - Theory and Software Implementation - Phil's Lab #21|
 | Z-Transform - Practical Applications - Phil's Lab #27|
 | IIR Filters - Theory and Implementation (STM32) - Phil's Lab #32|
