@@ -37,11 +37,13 @@
    \\
    \\
    ^3/_4 
-     \begin{cases}
+     \begin{vmatrix}
       \text{ Now we substitute } \color{Cerulean} y = -2x^5 \color{White} \text{ and } \color{Orange} \frac{\mathit{dy}}{\mathit{dx}} = -10x^4 \color{White} \text{ into the equation: }\\
       \\
       \color{Orange} \frac{\mathit{dy}}{\mathit{dx}} = \color{White} \frac{ 5 \color{Cerulean}{y} }{x} \\
-     \end{cases}
+      \\
+      \color{Orange} -10x^4 \color{White} = 
+     \end{vmatrix}
     \\
 \end{gather}
 ```
