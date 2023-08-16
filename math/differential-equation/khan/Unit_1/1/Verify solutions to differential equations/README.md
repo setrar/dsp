@@ -46,7 +46,7 @@
       \\
       -10x^4 \stackrel\frown{ \doteq } \frac{ -10 x^5 }{ x } \\
       \\
-      -10x^4 \check{ = } -10x^4
+      -10x^4  \check{ = } -10x^4
      \end{cases}
     \\
 \end{gather}
