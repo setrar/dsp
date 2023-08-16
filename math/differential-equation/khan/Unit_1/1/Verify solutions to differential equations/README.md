@@ -51,5 +51,13 @@
       \text { We obtained the same expression on each side. }
      \end{cases}
     \\
+   \\
+   ^4/_4 
+     \begin{cases}
+      \text { In conclusion, yes,  } y = -2x^5 \text{ is a solution to the differential} \\
+      \\
+      \text{ equation } 
+     \end{cases}
+    \\
 \end{gather}
 ```
