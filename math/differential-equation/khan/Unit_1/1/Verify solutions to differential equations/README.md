@@ -17,8 +17,8 @@
    ^1/_4 
      \begin{cases}
       \text { In order to find whether } y = −2x^5 \text{ is a solution, }\\
-      \text { we need to substitute it into the equation } \\
-      \text { and see if we get equivalent expressions } \\
+      \text { we need to substitute it into the equation and see } \\
+      \text { if we get equivalent expressions } \\
       \text { on each side of the equal sign. } \\
      \end{cases}
    \\
