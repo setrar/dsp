@@ -38,10 +38,11 @@
    \\
    ^3/_4 
      \begin{cases}
-      \text{ Now we substitute } \color{Cerulean} y = -2x^5 \color{White} \text{ and } \color{Orange} \frac{\mathit{dy}}{\mathit{dx}} = -10x^4 \text{ into the }\\
+      \text{ Now we substitute } \color{Cerulean} y = -2x^5 \color{White} \text{ and } \color{Orange} \frac{\mathit{dy}}{\mathit{dx}} = -10x^4 \clor{White} \text{ into the }\\
       \\
-      \text{ equation: }
-      \text{ into the equation } \color{Orange} \frac{\mathit{dy}}{\mathit{dx}} = \color{White} \frac{ 5 \color{Cerulean}{y} }{x} \\
+      \text{ equation: } \\
+      \\
+      \color{Orange} \frac{\mathit{dy}}{\mathit{dx}} = \color{White} \frac{ 5 \color{Cerulean}{y} }{x} \\
      \end{cases}
     \\
 \end{gather}
