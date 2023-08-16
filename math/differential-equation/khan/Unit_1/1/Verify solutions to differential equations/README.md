@@ -64,3 +64,19 @@
     \\
 \end{gather}
 ```
+
+- [ ] 2nd Example
+
+
+```math
+
+\begin{gather}
+   \\
+   \color{Orange}  g^{\prime} = \frac{3x}{\mathit{4 {\color{Cerulean} g(x) }}} \\
+   \\
+   \text{ Is } {\color{Cerulean} g(x) = \frac{\sqrt{3x^2}}{2} } \text{ a solution to the above equation? }
+   \\
+\end{gather}
+
+```
+
