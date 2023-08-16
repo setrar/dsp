@@ -44,7 +44,9 @@
       \\
       \color{Orange} -10x^4 \color{White} \doteq \frac{ 5 ( \color{Cerulean} -2 x^5 \color{White} ) }{ x } \\
       \\
-      -10x^4 \color{White} \doteq \frac{ -10 x^5 }{ x } \\
+      -10x^4 \doteq \frac{ -10 x^5 }{ x } \\
+      \\
+      -10x^4 = -10x^4
      \end{cases}
     \\
 \end{gather}
