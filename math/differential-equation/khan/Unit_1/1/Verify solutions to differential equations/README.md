@@ -46,7 +46,7 @@
       \\
       -10x^4 \stackrel\frown{ \doteq } \frac{ -10 x^5 }{ x } \\
       \\
-      -10x^4  \check{ = } -10x^4 \\
+      -10x^4  {\color{Green} \check{ = }} -10x^4 \\
       \\
       \text { We obtained the same expression on each side. }
      \end{cases}
