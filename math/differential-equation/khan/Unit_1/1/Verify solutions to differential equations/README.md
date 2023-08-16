@@ -129,7 +129,7 @@
    ^4/_4 
      \begin{cases}
       \\
-      \text { In conclusion, {\color{Yellow} yes},  } \color{Cerulean} g(x) = \frac{\sqrt{3x^2}}{2} \color{White} \text{ is a solution to the differential equation } \\
+      \text { In conclusion, {\color{Yellow} yes},  }  { g(x) = \frac{\sqrt{3x^2}}{2} } \color{White} \text{ is a solution to the differential equation } \\
       \\
      \end{cases}
     \\
