@@ -98,9 +98,9 @@
       \\
       \text{ corresponding } \frac{\mathit{dy}}{\mathit{dx}} \text{ expression to substitute into the equation: } \\
       \\
-      \frac{\mathit{dy}}{\mathit{dx}} = \frac{\mathit{d}}{\mathit{dx}} \big[ \frac{\sqrt{3x^2}}{2} \big] \\
+      g^{\prime}(x) = \frac{\mathit{d}}{\mathit{dx}} \big[ \frac{\sqrt{3x^2}}{2} \big] \\
       \\
-      \quad = -10x^4
+      \quad = \frac{3x}{2\sqrt{3x^2}}
      \end{cases}
    \\
 \end{gather}
