@@ -197,7 +197,7 @@
       \\
       - 2 \quad { \color{Red} \neq} - 8 \\
       \\
-      \text { We obtained the same expression on each side. }
+      \text { We did not obtain equivalent expressions on each side. }
      \end{cases}
     \\
     \\
