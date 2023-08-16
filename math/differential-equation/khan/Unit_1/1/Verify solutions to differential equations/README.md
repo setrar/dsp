@@ -106,6 +106,8 @@
       \\
       \quad \quad = \frac{1}{2} . \frac{1}{2\sqrt{3x^2}} . \frac{\mathit{d}}{\mathit{dx}} [ 3x^2 ] \\
       \\
+      \quad \quad = \frac{1}{4\sqrt{3x^2}} . 6x \\
+      \\
       \quad \quad = \frac{3x}{2\sqrt{3x^2}}
      \end{cases}
    \\
