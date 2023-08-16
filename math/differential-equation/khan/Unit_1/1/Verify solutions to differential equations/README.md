@@ -21,14 +21,16 @@
       \text { we need to substitute it into the equation and see } \\
       \\
       \text { if we get equivalent expressions on each side of the equal sign. } \\
-      \\
      \end{cases}
    \\
    ^2/_4 
      \begin{cases}
       \text{ In addition to substituting for y, we need to find the } \\
+      \\
       \text{ corresponding } \frac{\mathit{dy}}{\mathit{dx}} \text{ expression to substitute into the equation: } \\
+      \\
       \frac{\mathit{dy}}{\mathit{dx}} = \frac{\mathit{d}}{\mathit{dx}} \big[ −2x^5 \big] \\
+      \\
       = -10x^4 \\
      \end{cases} \\
    \\
