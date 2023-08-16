@@ -4,7 +4,7 @@
 
 \begin{gather}
    \\
-   \frac{\mathit{dy}}{\mathit{dx}} = \frac{5y}{x} \\
+   \color{Orange} \frac{\mathit{dy}}{\mathit{dx}} = \color{White} \frac{ 5 \color{Cerulean}{y} }{x} \\
    \\
    \text{ Is } y = −2x^5 \text{ a solution to the above equation? }
    \\
