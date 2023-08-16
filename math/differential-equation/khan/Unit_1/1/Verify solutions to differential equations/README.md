@@ -129,6 +129,8 @@
    ^4/_4 
      \begin{cases}
       \\
+      \text{ Now we substitute } {\color{Cerulean} g(x) = \frac{\sqrt{3x^2}}{2} } \text{ and } {\color{Orange} g^{\prime}(x) =  \frac{3x}{2\sqrt{3x^2}} } \text{ into the equation: }\\
+      \\
       \text { In conclusion, {\color{Yellow} yes},  }  g(x) = \frac{\sqrt{3x^2}}{2} \text{ is a solution to the differential equation } \\
       \\
      \end{cases}
