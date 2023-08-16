@@ -23,6 +23,6 @@
 
 ```math
 \begin{gather}
-\frac{\mathit{d}}{\mathit{dx}} = \big[ −2x^5 \big]
+\frac{\mathit{d}}{\mathit{dx}} \big[ −2x^5 \big]
 \end{gather}
 ```
