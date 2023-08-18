@@ -43,3 +43,24 @@ Each month the balance, B, of Harper's loan increases by 0.22% and decreases by 
 
 \end{gather}
 ```
+
+- [ ] Question :three:
+
+The learning rate for new skills is proportional to the difference between the maximum potential for learning that skill, M, and the amount of the skill already learned, L.
+
+> Which equation describes this relationship?
+
+```math
+\begin{gather}
+  \\
+  \\ 1) \to \frac{\mathit{dL}}{\mathit{dt}} = \frac{k}{(M - L)} \\
+  \\
+  \\ 2) \to L(t) = k(M - L) \\
+  \\
+  \\ 3) \to \frac{\mathit{dL}}{\mathit{dt}} = k(M - L) \quad {\color{Green}\check{=}} \\
+  \\
+  \\ 4) \to L(t) = \frac{k}{(M - L)} \\
+  \\
+
+\end{gather}
+```
