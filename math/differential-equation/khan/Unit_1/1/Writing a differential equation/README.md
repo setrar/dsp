@@ -7,7 +7,7 @@
 \text{ of the {\color{Green}distance, S}, it has traveled }. \\
 \\
 \color{Green} S = distance, \\
-\color{Cerulean} \frac{\mathit{dS}}{\mathit{dt}} = Speed \\
+\color{Cerulean} \frac{\mathit{dS}}{\mathit{dt}} = Speed, \\
 \color{Purple} k = \text{ Constant of Proportionality } \\
 \\
 \color{Orange} \text{ Solution: } \\
