@@ -27,3 +27,12 @@ a^3 + b^3 = (a + b)(a^2 - ab + b^2)
 ```math
 (x \pm a)(x \pm b) = x^2 \pm (a + b) x \pm (a * b)
 ```
+
+- [ ] [Grouping](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:factor-quadratics-grouping/a/factoring-by-grouping)
+
+```math
+ax^2 \pm bx \pm c = cx^2 \pm (a + b)x \pm (a * b)
+```
+
+(To Open Up) and find a common factor
+```
