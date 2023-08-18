@@ -2,7 +2,7 @@
 
 ## Factoring or [Factorization](https://en.wikipedia.org/wiki/Factorization)
 
-- [ ] [Binomials](https://en.wikipedia.org/wiki/Binomial_(polynomial))
+- [ ] [Binomial](https://en.wikipedia.org/wiki/Binomial_(polynomial))
 
 * Difference of two squares
 
@@ -20,4 +20,10 @@ a^3 - b^3 = (a - b)(a^2 + ab + b^2)
 
 ```math
 a^3 + b^3 = (a + b)(a^2 - ab + b^2)
+```
+
+- [ ] [Trinomial](https://en.wikipedia.org/wiki/Trinomial)
+
+```math
+(x \pm a)(x \pm b) = x^2 \pm (a + b) x \pm (a * b)
 ```
