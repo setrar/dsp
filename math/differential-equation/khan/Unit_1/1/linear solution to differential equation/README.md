@@ -6,6 +6,8 @@
 \color{White} \text{ Finding particular solution to differential equation }. \\
 \\
 \\
-{\color{Yellow}\frac{\mathit{dy}}{\mathit{dx}} = -2x + 3y - 5 } \quad \quad {\color{Purple} y = mx + b }
+{\color{Yellow}\frac{\mathit{dy}}{\mathit{dx}} = -2x + 3y - 5 } \quad \quad {\color{Purple} y = mx + b } \\
+\\
+{\color{Purple} y = mx + b } \to  {\color{JungleGreen}\frac{\mathit{dy}}{\mathit{dx}} = m }
 \end{gather}
 ```
