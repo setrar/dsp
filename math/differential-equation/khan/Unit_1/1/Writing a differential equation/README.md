@@ -6,7 +6,7 @@
 \\
 \color{Green} S = distance, \\
 \color{Cerulean} \frac{\mathit{dS}}{\mathit{dt}} = Speed \\
-\color{Purple} k \\
+\color{Purple} k = Constant of Proportionality \\
 \\
 \color{Orange} \text{ Solution: } \\
 \\
