@@ -2,6 +2,8 @@
 
 ## Factoring or [Factorization](https://en.wikipedia.org/wiki/Factorization)
 
+To convert to a [monomial](https://en.wikipedia.org/wiki/Monomial)
+
 - [ ] [Binomial](https://en.wikipedia.org/wiki/Binomial_(polynomial))
 
 * Difference of two squares
