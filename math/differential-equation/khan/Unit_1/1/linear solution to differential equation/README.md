@@ -17,7 +17,7 @@
    \end{cases}
 \\
 \\
-\color{Yellow}\frac{\mathit{dy}}{\mathit{dx}} = 
+where \color{Yellow}\frac{\mathit{dy}}{\mathit{dx}} = 
    \begin{cases}
     {\color{JungleGreen} m } \\
     \\
