@@ -13,3 +13,14 @@
 {\color{JungleGreen} m = } { \color{Yellow} -2x + 3 ({\color{Purple} mx + b }) - 5 } \quad \quad  {\color{JungleGreen}\frac{\mathit{dy}}{\mathit{dx}} = m }
 \end{gather}
 ```
+
+```math
+Take $\sfrac{1}{2}$ cup of sugar, \dots
+ 
+  3\times\sfrac{1}{2}=1\sfrac{1}{2}
+ 
+
+Take ${}^1/_2$ cup of sugar, \dots
+ 
+  3\times{}^1/_2=1{}^1/_2
+```
