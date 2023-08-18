@@ -35,8 +35,6 @@ or \quad {\color{JungleGreen} m = } { \color{Yellow} -2x + 3 ({\color{Purple} mx
 \color{Yellow} m = (3m -2)x + 3b - 5 \\
 \\
 {\color{Cyan} 0x + }  {\color{Orange} m  = } {\color{Cyan} (3m - 2)x } {\color{Orange} + 3b - 5 }
-\\
-\\
    \begin{cases}
     \\
     \color{Cyan} 0x  \quad \to (3m - 2)x \\
