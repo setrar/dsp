@@ -56,7 +56,7 @@ or \quad {\color{JungleGreen} m = } { \color{Yellow} -2x + 3 ({\color{Purple} mx
 \\
 \color{Cyan} \text{ The linear function solution is: } \\
 \\
-\color{Purple} y = \frac{2}{3} x + \frac{17}{9}
+\forall x \to \color{Purple} y = \frac{2}{3} x + \frac{17}{9}
 
 \end{gather}
 ```
