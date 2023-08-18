@@ -2,9 +2,9 @@
 
 ```math
 \begin{gather}
-\color{White} \text{ A particle moves along a straight line. Its {\color{Cerulean}speed} is inversely proportional to the square of the distance, S, it has traveled }. \\
+\color{White} \text{ A particle moves along a straight line. Its {\color{Cerulean}speed} is inversely proportional to the square of the {\color{Green}distance, S}, it has traveled }. \\
 \\
-\color{NavyBlue} S = distance, \\
+\color{Green} S = distance, \\
 \color{Cerulean} \frac{\mathit{dS}}{\mathit{dt}} = Speed \\
 \\
 \color{Orange} \text{ Solution: } \\
