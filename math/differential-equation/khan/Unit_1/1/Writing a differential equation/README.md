@@ -2,7 +2,7 @@
 
 ```math
 \begin{gather}
-\color{White} \text{ A particle moves along a straight line. Its {\color{Cerulean}speed} is \mathfrac{inversely} {\color{Purple} proportional} to the \mathfrac{square} of the {\color{Green}distance, S}, it has traveled }. \\
+\color{White} \text{ A particle moves along a straight line. Its {\color{Cerulean}speed} is \mathfrak{inversely} {\color{Purple} proportional} to the \mathfrak{square} of the {\color{Green}distance, S}, it has traveled }. \\
 \\
 \color{Green} S = distance, \\
 \color{Cerulean} \frac{\mathit{dS}}{\mathit{dt}} = Speed \\
