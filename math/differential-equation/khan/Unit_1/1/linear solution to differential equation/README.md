@@ -19,6 +19,7 @@
 \\
 therefore \color{Yellow}\frac{\mathit{dy}}{\mathit{dx}} = 
    \begin{cases}
+    \\
     {\color{JungleGreen} m } \\
     \\
     { \color{Yellow} -2x + 3y - 5 } \\
