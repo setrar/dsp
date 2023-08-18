@@ -10,7 +10,8 @@ At the same time, the patient's organs remove the medication from the patient's 
 
 ```math
 \begin{gather}
-  \\ \frac{\mathit{dV}}{\mathit{dt}} = 3 - kV \\
+  \\
+  \\ 1) \to \frac{\mathit{dV}}{\mathit{dt}} = 3 - kV \\
   \\
 
 
