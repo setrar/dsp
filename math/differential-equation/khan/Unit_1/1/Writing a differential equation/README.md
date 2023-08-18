@@ -2,7 +2,7 @@
 
 ```math
 \begin{gather}
-\color{White} \text{ A particle moves along a straight line. Its {\color{Cerulean}speed} is } \mathfrak{inversely}
+\color{White} \text{ A particle moves along a straight line. Its {\color{Cerulean}speed} is } \underline{inversely}
 \text{ {\color{Purple} proportional} to the } \mathfrak{square}
 \text{ of the {\color{Green}distance, S}, it has traveled }. \\
 \\
