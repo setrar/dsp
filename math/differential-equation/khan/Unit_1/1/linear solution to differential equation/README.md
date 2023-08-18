@@ -54,8 +54,7 @@ or \quad {\color{JungleGreen} m = } { \color{Yellow} -2x + 3 ({\color{Purple} mx
 \color{Orange} b = \frac{17}{9} \\
 \\
 \\
-\color[Purple} y = \frac{2}{3} x + \frac{17}{9}
- 
+\color{Purple} y = \frac{2}{3} x + \frac{17}{9}
 
 \end{gather}
 ```
