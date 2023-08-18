@@ -2,6 +2,8 @@
 
 ```math
 
-\color{White} \text{ A particle moves along a straight line. Its speed is inversely proportional to the square of the distance, S, it has traveled }
+\color{White} \text{ A particle moves along a straight line. Its speed is inversely proportional to the square of the distance, S, it has traveled }. \\
+\\
+S = distance
 
 ```
