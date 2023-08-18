@@ -2,7 +2,7 @@
 
 ```math
 \begin{gather}
-\color{White} \text{ A particle moves along a straight line. Its speed is inversely proportional to the square of the distance, S, it has traveled }. \\
+\color{White} \text{ A particle moves along a straight line. Its {\color{Cerulean}speed} is inversely proportional to the square of the distance, S, it has traveled }. \\
 \\
 S = distance, \\
 \frac{\mathit{dS}}{\mathit{dt}} = Speed \\
