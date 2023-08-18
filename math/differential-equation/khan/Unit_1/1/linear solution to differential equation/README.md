@@ -14,8 +14,7 @@
 \end{gather}
 ```
 
-```math
-Take $\frac{1}{2}$ cup of sugar, \dots
+Take $\sfrac{1}{2}$ cup of sugar, \dots
  
   3\times\frac{1}{2}=1\sfrac{1}{2}
  
@@ -23,4 +22,3 @@ Take $\frac{1}{2}$ cup of sugar, \dots
 Take ${}^1/_2$ cup of sugar, \dots
  
   3\times{}^1/_2=1{}^1/_2
-```
