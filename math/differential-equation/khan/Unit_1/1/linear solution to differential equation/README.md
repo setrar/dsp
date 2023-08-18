@@ -15,9 +15,9 @@
 ```
 
 ```math
-Take $\sfrac{1}{2}$ cup of sugar, \dots
+Take $\frac{1}{2}$ cup of sugar, \dots
  
-  3\times\sfrac{1}{2}=1\sfrac{1}{2}
+  3\times\frac{1}{2}=1\sfrac{1}{2}
  
 
 Take ${}^1/_2$ cup of sugar, \dots
