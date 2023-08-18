@@ -22,3 +22,24 @@ At the same time, the patient's organs remove the medication from the patient's 
 
 \end{gather}
 ```
+
+- [ ] Question :two:
+
+Each month the balance, B, of Harper's loan increases by 0.22% and decreases by $250.00.
+
+> Which equation describes this relationship?
+
+```math
+\begin{gather}
+  \\
+  \\ 1) \to B(t) = 0.0022(B - 250) \\
+  \\
+  \\ 2) \to \frac{\mathit{dB}}{\mathit{dt}} = 0.0022B - 250 \quad {\color{Green}\check{=}} \\
+  \\
+  \\ 3) \to B(t) = 0.0022B - 250 \\
+  \\
+  \\ 4) \to \frac{\mathit{dB}}{\mathit{dt}} = 0.0022(B - 250) \\
+  \\
+
+\end{gather}
+```
