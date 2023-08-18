@@ -51,7 +51,10 @@ or \quad {\color{JungleGreen} m = } { \color{Yellow} -2x + 3 ({\color{Purple} mx
 \color{Orange} m = 3b - 5 \\
 \color{Orange} \frac{15}{3} + \frac{2}{3} = 3b - 5 + \frac{15}{3} \\
 \color{Orange} \frac{17}{3} = 3b \\
-\color{Orange} b = \frac{17}{9}
+\color{Orange} b = \frac{17}{9} \\
+\\
+\\
+\color[Purple} y = \frac{2}{3} x + \frac{17}{9}
  
 
 \end{gather}
