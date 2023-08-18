@@ -11,7 +11,7 @@
 {\color{Yellow}\frac{\mathit{dy}}{\mathit{dx}} = -2x + 3y - 5 } \quad \quad {\color{Purple} y = mx + b } \\
 \\
 \\
-{\color{JungleGreen}{\color{Purple} y}^{'}s \space derivative \space is : } \\
+where \quad {\color{JungleGreen}{\color{Purple} y}^{'}s \space derivative \space is : } \\
    \begin{cases}
       {\color{JungleGreen}\frac{\mathit{dy}}{\mathit{dx}} = m }
    \end{cases}
