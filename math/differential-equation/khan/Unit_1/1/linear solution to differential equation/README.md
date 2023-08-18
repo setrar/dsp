@@ -26,7 +26,9 @@ therefore \quad \color{Yellow}\frac{\mathit{dy}}{\mathit{dx}} =
    \end{cases}
 \\
 \\
-then \quad {\color{JungleGreen} m = } { \color{Yellow} -2x + 3 ({\color{Purple} mx + b }) - 5 } \\
+then \quad {\color{JungleGreen} m = } { \color{Yellow} -2x + 3y - 5 } \\
+\\
+or \quad {\color{JungleGreen} m = } { \color{Yellow} -2x + 3 ({\color{Purple} mx + b }) - 5 } \\
 \\
 \color{Yellow} m = -2x + 3mx + 3b -5 \\
 \end{gather}
