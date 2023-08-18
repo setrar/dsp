@@ -34,13 +34,25 @@ or \quad {\color{JungleGreen} m = } { \color{Yellow} -2x + 3 ({\color{Purple} mx
 \\
 \color{Yellow} m = (3m -2)x + 3b - 5 \\
 \\
-{\color{Violet} 0x + }  {\color{Orange} m  = } {\color{Cyan} (3m - 2)x } {\color{Orange} + 3b - 5 } \\
+{\color{Cyan} 0x + }  {\color{Orange} m  = } {\color{Cyan} (3m - 2)x } {\color{Orange} + 3b - 5 } \\
    \begin{cases}
     \\
     \color{Cyan} 0x  \quad \to (3m - 2)x \\
     \\
     \color{Orange} m  \quad \to 3b - 5 \\
    \end{cases}
+\\
+\\
+\color{Cyan} 0 = 3m - 2 \\
+\color{Cyan} 3m = 2 \\
+\color{Cyan} m = \frac{2}{3} \\
+\\
+\\
+\color{Orange} m = 3b - 5 \\
+\color{Orange} \frac{15}{3} + \frac{2}{3} = 3b - 5 + \frac{15}{3} \\
+\color{Orange} \frac{17}{3} = 3b \\
+\color{Orange} b = \frac{17}{9}
+ 
 
 \end{gather}
 ```
