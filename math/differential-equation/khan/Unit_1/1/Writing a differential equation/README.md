@@ -10,7 +10,7 @@
 \\
 \color{Orange} \text{ Solution: } \\
 \\
-\frac{\mathit{dS}}{\mathit{dt}} = \frac{k}{S^2}
+{\color{Cerulean}\frac{\mathit{dS}}{\mathit{dt}}} = \frac{ {\color{Purple} k } }{ {\color{Green}S}^2}
 \end{gather}
 ```
 
