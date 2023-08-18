@@ -10,7 +10,7 @@
 \\
 {\color{Yellow}\frac{\mathit{dy}}{\mathit{dx}} = -2x + 3y - 5 } \quad \quad {\color{Purple} y = mx + b } \\
 \\
-{\color{JungleGreen} m = } { \color{Yellow} -2x + 3 ({\color{Purple} mx + b }) - 5 } \quad \quad  {\color{JungleGreen}\frac{\mathit{dy}}{\mathit{dx}} = m } {\color{Purple} \to ( \prime{y} ) }  \\
+{\color{JungleGreen} m = } { \color{Yellow} -2x + 3 ({\color{Purple} mx + b }) - 5 } \quad \quad  {\color{JungleGreen}\frac{\mathit{dy}}{\mathit{dx}} = m } {\color{Purple} \to ( y^{'} ) }  \\
 \\
 \end{gather}
 ```
