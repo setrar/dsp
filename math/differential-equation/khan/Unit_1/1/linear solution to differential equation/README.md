@@ -12,6 +12,9 @@
 \\
 {\color{JungleGreen} m = } { \color{Yellow} -2x + 3 ({\color{Purple} mx + b }) - 5 } \quad \quad  {\color{JungleGreen}\frac{\mathit{dy}}{\mathit{dx}} = m } {\color{Purple} ( \to y^{'} ) }  \\
 \\
+\color{Yellow} m = -2x + 3mx + 3b -5 \\
+\\
+
 \end{gather}
 ```
 
