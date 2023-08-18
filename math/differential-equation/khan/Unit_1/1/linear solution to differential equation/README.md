@@ -33,6 +33,8 @@ or \quad {\color{JungleGreen} m = } { \color{Yellow} -2x + 3 ({\color{Purple} mx
 \color{Yellow} m = -2x + 3mx + 3b - 5 \\
 \\
 \color{Yellow} m = (3m -2)x + 3b - 5 \\
+\\
+{\color{NavyBlue} 0x + }  {\color{Orange} m  = } {\color{NavyBlue} = (3m -2)x } {\color{Orange} + 3b - 5 }
 \end{gather}
 ```
 
