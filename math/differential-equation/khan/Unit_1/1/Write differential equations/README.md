@@ -6,7 +6,7 @@ At the same time, the patient's organs remove the medication from the patient's 
 > Which equation describes this relationship?
 
 ```math
-\begin{Gather}
+\begin{gather}
 
-\end{Gather}
+\end{gather}
 ```
