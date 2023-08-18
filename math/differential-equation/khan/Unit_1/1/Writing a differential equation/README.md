@@ -12,3 +12,7 @@ S = distance, \\
 \frac{\mathit{dS}}{\mathit{dt}} = \frac{k}{S^2}
 \end{gather}
 ```
+
+# Reference
+
+- [ ] [Identifying the constant of proportionality from equation](https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/7th-constant-of-proportionality/v/identifying-the-constant-of-proportionality)
