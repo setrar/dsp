@@ -16,7 +16,8 @@
 \\
 \color{Yellow}\frac{\mathit{dy}}{\mathit{dx}}
    \begin{cases}
-    {\color{JungleGreen} m = } \\
+    {\color{JungleGreen} m } \\
+    \\
     { \color{Yellow} -2x + 3 ({\color{Purple} mx + b }) - 5 } \\
    \end{cases}
 \end{gather}
