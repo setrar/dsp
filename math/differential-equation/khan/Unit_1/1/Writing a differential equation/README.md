@@ -4,6 +4,6 @@
 \begin{gather}
 \color{White} \text{ A particle moves along a straight line. Its speed is inversely proportional to the square of the distance, S, it has traveled }. \\
 \\
-S = distance
+S = distance, \frac{\mathit{dS}}{\mathit{dt}} \\
 \end{gather}
 ```
