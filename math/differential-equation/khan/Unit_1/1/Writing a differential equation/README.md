@@ -6,5 +6,7 @@
 \\
 S = distance, \\
 \frac{\mathit{dS}}{\mathit{dt}} = Speed \\
+\\
+\frac{\mathit{dS}}{\mathit{dt}} = \frac{k}{S^2}
 \end{gather}
 ```
