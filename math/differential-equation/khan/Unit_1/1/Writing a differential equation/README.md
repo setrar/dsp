@@ -10,7 +10,7 @@
 \color{Cerulean} \frac{\mathit{dS}}{\mathit{dt}} = Speed, \\
 \color{Purple} k = \text{ Constant of Proportionality } \\
 \\
-\color{White} \text{ Differential Equation: } \\
+\color{White} \underline{ Differential Equation: } \\
 \\
 {\color{Cerulean}\frac{\mathit{dS}}{\mathit{dt}}} = \frac{ {\color{Purple} k } }{ {\color{Green}S}^2}
 \end{gather}
