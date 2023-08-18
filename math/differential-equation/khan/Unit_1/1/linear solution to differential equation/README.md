@@ -5,7 +5,7 @@
 
 ```math
 \begin{gather}
-{\color{White} \text{ There is a solution to the } {\color{Yellow}\frac{\mathit{dy}}{\mathit{dx}} = -2x + 3y - 5 } \text{ differential equation } }\\
+{\color{White} \text{ There is a solution to the } {\color{Yellow}\frac{\mathit{dy}}{\mathit{dx}} = -2x + 3y - 5 } \text{ differential equation that is essentially a linear function } {\color{Purple} y = mx + b } }\\
 \\
 \\
 {\color{Yellow}\frac{\mathit{dy}}{\mathit{dx}} = -2x + 3y - 5 } \quad \quad {\color{Purple} y = mx + b } \\
