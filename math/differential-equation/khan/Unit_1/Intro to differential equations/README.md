@@ -9,8 +9,6 @@ Differential equations relate a function to its derivative. That means the solut
 
 --- 
 
-[Intro to differential equation](https://www.khanacademy.org/math/differential-equations/first-order-differential-equations/differential-equations-intro/v/differential-equation-introduction)
-
 | Learn | Practice |
 |-|-|
 | [Differential equations introduction](Differential%20equations%20introduction) | [Verify solutions to differential equations](Verify%20solutions%20to%20differential%20equations) |
