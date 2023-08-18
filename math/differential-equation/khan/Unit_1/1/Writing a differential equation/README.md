@@ -7,6 +7,8 @@
 S = distance, \\
 \frac{\mathit{dS}}{\mathit{dt}} = Speed \\
 \\
+\color{Orange} \text{ Soluttion: } \\
+\\
 \frac{\mathit{dS}}{\mathit{dt}} = \frac{k}{S^2}
 \end{gather}
 ```
