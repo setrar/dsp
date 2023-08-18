@@ -11,7 +11,7 @@ At the same time, the patient's organs remove the medication from the patient's 
 ```math
 \begin{gather}
   \\
-  \\ 1) {\color{Green}\check{=}} \frac{\mathit{dV}}{\mathit{dt}} = 3 - kV \\
+  \\ 1) \to \frac{\mathit{dV}}{\mathit{dt}} = 3 - kV \quad {\color{Green}\check{=}}\\
   \\
   \\ 2) \to \frac{\mathit{dV}}{\mathit{dt}} = - 3kV \\
   \\
