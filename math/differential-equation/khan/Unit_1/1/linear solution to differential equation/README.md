@@ -1,1 +1,1 @@
-[Worked example: linear solution to differential equation]()
+[Worked example: linear solution to differential equation](https://www.khanacademy.org/math/differential-equations/first-order-differential-equations/differential-equations-intro/v/finding-particular-linear-solution-to-differential-equation)
