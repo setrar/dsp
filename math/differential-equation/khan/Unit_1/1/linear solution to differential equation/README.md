@@ -21,7 +21,7 @@ where \color{Yellow}\frac{\mathit{dy}}{\mathit{dx}} =
    \begin{cases}
     {\color{JungleGreen} m } \\
     \\
-    { \color{Yellow} -2x + 3 ({\color{Purple} mx + b }) - 5 } \\
+    { \color{Yellow} -2x + 3y - 5 } \\
    \end{cases}
 \\
 \to {\color{Yellow}\frac{\mathit{dy}}{\mathit{dx}} = m } \to {\color{JungleGreen} m = } { \color{Yellow} -2x + 3 ({\color{Purple} mx + b }) - 5 } \\
