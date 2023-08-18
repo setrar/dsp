@@ -17,7 +17,7 @@
    \end{cases}
 \\
 \\
-therefore \color{Yellow}\frac{\mathit{dy}}{\mathit{dx}} = 
+therefore \quad \color{Yellow}\frac{\mathit{dy}}{\mathit{dx}} = 
    \begin{cases}
     \\
     {\color{JungleGreen} m } \quad \text{ and also }\\
