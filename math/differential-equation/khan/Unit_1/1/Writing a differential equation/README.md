@@ -2,10 +2,11 @@
 
 ```math
 \begin{gather}
-\color{White} \text{ A particle moves along a straight line. Its {\color{Cerulean}speed} is inversely proportional to the square of the {\color{Green}distance, S}, it has traveled }. \\
+\color{White} \text{ A particle moves along a straight line. Its {\color{Cerulean}speed} is inversely {\color{Purple} proportional} to the square of the {\color{Green}distance, S}, it has traveled }. \\
 \\
 \color{Green} S = distance, \\
 \color{Cerulean} \frac{\mathit{dS}}{\mathit{dt}} = Speed \\
+\color{Purple} k \\
 \\
 \color{Orange} \text{ Solution: } \\
 \\
