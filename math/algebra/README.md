@@ -33,5 +33,5 @@ a^3 + b^3 = (a + b)(a^2 - ab + b^2)
 ```math
 ax^2 \pm bx \pm c = cx^2 \pm (a + b)x \pm (a * b) \\
 \\
-\text { (To Open Up) and find a common factor }
+\to \text { (To Open Up) and find a common factor }
 ```
