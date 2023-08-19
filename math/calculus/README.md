@@ -13,3 +13,8 @@ y = kx^{n} & \quad  \to & \quad y^{'} = knx^{n - 1} \\
 \end{gather}
 ```  
 
+- [ ] Power Rule
+
+```math
+y = uv & \quad \to & \quad y^{'} = u^{'}v + uv^{'}
+```
