@@ -70,9 +70,9 @@ y = e^u \quad \to \quad y^{'} = e^{u} . u^{'}
 ```math
 \begin{gather}
 \\
-\int k \mathit{dx} = kx + C \\
+\int k \mathit{dx}   & \quad = kx + C \\
 \\
-\int x^n \mathit{dx} = \frac{x^{n + 1}}{n + 1} + C, & \quad n \neq -1 \\
+\int x^n \mathit{dx} & \quad = \frac{x^{n + 1}}{n + 1} + C, & \quad n \neq -1 \\
 \\
 \int k f(x) \mathit{dx} = k \int f(x) \mathit{dx} \\
 \\
