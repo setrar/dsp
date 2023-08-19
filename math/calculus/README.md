@@ -40,5 +40,5 @@ y = \sqrt{u} \quad \to \quad y^{'} = \frac{u^{'}}{2\sqrt{u}}
 - [ ] Logarith Rule
 
 ```math
-y = \ln{u}
+y = \ln(u)
 ```
