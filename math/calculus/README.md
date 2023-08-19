@@ -103,6 +103,10 @@ y = e^u \quad \to \quad y^{'} = e^{u} . u^{'}
 \color{Cerulean} . \text{ Exponential Rule } \\
 \\
 \int e^u . u^{'} \mathit{dx}  \quad = \quad e^u + C \\
-
+\\
+\color{Cerulean} . \text{ Integration by substitution } \\
+\\
+\begin{gather}
+\end{gather}
 \end{gather}
 ```
