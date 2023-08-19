@@ -70,12 +70,12 @@ y = e^u \quad \to \quad y^{'} = e^{u} . u^{'}
 ```math
 \begin{gather}
 \\
-\int k \mathit{dx}   \quad = \quad kx + C \\
+\int k \mathit{dx}             \quad = \quad kx + C \\
 \\
-\int x^n \mathit{dx} \quad = \quad \frac{x^{n + 1}}{n + 1} + C, & \quad n \neq -1 \\
+\int x^n \mathit{dx}           \quad = \quad \frac{x^{n + 1}}{n + 1} + C, & \quad n \neq -1 \\
 \\
-\int k f(x) \mathit{dx} = k \int f(x) \mathit{dx} \\
+\int k f(x) \mathit{dx}        \quad = \quad k \int f(x) \mathit{dx} \\
 \\
-\int f(x) \pm g(x) \mathit{dx} = \int f(x) dx \pm \int g(x) dx
+\int f(x) \pm g(x) \mathit{dx} \quad = \quad \int f(x) dx \pm \int g(x) dx
 \end{gather}
 ```
