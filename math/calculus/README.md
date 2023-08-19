@@ -75,5 +75,7 @@ y = e^u \quad \to \quad y^{'} = e^{u} . u^{'}
 \int x^n \mathit{dx} = \frac{x^{n + 1}}{n + 1} + C, & \quad n \neq -1 \\
 \\
 \int k f(x) \mathit{dx} = k \int f(x) \mathit{dx} \\
+\\
+\int f(x) \pm g(x) \mathit{dx} = \int f(x) dx \pm \intt g(x) dx
 \end{gather}
 ```
