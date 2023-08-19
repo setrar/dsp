@@ -88,21 +88,26 @@ y = e^u \quad \to \quad y^{'} = e^{u} . u^{'}
 
 ```math
 \begin{gather}
+\\
 \color{Cerulean} . \text{ Logarithm Rule } \\
 \\
 \int \frac{u^{'}}{u}  \quad = \quad ln(u) + C \\
+\\
 \\
 \color{Cerulean} . \text{ Chain Rule } \\
 \\
 \int u^n . u^{'} \mathit{dx}  \quad = \quad \frac{u^{n + 1}}{n + 1} + C \\
 \\
+\\
 \color{Cerulean} . \text{ Square Root Rule } \\
 \\
 \int \frac{u^{'}}{2\sqrt{u}} \mathit{dx}  \quad = \quad \sqrt{u} + C \\
 \\
+\\
 \color{Cerulean} . \text{ Exponential Rule } \\
 \\
 \int e^u . u^{'} \mathit{dx}  \quad = \quad e^u + C \\
+\\
 \\
 \color{Cerulean} . \text{ Integration by substitution } \\
 \\
@@ -114,6 +119,7 @@ y = e^u \quad \to \quad y^{'} = e^{u} . u^{'}
   \\
   \quad 3) \quad \text{ derive step } 2) & \qquad \implies \text{i.e.} \quad \mathit{dx} = \frac{\mathit{dt}}{a} \quad ( \text{solved from previous step} ) \\
 \end{cases}
+\\
 \\
 \color{Cerulean} . \text{ Integration by parts } \\
 \\
