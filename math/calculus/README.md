@@ -22,5 +22,5 @@ y = uv  \quad \to  \quad y^{'} = u^{'}v + uv^{'}
 - [ ] Quotient Rule
 
 ```math
-y = \frac{u}{v} \to y^{'} = \frac{u^{'}v - uv^{'}}{v^2}
+y = \frac{u}{v} \quad \to \quad y^{'} = \frac{u^{'}v - uv^{'}}{v^2}
 ```
