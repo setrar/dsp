@@ -40,5 +40,11 @@ y = \sqrt{u} \quad \to \quad y^{'} = \frac{u^{'}}{2\sqrt{u}}
 - [ ] Logarith Rule
 
 ```math
-y = \ln(u) \quad \to \quad y^{'} = e^{u} . u^{'}
+y = \ln(u) \quad \to \quad y^{'} = \frac{u^{'}}{u}
+```
+
+- [ ] Exponential Rule
+
+```math
+y = e^u \quad \to \quad y^{'} = e^{u} . u^{'}
 ```
