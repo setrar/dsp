@@ -1,4 +1,4 @@
-# Algebra
+# [Algebra 2](https://www.khanacademy.org/math/algebra2)
 
 ## Factoring or [Factorization](https://en.wikipedia.org/wiki/Factorization)
 
