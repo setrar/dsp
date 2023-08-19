@@ -71,5 +71,7 @@ y = e^u \quad \to \quad y^{'} = e^{u} . u^{'}
 \begin{gather}
 \\
 \int K \mathit{dx} = Kx + C \\
+\\
+\int x^n \mathit{dx} = \frac{x^{n + 1}}{n + 1} + C, & \quad n \neq -1 \\
 \end{gather}
 ```
