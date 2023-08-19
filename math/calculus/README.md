@@ -36,3 +36,9 @@ y = u^{n} \quad \to \quad y^{'} = nu^{n - 1} . u^{'}
 ```math
 y = \sqrt{u} \quad \to \quad y^{'} = \frac{u^{'}}{2\sqrt{u}}
 ```
+
+- [ ] Logarith Rule
+
+```math
+y = \ln{u}
+```
