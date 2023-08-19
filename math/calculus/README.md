@@ -83,3 +83,13 @@ y = e^u \quad \to \quad y^{'} = e^{u} . u^{'}
 \int \frac{1}{x} \mathit{dx}   \quad = \quad ln(x) + C, & \quad x \neq 0
 \end{gather}
 ```
+
+- [ ] General indefinite integral Formulas
+
+```math
+\begin{gather}
+\color{Yellow} . \text{ Logarithm Rule } \\
+\\
+\int \frac{u^{'}}{u}  \quad = \quad ln(u) + C \\
+\end{gather}
+```
