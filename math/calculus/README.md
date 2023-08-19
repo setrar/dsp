@@ -111,6 +111,9 @@ y = e^u \quad \to \quad y^{'} = e^{u} . u^{'}
   \quad 1) \quad u = ax \pm b & \qquad \implies substitute \quad ax \pm b = t \\
   \\
   \quad 2) \quad \text{ solve x from t } & \qquad \implies \text{i.e.} \quad x = \frac{t - b}{a} \\
+  \\
+  \quad 3) \quad \text{ derive step } 2) & \qquad \implies \text{i.e.} \quad \mathit{dx} = \frac{\mathit{dt}}{a} \text{solved from previous step} \\
+  \\
 
 \end{cases}
 \end{gather}
