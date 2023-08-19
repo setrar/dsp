@@ -7,8 +7,8 @@
 \begin{gather}
 \\
 y = k       & \quad \to & \quad y^{'} = 0 \\
-y = x^{''}  & \quad \to & \quad y^{'} = nx^{n - 1} \\
-y = kx^{''} & \quad  \to & \quad y^{'} = knx^{n - 1} \\
+y = x^{n}  & \quad \to & \quad y^{'} = nx^{n - 1} \\
+y = kx^{n} & \quad  \to & \quad y^{'} = knx^{n - 1} \\
 
 \end{gather}
 ```  
