@@ -30,3 +30,9 @@ y = \frac{u}{v} \quad \to \quad y^{'} = \frac{u^{'}v - uv^{'}}{v^2}
 ```math
 y = u^{n} \quad \to \quad y^{'} = nu^{n - 1} . u^{'}
 ```
+
+- [ ] Square Root Rule
+
+```math
+y = \sqrt{u} \quad \to \quad y^{'} = \frac{u^{'}}{2\sqrt{u}}
+```
