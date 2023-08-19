@@ -61,6 +61,7 @@ y = e^u \quad \to \quad y^{'} = e^{u} . u^{'}
 \\
 3) \quad f(a) = \lim\limits_{x \to a}
 \end{gather}
+```
 
 ### Rules of Integration
 
@@ -69,6 +70,6 @@ y = e^u \quad \to \quad y^{'} = e^{u} . u^{'}
 ```math
 \begin{gather}
 \\
-\int K \mathit{dx} = Kx + C
+\int K \mathit{dx} = Kx + C \\
 \end{gather}
 ```
