@@ -51,7 +51,7 @@ y = e^u \quad \to \quad y^{'} = e^{u} . u^{'}
 
 ### Graphing
 
-* Continuity
+- [ ]  Continuity
 
 ```math
 \begin{gather}
