@@ -88,8 +88,13 @@ y = e^u \quad \to \quad y^{'} = e^{u} . u^{'}
 
 ```math
 \begin{gather}
-\color{Yellow} . \text{ Logarithm Rule } \\
+\color{Cerulean} . \text{ Logarithm Rule } \\
 \\
 \int \frac{u^{'}}{u}  \quad = \quad ln(u) + C \\
+\\
+\color{Cerulean} . \text{ Chain Rule } \\
+\\
+\int u^n . u^{'} \mathit{dx}  \quad = \quad \frac{u^{n + 1}}{n + 1} + C \\
+
 \end{gather}
 ```
