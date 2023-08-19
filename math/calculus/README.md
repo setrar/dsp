@@ -112,7 +112,7 @@ y = e^u \quad \to \quad y^{'} = e^{u} . u^{'}
   \\
   \quad 2) \quad \text{ solve x from t } & \qquad \implies \text{i.e.} \quad x = \frac{t - b}{a} \\
   \\
-  \quad 3) \quad \text{ derive step } 2) & \qquad \implies \text{i.e.} \quad \mathit{dx} = \frac{\mathit{dt}}{a} \text{solved from previous step} \\
+  \quad 3) \quad \text{ derive step } 2) & \qquad \implies \text{i.e.} \quad \mathit{dx} = \frac{\mathit{dt}}{a} \quad ( \text{solved from previous step} ) \\
   \\
 
 \end{cases}
