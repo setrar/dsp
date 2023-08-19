@@ -1,5 +1,6 @@
+# Calculus
 
-### Rules of derivatives
+### :a: Rules of derivatives
 
 - [ ] Constant Rule
 
@@ -49,21 +50,7 @@ y = \ln(u) \quad \to \quad y^{'} = \frac{u^{'}}{u}
 y = e^u \quad \to \quad y^{'} = e^{u} . u^{'}
 ```
 
-### Graphing
-
-- [ ]  Continuity
-
-```math
-\begin{gather}
-1) \quad f(a) \text{ exists } \
-\\
-2) \quad \lim\limits_{x \to a-} = \lim\limits_{x \to a+}
-\\
-3) \quad f(a) = \lim\limits_{x \to a}
-\end{gather}
-```
-
-### Rules of Integration
+### :b: Rules of Integration
 
 - [ ] Indefinite Integral Formulas
 
@@ -134,3 +121,18 @@ Rules
 \end{cases}
 \end{gather}
 ```
+
+### :ab: Graphing
+
+- [ ]  Continuity
+
+```math
+\begin{gather}
+1) \quad f(a) \text{ exists } \
+\\
+2) \quad \lim\limits_{x \to a-} = \lim\limits_{x \to a+}
+\\
+3) \quad f(a) = \lim\limits_{x \to a}
+\end{gather}
+```
+
