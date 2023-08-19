@@ -76,6 +76,10 @@ y = e^u \quad \to \quad y^{'} = e^{u} . u^{'}
 \\
 \int k f(x) \mathit{dx}        \quad = \quad k \int f(x) \mathit{dx} \\
 \\
-\int f(x) \pm g(x) \mathit{dx} \quad = \quad \int f(x) dx \pm \int g(x) dx
+\int f(x) \pm g(x) \mathit{dx} \quad = \quad \int f(x) dx \pm \int g(x) dx \\
+\\
+\int e^x \mathit{dx}           \quad = \quad  e^x \mathit{dx} \\
+\\
+\int \frac{1}{x} \mathit{dx}   \quad = \quad ln(x) + C, & \quad x \neq 0
 \end{gather}
 ```
