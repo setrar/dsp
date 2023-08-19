@@ -16,5 +16,5 @@ y = kx^{n} & \quad  \to & \quad y^{'} = knx^{n - 1} \\
 - [ ] Power Rule
 
 ```math
-y = uv & \quad \to  \quad y^{'} = u^{'}v + uv^{'}
+y = uv  \quad \to  \quad y^{'} = u^{'}v + uv^{'}
 ```
