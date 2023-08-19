@@ -24,3 +24,4 @@ Differential equations relate a function to its derivative. That means the solut
 | Learn | :grey_question: | Practice | :grey_question: |
 |-------|-----------------|----------|-----------------|
 | [Slope fields introduction](Slope%20fields%20introduction) | :white_check_mark: | | |
+| [equation from slope field](equation%20from%20slope%20field) | :white_check_mark: | | |
