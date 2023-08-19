@@ -114,5 +114,17 @@ y = e^u \quad \to \quad y^{'} = e^{u} . u^{'}
   \\
   \quad 3) \quad \text{ derive step } 2) & \qquad \implies \text{i.e.} \quad \mathit{dx} = \frac{\mathit{dt}}{a} \quad ( \text{solved from previous step} ) \\
 \end{cases}
+\\
+\color{Cerulean} . \text{ Integration by parts } \\
+\\
+\int u^{'} . v \mathit{dx} = uv - \int uv^{'} \mathit{dx} \\
+\\
+Rules
+\begin{cases}
+  \\
+  \quad 1) \quad \text{ if there is an exponential, make it first item } \\
+  \\
+  \quad 2) \quad \text{ if there is a logarithm, make it the second term  }  \\
+\end{cases}
 \end{gather}
 ```
