@@ -1,4 +1,4 @@
-# Calculus
+# :chart_with_upwards_trend: Calculus
 
 ### :a: Rules of derivatives
 
