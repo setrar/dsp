@@ -24,3 +24,9 @@ y = uv  \quad \to  \quad y^{'} = u^{'}v + uv^{'}
 ```math
 y = \frac{u}{v} \quad \to \quad y^{'} = \frac{u^{'}v - uv^{'}}{v^2}
 ```
+
+- [ ] Chain Rule
+
+```math
+y = u^{n} \quad \to \quad y^{'} = nu^{n - 1} . u^{'}
+```
