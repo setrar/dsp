@@ -48,3 +48,14 @@ y = \ln(u) \quad \to \quad y^{'} = \frac{u^{'}}{u}
 ```math
 y = e^u \quad \to \quad y^{'} = e^{u} . u^{'}
 ```
+
+### Graphing
+
+* Continuity
+
+```math
+\begin{gather}
+1) f(a) \text{ exists } \
+\\
+2) \lim\limits_{x \to a-} = \lim\limits_{x \to a+}
+\end{gather}
