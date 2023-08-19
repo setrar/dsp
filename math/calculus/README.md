@@ -106,7 +106,9 @@ y = e^u \quad \to \quad y^{'} = e^{u} . u^{'}
 \\
 \color{Cerulean} . \text{ Integration by substitution } \\
 \\
-\begin{gather}
-\end{gather}
+\begin{cases}
+  1) u = ax \pm b \quad substitute ax \pm b = t \\
+
+\end{cases}
 \end{gather}
 ```
