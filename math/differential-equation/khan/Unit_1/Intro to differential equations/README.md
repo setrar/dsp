@@ -9,8 +9,18 @@ Differential equations relate a function to its derivative. That means the solut
 
 --- 
 
+- [ ] Intro to differential equations
+
 | Learn | :grey_question: | Practice | :grey_question: |
-|-|-|-|-|
+|-------|-----------------|----------|-----------------|
 | [Differential equations introduction](Differential%20equations%20introduction) | :white_check_mark: | [Verify solutions to differential equations](Verify%20solutions%20to%20differential%20equations) | :white_check_mark: | 
 | [Writing a differential equation](Writing%20a%20differential%20equation)       | :white_check_mark: | [Write differential equations](Write%20differential%20equations)                                 | :white_check_mark: |
 | [Worked example: linear solution to differential equation](linear%20solution%20to%20differential%20equation) | :white_check_mark: | [Differential equations challenge](Differential%20equations%20challenge)| :eight_pointed_black_star: | 
+
+--- 
+
+- [ ] Slope fields
+
+| Learn | :grey_question: | Practice | :grey_question: |
+|-------|-----------------|----------|-----------------|
+| [Slope fields introduction](Slope%20fields%20introduction) | :white_check_mark: | | |
