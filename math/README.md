@@ -29,3 +29,4 @@
 
 
 - [ ] [GeoGebra: Fourier series and Discrete Fourier transform](https://www.geogebra.org/m/t9uspumz)
+- [ ] [:tv: What does the Laplace Transform really tell us? A visual explanation (plus applications)](https://www.youtube.com/watch?v=n2y7n6jw5d0)
