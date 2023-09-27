@@ -326,8 +326,8 @@ for j=1:30
     pause(1)
  end
 ```
-| | | |
-|-|-|-|
+| | | | |
+|-|-|-|-|
 | <img src=images/Matlab-Convergence_3.png width='' height='' > </img> | <img src=images/Matlab-Convergence_4.png width='' height='' > </img> | <img src=images/Matlab-Convergence_9.png width='' height='' > </img> | <img src=images/Matlab-Convergence_15.png width='' height='' > </img> |
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
