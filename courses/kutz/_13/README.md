@@ -16,6 +16,9 @@
     \\
    a_n = \frac{1}{T} \int_{0}^{T} x(t) e^{-in \omega_0 t} \mathit{dt} \\
     \\
+   \\
+   {\color{Yellow} Infinite Series - need it to converge } \\
+    \\
 \end{gather}
 ```
 
