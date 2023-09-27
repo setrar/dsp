@@ -23,7 +23,20 @@
 ```
 
 ```math
-   {\color{Purple} \mathbf{ Discrete \space Fourier \space series } } \\
+\begin{gather}
+   \\
+      {\color{Purple} \mathbf{ Discrete \space Fourier \space series } } \\
+    \\
+    \\
+    x[n] = x[n + N ] \\
+    \\
+   {\color{Green} \text{Fundamental Frequency} } \\
+    \\
+   \omega_0 = \frac{2\pi}{N} \\
+    \\
+   \\
+    \\
+\end{gather}
 ```
 
 
