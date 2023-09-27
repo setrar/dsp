@@ -22,5 +22,9 @@
 \end{gather}
 ```
 
+```math
+   {\color{Purple} \mathbf{ Discrete \space Fourier \space series } } \\
+```
+
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
