@@ -58,6 +58,8 @@
 \end{gather}
 ```
 
+- [ ] [Convergent Series](https://en.wikipedia.org/wiki/Convergent_series)
+
 ---
 
 ```math
