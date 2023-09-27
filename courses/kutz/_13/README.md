@@ -8,7 +8,7 @@
 ```math
 \begin{gather}
    \\
-   {\color{Cyan} Continuous \space Case } \\
+   {\color{Cyan} \text{Continuous Case} } \\
     \\
     \\
     x(t) = \sum_{k=-\infty}^{\infty} a_k e^{i k \omega_0 t} \\
