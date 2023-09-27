@@ -305,6 +305,11 @@ python src/orthogonal.py
 
 <img src=images/orthogonal.png width='' height='' > </img>
 
+```math
+   \color{Purple} \text{ Full Mathlab Code }
+```
+
+
 ```matlab
 n=200;
 x=linspace(0,2*pi,n);
