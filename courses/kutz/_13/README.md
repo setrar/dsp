@@ -8,7 +8,7 @@
 ```math
 \begin{gather}
    \\
-   {\color{Yellow} \mathbf{ Convergence \space of \space Fourier \space series } } \\
+   {\color{Cyan} Convergence \space of \space Fourier \space series } \\
     \\
     \\
     x(t) = \sum_{k=-\infty}^{\infty} a_k e^{i k \omega_0 t} \\
