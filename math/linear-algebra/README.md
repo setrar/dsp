@@ -16,3 +16,4 @@ and their representations in [vector spaces](https://en.wikipedia.org/wiki/Vecto
 
 [The core concept of linear algebra with a visuals-first approach.](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by [:tv: 3Blue1Brown](https://www.youtube.com/@3blue1brown)
 
+- [ ] [MatrixWorld](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra/blob/main/MatrixWorld.pdf)
