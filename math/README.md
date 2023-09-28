@@ -30,3 +30,11 @@
 
 - [ ] [GeoGebra: Fourier series and Discrete Fourier transform](https://www.geogebra.org/m/t9uspumz)
 - [ ] [:tv: What does the Laplace Transform really tell us? A visual explanation (plus applications)](https://www.youtube.com/watch?v=n2y7n6jw5d0)
+
+
+
+## Real Analysis
+
+- [ ] [18.100C | Fall 2012 | Undergraduate](https://ocw.mit.edu/courses/18-100c-real-analysis-fall-2012/)
+
+This course covers the fundamentals of mathematical analysis: convergence of sequences and series, continuity, differentiability, Riemann integral, sequences and series of functions, uniformity, and the interchange of limit operations.
