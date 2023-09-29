@@ -19,7 +19,7 @@
 | [STM32 I2S ADC DMA & Double Buffering - Digital Audio Processing with STM32 #4 - Phil's Lab #55](https://youtu.be/zlGSxZGwj-E) |
 | [Noise Gate - DSP with STM32 - Phil's Lab #58](https://youtu.be/q_Anc8KyrXI)                           |
 | Altitude Estimation with Pressure Sensors (STM32, Firmware + Hardware) - Phil's Lab #68|
-| Extended Kalman Filter Software Implementation - Sensor Fusion #4 - Phil's Lab #73|
+| [Extended Kalman Filter Software Implementation - Sensor Fusion #4 - Phil's Lab #73](https://www.youtube.com/watch?v=7HVPjkWOrLE) | MMSE Matrix |
 | Mini 6-Layer Mixed-Signal Hardware Design Walkthrough - Phil's Lab #78|
 | [Audio EQ Software Implementation (STM32) - Phil's Lab #89](https://youtu.be/4o-_gUht_Xc)                                        |
 | [The Simplest Digital Filter (STM32 Implementation) - Phil's Lab #92](https://youtu.be/1e_ZB8p5n6s)                              |
