@@ -26,6 +26,9 @@ local.properties
 # CDT-specific (C/C++ Development Tooling)
 .cproject
 
+# CDT-specific (C/C++ binaries)
+*.o
+
 # CDT- autotools
 .autotools
 
