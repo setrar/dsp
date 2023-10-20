@@ -19,7 +19,14 @@ brew install --cask utm
 🍺  utm was successfully installed!
 ```
 
+## :b: Launch
+
+- [ ] Go to the App Menu Bar
+
 <img src=images/UTM_app.png width=40% height=40% > </img>
+
+- [ ] When launched acknowledge the message
+
 <img src=images/UTM_launched.png width=40% height=40% > </img>
 
 
