@@ -34,3 +34,4 @@ brew install --cask utm
 
 - [ ] [homebrew utm](https://formulae.brew.sh/cask/utm)
 - [ ] [Securely run operating systems on your Mac](https://mac.getutm.app/)
+- [ ] [Download Windows 10 Disc Image (ISO File)](https://www.microsoft.com/en-us/software-download/windows10ISO)
