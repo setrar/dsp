@@ -19,6 +19,9 @@ brew install --cask utm
 🍺  utm was successfully installed!
 ```
 
+<img src=images/UTM_app.png width=40% height=40% > </img>
+<img src=images/UTM_launched.png width=40% height=40% > </img>
+
 
 # References
 
