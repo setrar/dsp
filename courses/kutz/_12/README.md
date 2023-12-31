@@ -330,4 +330,8 @@ for j=1:9
 |-|-|-|
 | <img src=images/Matlab-Convergence_3.png width='' height='' > </img> | <img src=images/Matlab-Convergence_4.png width='' height='' > </img> | <img src=images/Matlab-Convergence_9.png width='' height='' > </img> |
 
+```math
+\text{ These nine modes are the eigenfunctions of the LTI systems }
+```
+
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
