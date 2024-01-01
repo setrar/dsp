@@ -3,3 +3,27 @@
 ```math
 x(t) = \frac{1}{2\pi} \int_{-\infty}^{\infty} X(i\omega)e^{i \omega t} \mathit{d \omega} 
 ```
+
+
+
+To find the Fourier transform of \(x(t) = e^{-at} u(t)\), where \(a > 0\), we can use the definition of the Fourier transform:
+
+\[ X(\omega) = \int_{-\infty}^{\infty} x(t) \cdot e^{-i\omega t} \, dt \]
+
+Let's calculate the Fourier transform step by step:
+
+\[ X(\omega) = \int_{0}^{\infty} e^{-at} \cdot e^{-i\omega t} \, dt \]
+
+Now, combine the exponents:
+
+\[ X(\omega) = \int_{0}^{\infty} e^{-(a+i\omega)t} \, dt \]
+
+This is a standard integral. The result is given by:
+
+\[ X(\omega) = \frac{1}{a + i\omega} \]
+
+So, the Fourier transform of \(x(t) = e^{-at} u(t)\) is:
+
+\[ X(\omega) = \frac{1}{a + i\omega} \]
+
+This is the frequency-domain representation of the given time-domain signal. If you have further questions or if there's anything else I can help you with, feel free to ask!
