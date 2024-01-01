@@ -80,7 +80,7 @@ X(i\omega) = \int_0^{2\pi} x(t) e^{-i\omega t} \, dt
 x(t) = e^{-at} u(t) \; a > 0
 \\
 \\
-X(\omega) = \int_{-\infty}^{\infty} x(t) \cdot e^{-i\omega t} \, dt
+X(\omega) = \int_{-\infty}^{\infty} x(t) \cdot e^{-i\omega t} \, dt \qquad \text{ the u(t) is zero everywhere }
 \\
 \\
 X(\omega) = \int_{0}^{\infty} e^{-at} \cdot e^{-i\omega t} \, dt 
