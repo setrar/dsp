@@ -95,4 +95,5 @@ X(\omega) = \frac{1}{a + i\omega}
 \text{ So, the Fourier transform of } x(t) = e^{-at} u(t) \text{ is: }
 \\
 X(\omega) = \frac{1}{a + i\omega}
+\end{gather}
 ```
