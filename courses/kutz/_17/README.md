@@ -1,14 +1,18 @@
 :one::seven: [Introduction to Signal Processing: The Fourier Transsform (Lecture 17)](https://youtu.be/W2NkY8XlWOk)
 
 ```math
-x(t) = \frac{1}{2\pi} \int_{-\infty}^{\infty} X(i\omega)e^{i \omega t} \mathit{d \omega} 
+\begin{gather}
+x(t) = \frac{1}{2\pi} \int_{-\infty}^{\infty} X(i\omega)e^{i \omega t} \mathit{d \omega}
+\\
+X(\omega) = \int_{-\infty}^{\infty} x(t) \cdot e^{-i\omega t} \, dt
+\end{gather}
 ```
 
 
 
 To find the Fourier transform of \(x(t) = e^{-at} u(t)\), where \(a > 0\), we can use the definition of the Fourier transform:
 
-\[ X(\omega) = \int_{-\infty}^{\infty} x(t) \cdot e^{-i\omega t} \, dt \]
+$$ X(\omega) = \int_{-\infty}^{\infty} x(t) \cdot e^{-i\omega t} \, dt $$
 
 Let's calculate the Fourier transform step by step:
 
