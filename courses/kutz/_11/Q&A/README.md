@@ -1,3 +1,6 @@
+
+### do I need to understand how fourier series work when dealing with fourier transform?
+
 While it's not strictly necessary to fully understand Fourier series in order to use Fourier transform, having a basic understanding of Fourier series can provide valuable insights and context. Fourier series and Fourier transform are closely related concepts, and their understanding often complements each other.
 
 Here's a brief overview:
