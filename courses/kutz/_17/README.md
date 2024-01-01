@@ -71,7 +71,7 @@ X(i\omega) = \int_0^{2\pi} x(t) e^{-i\omega t} \, dt
 ```
 
 ```math
-{\color{BlueGreen} \text{ Example } }
+{\color{YellowGreen} \text{ Example } }
 ```
 
 ```math
