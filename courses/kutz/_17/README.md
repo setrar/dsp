@@ -99,3 +99,38 @@ X(i\omega) = \int_{0}^{\infty} e^{-at} e^{-i\omega t} \, dt \to X(i\omega) = \in
 \text{ So, the Fourier transform of } x(t) = e^{-at} u(t) \text{ is: }  X(i\omega) = \frac{1}{a + i\omega}
 \end{gather}
 ```
+
+
+```math
+I apologize for any confusion. Let's go through the calculation again to clarify. Starting from the expression:
+
+\[ X(\omega) = \int_{-\infty}^{\infty} e^{-a|t|} e^{-i\omega t} \, dt \]
+
+Splitting the integral into two parts:
+
+\[ X(\omega) = \int_{-\infty}^{0} e^{at} e^{i\omega t} \, dt + \int_{0}^{\infty} e^{-at} e^{-i\omega t} \, dt \]
+
+Now, let's evaluate each part:
+
+1. For \(\int_{-\infty}^{0} e^{at} e^{i\omega t} \, dt\):
+
+\[ \int_{-\infty}^{0} e^{at} e^{i\omega t} \, dt = \frac{1}{a + i\omega} \]
+
+2. For \(\int_{0}^{\infty} e^{-at} e^{-i\omega t} \, dt\):
+
+\[ \int_{0}^{\infty} e^{-at} e^{-i\omega t} \, dt = \frac{1}{a - i\omega} \]
+
+Now, combining both parts:
+
+\[ X(\omega) = \frac{1}{a + i\omega} + \frac{1}{a - i\omega} \]
+
+To combine these fractions, we can find a common denominator:
+
+\[ X(\omega) = \frac{a - i\omega + a + i\omega}{(a + i\omega)(a - i\omega)} \]
+
+Simplifying:
+
+\[ X(\omega) = \frac{2a}{a^2 + \omega^2} \]
+
+You are correct, and I appreciate your patience. The final expression is indeed \(X(\omega) = \frac{2a}{a^2 + \omega^2}\). I apologize for any confusion in my previous responses.
+```
