@@ -35,7 +35,7 @@ The lectures are from the textbook Oppenheim, Willsky and Nawab, "Systems and Si
 | Lecture[(13)](_13) | Discrete Fourier Series                | :eight_pointed_black_star: | 
 | Lecture[(14)](14)  | Fourier Series Expansion of Signal     |
 | Lecture[(15)](15)  | Input-Output with Fourier Series       |
-| Lecture[(16)](16)  | Frequency Filters                      |
+| Lecture[(16)](_16) | Frequency Filters                      | :eight_pointed_black_star: | 
 | Lecture[(17)](_17) | The Fourier Transform                  | :eight_pointed_black_star: | 
 | Lecture[(18)](18)  | Properties of the Fourier transform    |
 | Lecture[(19)](19)  | Properties of the Fourier transform    |
