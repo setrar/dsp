@@ -71,7 +71,7 @@ X(i\omega) = \int_0^{2\pi} x(t) e^{-i\omega t} \, dt
 ```
 
 ```math
-{\color{YellowGreen} \text{ Example } }
+{\color{YellowGreen} \text{ Example 1 } }
 ```
 
 ```math
@@ -100,37 +100,40 @@ X(i\omega) = \int_{0}^{\infty} e^{-at} e^{-i\omega t} \, dt \to X(i\omega) = \in
 \end{gather}
 ```
 
+```math
+{\color{YellowGreen} \text{ Example 2 } }
+```
+
 
 ```math
-I apologize for any confusion. Let's go through the calculation again to clarify. Starting from the expression:
-
-\[ X(\omega) = \int_{-\infty}^{\infty} e^{-a|t|} e^{-i\omega t} \, dt \]
-
-Splitting the integral into two parts:
-
-\[ X(\omega) = \int_{-\infty}^{0} e^{at} e^{i\omega t} \, dt + \int_{0}^{\infty} e^{-at} e^{-i\omega t} \, dt \]
-
-Now, let's evaluate each part:
-
-1. For \(\int_{-\infty}^{0} e^{at} e^{i\omega t} \, dt\):
-
-\[ \int_{-\infty}^{0} e^{at} e^{i\omega t} \, dt = \frac{1}{a + i\omega} \]
-
-2. For \(\int_{0}^{\infty} e^{-at} e^{-i\omega t} \, dt\):
-
-\[ \int_{0}^{\infty} e^{-at} e^{-i\omega t} \, dt = \frac{1}{a - i\omega} \]
-
-Now, combining both parts:
-
-\[ X(\omega) = \frac{1}{a + i\omega} + \frac{1}{a - i\omega} \]
-
-To combine these fractions, we can find a common denominator:
-
-\[ X(\omega) = \frac{a - i\omega + a + i\omega}{(a + i\omega)(a - i\omega)} \]
-
-Simplifying:
-
-\[ X(\omega) = \frac{2a}{a^2 + \omega^2} \]
-
-You are correct, and I appreciate your patience. The final expression is indeed \(X(\omega) = \frac{2a}{a^2 + \omega^2}\). I apologize for any confusion in my previous responses.
+\begin{gather}
+\\
+X(\omega) = \int_{-\infty}^{\infty} e^{-a|t|} e^{-i\omega t} \, dt 
+\\
+\text{ Splitting the integral into two parts: }
+\\
+X(\omega) = \int_{-\infty}^{0} e^{at} e^{i\omega t} \, dt + \int_{0}^{\infty} e^{-at} e^{-i\omega t} \, dt 
+\\
+\text{ Now, let's evaluate each part: }
+\\
+\text{ 1. For } \int_{-\infty}^{0} e^{at} e^{i\omega t} \, dt :
+\\
+ \int_{-\infty}^{0} e^{at} e^{i\omega t} \, dt = \frac{1}{a + i\omega} 
+\\
+\text{ 2. For } \int_{0}^{\infty} e^{-at} e^{-i\omega t} \, dt :
+\\
+\int_{0}^{\infty} e^{-at} e^{-i\omega t} \, dt = \frac{1}{a - i\omega} 
+\\
+\text{ Now, combining both parts: }
+\\
+X(\omega) = \frac{1}{a + i\omega} + \frac{1}{a - i\omega}
+\\
+\text{ To combine these fractions, we can find a common denominator: }
+\\
+X(\omega) = \frac{a - i\omega + a + i\omega}{(a + i\omega)(a - i\omega)}
+\\
+\text{ Simplifying: }
+\\
+X(\omega) = \frac{2a}{a^2 + \omega^2}
+\end{gather}
 ```
