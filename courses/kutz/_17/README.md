@@ -58,10 +58,13 @@ X(i\omega) = \int_0^{2\pi} x(t) e^{-i\omega t} \, dt
 \\
 {\color{BlueGreen} \text{ 1. } } \qquad \qquad \qquad \qquad \qquad \qquad 
 \\
-\int_{-\infty}^{\infty} |x(t)| \, dt < infty
+\int_{-\infty}^{\infty} |x(t)| \, dt < \infty
 \\
 \\
-{\color{BlueGreen} \text{ 2. } } \qquad \qquad \qquad \qquad \qquad \qquad 
+{\color{BlueGreen} \text{ 2. Finite number of max/min } } \qquad \qquad \qquad \qquad \qquad \qquad 
+\\
+\\
+{\color{BlueGreen} \text{ 3. Finite number of discontinuities } } \qquad \qquad \qquad \qquad \qquad \qquad 
 \\
 \end{gather}
 ```
