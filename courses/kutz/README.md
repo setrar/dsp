@@ -33,7 +33,7 @@ The lectures are from the textbook Oppenheim, Willsky and Nawab, "Systems and Si
 | Lecture[(11)](_11) | Fourier Series                         | :white_check_mark: | 
 | Lecture[(12)](_12) | Convergence of Fourier Series          | :white_check_mark: | [:scroll:](_12/fourier_approximation.jl.ipynb) |
 | Lecture[(13)](_13) | Discrete Fourier Series                | :eight_pointed_black_star: | 
-| Lecture[(14)](14)  | Fourier Series Expansion of Signal     |
+| Lecture[(14)](_14) | Fourier Series Expansion of Signal     | :eight_pointed_black_star: | 
 | Lecture[(15)](15)  | Input-Output with Fourier Series       |
 | Lecture[(16)](_16) | Frequency Filters                      | :eight_pointed_black_star: | [:scroll:](_16/filter.ipynb) |
 | Lecture[(17)](_17) | The Fourier Transform                  | :eight_pointed_black_star: | [:scroll:](_17/transform_examples.ipynb) |
