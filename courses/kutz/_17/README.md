@@ -70,27 +70,29 @@ X(i\omega) = \int_0^{2\pi} x(t) e^{-i\omega t} \, dt
 \end{gather}
 ```
 
+```math
+{\color{BlueGreen} \text{ Example } }
+```
 
-
-
-To find the Fourier transform of \(x(t) = e^{-at} u(t)\), where \(a > 0\), we can use the definition of the Fourier transform:
-
-$$ X(\omega) = \int_{-\infty}^{\infty} x(t) \cdot e^{-i\omega t} \, dt $$
-
-Let's calculate the Fourier transform step by step:
-
-\[ X(\omega) = \int_{0}^{\infty} e^{-at} \cdot e^{-i\omega t} \, dt \]
-
-Now, combine the exponents:
-
-\[ X(\omega) = \int_{0}^{\infty} e^{-(a+i\omega)t} \, dt \]
-
-This is a standard integral. The result is given by:
-
-\[ X(\omega) = \frac{1}{a + i\omega} \]
-
-So, the Fourier transform of \(x(t) = e^{-at} u(t)\) is:
-
-\[ X(\omega) = \frac{1}{a + i\omega} \]
-
-This is the frequency-domain representation of the given time-domain signal. If you have further questions or if there's anything else I can help you with, feel free to ask!
+```math
+\begin{gather}
+\\
+x(t) = e^{-at} u(t) \; a > 0
+\\
+\\
+X(\omega) = \int_{-\infty}^{\infty} x(t) \cdot e^{-i\omega t} \, dt
+\\
+\\
+X(\omega) = \int_{0}^{\infty} e^{-at} \cdot e^{-i\omega t} \, dt 
+\\
+\\
+X(\omega) = \int_{0}^{\infty} e^{-(a+i\omega)t} \, dt 
+\\
+\text{ This is a standard integral. The result is given by: }
+\\
+X(\omega) = \frac{1}{a + i\omega} 
+\\
+\text{ So, the Fourier transform of } x(t) = e^{-at} u(t) \text{ is: }
+\\
+X(\omega) = \frac{1}{a + i\omega}
+```
