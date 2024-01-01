@@ -49,6 +49,25 @@ X(i\omega) = \int_0^{2\pi} x(t) e^{-i\omega t} \, dt
 \end{gather}
 ```
 
+```math
+{\color{Yellow} \text{ Convergence } }
+```
+
+```math
+\begin{gather}
+\\
+{\color{BlueGreen} \text{ 1. } } \qquad \qquad \qquad \qquad \qquad \qquad 
+\\
+\int_{-\infty}^{\infty} |x(t)| \, dt < infty
+\\
+\\
+{\color{BlueGreen} \text{ 2. } } \qquad \qquad \qquad \qquad \qquad \qquad 
+\\
+\end{gather}
+```
+
+
+
 
 To find the Fourier transform of \(x(t) = e^{-at} u(t)\), where \(a > 0\), we can use the definition of the Fourier transform:
 
