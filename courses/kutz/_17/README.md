@@ -10,6 +10,7 @@ x(t) = \frac{1}{2\pi} \int_{-\infty}^{\infty} X(i\omega) e^{i \omega t} \mathit{
 \\
 \\
 X(i\omega) = \int_{-\infty}^{\infty} x(t) e^{-i\omega t} \, dt
+\\
 \end{gather}
 ```
 
@@ -20,13 +21,33 @@ X(i\omega) = \int_{-\infty}^{\infty} x(t) e^{-i\omega t} \, dt
 
 ```math
 \begin{gather}
+\\
 x(t) \; \underrightarrow{ \mathscr{F} } \; X(i\omega)
 \\
 \\
 X(i\omega) \; \underrightarrow{ \mathscr{F}^{-1}}  \; x(t)
+\\
 \end{gather}
 ```
 
+```math
+{\color{Yellow} \text{ The Fourier transform } }
+```
+
+```math
+\begin{gather}
+\\
+{\color{Blue} \text{ In practice } }
+\\
+X(i\omega) = \int_{-\infty}^{\infty} x(t) e^{-i\omega t} \, dt
+\\
+\\
+X(i\omega) = \int_0^{2\pi} x(t) e^{-i\omega t} \, dt
+\\
+\\
+{\color{Purple} \text{ Scale domain } t \in | -T, T | \text{ to } t \in | 0, 2\pi | }
+\end{gather}
+```
 
 
 To find the Fourier transform of \(x(t) = e^{-at} u(t)\), where \(a > 0\), we can use the definition of the Fourier transform:
