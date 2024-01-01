@@ -20,7 +20,7 @@ X(i\omega) = \int_{-\infty}^{\infty} x(t) e^{-i\omega t} \, dt
 
 ```math
 \begin{gather}
-x(t) \underline{ \mathcal{F} } > \; X(i\omega)
+x(t) \underrightarrow{ \mathcal{F} } \; X(i\omega)
 \\
 \\
 X(i\omega) \underrightarrow{ \mathcal{F}^{-1}}  \; x(t)
