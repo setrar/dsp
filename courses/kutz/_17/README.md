@@ -89,13 +89,11 @@ X(i\omega) = \int_{-\infty}^{\infty} e^{-at} u(t) e^{-i\omega t} \, dt
 \qquad \text{ but the u(t) is zero everywhere until it's 1 then }
 \\
 \\
-X(i\omega) = \int_{0}^{\infty} e^{-at} e^{-i\omega t} \, dt 
+X(i\omega) = \int_{0}^{\infty} e^{-at} e^{-i\omega t} \, dt \to X(i\omega) = \int_{0}^{\infty} e^{-(a+i\omega)t} \, dt 
 \\
 \\
-X(i\omega) = \int_{0}^{\infty} e^{-(a+i\omega)t} \, dt 
-\\
-\\
-\text{ This is a standard integral. The result is given by: } X(i\omega) = \frac{1}{a + i\omega} 
+\text{ This is a standard integral. }
+\text{ The result is given by: } X(i\omega) = \frac{1}{a + i\omega} 
 \\
 \\
 \text{ So, the Fourier transform of } x(t) = e^{-at} u(t) \text{ is: }  X(i\omega) = \frac{1}{a + i\omega}
