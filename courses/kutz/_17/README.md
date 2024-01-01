@@ -14,6 +14,20 @@ X(i\omega) = \int_{-\infty}^{\infty} x(t) e^{-i\omega t} \, dt
 ```
 
 
+```math
+{\color{Yellow} \text{ The Fourier transform } }
+```
+
+```math
+\begin{gather}
+x(t) = \underline{ \mathcal{F} } X(i\omega)
+\\
+\\
+X(i\omega) = \underline{ \mathcal{F}^{-1} } x(t)
+\end{gather}
+```
+
+
 
 To find the Fourier transform of \(x(t) = e^{-at} u(t)\), where \(a > 0\), we can use the definition of the Fourier transform:
 
