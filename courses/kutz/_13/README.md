@@ -39,5 +39,22 @@
 \end{gather}
 ```
 
+```math
+\begin{gather}
+   \\
+      {\color{Purple} \mathbf{ Discrete \space Fourier \space series } } \\
+    \\
+    \\
+    \phi[n] = e^{ik\omega_0n} \qquad k = 0, \pm 1, \pm 2,  \\
+    \\
+   {\color{Green} \text{All signals with period N} } \\
+    \\
+   {\color{Pink} \text{But for discrete, signals are identical that differ by } 2\pi } \\
+    \\
+   \\
+    \\
+\end{gather}
+```
+
 
 ## [:back: ](../#round_pushpin-signal-processing-an-introduction)
