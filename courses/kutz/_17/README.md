@@ -137,3 +137,5 @@ X(\omega) = \frac{a - i\omega + a + i\omega}{(a + i\omega)(a - i\omega)}
 X(\omega) = \frac{2a}{a^2 + \omega^2}
 \end{gather}
 ```
+
+## [:back: ](../#round_pushpin-signal-processing-an-introduction)
