@@ -1,7 +1,7 @@
 :one::seven: [Introduction to Signal Processing: The Fourier Transsform (Lecture 17)](https://youtu.be/W2NkY8XlWOk)
 
 ```math
-{color{Yellow} \text{ The Fourier transform } }
+{\color{Yellow} \text{ The Fourier transform } }
 ```
 
 ```math
