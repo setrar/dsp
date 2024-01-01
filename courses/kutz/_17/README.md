@@ -37,7 +37,7 @@ X(i\omega) \; \underrightarrow{ \mathscr{F}^{-1}}  \; x(t)
 ```math
 \begin{gather}
 \\
-{\color{Blue} \text{ In practice } }
+{\color{BlueGreen} \text{ In practice } } \qquad \qquad \qquad \qquad \qquad \qquad 
 \\
 X(i\omega) = \int_{-\infty}^{\infty} x(t) e^{-i\omega t} \, dt
 \\
