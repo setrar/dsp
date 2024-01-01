@@ -46,6 +46,7 @@ X(i\omega) = \int_0^{2\pi} x(t) e^{-i\omega t} \, dt
 \\
 \\
 {\color{Purple} \text{ Scale domain } t \in | -T, T | \text{ to } t \in | 0, 2\pi | }
+\\
 \end{gather}
 ```
 
@@ -64,7 +65,7 @@ X(i\omega) = \int_0^{2\pi} x(t) e^{-i\omega t} \, dt
 {\color{BlueGreen} \text{ 2. Finite number of max/min } } \qquad \qquad 
 \\
 \\
-{\color{BlueGreen} \text{ 3. Finite number of discontinuities } } \qquad \qquad 
+{\color{BlueGreen} \text{ 3. Finite number of discontinuities } } \qquad 
 \\
 \end{gather}
 ```
