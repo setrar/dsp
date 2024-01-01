@@ -80,23 +80,25 @@ X(i\omega) = \int_0^{2\pi} x(t) e^{-i\omega t} \, dt
 x(t) = e^{-at} u(t) \; a > 0
 \\
 \\
-X(\omega) = \int_{-\infty}^{\infty} x(t) e^{-i\omega t} \, dt 
+X(i\omega) = \int_{-\infty}^{\infty} x(t) e^{-i\omega t} \, dt 
 \\
 \\
-X(\omega) = \int_{-\infty}^{\infty} e^{-at} u(t) e^{-i\omega t} \, dt \qquad \text{ with the u(t) is zero everywhere }
+X(i\omega) = \int_{-\infty}^{\infty} e^{-at} u(t) e^{-i\omega t} \, dt
+\\
+\qquad \text{ with the u(t) is zero everywhere }
 \\
 \\
-X(\omega) = \int_{0}^{\infty} e^{-at} \cdot e^{-i\omega t} \, dt 
+X(i\omega) = \int_{0}^{\infty} e^{-at} e^{-i\omega t} \, dt 
 \\
 \\
-X(\omega) = \int_{0}^{\infty} e^{-(a+i\omega)t} \, dt 
+X(i\omega) = \int_{0}^{\infty} e^{-(a+i\omega)t} \, dt 
 \\
 \text{ This is a standard integral. The result is given by: }
 \\
-X(\omega) = \frac{1}{a + i\omega} 
+X(i\omega) = \frac{1}{a + i\omega} 
 \\
 \text{ So, the Fourier transform of } x(t) = e^{-at} u(t) \text{ is: }
 \\
-X(\omega) = \frac{1}{a + i\omega}
+X(i\omega) = \frac{1}{a + i\omega}
 \end{gather}
 ```
