@@ -16,7 +16,7 @@ Understanding Fourier series helps in grasping the idea that any periodic signal
 
 In practice, when dealing with Fourier transform, you often encounter expressions like:
 
-\[ X(\omega) = \int_{-\infty}^{\infty} x(t) \cdot e^{-i \omega t} \, dt \]
+$$ X(\omega) = \int_{-\infty}^{\infty} x(t) \cdot e^{-i \omega t} \, dt $$
 
 Having a conceptual understanding of how sinusoidal components contribute to a signal (as learned from Fourier series) can aid in interpreting and working with these expressions.
 
