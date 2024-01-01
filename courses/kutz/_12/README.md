@@ -331,6 +331,12 @@ for j=1:9
 | <img src=images/Matlab-Convergence_3.png width='' height='' > </img> | <img src=images/Matlab-Convergence_4.png width='' height='' > </img> | <img src=images/Matlab-Convergence_9.png width='' height='' > </img> |
 
 ```math
+   \color{Salmon} \text{ Full Julia Code }
+```
+
+[fourier_approximation](fourier_approximation.jl.ipynb)
+
+```math
 \text{ These nine modes are the eigenfunctions of the LTI systems }
 ```
 
