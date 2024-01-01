@@ -1,3 +1,5 @@
+# Q&A
+
 
 ### do I need to understand how fourier series work when dealing with fourier transform?
 
