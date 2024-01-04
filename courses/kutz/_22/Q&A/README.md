@@ -1,6 +1,6 @@
 
 
-The Discrete-Time Fourier Transform (DTFT) is defined for signals that are absolutely summable. In other words, if $x[n]$ is a discrete-time signal, its DTFT \(X(e^{j\omega})\) exists if the sum \(\sum_{n=-\infty}^{\infty} |x[n]|\) is finite.
+The Discrete-Time Fourier Transform (DTFT) is defined for signals that are absolutely summable. In other words, if $x[n]$ is a discrete-time signal, its DTFT $X(e^{j\omega})$ exists if the sum $\sum_{n=-\infty}^{\infty} |x[n]|$ is finite.
 
 Signals that do not have a finite sum of absolute values, i.e., signals for which the sum diverges, do not have a well-defined DTFT. Such signals are not absolutely summable, and the DTFT integral does not converge.
 
