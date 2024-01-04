@@ -18,7 +18,7 @@ Numerical methods and scientific computing, data analysis and dimensionality red
 
 The lectures are from the textbook Oppenheim, Willsky and Nawab, "Systems and Signals".
 
-|  :hash:            |  Episodes                              | :grey_question:    | :scroll: | Q&A |
+|  :hash:            |  Episodes                              | :grey_question:    | :scroll: | &#x1F5E3; |
 |--------------------|----------------------------------------|--------------------|------|-|
 | Lecture[(1)](1)    | An Overview                            | :white_check_mark: | 
 | Lecture[(2)](2)    | Basic Signals                          | :white_check_mark: | 
