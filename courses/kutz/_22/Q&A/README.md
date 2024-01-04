@@ -7,12 +7,12 @@ Signals that do not have a finite sum of absolute values, i.e., signals for whic
 Here are some examples of signals that do not have a DTFT:
 
 1. **Unit Step Function (u[n]):**
-   $$
-   u[n] = \begin{cases} 
-   1 & \text{if } n \geq 0 \\
-   0 & \text{if } n < 0 
-   \end{cases}
-   $$
+```math
+u[n] = \begin{cases} 
+1 & \text{if } n \geq 0 \\
+0 & \text{if } n < 0 
+\end{cases}
+```
    The sum of the absolute values of this signal ($\sum_{n=-\infty}^{\infty} |u[n]|$) is infinite, and therefore, the DTFT does not exist.
 
 2. **Exponential Growth (e.g., $x[n] = a^n$ where $|a| \geq 1$):**
