@@ -18,8 +18,8 @@ Numerical methods and scientific computing, data analysis and dimensionality red
 
 The lectures are from the textbook Oppenheim, Willsky and Nawab, "Systems and Signals".
 
-|  :hash:            |  Episodes                              | :grey_question:    | :scroll:  Script |
-|--------------------|----------------------------------------|--------------------|------|
+|  :hash:            |  Episodes                              | :grey_question:    | :scroll:  Script | Q&A |
+|--------------------|----------------------------------------|--------------------|------|-|
 | Lecture[(1)](1)    | An Overview                            | :white_check_mark: | 
 | Lecture[(2)](2)    | Basic Signals                          | :white_check_mark: | 
 | Lecture[(3)](3)    | Exponential Signals                    | :white_check_mark: | 
@@ -36,7 +36,7 @@ The lectures are from the textbook Oppenheim, Willsky and Nawab, "Systems and Si
 | Lecture[(14)](_14) | Fourier Series Expansion of Signal     | :eight_pointed_black_star: | 
 | Lecture[(15)](15)  | Input-Output with Fourier Series       |
 | Lecture[(16)](_16) | Frequency Filters                      | :eight_pointed_black_star: | [:scroll:](_16/filter.ipynb) |
-| Lecture[(17)](_17) | The Fourier Transform                  | :eight_pointed_black_star: | [:scroll:](_17/transform_examples.ipynb) |
+| Lecture[(17)](_17) | The Fourier Transform                  | :eight_pointed_black_star: | [:scroll:](_17/transform_examples.ipynb) | &#x2753;
 | Lecture[(18)](18)  | Properties of the Fourier transform    |
 | Lecture[(19)](19)  | Properties of the Fourier transform    |
 | Lecture[(20)](_20) | Convolutions and Signal Modulation     |
