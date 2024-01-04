@@ -1,3 +1,7 @@
+
+
+### how many transforms for dealing with signals?
+
 There are several transforms used in signal processing to analyze and represent signals in different domains. Here are some of the most commonly used transforms:
 
 1. **Fourier Transform (FT):**
