@@ -1,0 +1,1 @@
+- [ ] [Music 206: Computational Acoustic Modeling for Sound](http://musicweb.ucsd.edu/~trsmyth/intro206/intro206.pdf)
