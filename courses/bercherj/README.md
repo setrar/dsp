@@ -1,4 +1,4 @@
-# jf Bercher
+# A Journey in Signal Processing with Jupyter by JEAN-FRANÇOIS BERCHER
 
 
 # References
