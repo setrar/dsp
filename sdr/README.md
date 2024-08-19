@@ -1,6 +1,8 @@
 # SDR - Software Defined Radio
 
 
+- [ ] [New upgrade Xilinx Development Board ZYNQ7000 XC7Z010 XC7Z020 with Xilinx Programmer USB HDMI-compatible Gigabit Ethernet PYNQ](https://www.aliexpress.com/item/1005006691405638.html)
+
 # References
 
 - [ ] [Pico SDR](https://blog.porucha.net/2024/pico-sdr/)
