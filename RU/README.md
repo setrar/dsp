@@ -4,7 +4,7 @@
 
 The market for Radio Units (RUs), particularly within the 5G and Open Radio Access Network (O-RAN) segments, is experiencing significant growth. 
 
-1. **Market Size and Growth**: The 5G Radio Unit market is projected to see substantial growth, driven by the increasing demand for high-speed connectivity and the expansion of 5G networks globally. This market includes various segments such as Massive MIMO, Beamforming, Small Cell technologies, and spans different frequency bands like Sub-6 GHz and mmWave[(Markwide Research)](https://markwideresearch.com/5g-radio-unit-market/)【18†source】.
+1. **Market Size and Growth**: The 5G Radio Unit market is projected to see substantial growth, driven by the increasing demand for high-speed connectivity and the expansion of 5G networks globally. This market includes various segments such as Massive MIMO, Beamforming, Small Cell technologies, and spans different frequency bands like Sub-6 GHz and mmWave [(Markwide Research)](https://markwideresearch.com/5g-radio-unit-market/)【18†source】.
 
 2. **Key Drivers**: The proliferation of smartphones, high-speed internet connectivity, and the rising need for advanced network infrastructure are major factors contributing to the growth of the Remote Radio Unit (RRU) market. As mobile data traffic increases and internet coverage requirements expand, service providers are compelled to install more high-capacity stations【17†source】.
 
