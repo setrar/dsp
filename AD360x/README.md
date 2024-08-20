@@ -1,5 +1,19 @@
 # AD936x
 
+The name "AD9361" follows the naming convention typically used by Analog Devices for their products. Here’s a breakdown of what each part of the name might signify:
+
+1. **"AD" Prefix**:
+   - The "AD" prefix stands for Analog Devices, the company that manufactures the chip. This prefix is common across many of their products, indicating the brand.
+
+2. **"936" Series Number**:
+   - The "936" likely represents a series or family of products within Analog Devices' portfolio. It is common for companies to use a series number to group related products that share similar functionalities or technologies. For instance, the AD9361, AD9363, and AD9364 are all part of the same product family of RF transceivers.
+
+3. **"1" Model Identifier**:
+   - The final digit "1" often denotes a specific model within the series. In this case, it distinguishes the AD9361 from other models in the same series, such as the AD9363 or AD9364, which have different specifications or capabilities.
+
+### Summary:
+The name "AD9361" is structured according to Analog Devices' internal naming conventions, where "AD" stands for Analog Devices, "936" indicates the product series, and "1" specifies the model within that series. This systematic naming helps differentiate between different products and their specifications within the company's extensive portfolio.
+
 ## [AD9361](https://www.analog.com/en/products/ad9361.html)
 
 The AD9361 is a highly integrated radio frequency (RF) agile transceiver designed by Analog Devices. It is widely used in software-defined radio (SDR) applications and in various wireless communication systems, including 4G LTE, 5G, and industrial, scientific, and medical (ISM) bands.
@@ -122,3 +136,37 @@ There isn't a direct open-source equivalent to the AD9361, but there are some op
 ### Conclusion
 
 While there is no direct open-source alternative to the AD9361 in terms of an integrated RF transceiver with the same level of performance, platforms like LimeSDR, HackRF One, bladeRF, and Red Pitaya offer open-source or community-supported ecosystems that can serve as viable alternatives depending on the application's requirements. Each option comes with its trade-offs in terms of performance, flexibility, and ease of use.
+
+## what is the difference between the AD9363 and AD9361 ?
+
+The AD9361 and AD9363 are both RF agile transceivers developed by Analog Devices, but they are designed for slightly different applications and have distinct specifications. Here’s a comparison of the two:
+
+### 1. **Frequency Range**:
+   - **AD9361**: The AD9361 operates over a broad frequency range from 70 MHz to 6.0 GHz. This wide range makes it suitable for various wireless communication applications, including cellular networks, ISM bands, and more.
+   - **AD9363**: The AD9363, on the other hand, has a more limited frequency range of 325 MHz to 3.8 GHz. It is designed for applications that do not require the extended lower and upper ends of the spectrum.
+
+### 2. **Bandwidth**:
+   - **AD9361**: It supports channel bandwidths from less than 200 kHz to 56 MHz, allowing for wideband communications across different standards.
+   - **AD9363**: The AD9363 supports channel bandwidths up to 20 MHz. This narrower bandwidth is adequate for many common wireless communication applications but is not as versatile as the AD9361.
+
+### 3. **Applications**:
+   - **AD9361**: Due to its broader frequency range and higher bandwidth support, the AD9361 is used in a wide variety of applications, including high-performance software-defined radios (SDR), military and defense communications, and complex wireless infrastructure.
+   - **AD9363**: The AD9363 is typically used in applications that require lower bandwidth and operate within its frequency range, such as simpler wireless communication devices and SDR applications that do not require the full capabilities of the AD9361.
+
+### 4. **Power Consumption**:
+   - **AD9361**: The AD9361, with its more extensive capabilities, generally consumes more power, which is typical for more complex and high-performance devices.
+   - **AD9363**: The AD9363 is designed to be a lower-power alternative, making it suitable for applications where power efficiency is a critical concern.
+
+### 5. **Cost**:
+   - **AD9361**: As a more capable and versatile device, the AD9361 is typically more expensive than the AD9363.
+   - **AD9363**: The AD9363 is a cost-reduced version of the AD9361, offering a more affordable solution for applications that don’t need the full range of features provided by the AD9361.
+
+### 6. **Target Market**:
+   - **AD9361**: It is aimed at high-end, feature-rich wireless communication systems that require extensive configurability and performance.
+   - **AD9363**: The AD9363 is targeted towards mid-range applications where cost, power consumption, and a narrower set of requirements are prioritized.
+
+### Summary
+
+The AD9361 is a more versatile and higher-performance transceiver compared to the AD9363, with broader frequency and bandwidth capabilities. The AD9363 is a cost-effective, lower-power alternative suitable for simpler or more specific wireless communication applications. The choice between the two depends on the specific needs of the application, with the AD9361 being preferred for high-end use cases and the AD9363 for more constrained, cost-sensitive projects.
+
+For more detailed information, you can refer to the respective datasheets and product documentation provided by Analog Devices.
