@@ -109,3 +109,92 @@ Once the block is built and installed, you can use it in GNU Radio Companion (GR
 
 ### Summary
 This method integrates Julia into a GNU Radio block, allowing you to leverage Julia's capabilities within GNU Radio. The core idea is to create a GNU Radio block in C++ and use Julia to perform the heavy lifting in signal processing or other tasks.
+
+## Logs
+
+```
+sudo make install
+```
+> Returns:
+```powershell
+Password:
+[ 20%] Built target gnuradio-julia_mod
+[ 20%] Built target pygen_apps_9a6dd283c3de653fbca500f9721f634f
+[ 30%] Built target doxygen_target
+[ 50%] Built target pygen_python_julia_mod_7b62685ea28558eaa473dbf40c75376d
+[ 50%] Built target copy_module_for_tests
+[ 60%] Built target extracted_docstrings
+[ 70%] Built target julia_mod_docstrings
+[100%] Built target julia_mod_python
+Install the project...
+-- Install configuration: "Release"
+-- Installing: /usr/local/lib/cmake/gnuradio-julia_mod/gnuradio-julia_modConfig.cmake
+-- Installing: /usr/local/include/gnuradio/julia_mod/api.h
+-- Installing: /usr/local/include/gnuradio/julia_mod/julia_block.h
+-- Installing: /usr/local/lib/libgnuradio-julia_mod.1.0.0.0.dylib
+-- Installing: /usr/local/lib/libgnuradio-julia_mod.1.0.0.dylib
+-- Installing: /usr/local/lib/libgnuradio-julia_mod.dylib
+-- Installing: /usr/local/lib/cmake/gnuradio-julia_mod/gnuradio-julia_modTargets.cmake
+-- Installing: /usr/local/lib/cmake/gnuradio-julia_mod/gnuradio-julia_modTargets-release.cmake
+-- Installing: /usr/local/lib/cmake/gnuradio-julia_mod/gnuradio-julia_modConfig.cmake
+-- Installing: /usr/local/share/doc/gr-julia_mod/xml
+-- Installing: /usr/local/share/doc/gr-julia_mod/xml/index.xml
+-- Installing: /usr/local/share/doc/gr-julia_mod/xml/combine.xslt
+-- Installing: /usr/local/share/doc/gr-julia_mod/xml/doxyfile.xsd
+-- Installing: /usr/local/share/doc/gr-julia_mod/xml/compound.xsd
+-- Installing: /usr/local/share/doc/gr-julia_mod/xml/namespacestd.xml
+-- Installing: /usr/local/share/doc/gr-julia_mod/xml/index.xsd
+-- Installing: /usr/local/share/doc/gr-julia_mod/xml/xml.xsd
+-- Installing: /usr/local/share/doc/gr-julia_mod/xml/Doxyfile.xml
+-- Installing: /usr/local/share/doc/gr-julia_mod/html
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/tab_bd.png
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/splitbar.png
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/graph_legend.svg
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/doxygen.css
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/graph_legend.md5
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/index.html
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/sync_off.png
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/doxygen.svg
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/sync_on.png
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/tab_hd.png
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/doc.svg
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/bc_s.png
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/nav_g.png
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/nav_f.png
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/tabs.css
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/closed.png
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/minusd.svg
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/splitbard.png
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/folderopend.svg
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/tab_s.png
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/tab_a.png
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/plusd.svg
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/plus.svg
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/tab_b.png
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/nav_fd.png
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/navtree.css
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/navtree.js
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/graph_legend.html
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/tab_sd.png
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/navtreeindex0.js
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/folderopen.svg
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/folderclosed.svg
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/nav_hd.png
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/nav_h.png
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/tab_h.png
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/folderclosedd.svg
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/docd.svg
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/resize.js
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/open.png
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/navtreedata.js
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/dynsections.js
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/tab_ad.png
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/minus.svg
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/bc_sd.png
+-- Installing: /usr/local/share/doc/gr-julia_mod/html/jquery.js
+-- Installing: /usr/local/lib/python3.12/site-packages/gnuradio/julia_mod/__init__.py
+-- Installing: /usr/local/lib/python3.12/site-packages/gnuradio/julia_mod/__init__.pyc
+-- Installing: /usr/local/lib/python3.12/site-packages/gnuradio/julia_mod/__init__.pyo
+-- Installing: /usr/local/lib/python3.12/site-packages/gnuradio/julia_mod/julia_mod_python.cpython-312-darwin.so
+-- Installing: /usr/local/share/gnuradio/grc/blocks/julia_mod_julia_block.block.yml
+```
