@@ -85,6 +85,12 @@ target_link_libraries(${PROJECT_NAME} ${Julia_LIBRARY})
 
 3. **Configure and Build with CMake:**
 
+- set the environment variable
+
+```
+export JULIA_HOME=$HOME/.julia/juliaup/julia-1.10.4+0.aarch64.apple.darwin14
+```
+
    - Navigate to your project directory and run:
      ```bash
      mkdir build
