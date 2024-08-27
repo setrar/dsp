@@ -113,6 +113,76 @@ This method integrates Julia into a GNU Radio block, allowing you to leverage Ju
 ## Logs
 
 ```
+cmake -DCMAKE_INSTALL_PREFIX=/opt/homebrew ..
+```
+> Returns
+```powershell
+-- The CXX compiler identification is AppleClang 15.0.0.15000309
+-- The C compiler identification is AppleClang 15.0.0.15000309
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE  
+-- Found PkgConfig: /opt/local/bin/pkg-config (found version "0.29.2") 
+-- Checking for module 'gmp'
+--   Found gmp, version 6.3.0
+-- Found GMP: /opt/local/lib/libgmpxx.dylib  
+-- Using GMP.
+-- Found MPLIB: /opt/local/lib/libgmpxx.dylib  
+-- Found Boost: /opt/homebrew/lib/cmake/Boost-1.85.0/BoostConfig.cmake (found suitable version "1.85.0", minimum required is "1.85.0") found components: date_time program_options system regex thread 
+-- Found Volk: Volk::volk  
+-- User set python executable /opt/homebrew/Cellar/gnuradio/3.10.9.2_8/libexec/venv/bin/python
+-- Found PythonInterp: /opt/homebrew/Cellar/gnuradio/3.10.9.2_8/libexec/venv/bin/python (found version "3.12.4") 
+-- Found PythonLibs: /opt/local/Library/Frameworks/Python.framework/Versions/3.12/lib/libpython3.12.dylib (found suitable exact version "3.12.1") 
+-- Performing Test HAVE_VISIBILITY_HIDDEN
+-- Performing Test HAVE_VISIBILITY_HIDDEN - Success
+-- Performing Test HAVE_WARN_SIGN_COMPARE
+-- Performing Test HAVE_WARN_SIGN_COMPARE - Success
+-- Performing Test HAVE_WARN_ALL
+-- Performing Test HAVE_WARN_ALL - Success
+-- Performing Test HAVE_WARN_NO_UNINITIALIZED
+-- Performing Test HAVE_WARN_NO_UNINITIALIZED - Success
+-- Found Git: /opt/local/bin/git  
+-- Found Doxygen: /opt/local/bin/doxygen (found version "1.9.8") found components: doxygen dot 
+-- Using install prefix: /opt/homebrew
+-- Building for version: 1.0.0.0 / 1.0.0
+-- No C++ unit tests... skipping
+<string>:3: SyntaxWarning: invalid escape sequence '\W'
+-- PYTHON and GRC components are enabled
+-- Python checking for pygccxml - found
+-- Found PythonInterp: /opt/homebrew/Cellar/gnuradio/3.10.9.2_8/libexec/venv/bin/python  
+-- Found PythonLibs: /opt/local/Library/Frameworks/Python.framework/Versions/3.12/lib/libpython3.12.dylib
+-- Performing Test HAS_FLTO_THIN
+-- Performing Test HAS_FLTO_THIN - Success
+-- Found pybind11: /opt/homebrew/include (found version "2.13.5")
+<string>:3: SyntaxWarning: invalid escape sequence '\W'
+-- Configuring done
+CMake Warning (dev):
+  Policy CMP0068 is not set: RPATH settings on macOS do not affect
+  install_name.  Run "cmake --help-policy CMP0068" for policy details.  Use
+  the cmake_policy command to set the policy and suppress this warning.
+
+  For compatibility with older versions of CMake, the install_name fields for
+  the following targets are still affected by RPATH settings:
+
+   gnuradio-julia_mod
+
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Generating done
+-- Build files have been written to: /Users/valiha/Developer/dsp/programming/GNU Radio/julia/gr-julia_mod/build
+```
+
+```
 sudo make install
 ```
 > Returns:
