@@ -268,3 +268,65 @@ Install the project...
 -- Installing: /usr/local/lib/python3.12/site-packages/gnuradio/julia_mod/julia_mod_python.cpython-312-darwin.so
 -- Installing: /usr/local/share/gnuradio/grc/blocks/julia_mod_julia_block.block.yml
 ```
+
+The error you're encountering in your YAML file is due to incorrect indentation or formatting within the file. Specifically, the error message "mapping values are not allowed in this context" suggests that there is an issue with how the parameters are defined, likely related to indentation or the use of special characters.
+
+Here's a corrected version of your YAML file:
+
+```yaml
+id: julia_mod_julia_block
+label: julia_block
+category: '[julia_mod]'
+
+templates:
+  imports: from gnuradio import julia_mod
+  make: julia_mod.julia_block(${sample_rate}, ${frequency})
+
+parameters:
+  - id: sample_rate
+    label: Sample Rate
+    dtype: float
+    default: 1.0e6
+    
+  - id: frequency
+    label: Frequency
+    dtype: float
+    default: 100.0e3
+```
+
+### Key Points to Check:
+
+1. **Indentation**: Ensure that your indentation is consistent and uses spaces (not tabs). YAML is sensitive to indentation.
+2. **Parameters**: Each parameter block should be correctly indented under `parameters:`, with each field (`id`, `label`, `dtype`, `default`) correctly indented under the corresponding parameter.
+3. **String Handling**: If you have any string parameters, ensure they are properly quoted.
+
+### Explanation:
+- **id**: The internal name used to reference the parameter within the code.
+- **label**: The name that will appear in the GNU Radio Companion (GRC) GUI.
+- **dtype**: The data type of the parameter (e.g., `float`, `int`, `string`).
+- **default**: The default value for the parameter.
+
+### Example Block Definition:
+
+```yaml
+id: julia_mod_julia_block
+label: julia_block
+category: '[julia_mod]'
+
+templates:
+  imports: from gnuradio import julia_mod
+  make: julia_mod.julia_block(${sample_rate}, ${frequency})
+
+parameters:
+  - id: sample_rate
+    label: Sample Rate
+    dtype: float
+    default: 1.0e6
+    
+  - id: frequency
+    label: Frequency
+    dtype: float
+    default: 100.0e3
+```
+
+This corrected YAML file should resolve the `yaml.scanner.ScannerError` and work correctly in GNU Radio Companion (GRC).
