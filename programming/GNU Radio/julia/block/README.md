@@ -344,6 +344,82 @@ Install the project...
 -- Installing: /usr/local/share/gnuradio/grc/blocks/julia_mod_julia_block.block.yml
 ```
 
+```
+sudo make uninstall
+```
+> Returns
+```powershell
+-- Uninstalling "/opt/homebrew/lib/cmake/gnuradio-julia_mod/gnuradio-julia_modConfig.cmake"
+-- Uninstalling "/opt/homebrew/include/gnuradio/julia_mod/api.h"
+-- Uninstalling "/opt/homebrew/include/gnuradio/julia_mod/julia_block.h"
+-- Uninstalling "/opt/homebrew/lib/libgnuradio-julia_mod.1.0.0.0.dylib"
+-- Uninstalling "/opt/homebrew/lib/libgnuradio-julia_mod.1.0.0.dylib"
+-- Uninstalling "/opt/homebrew/lib/libgnuradio-julia_mod.dylib"
+-- Uninstalling "/opt/homebrew/lib/cmake/gnuradio-julia_mod/gnuradio-julia_modTargets.cmake"
+-- Uninstalling "/opt/homebrew/lib/cmake/gnuradio-julia_mod/gnuradio-julia_modTargets-release.cmake"
+-- Uninstalling "/opt/homebrew/lib/cmake/gnuradio-julia_mod/gnuradio-julia_modConfig.cmake"
+-- File "/opt/homebrew/lib/cmake/gnuradio-julia_mod/gnuradio-julia_modConfig.cmake" does not exist.
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/xml/index.xml"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/xml/combine.xslt"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/xml/doxyfile.xsd"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/xml/compound.xsd"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/xml/namespacestd.xml"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/xml/index.xsd"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/xml/xml.xsd"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/xml/Doxyfile.xml"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/tab_bd.png"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/splitbar.png"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/graph_legend.svg"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/doxygen.css"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/graph_legend.md5"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/index.html"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/sync_off.png"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/doxygen.svg"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/sync_on.png"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/tab_hd.png"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/doc.svg"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/bc_s.png"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/nav_g.png"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/nav_f.png"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/tabs.css"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/closed.png"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/minusd.svg"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/splitbard.png"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/folderopend.svg"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/tab_s.png"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/tab_a.png"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/plusd.svg"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/plus.svg"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/tab_b.png"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/nav_fd.png"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/navtree.css"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/navtree.js"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/graph_legend.html"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/tab_sd.png"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/navtreeindex0.js"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/folderopen.svg"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/folderclosed.svg"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/nav_hd.png"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/nav_h.png"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/tab_h.png"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/folderclosedd.svg"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/docd.svg"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/resize.js"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/open.png"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/navtreedata.js"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/dynsections.js"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/tab_ad.png"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/minus.svg"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/bc_sd.png"
+-- Uninstalling "/opt/homebrew/share/doc/gr-julia_mod/html/jquery.js"
+-- Uninstalling "/opt/homebrew/lib/python3.12/site-packages/gnuradio/julia_mod/__init__.py"
+-- Uninstalling "/opt/homebrew/lib/python3.12/site-packages/gnuradio/julia_mod/__init__.pyc"
+-- Uninstalling "/opt/homebrew/lib/python3.12/site-packages/gnuradio/julia_mod/__init__.pyo"
+-- Uninstalling "/opt/homebrew/lib/python3.12/site-packages/gnuradio/julia_mod/julia_mod_python.cpython-312-darwin.so"
+-- Uninstalling "/opt/homebrew/share/gnuradio/grc/blocks/julia_mod_julia_block.block.yml"
+Built target uninstall
+```
+
 The error you're encountering in your YAML file is due to incorrect indentation or formatting within the file. Specifically, the error message "mapping values are not allowed in this context" suggests that there is an issue with how the parameters are defined, likely related to indentation or the use of special characters.
 
 Here's a corrected version of your YAML file:
