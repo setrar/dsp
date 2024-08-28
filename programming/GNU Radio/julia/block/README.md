@@ -333,3 +333,10 @@ This corrected YAML file should resolve the `yaml.scanner.ScannerError` and work
 
 <img src=images/julia_block.png	 width='' height='' > </img>
 <img src=images/reload_blocks.png width='' height='' > </img>
+
+# References
+
+GNU Radio Manual and C++ API Reference  3.10.9.1
+> The Free & Open Software Radio Ecosystem
+
+- [ ] [Build Instructions and Information](https://www.gnuradio.org/doc/doxygen/build_guide.html)
