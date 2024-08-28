@@ -198,6 +198,66 @@ This warning is for project developers.  Use -Wno-dev to suppress it.
 ```
 
 ```
+make 
+```
+> Returns
+```powershell
+[ 10%] Building CXX object lib/CMakeFiles/gnuradio-julia_mod.dir/julia_block_impl.cc.o
+/Users/valiha/Developer/dsp/programming/GNU Radio/julia/block/gr-julia_mod/lib/julia_block_impl.cc:15:9: warning: set the following appropriately and remove this warning [-W#pragma-messages]
+#pragma message("set the following appropriately and remove this warning")
+        ^
+/Users/valiha/Developer/dsp/programming/GNU Radio/julia/block/gr-julia_mod/lib/julia_block_impl.cc:17:9: warning: set the following appropriately and remove this warning [-W#pragma-messages]
+#pragma message("set the following appropriately and remove this warning")
+        ^
+/Users/valiha/Developer/dsp/programming/GNU Radio/julia/block/gr-julia_mod/lib/julia_block_impl.cc:56:9: warning: Implement the signal processing in your block and remove this warning [-W#pragma-messages]
+#pragma message("Implement the signal processing in your block and remove this warning")
+        ^
+/Users/valiha/Developer/dsp/programming/GNU Radio/julia/block/gr-julia_mod/lib/julia_block_impl.cc:53:10: warning: unused variable 'in' [-Wunused-variable]
+    auto in = static_cast<const input_type*>(input_items[0]);
+         ^
+/Users/valiha/Developer/dsp/programming/GNU Radio/julia/block/gr-julia_mod/lib/julia_block_impl.cc:54:10: warning: unused variable 'out' [-Wunused-variable]
+    auto out = static_cast<output_type*>(output_items[0]);
+         ^
+5 warnings generated.
+[ 20%] Linking CXX shared library libgnuradio-julia_mod.dylib
+[ 20%] Built target gnuradio-julia_mod
+[ 20%] Built target pygen_apps_9a6dd283c3de653fbca500f9721f634f
+[ 30%] Generating documentation with doxygen
+warning: Tag 'HTML_TIMESTAMP' at line 977 of file '/Users/valiha/Developer/dsp/programming/GNU Radio/julia/block/gr-julia_mod/build/docs/doxygen/Doxyfile' has become obsolete.
+         To avoid this warning please remove this line from your configuration file or upgrade it using "doxygen -u"
+warning: Tag 'FORMULA_TRANSPARENT' at line 1199 of file '/Users/valiha/Developer/dsp/programming/GNU Radio/julia/block/gr-julia_mod/build/docs/doxygen/Doxyfile' has become obsolete.
+         To avoid this warning please remove this line from your configuration file or upgrade it using "doxygen -u"
+warning: Tag 'LATEX_SOURCE_CODE' at line 1397 of file '/Users/valiha/Developer/dsp/programming/GNU Radio/julia/block/gr-julia_mod/build/docs/doxygen/Doxyfile' has become obsolete.
+         To avoid this warning please remove this line from your configuration file or upgrade it using "doxygen -u"
+warning: Tag 'CLASS_DIAGRAMS' at line 1678 of file '/Users/valiha/Developer/dsp/programming/GNU Radio/julia/block/gr-julia_mod/build/docs/doxygen/Doxyfile' has become obsolete.
+         To avoid this warning please remove this line from your configuration file or upgrade it using "doxygen -u"
+warning: Tag 'DOT_FONTNAME' at line 1708 of file '/Users/valiha/Developer/dsp/programming/GNU Radio/julia/block/gr-julia_mod/build/docs/doxygen/Doxyfile' has become obsolete.
+         To avoid this warning please remove this line from your configuration file or upgrade it using "doxygen -u"
+warning: Tag 'DOT_FONTSIZE' at line 1713 of file '/Users/valiha/Developer/dsp/programming/GNU Radio/julia/block/gr-julia_mod/build/docs/doxygen/Doxyfile' has become obsolete.
+         To avoid this warning please remove this line from your configuration file or upgrade it using "doxygen -u"
+warning: Tag 'DOT_TRANSPARENT' at line 1862 of file '/Users/valiha/Developer/dsp/programming/GNU Radio/julia/block/gr-julia_mod/build/docs/doxygen/Doxyfile' has become obsolete.
+         To avoid this warning please remove this line from your configuration file or upgrade it using "doxygen -u"
+warning: tag INPUT: input source '/Users/valiha/Developer/dsp/programming/GNU\ Radio/julia/block/gr-julia_mod' does not exist
+warning: tag INPUT: input source '/Users/valiha/Developer/dsp/programming/GNU\ Radio/julia/block/gr-julia_mod/build' does not exist
+warning: source '/Users/valiha/Developer/dsp/programming/GNU\ Radio/julia/block/gr-julia_mod' is not a readable file or directory... skipping.
+warning: source '/Users/valiha/Developer/dsp/programming/GNU\ Radio/julia/block/gr-julia_mod/build' is not a readable file or directory... skipping.
+warning: No files to be processed, please check your settings, in particular INPUT, FILE_PATTERNS, and RECURSIVE
+[ 30%] Built target doxygen_target
+[ 40%] Generating __init__.pyc
+[ 50%] Generating __init__.pyo
+[ 50%] Built target pygen_python_julia_mod_b1bf5644fdb09b368c97f851072cba06
+[ 50%] Built target copy_module_for_tests
+[ 60%] Scraping generated documentation for docstrings ...
+[ 60%] Built target extracted_docstrings
+[ 70%] Adding docstrings into julia_mod pybind headers ...
+[ 70%] Built target julia_mod_docstrings
+[ 80%] Building CXX object python/julia_mod/bindings/CMakeFiles/julia_mod_python.dir/julia_block_python.cc.o
+[ 90%] Building CXX object python/julia_mod/bindings/CMakeFiles/julia_mod_python.dir/python_bindings.cc.o
+[100%] Linking CXX shared module julia_mod_python.cpython-312-darwin.so
+[100%] Built target julia_mod_python
+```
+
+```
 sudo make install
 ```
 > Returns:
