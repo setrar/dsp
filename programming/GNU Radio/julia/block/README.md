@@ -113,10 +113,25 @@ This method integrates Julia into a GNU Radio block, allowing you to leverage Ju
 ## Logs
 
 ```
+juliaup status
+```
+> Returns
+```
+ Default  Channel  Version                          Update 
+-----------------------------------------------------------
+       *  release  1.10.5+0.aarch64.apple.darwin14 
+```
+
+```
+export JULIA_HOME="${HOME}/.julia/juliaup/julia-1.10.5+0.aarch64.apple.darwin14"
+```
+
+```
 cmake -DCMAKE_INSTALL_PREFIX=/opt/homebrew ..
 ```
 > Returns
 ```powershell
+cmake -DCMAKE_INSTALL_PREFIX=/opt/homebrew ..                                   
 -- The CXX compiler identification is AppleClang 15.0.0.15000309
 -- The C compiler identification is AppleClang 15.0.0.15000309
 -- Detecting CXX compiler ABI info
@@ -179,7 +194,7 @@ CMake Warning (dev):
 This warning is for project developers.  Use -Wno-dev to suppress it.
 
 -- Generating done
--- Build files have been written to: /Users/valiha/Developer/dsp/programming/GNU Radio/julia/gr-julia_mod/build
+-- Build files have been written to: /Users/valiha/Developer/dsp/programming/GNU Radio/julia/block/gr-julia_mod/build
 ```
 
 ```
