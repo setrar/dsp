@@ -2,7 +2,7 @@
 
 ---
 
-[Is it worth doing a PhD on making a 5G, 6G radio unit open source?]()
+[Is it worth doing a PhD on making a 5G, 6G radio unit open source?](README.md#is-it-worth-doing-a-phd-on-making-a-5g-6g-radio-unit-open-source)
 [Is the subject relevant to pursue a PhD?]()
 [Is it worth starting it at 60 years old?]()
 [If the PhD subject is on making an open source HDL Modem, does that sound credible?]()
