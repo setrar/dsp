@@ -65,3 +65,6 @@ Electronics Manufacturing Services (EMS) refers to companies that provide a rang
 
 EMS providers serve various industries, including consumer electronics, medical devices, automotive, aerospace, and telecommunications, allowing companies to outsource their manufacturing needs and focus on core competencies like research and development or marketing.
 
+# References
+
+- [ ] [The Top 18 Radio Unit Vendors for Open RAN](https://tecknexus.com/5g-network/5g-magazine-open-ran-june-2021/the-top-radio-unit-openran-vendors/)
