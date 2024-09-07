@@ -3,8 +3,8 @@
 ---
 
 - [Is it worth doing a PhD on making a 5G, 6G radio unit open source?](README.md#is-it-worth-doing-a-phd-on-making-a-5g-6g-radio-unit-open-source)
-- [Is the subject relevant to pursue a PhD?](README.md#)
-- [Is it worth starting it at 60 years old?](README.md#)
+- [Is the subject relevant to pursue a PhD?](README.md#is-the-subject-relevant-to-pursue-a-phd)
+- [Is it worth starting it at 60 years old?](README.md#Is-it-worth-starting-it-at-60-years-old)
 - [If the PhD subject is on making an open source HDL Modem, does that sound credible?](README.md#)
 - [What is nuand LLC ?](README.md#)
 - [Why is the BladeRF not providing eCPRI fibre interface?](README.md#)
