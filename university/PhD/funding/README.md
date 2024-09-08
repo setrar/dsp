@@ -1,4 +1,6 @@
 
+## Is Academia the only way to fund an open source project?
+
 No, **academia** is not the only way to fund an open-source project. In fact, there are several other pathways to secure funding for open-source initiatives, depending on the project's scope, community support, and potential for commercial applications. Below are some of the most common alternatives to academic funding:
 
 ### **1. Crowdfunding**
