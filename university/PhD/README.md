@@ -10,7 +10,7 @@
 - [Why is the BladeRF not providing eCPRI fibre interface?](README.md#why-is-the-bladerf-not-providing-ecpri-fibre-interface)
 - [Does it exist an eCPRI design Open Source project?](README.md#does-it-exist-an-ecpri-design-open-source-project)
 - [Is it worth pursuing an eCPRI open source implementation ?](README.md#is-it-worth-pursuing-an-ecpri-open-source-implementation-)
-- [Is crowd funding a good way to start implementing the hardware needed to create the RU?](README.md#)
+- [Is crowd funding a good way to start implementing the hardware needed to create the RU?](README.md#is-crowd-funding-a-good-way-to-start-implementing-the-hardware-needed-to-create-the-ru)
 
 ---
 
