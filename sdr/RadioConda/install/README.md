@@ -62,6 +62,36 @@ You can confirm Miniforge is installed by running:
 ```bash
 conda info
 ```
+> Returns
+```powershell
+     active environment : None
+            shell level : 0
+       user config file : /Users/user/.condarc
+ populated config files : /Users/user/miniforge3/.condarc
+                          /Users/user/.condarc
+          conda version : 24.9.2
+    conda-build version : not installed
+         python version : 3.12.7.final.0
+                 solver : libmamba (default)
+       virtual packages : __archspec=1=m2
+                          __conda=24.9.2=0
+                          __osx=15.1.1=0
+                          __unix=0=0
+       base environment : /Users/user/miniforge3  (writable)
+      conda av data dir : /Users/user/miniforge3/etc/conda
+  conda av metadata url : None
+           channel URLs : https://conda.anaconda.org/conda-forge/osx-arm64
+                          https://conda.anaconda.org/conda-forge/noarch
+          package cache : /Users/user/miniforge3/pkgs
+                          /Users/user/.conda/pkgs
+       envs directories : /Users/user/miniforge3/envs
+                          /Users/user/.conda/envs
+               platform : osx-arm64
+             user-agent : conda/24.9.2 requests/2.28.2 CPython/3.12.7 Darwin/24.1.0 OSX/15.1.1 solver/libmamba conda-libmamba-solver/24.9.0 libmambapy/1.5.9
+                UID:GID : 502:20
+             netrc file : None
+           offline mode : False
+```
 It will show:
 - **"conda-forge"** as the default channel.
 - **Installation Path**: `~/miniforge3`.
@@ -75,7 +105,9 @@ It will show:
 
 Let me know if you'd like further help setting up or switching between Miniforge and Miniconda! 🚀---
 
-### **How to Install RadioConda**
+---
+
+### **How to Install RadioConda** (Linux x86_64)
 1. **Install Miniconda** (if not already installed):
    - Download and install Miniconda for your platform:
      ```bash
