@@ -74,13 +74,11 @@ Below is the detailed explanation of each block and the signal flow:
 - **Parameters**:
    - **Interpolation**: `441`
    - **Decimation**: `2.5k` (or 2500)
-     - Resampling factor: $ \frac{441}{2500} $.
+     - Resampling factor: $\frac{441}{2500}$.
 
 - **Resampling Calculation**:
    Starting from **250 kSPS**, the new rate becomes:
-   $
-   \text{New Rate} = 250,000 \times \frac{441}{2500} \approx 44,100\ \text{Hz}.
-   $
+   $\text{New Rate} = 250,000 \times \frac{441}{2500} \approx 44,100\ \text{Hz}.$
 
 - **Output**: Audio signal at **44.1 kHz**, suitable for playback.
 
