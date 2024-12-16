@@ -47,7 +47,7 @@ Below is the detailed explanation of each block and the signal flow:
 - **Parameters**:
    - **Decimation**: `25`
      - Reduces the sample rate by a factor of 25.
-     - New sample rate = $ 6.44\ \text{MSPS} / 25 = 257.6\ \text{kSPS} $.
+     - New sample rate = $6.44\ \text{MSPS} / 25 = 257.6\ \text{kSPS}$.
    - **Gain**: `2` (multiplier applied to the signal amplitude).
    - **Cutoff Frequency**: `100 kHz`
      - This defines the bandwidth of the desired FM signal.
