@@ -1,4 +1,4 @@
-<img src=images/fm_receiver.png width='50%' height='50%' > </img>
+<img src=images/fm_receiver.png width='70%' height='70%' > </img>
 
 
 | | |
