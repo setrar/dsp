@@ -28,7 +28,7 @@ gnuradio-companion fm_receiver_MWK.grc
 | <img src=images/fm_receiver.png width='' height='' > </img> |
 
 
-### **Compact Explanation of the Flowgraph**
+### **Explanation of the Flowgraph**
 
 1. **Soapy BladeRF Source**  
    - Samples the RF signal at **96.8 MHz** with a **6.44 MSPS** rate.  
