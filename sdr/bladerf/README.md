@@ -245,6 +245,8 @@ Observe: `bladeRF 2.0`
 
 - [ ] On MAC :apple:
 
+* Using ANKER USB Bus (:x: doesn't bring enough power to USB 3.0)
+
 ```
 ioreg -p IOUSB
 ```
@@ -258,6 +260,26 @@ ioreg -p IOUSB
     | +-o bladeRF 2.0@01220000  <class IOUSBHostDevice, id 0x10002d26c, registered, matched, active, busy 0 (21 ms), retain 26>
     +-o USB2.0 Hub             @01100000  <class IOUSBHostDevice, id 0x10002d257, registered, matched, active, busy 0 (75 ms), retain 35>
       +-o Anker USB-C Hub Device @01150000  <class IOUSBHostDevice, id 0x10002d29e, registered, matched, active, busy 0 (39 ms), retain 22>
+```
+
+* Using Lenovo USB Bus
+
+```
+ioreg -p IOUSB
+```
+> Returns
+```powershell
++-o Root  <class IORegistryEntry, id 0x100000100, retain 28>
+  +-o AppleT8112USBXHCI@00000000  <class AppleT8112USBXHCI, id 0x1000004b7, registered, matched, active, busy 0 (3332 ms), retain 417>
+  | +-o Lenovo USB-C Mini Dock @00100000  <class IOUSBHostDevice, id 0x10027dae9, registered, matched, active, busy 0 (198 ms), retain 36>
+  | | +-o Lenovo USB-C Mini Dock @00140000  <class IOUSBHostDevice, id 0x10027db2c, registered, matched, active, busy 0 (153 ms), retain 35>
+  | | | +-o 40AU                   @00145000  <class IOUSBHostDevice, id 0x10027db3f, registered, matched, active, busy 0 (45 ms), retain 22>
+  | | | +-o USB Audio@00143000  <class IOUSBHostDevice, id 0x10027db4c, registered, matched, active, busy 0 (84 ms), retain 35>
+  | | +-o Lenovo USB-C Mini Dock @00150000  <class IOUSBHostDevice, id 0x10027db96, registered, matched, active, busy 0 (23 ms), retain 17>
+  | +-o Lenovo USB-C Mini Dock @00200000  <class IOUSBHostDevice, id 0x10027daeb, registered, matched, active, busy 0 (189 ms), retain 34>
+  |   +-o Lenovo Mini Dock@00210000  <class IOUSBHostDevice, id 0x10027db0f, registered, matched, active, busy 0 (126 ms), retain 247>
+  |   +-o bladeRF 2.0@00220000  <class IOUSBHostDevice, id 0x10027db89, registered, matched, active, busy 0 (38 ms), retain 106>
+  +-o AppleT8112USBXHCI@01000000  <class AppleT8112USBXHCI, id 0x100000458, registered, matched, active, busy 0 (21023 ms), retain 406>
 ```
 
 - [ ] On Linux :penguin:
