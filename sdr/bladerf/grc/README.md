@@ -23,7 +23,9 @@ soapysdr-module-bladerf   0.4.1                h8167e30_0    conda-forge
 gnuradio-companion fm_receiver_MWK.grc
 ```
 
-<img src=images/fm_receiver.png width='80%' height='80%' > </img>
+| |
+|-|
+| <img src=images/fm_receiver.png width='80%' height='80%' > </img> |
 
 - [ ] Generate and run
 
