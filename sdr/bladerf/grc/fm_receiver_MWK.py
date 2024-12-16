@@ -66,16 +66,16 @@ class fm_receiver_MWK(gr.top_block, Qt.QWidget):
         ##################################################
         # Variables
         ##################################################
-        self.samp_rate = samp_rate = 2e6
+        self.samp_rate = samp_rate = 6.44e6
         self.gain = gain = 30
-        self.freq = freq = 98.1e6
-        self.down_rate = down_rate = 500e3
+        self.freq = freq = 96.8e6
+        self.down_rate = down_rate = 250e3
 
         ##################################################
         # Blocks
         ##################################################
 
-        self._freq_range = qtgui.Range(88.1e6, 107.9e6, 100e3, 98.1e6, 200)
+        self._freq_range = qtgui.Range(88.1e6, 107.9e6, 100e3, 96.8e6, 200)
         self._freq_win = qtgui.RangeWidget(self._freq_range, self.set_freq, "Frequency", "counter_slider", float, QtCore.Qt.Horizontal)
         self.top_layout.addWidget(self._freq_win)
         self.soapy_bladerf_source_0 = None
@@ -84,7 +84,7 @@ class fm_receiver_MWK(gr.top_block, Qt.QWidget):
         tune_args = ['']
         settings = ['']
 
-        self.soapy_bladerf_source_0 = soapy.source(dev, "fc32", 1, 'numBuffers=64, bufferLength=16384',
+        self.soapy_bladerf_source_0 = soapy.source(dev, "fc32", 1, 'numBuffers=64, bufferLength=8192',
                                   stream_args, tune_args, settings)
         self.soapy_bladerf_source_0.set_sample_rate(0, samp_rate)
         self.soapy_bladerf_source_0.set_bandwidth(0, 0.0)
@@ -126,7 +126,7 @@ class fm_receiver_MWK(gr.top_block, Qt.QWidget):
         self._gain_range = qtgui.Range(0, 50, 1, 30, 200)
         self._gain_win = qtgui.RangeWidget(self._gain_range, self.set_gain, "RG Gain", "counter_slider", float, QtCore.Qt.Horizontal)
         self.top_layout.addWidget(self._gain_win)
-        self.audio_sink_0 = audio.sink(44100, '', True)
+        self.audio_sink_0 = audio.sink(44100, '', False)
         self.analog_wfm_rcv_0 = analog.wfm_rcv(
         	quad_rate=down_rate,
         	audio_decimation=1,

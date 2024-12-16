@@ -57,7 +57,7 @@ blocks:
     start: 88.1e6
     step: 100e3
     stop: 107.9e6
-    value: 98.1e6
+    value: 96.8e6
     widget: counter_slider
   states:
     bus_sink: false
@@ -91,7 +91,7 @@ blocks:
   id: variable
   parameters:
     comment: ''
-    value: 1e6
+    value: 6.44e6
   states:
     bus_sink: false
     bus_source: false
@@ -113,7 +113,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [568, 208.0]
+    coordinate: [536, 192.0]
     rotation: 0
     state: true
 - name: audio_sink_0
@@ -124,13 +124,13 @@ blocks:
     comment: ''
     device_name: ''
     num_inputs: '1'
-    ok_to_block: 'True'
+    ok_to_block: 'False'
     samp_rate: '44100'
   states:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [784, 416.0]
+    coordinate: [896, 196.0]
     rotation: 0
     state: true
 - name: low_pass_filter_0
@@ -154,7 +154,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [360, 164.0]
+    coordinate: [360, 168.0]
     rotation: 0
     state: true
 - name: qtgui_sink_x_0
@@ -183,7 +183,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [352, 392.0]
+    coordinate: [360, 304.0]
     rotation: 0
     state: true
 - name: rational_resampler_xxx_0
@@ -203,7 +203,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [584, 392.0]
+    coordinate: [712, 184.0]
     rotation: 0
     state: enabled
 - name: soapy_bladerf_source_0
@@ -225,7 +225,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [120, 272.0]
+    coordinate: [96, 188.0]
     rotation: 0
     state: enabled
 
