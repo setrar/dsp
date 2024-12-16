@@ -25,7 +25,7 @@ gnuradio-companion fm_receiver_MWK.grc
 
 | |
 |-|
-| <img src=images/fm_receiver.png width='80%' height='80%' > </img> |
+| <img src=images/fm_receiver.png width='' height='' > </img> |
 
 - [ ] Generate and run
 
