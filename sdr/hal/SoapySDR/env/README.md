@@ -1,4 +1,6 @@
-**RadioConda** is a specialized Conda-based environment tailored for **Software-Defined Radio (SDR)** and related tools. It simplifies the installation and management of SDR-related software, libraries, and dependencies, especially on systems where compiling SDR tools manually can be complex.
+# Environment (a.k.a Package Management)
+
+**RadioConda** is a specialized Conda-based `environment` tailored for **Software-Defined Radio (SDR)** and related tools. It simplifies the installation and management of SDR-related software, libraries, and dependencies, especially on systems where compiling SDR tools manually can be complex.
 
 ---
 
