@@ -1,9 +1,7 @@
 # HAL (Hardware Abstraction Layer))
 
 
-- [ ] [SoapySDR](SoapySDR)
-
-Several **Software-Defined Radio (SDR) Hardware Abstraction Layers (HAL)** exist to provide a unified interface for interacting with different SDR devices. While **SoapySDR** is widely used, here are other alternatives:
+Several **Software-Defined Radio (SDR) Hardware Abstraction Layers (HAL)** exist to provide a unified interface for interacting with different SDR devices. While  [**SoapySDR**](SoapySDR) is widely used, here are other alternatives:
 
 ---
 
