@@ -1,5 +1,6 @@
 # SoapySDR (modules)
 
+
 **`SoapySDR/modules0.8`** refers to the **directory containing shared libraries** (modules) that provide **hardware-specific support** for SDR devices using the **SoapySDR API**. The `0.8` indicates the **ABI version** (Application Binary Interface) of SoapySDR.
 
 ### **What Is It?**
