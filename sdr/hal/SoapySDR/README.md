@@ -44,3 +44,7 @@
 
 ### **Summary**
 **SoapySDR** abstracts hardware differences and provides a **unified, modular, and cross-platform API** for SDR devices. It reduces complexity, supports multiple SDR tools, and accelerates development. This makes it an essential layer for modern SDR applications. 🚀
+
+# References
+
+- [ ] [SoapySDR](https://github.com/pothosware/SoapySDR/wiki)
