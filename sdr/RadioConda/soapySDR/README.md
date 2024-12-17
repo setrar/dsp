@@ -131,7 +131,7 @@ Executing transaction: done
 ```
 
 ```
-conda install -c conda-forge soapysdr-module-bladerf
+conda install --channel conda-forge soapysdr-module-bladerf
 ```
 > Returns
 ```powershell
