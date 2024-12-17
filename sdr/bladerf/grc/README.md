@@ -120,3 +120,20 @@ This block allows you to visually confirm the signal reception and filtering.
 |-|-|
 | <img src=images/fm_receiver_1.png width='' height='' > </img> | <img src=images/fm_receiver_2.png width='' height='' > </img> |
 | <img src=images/fm_receiver_3.png width='' height='' > </img> | <img src=images/fm_receiver_4.png width='' height='' > </img> |
+
+# References
+
+## `gr-osmosdr`
+
+`gr-osmosdr` has become less popular due to the rise of `SoapySDR`, a modern, device-agnostic SDR framework. Many platforms, like macOS (via Homebrew), have dropped support for `gr-osmosdr` due to build issues.
+
+Current Status:
+	•	Linux: Still available but may need manual build.
+	•	macOS: Use SoapySDR instead.
+	•	Windows: Available in pre-built GNU Radio bundles.
+
+Solution:
+
+Replace `gr-osmosdr` with `SoapySDR`:
+	•	Install `SoapySDR` and relevant device modules.
+	•	Use `Soapy Source/Sink` blocks in `GNU Radio` instead of `Osmocom` blocks. 🚀
