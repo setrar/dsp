@@ -10,6 +10,21 @@ Get the latest firmware and FPGA files from the [official HackRF GitHub releases
 
 Save these files to a convenient directory on your computer.
 
+For example: 
+
+- [ ] Download
+
+```bash
+wget https://github.com/greatscottgadgets/hackrf/releases/download/v2024.02.1/hackrf-2024.02.1.zip
+```
+
+- [ ] Uncompress
+
+```bash
+unzip hackrf-2024.02.1.zip
+```
+
+
 ---
 
 ### **Step 2: Flash the Firmware**
@@ -33,6 +48,11 @@ Flashing the firmware updates the device's internal memory with the latest contr
    Writing 42248 bytes at 0x000000.
    ```
    
+3. Reboot the device:
+   - Unplug the HackRF from the USB port and plug it back in.
+
+4. Test the device:
+
    ```bash
    hackrf_info
    ```
@@ -51,9 +71,6 @@ Flashing the firmware updates the device's internal memory with the latest contr
    Hardware supported by installed firmware:
        HackRF One
    ```
-
-3. Reboot the device:
-   - Unplug the HackRF from the USB port and plug it back in.
 
 ---
 
