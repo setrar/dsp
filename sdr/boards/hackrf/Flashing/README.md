@@ -31,7 +31,13 @@ Flashing the firmware updates the device's internal memory with the latest contr
    Checking target device compatibility
    Erasing SPI flash.
    Writing 42248 bytes at 0x000000.
-   (gnuradio-env) valiha@ankarana Flashing % hackrf_info                                                             
+   ```
+   
+   ```bash
+   hackrf_info
+   ```
+   > Returns
+   ```powershell
    hackrf_info version: 2024.02.1
    libhackrf version: 2024.02.1 (0.9)
    Found HackRF
@@ -45,8 +51,6 @@ Flashing the firmware updates the device's internal memory with the latest contr
    Hardware supported by installed firmware:
        HackRF One
    ```
-
-   
 
 3. Reboot the device:
    - Unplug the HackRF from the USB port and plug it back in.
