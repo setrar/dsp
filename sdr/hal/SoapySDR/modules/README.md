@@ -6,8 +6,8 @@
 ### **What Is It?**
 - SoapySDR is a **hardware abstraction layer** for Software-Defined Radio devices.
 - The **modules** are plugins that allow SoapySDR to interface with specific SDR hardware like:
-   - **BladeRF**
-   - **HackRF**
+   - [**BladeRF**](bladeRF)
+   - [**HackRF**](hackRF)
    - **LimeSDR**
    - **RTL-SDR**
    - **USRP (UHD)**  
