@@ -1,4 +1,4 @@
-# Install
+# Installing
 
 
 To install the **HackRF CLI tools**, which include utilities like `hackrf_info`, `hackrf_transfer`, and `hackrf_spiflash`, follow these steps depending on your operating system:
