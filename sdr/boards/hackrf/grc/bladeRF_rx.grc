@@ -1,0 +1,852 @@
+options:
+  parameters:
+    author: Nuand, LLC <bladeRF@nuand.com>
+    catch_exceptions: 'True'
+    category: Custom
+    cmake_opt: ''
+    comment: ''
+    copyright: ''
+    description: A simple RX-only GUI that demonstrates the usage of various RX controls.
+    gen_cmake: 'On'
+    gen_linking: dynamic
+    generate_options: qt_gui
+    hier_block_src_path: '.:'
+    id: bladeRF_rx
+    max_nouts: '0'
+    output_language: python
+    placement: (0,0)
+    qt_qss_theme: ''
+    realtime_scheduling: ''
+    run: 'True'
+    run_command: '{python} -u {filename}'
+    run_options: prompt
+    sizing_mode: fixed
+    thread_safe_setters: ''
+    title: '"Simple bladeRF RX GUI"'
+    window_size: 2048, 1024
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [16, 19]
+    rotation: 0
+    state: enabled
+
+blocks:
+- name: bladerf_args
+  id: variable
+  parameters:
+    comment: ''
+    value: '"bladerf=" + bladerf_selection + ",buffers=" + str(num_buffers) + ",buflen="
+      + str(buflen) + ",num_xfers=" + str(num_xfers) + ",verbosity="+verbosity'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [40, 235]
+    rotation: 0
+    state: enabled
+- name: bladerf_selection
+  id: variable
+  parameters:
+    comment: ''
+    value: str(instance) if serial == "" else serial
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [48, 163]
+    rotation: 0
+    state: enabled
+- name: gui_bladerf_args
+  id: variable_qtgui_label
+  parameters:
+    comment: ''
+    formatter: None
+    gui_hint: 11, 0, 1, 10
+    label: '"bladeRF arguments"'
+    type: string
+    value: bladerf_args
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [448, 419]
+    rotation: 0
+    state: enabled
+- name: gui_dc_offset_i
+  id: variable_qtgui_range
+  parameters:
+    comment: ''
+    gui_hint: 1, 4, 1, 2
+    label: I DC Offset
+    min_len: '200'
+    orient: QtCore.Qt.Horizontal
+    rangeType: float
+    start: '-1.0'
+    step: (1.0 / 2048.0)
+    stop: '1.0'
+    value: dc_offset_i
+    widget: counter_slider
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [1184, 283]
+    rotation: 0
+    state: enabled
+- name: gui_dc_offset_q
+  id: variable_qtgui_range
+  parameters:
+    comment: ''
+    gui_hint: 1, 6, 1, 2
+    label: Q DC Offset
+    min_len: '200'
+    orient: QtCore.Qt.Horizontal
+    rangeType: float
+    start: '-1.0'
+    step: (1.0 / 2048.0)
+    stop: '1.0'
+    value: dc_offset_q
+    widget: counter_slider
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [1296, 283]
+    rotation: 0
+    state: enabled
+- name: gui_rx_bandwidth
+  id: variable_qtgui_range
+  parameters:
+    comment: ''
+    gui_hint: 1, 2, 1, 2
+    label: Bandwidth
+    min_len: '200'
+    orient: QtCore.Qt.Horizontal
+    rangeType: float
+    start: 1.5e6
+    step: 0.5e6
+    stop: 28e6
+    value: rx_bandwidth
+    widget: counter_slider
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [1048, 283]
+    rotation: 0
+    state: enabled
+- name: gui_rx_frequency
+  id: variable_qtgui_range
+  parameters:
+    comment: ''
+    gui_hint: 0, 0, 1, 5
+    label: Frequency
+    min_len: '200'
+    orient: QtCore.Qt.Horizontal
+    rangeType: float
+    start: '0'
+    step: 1e6
+    stop: 3.8e9
+    value: rx_frequency
+    widget: counter_slider
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [448, 283]
+    rotation: 0
+    state: enabled
+- name: gui_rx_lna_gain
+  id: variable_qtgui_chooser
+  parameters:
+    comment: ''
+    gui_hint: 0, 9, 1, 1
+    label: LNA Gain
+    label0: 0 dB
+    label1: 3 dB
+    label2: 6 dB
+    label3: ''
+    label4: ''
+    labels: '[]'
+    num_opts: '3'
+    option0: '0'
+    option1: '3'
+    option2: '6'
+    option3: '3'
+    option4: '4'
+    options: '[0, 1, 2]'
+    orient: Qt.QVBoxLayout
+    type: int
+    value: rx_lna_gain
+    widget: combo_box
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [776, 283]
+    rotation: 0
+    state: enabled
+- name: gui_rx_sample_rate
+  id: variable_qtgui_range
+  parameters:
+    comment: ''
+    gui_hint: 1, 0, 1, 2
+    label: Sample Rate
+    min_len: '200'
+    orient: QtCore.Qt.Horizontal
+    rangeType: float
+    start: 1.5e6
+    step: 500e3
+    stop: 40e6
+    value: rx_sample_rate
+    widget: counter_slider
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [904, 283]
+    rotation: 0
+    state: enabled
+- name: gui_rx_vga_gain
+  id: variable_qtgui_range
+  parameters:
+    comment: ''
+    gui_hint: 0, 5, 1, 4
+    label: RX VGA1 + VGA2 Gain
+    min_len: '200'
+    orient: QtCore.Qt.Horizontal
+    rangeType: float
+    start: '5'
+    step: '1'
+    stop: '60'
+    value: rx_vga_gain
+    widget: counter_slider
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [592, 283]
+    rotation: 0
+    state: enabled
+- name: blocks_add_const_vxx_0
+  id: blocks_add_const_vxx
+  parameters:
+    affinity: ''
+    alias: ''
+    comment: ''
+    const: gui_dc_offset_i
+    maxoutbuf: '0'
+    minoutbuf: '0'
+    type: float
+    vlen: '1'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [456, 707]
+    rotation: 0
+    state: enabled
+- name: blocks_add_const_vxx_0_0
+  id: blocks_add_const_vxx
+  parameters:
+    affinity: ''
+    alias: ''
+    comment: ''
+    const: gui_dc_offset_q
+    maxoutbuf: '0'
+    minoutbuf: '0'
+    type: float
+    vlen: '1'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [456, 811]
+    rotation: 0
+    state: enabled
+- name: blocks_complex_to_float_0
+  id: blocks_complex_to_float
+  parameters:
+    affinity: ''
+    alias: ''
+    comment: ''
+    maxoutbuf: '0'
+    minoutbuf: '0'
+    vlen: '1'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [264, 753]
+    rotation: 0
+    state: enabled
+- name: blocks_float_to_complex_0
+  id: blocks_float_to_complex
+  parameters:
+    affinity: ''
+    alias: ''
+    comment: ''
+    maxoutbuf: '0'
+    minoutbuf: '0'
+    vlen: '1'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [616, 753]
+    rotation: 0
+    state: enabled
+- name: buflen
+  id: parameter
+  parameters:
+    alias: ''
+    comment: ''
+    hide: none
+    label: Length of buffers, in samples. Should be a multiple of 1024.
+    short_id: ''
+    type: ''
+    value: '4096'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [960, 147]
+    rotation: 0
+    state: enabled
+- name: dc_offset_i
+  id: parameter
+  parameters:
+    alias: ''
+    comment: ''
+    hide: none
+    label: DC offset compensation for I channel
+    short_id: ''
+    type: eng_float
+    value: '0'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [1104, 19]
+    rotation: 0
+    state: enabled
+- name: dc_offset_q
+  id: parameter
+  parameters:
+    alias: ''
+    comment: ''
+    hide: none
+    label: DC offset compensation for Q channel
+    short_id: ''
+    type: eng_float
+    value: '0'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [1264, 19]
+    rotation: 0
+    state: enabled
+- name: instance
+  id: parameter
+  parameters:
+    alias: ''
+    comment: ''
+    hide: none
+    label: 0-indexed device instance describing device to use. Ignored if a serial-number
+      is provided.
+    short_id: ''
+    type: intx
+    value: '0'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [1128, 147]
+    rotation: 0
+    state: enabled
+- name: note_0
+  id: note
+  parameters:
+    alias: ''
+    comment: ''
+    note: Command line params
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [280, 19]
+    rotation: 0
+    state: enabled
+- name: note_0_0
+  id: note
+  parameters:
+    alias: ''
+    comment: ''
+    note: GUI Controls
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [320, 283]
+    rotation: 0
+    state: enabled
+- name: note_1
+  id: note
+  parameters:
+    alias: ''
+    comment: ''
+    note: When enabling the fosphor sink, disable the Qt Frequency and Waterfall sinks.
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [904, 507]
+    rotation: 0
+    state: enabled
+- name: note_2
+  id: note
+  parameters:
+    alias: ''
+    comment: ''
+    note: 'TO DO:  Expose bladeRF''s internal DC offset compensation in the gr-osmosdr
+      block and use this instead.'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [416, 643]
+    rotation: 0
+    state: enabled
+- name: num_buffers
+  id: parameter
+  parameters:
+    alias: ''
+    comment: ''
+    hide: none
+    label: Number of buffers to use
+    short_id: ''
+    type: intx
+    value: '16'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [624, 139]
+    rotation: 0
+    state: enabled
+- name: num_xfers
+  id: parameter
+  parameters:
+    alias: ''
+    comment: ''
+    hide: none
+    label: Number of maximum in-flight USB transfers. Should be <= (num-buffers /
+      2).
+    short_id: ''
+    type: intx
+    value: '8'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [792, 139]
+    rotation: 0
+    state: enabled
+- name: qtgui_freq_sink_x_0
+  id: qtgui_freq_sink_x
+  parameters:
+    affinity: ''
+    alias: ''
+    alpha1: '1.0'
+    alpha10: '1.0'
+    alpha2: '1.0'
+    alpha3: '1.0'
+    alpha4: '1.0'
+    alpha5: '1.0'
+    alpha6: '1.0'
+    alpha7: '1.0'
+    alpha8: '1.0'
+    alpha9: '1.0'
+    autoscale: 'False'
+    average: '0.1'
+    axislabels: 'True'
+    bw: gui_rx_sample_rate
+    color1: '"blue"'
+    color10: '"dark blue"'
+    color2: '"red"'
+    color3: '"green"'
+    color4: '"black"'
+    color5: '"cyan"'
+    color6: '"magenta"'
+    color7: '"yellow"'
+    color8: '"dark red"'
+    color9: '"dark green"'
+    comment: ''
+    ctrlpanel: 'False'
+    fc: gui_rx_frequency
+    fftsize: '8192'
+    freqhalf: 'True'
+    grid: 'False'
+    gui_hint: 2, 0, 5, 5
+    label: Relative Gain
+    label1: ''
+    label10: ''
+    label2: ''
+    label3: ''
+    label4: ''
+    label5: ''
+    label6: ''
+    label7: ''
+    label8: ''
+    label9: ''
+    legend: 'True'
+    maxoutbuf: '0'
+    minoutbuf: '0'
+    name: '""'
+    nconnections: '1'
+    norm_window: 'False'
+    showports: 'True'
+    tr_chan: '0'
+    tr_level: '0.0'
+    tr_mode: qtgui.TRIG_MODE_FREE
+    tr_tag: '""'
+    type: complex
+    units: dB
+    update_time: '0.10'
+    width1: '1'
+    width10: '1'
+    width2: '1'
+    width3: '1'
+    width4: '1'
+    width5: '1'
+    width6: '1'
+    width7: '1'
+    width8: '1'
+    width9: '1'
+    wintype: window.WIN_BLACKMAN_hARRIS
+    ymax: '10'
+    ymin: '-140'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [896, 691]
+    rotation: 0
+    state: enabled
+- name: qtgui_time_sink_x_0
+  id: qtgui_time_sink_x
+  parameters:
+    affinity: ''
+    alias: ''
+    alpha1: '1.0'
+    alpha10: '1.0'
+    alpha2: '1.0'
+    alpha3: '1.0'
+    alpha4: '1.0'
+    alpha5: '1.0'
+    alpha6: '1.0'
+    alpha7: '1.0'
+    alpha8: '1.0'
+    alpha9: '1.0'
+    autoscale: 'False'
+    axislabels: 'True'
+    color1: blue
+    color10: dark blue
+    color2: red
+    color3: green
+    color4: black
+    color5: cyan
+    color6: magenta
+    color7: yellow
+    color8: dark red
+    color9: dark green
+    comment: ''
+    ctrlpanel: 'False'
+    entags: 'True'
+    grid: 'False'
+    gui_hint: 7, 0, 3, 10
+    label1: ''
+    label10: ''
+    label2: ''
+    label3: ''
+    label4: ''
+    label5: ''
+    label6: ''
+    label7: ''
+    label8: ''
+    label9: ''
+    legend: 'True'
+    marker1: '-1'
+    marker10: '-1'
+    marker2: '-1'
+    marker3: '-1'
+    marker4: '-1'
+    marker5: '-1'
+    marker6: '-1'
+    marker7: '-1'
+    marker8: '-1'
+    marker9: '-1'
+    name: '""'
+    nconnections: '1'
+    size: '8192'
+    srate: rx_sample_rate
+    stemplot: 'False'
+    style1: '1'
+    style10: '1'
+    style2: '1'
+    style3: '1'
+    style4: '1'
+    style5: '1'
+    style6: '1'
+    style7: '1'
+    style8: '1'
+    style9: '1'
+    tr_chan: '0'
+    tr_delay: '0'
+    tr_level: '0.0'
+    tr_mode: qtgui.TRIG_MODE_FREE
+    tr_slope: qtgui.TRIG_SLOPE_POS
+    tr_tag: '""'
+    type: complex
+    update_time: '0.10'
+    width1: '1'
+    width10: '1'
+    width2: '1'
+    width3: '1'
+    width4: '1'
+    width5: '1'
+    width6: '1'
+    width7: '1'
+    width8: '1'
+    width9: '1'
+    ylabel: Amplitude
+    ymax: '1'
+    ymin: '-1'
+    yunit: '""'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [896, 923]
+    rotation: 0
+    state: enabled
+- name: qtgui_waterfall_sink_x_0
+  id: qtgui_waterfall_sink_x
+  parameters:
+    affinity: ''
+    alias: ''
+    alpha1: '1.0'
+    alpha10: '1.0'
+    alpha2: '1.0'
+    alpha3: '1.0'
+    alpha4: '1.0'
+    alpha5: '1.0'
+    alpha6: '1.0'
+    alpha7: '1.0'
+    alpha8: '1.0'
+    alpha9: '1.0'
+    axislabels: 'True'
+    bw: gui_rx_sample_rate
+    color1: '0'
+    color10: '0'
+    color2: '0'
+    color3: '0'
+    color4: '0'
+    color5: '0'
+    color6: '0'
+    color7: '0'
+    color8: '0'
+    color9: '0'
+    comment: ''
+    fc: gui_rx_frequency
+    fftsize: '8192'
+    freqhalf: 'True'
+    grid: 'False'
+    gui_hint: 2, 5, 5, 5
+    int_max: '10'
+    int_min: '-140'
+    label1: ''
+    label10: ''
+    label2: ''
+    label3: ''
+    label4: ''
+    label5: ''
+    label6: ''
+    label7: ''
+    label8: ''
+    label9: ''
+    legend: 'True'
+    maxoutbuf: '0'
+    minoutbuf: '0'
+    name: '""'
+    nconnections: '1'
+    showports: 'True'
+    type: complex
+    update_time: '0.10'
+    wintype: window.WIN_BLACKMAN_hARRIS
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [896, 787]
+    rotation: 0
+    state: enabled
+- name: rx_bandwidth
+  id: parameter
+  parameters:
+    alias: ''
+    comment: ''
+    hide: none
+    label: Bandwidth
+    short_id: b
+    type: eng_float
+    value: 1.5e6
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [576, 19]
+    rotation: 0
+    state: enabled
+- name: rx_frequency
+  id: parameter
+  parameters:
+    alias: ''
+    comment: ''
+    hide: none
+    label: Frequency
+    short_id: f
+    type: eng_float
+    value: 915e6
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [688, 19]
+    rotation: 0
+    state: enabled
+- name: rx_lna_gain
+  id: parameter
+  parameters:
+    alias: ''
+    comment: ''
+    hide: none
+    label: RX LNA Gain
+    short_id: l
+    type: intx
+    value: '6'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [800, 19]
+    rotation: 0
+    state: enabled
+- name: rx_sample_rate
+  id: parameter
+  parameters:
+    alias: ''
+    comment: ''
+    hide: none
+    label: Sample Rate
+    short_id: s
+    type: eng_float
+    value: 3e6
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [448, 19]
+    rotation: 0
+    state: enabled
+- name: rx_vga_gain
+  id: parameter
+  parameters:
+    alias: ''
+    comment: ''
+    hide: none
+    label: RX VGA1 + VGA2 Gain
+    short_id: g
+    type: intx
+    value: '20'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [928, 19]
+    rotation: 0
+    state: enabled
+- name: serial
+  id: parameter
+  parameters:
+    alias: ''
+    comment: ''
+    hide: none
+    label: bladeRF serial number
+    short_id: ''
+    type: ''
+    value: '""'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [448, 139]
+    rotation: 0
+    state: enabled
+- name: soapy_bladerf_source_0
+  id: soapy_bladerf_source
+  parameters:
+    affinity: ''
+    alias: ''
+    bandwidth: '0.0'
+    center_freq: 88.5e6
+    comment: ''
+    dev_args: ''
+    freq_correction: '0'
+    gain: '20.0'
+    maxoutbuf: '0'
+    minoutbuf: '0'
+    samp_rate: 1e6
+    type: fc32
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [136, 536.0]
+    rotation: 0
+    state: enabled
+- name: verbosity
+  id: parameter
+  parameters:
+    alias: ''
+    comment: ''
+    hide: none
+    label: 'libbladeRF log verbosity. Options are: verbose, debug, info, warning,
+      error, critical, silent'
+    short_id: ''
+    type: ''
+    value: '"info"'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [1296, 147]
+    rotation: 0
+    state: enabled
+
+connections:
+- [blocks_add_const_vxx_0, '0', blocks_float_to_complex_0, '0']
+- [blocks_add_const_vxx_0_0, '0', blocks_float_to_complex_0, '1']
+- [blocks_complex_to_float_0, '0', blocks_add_const_vxx_0, '0']
+- [blocks_complex_to_float_0, '1', blocks_add_const_vxx_0_0, '0']
+- [blocks_float_to_complex_0, '0', qtgui_freq_sink_x_0, '0']
+- [blocks_float_to_complex_0, '0', qtgui_time_sink_x_0, '0']
+- [blocks_float_to_complex_0, '0', qtgui_waterfall_sink_x_0, '0']
+- [soapy_bladerf_source_0, '0', blocks_complex_to_float_0, '0']
+
+metadata:
+  file_format: 1
+  grc_version: 3.10.11.0
