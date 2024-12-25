@@ -1,11 +1,42 @@
 # Install
 
 
-## :apple: MacOS
+To install the **HackRF CLI tools**, which include utilities like `hackrf_info`, `hackrf_transfer`, and `hackrf_spiflash`, follow these steps depending on your operating system:
 
-- [ ] brew
+---
 
+### **1. Linux**
+Most Linux distributions have HackRF tools available in their package repositories.
+
+#### **Installation Command:**
+For Debian/Ubuntu-based distributions:
+```bash
+sudo apt update
+sudo apt install hackrf
 ```
+
+For Fedora:
+```bash
+sudo dnf install hackrf
+```
+
+For Arch Linux:
+```bash
+sudo pacman -S hackrf
+```
+
+#### **Verify Installation:**
+```bash
+hackrf_info
+```
+
+---
+
+### **2. macOS**
+Use **Homebrew** to install HackRF tools.
+
+#### **Installation Command:**
+```bash
 brew install hackrf
 ```
 > Returns
@@ -42,9 +73,8 @@ Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
 Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
 ```
 
-- [ ] `hackrf` CLI
-
-```
+#### **Verify Installation:**
+```bash
 hackrf_info
 ```
 > Returns
@@ -62,3 +92,70 @@ Hardware does not appear to have been manufactured by Great Scott Gadgets.
 Hardware supported by installed firmware:
     HackRF One
 ```
+
+---
+
+### **3. Windows**
+For Windows, the HackRF tools are part of the precompiled HackRF software suite.
+
+#### **Steps:**
+1. Download the latest HackRF release from the [official GitHub page](https://github.com/greatscottgadgets/hackrf/releases).
+2. Extract the zip file to a directory of your choice.
+3. Add the `bin` directory to your system's PATH to use the CLI tools from anywhere.
+
+#### **Verify Installation:**
+Open Command Prompt or PowerShell and run:
+```bash
+hackrf_info
+```
+
+---
+
+### **4. Build from Source**
+If you need the latest version or want to build HackRF tools from source:
+
+#### **Dependencies:**
+Ensure the following are installed:
+- `cmake`
+- `gcc` (or an equivalent compiler)
+- `libusb-1.0`
+- `pkg-config`
+
+#### **Build Steps:**
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/greatscottgadgets/hackrf.git
+   cd hackrf/host
+   ```
+
+2. Build and install:
+   ```bash
+   mkdir build
+   cd build
+   cmake ..
+   make
+   sudo make install
+   sudo ldconfig
+   ```
+
+#### **Verify Installation:**
+```bash
+hackrf_info
+```
+
+---
+
+### **Troubleshooting**
+1. **Permission Errors (Linux):**
+   - Add a udev rule to allow non-root access:
+     ```bash
+     sudo bash -c 'echo "SUBSYSTEM==\"usb\", ATTR{idVendor}==\"1d50\", ATTR{idProduct}==\"6089\", MODE=\"0666\"" > /etc/udev/rules.d/52-hackrf.rules'
+     sudo udevadm control --reload-rules
+     ```
+
+2. **Driver Issues (Windows):**
+   - Use **Zadig** to install the appropriate USB driver. Select "HackRF One" and replace the driver with **WinUSB**.
+
+---
+
+Once installed, the HackRF CLI tools allow you to interact with the HackRF device for tasks like configuring frequencies, streaming IQ data, and updating firmware.
