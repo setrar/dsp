@@ -128,4 +128,44 @@ Expected output:
 | Flash FPGA bitstream    | `hackrf_cpldjtag -x hackrf_one_fpga.bit`  |
 | Verify initialization   | `hackrf_info`                             |
 
-Let me know if you need further assistance!
+
+## FPGA bitstream 
+
+---
+
+### **Step 1: Download the Full Source Repository**
+If you can't find the bitstream in the release package, it might be part of the repository's source code.
+
+1. Clone the HackRF repository:
+   ```bash
+   git clone https://github.com/greatscottgadgets/hackrf.git
+   ```
+2. Navigate to the `firmware-bin` directory:
+   ```bash
+   cd hackrf/firmware-bin
+   ```
+3. Look for the `hackrf_one_fpga.bit` file:
+   ```bash
+   ls -lh
+   ```
+
+---
+
+### **Step 2: Build the FPGA Bitstream (Optional)**
+If the `hackrf_one_fpga.bit` file is not included, you can build it yourself using the Xilinx ISE toolchain:
+
+1. Install the Xilinx ISE toolchain (requires a licensed version).
+2. Navigate to the FPGA source files in the repository:
+   ```bash
+   cd hackrf/fpga
+   ```
+3. Build the FPGA bitstream:
+   ```bash
+   make
+   ```
+   The `hackrf_one_fpga.bit` file will be generated in the build output directory.
+
+---
+
+### **Alternative Links**
+If the bitstream is missing from GitHub, you can try downloading it from other mirrors or repositories (e.g., community-maintained resources). I recommend double-checking the release package contents you downloaded, as the bitstream is usually included there.
