@@ -41,3 +41,24 @@ The 4.4.13 changelog can be found at:
 Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
 Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
 ```
+
+- [ ] `hackrf` CLI
+
+```
+hackrf_info
+```
+> Returns
+```powershell
+hackrf_info version: 2024.02.1
+libhackrf version: 2024.02.1 (0.9)
+Found HackRF
+Index: 0
+Serial number: 000000000000000078d063dc2c657323
+Board ID Number: 4 (HackRF One)
+Firmware Version: n_240227 (API:1.08)
+Part ID Number: 0xa000cb3c 0x004f475d
+Hardware Revision: r9
+Hardware does not appear to have been manufactured by Great Scott Gadgets.
+Hardware supported by installed firmware:
+    HackRF One
+```
