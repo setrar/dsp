@@ -23,8 +23,30 @@ Flashing the firmware updates the device's internal memory with the latest contr
 
 2. Use the `hackrf_spiflash` tool to write the firmware:
    ```bash
-   hackrf_spiflash -w hackrf_one_usb.bin
+   hackrf_spiflash --write hackrf-2024.02.1/firmware-bin/hackrf_one_usb.bin
    ```
+   > Returns
+   ```powershell
+   File size 42248 bytes.
+   Checking target device compatibility
+   Erasing SPI flash.
+   Writing 42248 bytes at 0x000000.
+   (gnuradio-env) valiha@ankarana Flashing % hackrf_info                                                             
+   hackrf_info version: 2024.02.1
+   libhackrf version: 2024.02.1 (0.9)
+   Found HackRF
+   Index: 0
+   Serial number: 000000000000000078d063dc2c657323
+   Board ID Number: 4 (HackRF One)
+   Firmware Version: n_240227 (API:1.08)
+   Part ID Number: 0xa000cb3c 0x004f475d
+   Hardware Revision: r9
+   Hardware does not appear to have been manufactured by Great Scott Gadgets.
+   Hardware supported by installed firmware:
+       HackRF One
+   ```
+
+   
 
 3. Reboot the device:
    - Unplug the HackRF from the USB port and plug it back in.
