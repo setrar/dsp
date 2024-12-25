@@ -1,7 +1,7 @@
 # hackrf (module)
 
 ```
-conda install -c conda-forge soapysdr-module-hackrf
+conda install --channel conda-forge soapysdr-module-hackrf
 ```
 > Returns
 ```powershell
