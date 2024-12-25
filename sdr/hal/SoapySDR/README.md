@@ -9,7 +9,7 @@
    - Eliminates the need for device-specific code.
 
 2. **Modular Design**  
-   - Uses **plug-ins (modules)** to extend support for new hardware.  
+   - Uses [**plug-ins (modules)**](modules) to extend support for new hardware.  
    - Modules can be loaded dynamically from directories like `SoapySDR/modules0.8`.
 
 3. **Cross-Platform Support**  
