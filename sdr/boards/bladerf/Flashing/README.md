@@ -1,4 +1,4 @@
-# Init Board
+# Flashing the board
 
 To download the FPGA bitstream file for the bladeRF 2.0 micro xA4 using curl, execute the following command in your terminal:
 
