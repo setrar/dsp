@@ -33,6 +33,18 @@ options:
     state: enabled
 
 blocks:
+- name: center_frequency
+  id: variable
+  parameters:
+    comment: ''
+    value: 102.3e6
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [456, 72.0]
+    rotation: 0
+    state: enabled
 - name: channel_width
   id: variable
   parameters:
@@ -43,48 +55,6 @@ blocks:
     bus_source: false
     bus_structure: null
     coordinate: [160, 80.0]
-    rotation: 0
-    state: true
-- name: freq
-  id: variable_qtgui_range
-  parameters:
-    comment: ''
-    gui_hint: ''
-    label: Frequency
-    min_len: '200'
-    orient: QtCore.Qt.Horizontal
-    rangeType: float
-    start: 88.1e6
-    step: 100e3
-    stop: 107.9e6
-    value: 92.2e6
-    widget: counter_slider
-  states:
-    bus_sink: false
-    bus_source: false
-    bus_structure: null
-    coordinate: [248, 8.0]
-    rotation: 0
-    state: true
-- name: gain
-  id: variable_qtgui_range
-  parameters:
-    comment: ''
-    gui_hint: ''
-    label: RG Gain
-    min_len: '200'
-    orient: QtCore.Qt.Horizontal
-    rangeType: float
-    start: '0'
-    step: '1'
-    stop: '50'
-    value: '30'
-    widget: counter_slider
-  states:
-    bus_sink: false
-    bus_source: false
-    bus_structure: null
-    coordinate: [384, 8.0]
     rotation: 0
     state: true
 - name: samp_rate
@@ -99,89 +69,87 @@ blocks:
     coordinate: [160, 8.0]
     rotation: 0
     state: enabled
-- name: analog_wfm_rcv_0
-  id: analog_wfm_rcv
+- name: qtgui_freq_sink_x_0
+  id: qtgui_freq_sink_x
   parameters:
     affinity: ''
     alias: ''
-    audio_decimation: int(samp_rate/channel_width)
-    comment: ''
-    maxoutbuf: '0'
-    minoutbuf: '0'
-    quad_rate: channel_width
-  states:
-    bus_sink: false
-    bus_source: false
-    bus_structure: null
-    coordinate: [528, 184.0]
-    rotation: 0
-    state: true
-- name: audio_sink_0
-  id: audio_sink
-  parameters:
-    affinity: ''
-    alias: ''
-    comment: ''
-    device_name: ''
-    num_inputs: '1'
-    ok_to_block: 'False'
-    samp_rate: '44100'
-  states:
-    bus_sink: false
-    bus_source: false
-    bus_structure: null
-    coordinate: [704, 188.0]
-    rotation: 0
-    state: true
-- name: freq_xlating_fir_filter_xxx_0
-  id: freq_xlating_fir_filter_xxx
-  parameters:
-    affinity: ''
-    alias: ''
-    center_freq: freq
-    comment: ''
-    decim: int(samp_rate/channel_width)
-    maxoutbuf: '0'
-    minoutbuf: '0'
-    samp_rate: samp_rate
-    taps: '0'
-    type: ccc
-  states:
-    bus_sink: false
-    bus_source: false
-    bus_structure: null
-    coordinate: [352, 172.0]
-    rotation: 0
-    state: enabled
-- name: qtgui_sink_x_0
-  id: qtgui_sink_x
-  parameters:
-    affinity: ''
-    alias: ''
+    alpha1: '1.0'
+    alpha10: '1.0'
+    alpha2: '1.0'
+    alpha3: '1.0'
+    alpha4: '1.0'
+    alpha5: '1.0'
+    alpha6: '1.0'
+    alpha7: '1.0'
+    alpha8: '1.0'
+    alpha9: '1.0'
+    autoscale: 'False'
+    average: '1.0'
+    axislabels: 'True'
     bw: samp_rate
+    color1: '"blue"'
+    color10: '"dark blue"'
+    color2: '"red"'
+    color3: '"green"'
+    color4: '"black"'
+    color5: '"cyan"'
+    color6: '"magenta"'
+    color7: '"yellow"'
+    color8: '"dark red"'
+    color9: '"dark green"'
     comment: ''
+    ctrlpanel: 'False'
     fc: '0'
-    fftsize: '2048'
+    fftsize: '1024'
+    freqhalf: 'True'
+    grid: 'False'
     gui_hint: ''
+    label: Relative Gain
+    label1: ''
+    label10: ''''''
+    label2: ''''''
+    label3: ''''''
+    label4: ''''''
+    label5: ''''''
+    label6: ''''''
+    label7: ''''''
+    label8: ''''''
+    label9: ''''''
+    legend: 'True'
     maxoutbuf: '0'
     minoutbuf: '0'
     name: '""'
-    plotconst: 'True'
-    plotfreq: 'True'
-    plottime: 'True'
-    plotwaterfall: 'True'
-    rate: '10'
+    nconnections: '1'
+    norm_window: 'False'
     showports: 'False'
-    showrf: 'True'
+    tr_chan: '0'
+    tr_level: '0.0'
+    tr_mode: qtgui.TRIG_MODE_FREE
+    tr_tag: '""'
     type: complex
+    units: dB
+    update_time: '0.10'
+    width1: '1'
+    width10: '1'
+    width2: '1'
+    width3: '1'
+    width4: '1'
+    width5: '1'
+    width6: '1'
+    width7: '1'
+    width8: '1'
+    width9: '1'
     wintype: window.WIN_BLACKMAN_hARRIS
+    ymax: '10'
+    ymin: '-140'
   states:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [360, 304.0]
+    coordinate: [528, 240.0]
     rotation: 0
-    state: true
+    state: enabled
 - name: soapy_hackrf_source_0
   id: soapy_hackrf_source
   parameters:
@@ -189,7 +157,7 @@ blocks:
     alias: ''
     amp: 'False'
     bandwidth: '0'
-    center_freq: freq
+    center_freq: center_frequency
     comment: ''
     dev_args: ''
     gain: '16'
@@ -207,10 +175,7 @@ blocks:
     state: enabled
 
 connections:
-- [analog_wfm_rcv_0, '0', audio_sink_0, '0']
-- [freq_xlating_fir_filter_xxx_0, '0', analog_wfm_rcv_0, '0']
-- [soapy_hackrf_source_0, '0', freq_xlating_fir_filter_xxx_0, '0']
-- [soapy_hackrf_source_0, '0', qtgui_sink_x_0, '0']
+- [soapy_hackrf_source_0, '0', qtgui_freq_sink_x_0, '0']
 
 metadata:
   file_format: 1
