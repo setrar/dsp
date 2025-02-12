@@ -1,5 +1,7 @@
 # [SigDigger](https://batchdrake.github.io/SigDigger/)
 
+## :a: Install
+
 ```
 brew info SigDigger
 ```
