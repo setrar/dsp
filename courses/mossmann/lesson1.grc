@@ -61,7 +61,7 @@ blocks:
     alpha8: '1.0'
     alpha9: '1.0'
     autoscale: 'False'
-    average: '0.05'
+    average: '0.2'
     axislabels: 'True'
     bw: samp_rate
     color1: '"blue"'
@@ -75,11 +75,11 @@ blocks:
     color8: '"dark red"'
     color9: '"dark green"'
     comment: ''
-    ctrlpanel: 'False'
+    ctrlpanel: 'True'
     fc: '0'
     fftsize: '1024'
     freqhalf: 'True'
-    grid: 'False'
+    grid: 'True'
     gui_hint: ''
     label: Relative Gain
     label1: ''
@@ -123,35 +123,55 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [368, 76.0]
+    coordinate: [360, 156.0]
     rotation: 0
     state: enabled
-- name: soapy_hackrf_source_0
-  id: soapy_hackrf_source
+- name: soapy_custom_source_0
+  id: soapy_custom_source
   parameters:
     affinity: ''
+    agc0: 'False'
+    agc1: 'False'
     alias: ''
-    amp: 'False'
-    bandwidth: '0'
-    center_freq: 10e6
+    antenna0: TX/RX
+    antenna1: ''
+    bandwidth0: 10e6
+    bandwidth1: '0'
+    center_freq0: 97.9e6
+    center_freq1: '0'
     comment: ''
-    dev_args: driver=hackrf
-    gain: '16'
+    dc_offset0: '0'
+    dc_offset1: '0'
+    dc_removal0: 'False'
+    dc_removal1: 'True'
+    dev_args: ''
+    driver: hackrf
+    freq_correction0: '0'
+    freq_correction1: '0'
+    gain0: '10'
+    gain1: '0'
+    iq_balance0: '0'
+    iq_balance1: '0'
     maxoutbuf: '0'
     minoutbuf: '0'
+    nchan: '1'
     samp_rate: samp_rate
+    settings0: ''
+    settings1: ''
+    stream_args: ''
+    tune_args0: ''
+    tune_args1: ''
     type: fc32
-    vga: '16'
   states:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [176, 152.0]
+    coordinate: [152, 156.0]
     rotation: 0
     state: enabled
 
 connections:
-- [soapy_hackrf_source_0, '0', qtgui_freq_sink_x_0, '0']
+- [soapy_custom_source_0, '0', qtgui_freq_sink_x_0, '0']
 
 metadata:
   file_format: 1

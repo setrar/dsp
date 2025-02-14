@@ -67,20 +67,24 @@ class lesson1(gr.top_block, Qt.QWidget):
         # Blocks
         ##################################################
 
-        self.soapy_hackrf_source_0 = None
-        dev = 'driver=hackrf'
+        self.soapy_custom_source_0 = None
+        dev = 'driver=' + 'hackrf'
         stream_args = ''
         tune_args = ['']
         settings = ['']
-
-        self.soapy_hackrf_source_0 = soapy.source(dev, "fc32", 1, 'driver=hackrf',
+        self.soapy_custom_source_0 = soapy.source(dev, "fc32",
+                                  1, '',
                                   stream_args, tune_args, settings)
-        self.soapy_hackrf_source_0.set_sample_rate(0, samp_rate)
-        self.soapy_hackrf_source_0.set_bandwidth(0, 0)
-        self.soapy_hackrf_source_0.set_frequency(0, 10e6)
-        self.soapy_hackrf_source_0.set_gain(0, 'AMP', False)
-        self.soapy_hackrf_source_0.set_gain(0, 'LNA', min(max(16, 0.0), 40.0))
-        self.soapy_hackrf_source_0.set_gain(0, 'VGA', min(max(16, 0.0), 62.0))
+        self.soapy_custom_source_0.set_sample_rate(0, samp_rate)
+        self.soapy_custom_source_0.set_bandwidth(0, 10e6)
+        self.soapy_custom_source_0.set_antenna(0, 'TX/RX')
+        self.soapy_custom_source_0.set_frequency(0, 97.9e6)
+        self.soapy_custom_source_0.set_frequency_correction(0, 0)
+        self.soapy_custom_source_0.set_gain_mode(0, False)
+        self.soapy_custom_source_0.set_gain(0, 10)
+        self.soapy_custom_source_0.set_dc_offset_mode(0, False)
+        self.soapy_custom_source_0.set_dc_offset(0, 0)
+        self.soapy_custom_source_0.set_iq_balance(0, 0)
         self.qtgui_freq_sink_x_0 = qtgui.freq_sink_c(
             1024, #size
             window.WIN_BLACKMAN_hARRIS, #wintype
@@ -95,10 +99,10 @@ class lesson1(gr.top_block, Qt.QWidget):
         self.qtgui_freq_sink_x_0.set_y_label('Relative Gain', 'dB')
         self.qtgui_freq_sink_x_0.set_trigger_mode(qtgui.TRIG_MODE_FREE, 0.0, 0, "")
         self.qtgui_freq_sink_x_0.enable_autoscale(False)
-        self.qtgui_freq_sink_x_0.enable_grid(False)
-        self.qtgui_freq_sink_x_0.set_fft_average(0.05)
+        self.qtgui_freq_sink_x_0.enable_grid(True)
+        self.qtgui_freq_sink_x_0.set_fft_average(0.2)
         self.qtgui_freq_sink_x_0.enable_axis_labels(True)
-        self.qtgui_freq_sink_x_0.enable_control_panel(False)
+        self.qtgui_freq_sink_x_0.enable_control_panel(True)
         self.qtgui_freq_sink_x_0.set_fft_window_normalized(False)
 
 
@@ -128,7 +132,7 @@ class lesson1(gr.top_block, Qt.QWidget):
         ##################################################
         # Connections
         ##################################################
-        self.connect((self.soapy_hackrf_source_0, 0), (self.qtgui_freq_sink_x_0, 0))
+        self.connect((self.soapy_custom_source_0, 0), (self.qtgui_freq_sink_x_0, 0))
 
 
     def closeEvent(self, event):
@@ -145,7 +149,6 @@ class lesson1(gr.top_block, Qt.QWidget):
     def set_samp_rate(self, samp_rate):
         self.samp_rate = samp_rate
         self.qtgui_freq_sink_x_0.set_frequency_range(0, self.samp_rate)
-        self.soapy_hackrf_source_0.set_sample_rate(0, self.samp_rate)
 
 
 
