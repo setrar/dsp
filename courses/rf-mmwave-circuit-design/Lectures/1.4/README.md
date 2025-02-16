@@ -1,5 +1,5 @@
 # QUCS-S with NGSPICE
 
-![image](simulator-ngspice-settings.png)
+![image](images/simulator-ngspice-settings.png)
 
 # References
