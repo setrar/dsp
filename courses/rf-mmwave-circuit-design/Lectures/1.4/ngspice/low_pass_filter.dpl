@@ -1,6 +1,6 @@
 <Qucs Schematic 24.4.1>
 <Properties>
-  <View=1,-2,916,609,1,0,0>
+  <View=1,-2,1252,589,1,0,0>
   <Grid=10,10,0>
   <DataSet=low_pass_filter.dat>
   <DataDisplay=low_pass_filter.sch>
