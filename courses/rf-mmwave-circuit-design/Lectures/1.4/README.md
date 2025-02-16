@@ -3,7 +3,7 @@
 ## :b: Selecting NGSPICE simulation Engine
 
 - [ ] 1) Select `ngspice` engine
-- [ ] 2) Set the binary in `Simulation Settings` 
+- [ ] 2) Set the binary in `Simulators Settings` 
 
 ![image](images/simulator-ngspice-settings.png)
 
