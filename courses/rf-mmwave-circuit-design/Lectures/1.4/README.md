@@ -1,5 +1,6 @@
 # QUCS-S with NGSPICE
 
+## :b: Selecting NGSPICE simulation Engine
 
 ![image](images/simulator-ngspice-settings.png)
 
