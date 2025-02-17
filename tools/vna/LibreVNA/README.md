@@ -11,7 +11,7 @@ git clone https://github.com/jankae/LibreVNA
 - [ ] Open KiCad
 - [ ] Import Eagle Project
 
-![image](images/images/LibreVNA-import-eagle.png)
+![image](images/LibreVNA-import-eagle.png)
 
 ![image](images/Convert-LibreVNA_from_Eagle.png)
 ![image](images/LibreVNA-schematics.png)
