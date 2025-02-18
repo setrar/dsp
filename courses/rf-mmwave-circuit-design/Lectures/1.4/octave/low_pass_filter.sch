@@ -1,12 +1,12 @@
 <Qucs Schematic 24.4.1>
 <Properties>
-  <View=-4,68,677,439,1.6496,0,0>
+  <View=67,66,709,445,1.74766,0,0>
   <Grid=10,10,1>
   <DataSet=low_pass_filter.dat>
   <DataDisplay=low_pass_filter.dpl>
   <OpenDisplay=0>
   <Script=low_pass_filter.m>
-  <RunScript=0>
+  <RunScript=1>
   <showFrame=0>
   <FrameText0=Title>
   <FrameText1=Drawn By:>
