@@ -20,6 +20,7 @@ In order for NGspice to work properly on Windows, unzip Ngspice package strictly
 
 ## 3 - Presentation Notes from Equipment Tutorials
 
+- [ ] [docs/3 - Using the Instruments.pdf](docs/3%20-%20Using%20the%20Instruments.pdf)
 
 ## 4 - Low Pass Filter Qucs-s and Octave files used in the videos.
 
