@@ -6,10 +6,8 @@ Not Available
 
 ## 2 - Online Resources
 
-- [Damper-to-damper path loss characterization for Intra-Vehicular Wireless Sensor Networks - IEEE Conference Publication](https://ieeexplore.ieee.org/abstract/document/8231100)
-
-- [Characterization of damper-to-damper wireless channel in small cars - IEEE Conference Publication](https://ieeexplore.ieee.org/abstract/document/8401014)
+Not Available
 
 ## 3 - Book Chapter
 
-- Thomas Lee’s book - Chapter 2 - Section 2.4 Propagation
+- Razavi's book - Chapter 1 - Introduction to RF and Wireless Technology - Section 1.2 - RF Design is Challenging
