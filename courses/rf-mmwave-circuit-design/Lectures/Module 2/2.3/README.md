@@ -11,8 +11,3 @@
 ## 3 - Book Chapter
 
 - Razavi's book - Chapter 2 - Section 2.4 - Sensitivity and Dynamic Range
-
-# References
-
-[README.ipynb](README.ipynb)
-
