@@ -16,6 +16,7 @@ In order for NGspice to work properly on Windows, unzip Ngspice package strictly
 
 ## 2 - Presentation Notes from the Octave Video
 
+- [ ] [2 - Octave and Qucs-S.pdf](docs/2%20-%20Octave%20and%20Qucs-S.pdf)
 
 ## 3 - Presentation Notes from Equipment Tutorials
 
