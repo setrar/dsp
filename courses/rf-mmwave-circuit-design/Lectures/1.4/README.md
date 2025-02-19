@@ -6,7 +6,7 @@ Please, find below the supporting material for the lecture about Tools.
 
 ## 1 - Presentation Notes from the Qucs-s video.
 
-[1 - Qucs-S.pdf](1 - Qucs-S.pdf)
+[1 - Qucs-S.pdf](1%20-%20Qucs-S.pdf)
 
 ATTENTION: 
 
@@ -26,5 +26,5 @@ In order for NGspice to work properly on Windows, unzip Ngspice package strictly
 
 ## 5 - Testbench for Qucs-s S-Parameter Simulation
 
-- [ ] [SP_TestBench_prj](tyjrp8W2TZKo66fFtt2SLA_4fd539e345eb48a5b931eeb99c0f4ef1_SP_TestBench_prj.rar)
+- [ ] [SP_TestBench_prj.rar](tyjrp8W2TZKo66fFtt2SLA_4fd539e345eb48a5b931eeb99c0f4ef1_SP_TestBench_prj.rar)
 
