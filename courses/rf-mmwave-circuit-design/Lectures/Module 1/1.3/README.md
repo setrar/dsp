@@ -16,8 +16,13 @@ The student can acquire the following components and equipment in order to be ab
 
 - [ ] [components_list](docs/components_list.xlsx)
 
-| | | | | |
-|-|-|-|-|-|
-| Capacitor | 1	| 1| 	EUR 4.00| 	Ceramische Condensator Set 2pF-100nF - CERCONSET (tinytronics.nl) |
-| Capacitor | 2	| 1| 	EUR 4.00| 	Elektrolytische Condensator Set 0.22uF-470uF - ELCOSET (tinytronics.nl) |
+| | | | |
+|-|-|-|-|
+| Capacitor 1	| 1| 	EUR 4.00| Ceramische Condensator Set 2pF-100nF - CERCONSET (tinytronics.nl) |
+| Capacitor 2	| 1| 	EUR 4.00| Elektrolytische Condensator Set 0.22uF-470uF - ELCOSET (tinytronics.nl) |
+| Inductor	  | 1|	EUR 4.50|	1uH-1mH Inductor Set - INDUCTORSET (tinytronics.nl) |
+| CD40103B	  | 1|	EUR 1.19|	CD40103BEE4 Texas Instruments \| Mouser Europe |
+| CD4046B	    | 1|	EUR 0.47|	CD4046BEE4 Texas Instruments \| Mouser Europe |
+| CD4007	    | 5|	EUR 0.35|	CD4007UBE Texas Instruments \| Mouser Europe |
+
 
