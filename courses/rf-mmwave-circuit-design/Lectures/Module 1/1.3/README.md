@@ -16,8 +16,8 @@ The student can acquire the following components and equipment in order to be ab
 
 - [ ] [components_list](docs/components_list.xlsx)
 
-| | | | |
-|-|-|-|-|
+| | | | | |
+|-|-|-|-|-|
 | Capacitor | 1	| 1| 	EUR 4.00| 	Ceramische Condensator Set 2pF-100nF - CERCONSET (tinytronics.nl) |
 | Capacitor | 2	| 1| 	EUR 4.00| 	Elektrolytische Condensator Set 0.22uF-470uF - ELCOSET (tinytronics.nl) |
 
