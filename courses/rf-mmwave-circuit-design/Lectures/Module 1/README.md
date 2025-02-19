@@ -12,10 +12,10 @@ This module will introduce the student to the RF and mm-Wave Circuit Design cour
 - Be able to design, simulate and implement several RF blocks, e.g. LNA, PA, filters, mixers, oscillators circuits
 - Be able to perform experiments and measurements with RF transceiver circuits
 
-## Lesson 1.1
+## [Lesson 1.1 - RF & mm-wave Circuit Design](1.1)
 
-## Lesson 1.2
+## [Lesson 1.2 - Introduction to Wireless Systems](1.2)
 
-## Lesson 1.3
+## [Lesson 1.3 - Design Labs](1.3)
 
-## Lesson 1.4
+## [Lesson 1.4 - Introduction to RF Tools](1.4)
