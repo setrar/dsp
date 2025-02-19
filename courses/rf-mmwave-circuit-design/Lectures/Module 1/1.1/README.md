@@ -10,4 +10,4 @@ As reference for further studies please consider the following books:
 
 - [Circuit Design for RF Transceivers by Domine Leenaerts, Johan van der Tang, Cicero S. Vaucher](docs/Circuit%20Design%20for%20RF%20Transceivers_text.pdf)
 
-- [Integrated 60 GHz RF Beamforming in CMOS by Yikun Yu, Peter Baltus, Arthur van Roermund](docs/Integrated60GHzRFBeamformingInCMOS.pdf]
+- [Integrated 60 GHz RF Beamforming in CMOS by Yikun Yu, Peter Baltus, Arthur van Roermund](docs/Integrated60GHzRFBeamformingInCMOS.pdf)
