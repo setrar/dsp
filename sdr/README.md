@@ -8,3 +8,4 @@
 
 - [ ] [Pico SDR](https://blog.porucha.net/2024/pico-sdr/)
 - [ ] [XMASS SDR – 8×8 MIMO TRANSCEIVER FOR 4G/5G APPLICATIONS TO BE CROWD FUNDED](https://www.rtl-sdr.com/xmass-sdr-8x8-mimo-transceiver-for-4g-5g-applications-to-be-crowd-funded/)
+- [ ] [Reddit: Looking for good books on Radio and SDR](https://www.reddit.com/r/RTLSDR/comments/14cswyj/looking_for_good_books_on_radio_and_sdr/)
