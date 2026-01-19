@@ -2,6 +2,7 @@
 
 - [ ] https://github.com/day0wl/libresdr-fw
 - [ ] https://github.com/hz12opensource/libresdr
+- [ ] https://github.com/lucasmellon-ops/LibreSDR
 
 # :books: References
 
