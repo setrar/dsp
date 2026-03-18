@@ -1,6 +1,84 @@
 # DSP
 
 
+A **step-by-step roadmap to go from no analog experience → mixed-signal / RF engineer at UofT**, with a path toward DFEs, GTYs, and even tapeout-level experience:
+
+---
+
+## **Mixed-Signal / RF Learning Roadmap**
+
+### **1. Foundation (Undergraduate / Self-Study)**
+
+**Goal:** Build strong analog + digital basics before tackling RF/mixed-signal.
+
+| Focus                             | Actions / Courses                     | Notes                                                     |
+| --------------------------------- | ------------------------------------- | --------------------------------------------------------- |
+| **Basic Electronics**             | Circuits 1 & 2 (ECE undergrad)        | Ohm’s law, capacitors, op-amps, BJT/MOSFET basics         |
+| **Digital Logic**                 | Digital Systems Design                | Logic gates, flip-flops, combinational & sequential logic |
+| **Signals & Systems**             | Signals & Systems, Fourier Transforms | Frequency domain, filtering, modulation basics            |
+| **Programming / MATLAB / Python** | Simulate circuits, DSP algorithms     | Useful for DFE simulations, filters, and RF signals       |
+
+---
+
+### **2. Intermediate – Analog & Mixed-Signal**
+
+**Goal:** Learn analog ICs, mixed-signal blocks, and FPGA integration.
+
+| Focus                      | Actions / Courses                                                              | Notes                                                               |
+| -------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| **Analog IC Design**       | ECE graduate-level course: *Analog and Mixed-Signal Integrated Circuit Design* | Covers op-amps, comparators, ADC/DAC design                         |
+| **VLSI Circuits**          | *VLSI Design* course                                                           | Combines digital & analog IC design                                 |
+| **Mixed-Signal FPGA Labs** | Use ZCU67, ZU15EG, or Nexys/F4PGA boards                                       | Prototype FIR filters, DDC/DUC, simple DAC/ADC interfacing          |
+| **DSP & DFEs**             | *Digital Signal Processing* course                                             | Implements filters, NCO, decimation/interpolation in FPGA or MATLAB |
+
+---
+
+### **3. Advanced – RF, Transceivers & High-Speed Digital**
+
+**Goal:** Learn DFEs, GTYs, and real-world RF hardware integration.
+
+| Focus                         | Actions / Labs                     | Notes                                                                  |
+| ----------------------------- | ---------------------------------- | ---------------------------------------------------------------------- |
+| **RFIC / RF CMOS**            | Join a professor’s RFIC lab        | Work on high-speed ADC/DAC, PLL, GTY transceivers, RF front-end        |
+| **High-Speed SerDes & GTYs**  | FPGA + Vivado labs                 | Configure GTYs, multi-gigabit links, 25G/50G Ethernet, JESD204B/C      |
+| **DFE / Baseband Processing** | Implement FIR/CIC/NCO on FPGA      | Learn digital front-end pipelines, crest factor reduction, beamforming |
+| **PCB/Analog Integration**    | Analog front-end boards with RFSoC | Experience in analog layout, matching, signal integrity                |
+
+---
+
+### **4. Expert – Tapeout / Custom Chip Design**
+
+**Goal:** Move from prototyping to designing your own hardened blocks.
+
+| Focus                      | Actions                               | Notes                                                                  |
+| -------------------------- | ------------------------------------- | ---------------------------------------------------------------------- |
+| **Open-Source PDKs**       | Sky130 / OpenROAD / OpenFPGA          | Prototype small mixed-signal blocks in CMOS                            |
+| **Custom DFE / ADC/DAC**   | Tapeout lab project / research        | Implement your own DFEs or pre-distortion blocks                       |
+| **RF System Verification** | RFSoC + lab measurement               | Learn to measure SNR, linearity, and crest factor for high-speed links |
+| **Publication / Thesis**   | Research papers on RFSoC / custom ICs | Strong portfolio for industry or further PhD work                      |
+
+---
+
+### **5. Optional Self-Study / Supplements**
+
+* **Books**:
+
+  * *RF Microelectronics* by Behzad Razavi
+  * *CMOS Analog Circuit Design* by Allen & Holberg
+* **FPGA + Mixed-Signal Labs**: Hands-on projects with ZCU67/ZU15EG boards
+* **Software tools**: MATLAB, Vivado, Cadence Virtuoso, OpenROAD, Sky130 PDK
+
+---
+
+✅ **Key Advantage**: By the end, you can:
+
+* Understand **analog/mixed-signal circuits at the transistor level**
+* Integrate **digital DFEs with analog ADC/DAC**
+* Work on **high-speed GTYs, SerDes, and RFSoC prototyping**
+* Potentially do **tapeout-level custom mixed-signal blocks**
+
+
+
 
 # References
 
