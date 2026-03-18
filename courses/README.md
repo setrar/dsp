@@ -3,6 +3,8 @@
 
 A **step-by-step roadmap to go from no analog experience → mixed-signal / RF engineer at UofT**, with a path toward DFEs, GTYs, and even tapeout-level experience:
 
+<img src='images/UofT Mixed-Signal _ RF Engineer roadmap.png' width='50%' height='50%'> <img>
+
 ---
 
 ## **Mixed-Signal / RF Learning Roadmap**
