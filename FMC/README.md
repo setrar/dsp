@@ -130,7 +130,11 @@ This is where the "language" changes completely.
 | **FPGA Hard IP** | None (uses GPIO) | **GT Transceivers (SerDes)** |
 | **FMC Requirement** | LPC is fine | Usually needs HPC |
 
+---
 
+<image src=images/FMC_PA_LVDS.png width='50%' height='50%' > </image>
+
+<image src=images/FMC_PA_JESD204.png width='50%' height='50%' > </image>
 
 ---
 
