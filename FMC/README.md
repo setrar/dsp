@@ -2,6 +2,10 @@
 
 Here is the step-by-step journey of a signal from an antenna to a digital bit.
 
+
+<image src=images/FMC_LVDS.png width='50%' height='50%' > </image>
+
+
 ---
 
 ## 1. The Analog Front End (The "Filter")
