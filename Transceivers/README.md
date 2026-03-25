@@ -1,4 +1,4 @@
-# Tranceiver Design
+# :satellite: (RF) Tranceiver Design
 
 Designing a transceiver (a device that can both transmit and receive signals) involves several steps that encompass both hardware and software aspects. Here’s a detailed guide on how to approach the design of a basic transceiver:
 
