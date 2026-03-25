@@ -237,3 +237,7 @@ Designing a transceiver (a device that can both transmit and receive signals) in
 4. **Optimize for Performance:** Focus on optimizing the signal path to minimize noise and maximize efficiency.
 
 By following these steps, you can design a functional and efficient transceiver for a wide range of applications, from amateur radio to industrial communications systems.
+
+# :books: References
+
+- [ ] [FPGA, ASIC and RFSoC in 5G Systems](https://www.allpcb.com/allelectrohub/fpga-asic-and-rfsoc-in-5g-systems) Author : Adrian February 26, 2026
