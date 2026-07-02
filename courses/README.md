@@ -1,5 +1,7 @@
 # DSP
 
+<image src=images/LatThruBand.gif width=50% height=50% > </image>
+
 
 A **step-by-step roadmap to go from no analog experience → mixed-signal / RF engineer at UofT**, with a path toward DFEs, GTYs, and even tapeout-level experience:
 
