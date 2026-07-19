@@ -1,6 +1,8 @@
 
 - [ ] [Explanation of a SDR receiver schematic?](https://www.reddit.com/r/AskElectronics/comments/jqdp8o/explanation_of_a_sdr_receiver_schematic/)
 
+<image src=images/explanation-of-a-sdr-receiver-schematic-v0-gvtstmwwb1y51.png width=50% height=50% > </image>
+
 This circuit is a **Direct Conversion Receiver front-end**, specifically using a **Tayloe Quadrature Sampling Detector (QSD)**. It is commonly used in Software Defined Radio (SDR) homebrew designs to capture Radio Frequency (RF) signals and down-convert them into In-phase (I) and Quadrature (Q) analog baseband signals, which can then be processed by a computer sound card.
 
 Here is how the main sections of the circuit work together to achieve this:
